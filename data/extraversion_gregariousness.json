@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "exa-soc-000001",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I joined the study table where most classmates were sitting."
+  },
+  {
+    "id": "exa-soc-000002",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I stayed with the project group after class and talked with several members."
+  },
+  {
+    "id": "exa-soc-000003",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "During lunch, I chose the bigger table and chatted with multiple classmates."
+  },
+  {
+    "id": "exa-soc-000004",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I mingled with students from different groups before leaving the room."
+  },
+  {
+    "id": "exa-soc-000005",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the club room, I moved to where most members gathered and talked with them."
+  },
+  {
+    "id": "exa-soc-000006",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I joined the queue with my classmates and kept a conversation going."
+  },
+  {
+    "id": "exa-soc-000007",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "After the lecture, I walked with a group of peers to the cafeteria."
+  },
+  {
+    "id": "exa-soc-000008",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I chose a seat in the middle row and spoke with several nearby students."
+  },
+  {
+    "id": "exa-soc-000009",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I joined the lab team at their bench and stayed with them during the session."
+  },
+  {
+    "id": "exa-soc-000010",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I waited with a cluster of classmates outside the classroom and talked with them."
+  },
+  {
+    "id": "exa-soc-000011",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the library, I sat at a shared table and chatted casually with others."
+  },
+  {
+    "id": "exa-soc-000012",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I joined the online breakout room and chatted with several students."
+  },
+  {
+    "id": "exa-soc-000013",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I moved from a single seat to the row where most teammates were seated."
+  },
+  {
+    "id": "exa-soc-000014",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "During the break, I stood with a larger group and exchanged updates."
+  },
+  {
+    "id": "exa-soc-000015",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Before the seminar, I chatted with multiple attendees near the entrance."
+  },
+  {
+    "id": "exa-soc-000016",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I joined two teammates at their table and stayed through the entire break."
+  },
+  {
+    "id": "exa-soc-000017",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I sat with members from different sections and spoke with each of them."
+  },
+  {
+    "id": "exa-soc-000018",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I chose to ride with classmates on the bus and talked across several stops."
+  },
+  {
+    "id": "exa-soc-000019",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "After practice, I stayed near the locker area and spoke with multiple teammates."
+  },
+  {
+    "id": "exa-soc-000020",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At orientation, I stood with the larger cohort and introduced myself to several people."
+  },
+  {
+    "id": "exa-soc-000021",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I joined a table where I knew few people and started a short conversation."
+  },
+  {
+    "id": "exa-soc-000022",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the workshop, I moved to a shared station and spoke with nearby groups."
+  },
+  {
+    "id": "exa-soc-000023",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "During office hours, I waited with other students and chatted briefly."
+  },
+  {
+    "id": "exa-soc-000024",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I stayed in the voice channel with several classmates after the meeting ended."
+  },
+  {
+    "id": "exa-soc-000025",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I joined the larger cluster in the hallway and spoke with people from different groups."
+  },
+  {
+    "id": "exa-soc-000026",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I ate lunch alone at a corner table instead of joining my classmates."
+  },
+  {
+    "id": "exa-soc-000027",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I left immediately after the lecture without talking to anyone."
+  },
+  {
+    "id": "exa-soc-000028",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "During the break, I stayed by myself and did not join any group."
+  },
+  {
+    "id": "exa-soc-000029",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I chose a seat away from the group and did not join their conversation."
+  },
+  {
+    "id": "exa-soc-000030",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I studied at a separate table and avoided the nearby study group."
+  },
+  {
+    "id": "exa-soc-000031",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "After class, I walked to the exit alone without speaking to classmates."
+  },
+  {
+    "id": "exa-soc-000032",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the club room, I sat apart and did not join the ongoing group chat."
+  },
+  {
+    "id": "exa-soc-000033",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the cafeteria line, I kept to myself and did not engage with others."
+  },
+  {
+    "id": "exa-soc-000034",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I waited outside the classroom alone instead of standing with the group."
+  },
+  {
+    "id": "exa-soc-000035",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I chose a quiet corner in the library rather than a shared table."
+  },
+  {
+    "id": "exa-soc-000036",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "During orientation, I stayed apart from the cohort and did not introduce myself."
+  },
+  {
+    "id": "exa-soc-000037",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "On the bus, I sat by myself and did not talk with classmates."
+  },
+  {
+    "id": "exa-soc-000038",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I left the online room as soon as it ended without joining any side chat."
+  },
+  {
+    "id": "exa-soc-000039",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stayed in a single seat at the back and did not approach nearby students."
+  },
+  {
+    "id": "exa-soc-000040",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoided the group table and finished my snack alone."
+  },
+  {
+    "id": "exa-soc-000041",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past a cluster of classmates and did not stop to talk."
+  },
+  {
+    "id": "exa-soc-000042",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the workshop, I remained at an empty station instead of joining others."
+  },
+  {
+    "id": "exa-soc-000043",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I muted the group voice channel and stayed out of the discussion."
+  },
+  {
+    "id": "exa-soc-000044",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I sat near the door and avoided the row where most teammates gathered."
+  },
+  {
+    "id": "exa-soc-000045",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I did not join the hallway cluster and went straight to my next class."
+  },
+  {
+    "id": "exa-soc-000046",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "During the break, I kept my seat and did not engage with nearby groups."
+  },
+  {
+    "id": "exa-soc-000047",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skipped the shared table and sat alone at a side desk."
+  },
+  {
+    "id": "exa-soc-000048",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "After practice, I left the area without talking to teammates."
+  },
+  {
+    "id": "exa-soc-000049",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the seminar, I chose a seat by myself and did not join nearby conversations."
+  },
+  {
+    "id": "exa-soc-000050",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stayed off the group chat and did not message anyone after the meeting."
+  },
+  {
+    "id": "exa-soc-000051",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the dorm lounge, I sat with several residents and talked for a while."
+  },
+  {
+    "id": "exa-soc-000052",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stayed in an empty seminar room and did not sit with classmates."
+  },
+  {
+    "id": "exa-soc-000053",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I stood with my lab partners in the hallway and spoke with them before class."
+  },
+  {
+    "id": "exa-soc-000054",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I took the stairs alone and did not join the elevator group."
+  },
+  {
+    "id": "exa-soc-000055",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the cafeteria line, I queued with classmates and kept a short conversation."
+  },
+  {
+    "id": "exa-soc-000056",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I chose a single seat and did not join any table."
+  },
+  {
+    "id": "exa-soc-000057",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I moved from an empty row to sit next to several students and spoke quietly."
+  },
+  {
+    "id": "exa-soc-000058",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "During the break, I stayed on a far bench and did not approach any group."
+  },
+  {
+    "id": "exa-soc-000059",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the bus stop, I waited with a group of classmates and exchanged updates."
+  },
+  {
+    "id": "exa-soc-000060",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I left the bus stop area to wait by myself at another corner."
+  },
+  {
+    "id": "exa-soc-000061",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I stayed at my team’s table through the whole break and talked with them."
+  },
+  {
+    "id": "exa-soc-000062",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I left the call immediately and did not join the post-meeting chat."
+  },
+  {
+    "id": "exa-soc-000063",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I crossed to another section’s table and introduced myself to a few students."
+  },
+  {
+    "id": "exa-soc-000064",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I queued at the printer alone and did not talk with anyone nearby."
+  },
+  {
+    "id": "exa-soc-000065",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Before the lecture, I stood near the door with a cluster of peers and spoke with them."
+  },
+  {
+    "id": "exa-soc-000066",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I remained at an individual carrel instead of using the communal desks."
+  },
+  {
+    "id": "exa-soc-000067",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Between classes, I walked over to two groups and talked with students in each."
+  },
+  {
+    "id": "exa-soc-000068",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "After practice, I exited the gym without speaking to teammates."
+  },
+  {
+    "id": "exa-soc-000069",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the elevator, I spoke briefly with several classmates going to the same floor."
+  },
+  {
+    "id": "exa-soc-000070",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the hallway cluster without stopping or joining them."
+  },
+  {
+    "id": "exa-soc-000071",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I sat in the courtyard where most students gathered and talked with nearby groups."
+  },
+  {
+    "id": "exa-soc-000072",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stood by the classroom door and did not join the pre-lecture group."
+  },
+  {
+    "id": "exa-soc-000073",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I logged into the optional Q&A room and stayed with the group conversation."
+  },
+  {
+    "id": "exa-soc-000074",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I sat alone at the edge of the courtyard rather than near the crowd."
+  },
+  {
+    "id": "exa-soc-000075",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "By the printer, I waited with two students and chatted briefly."
+  },
+  {
+    "id": "exa-soc-000076",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skipped the dorm lounge and stayed in my room during the evening."
+  },
+  {
+    "id": "exa-soc-000077",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the lab queue, I stood with others and chatted briefly while waiting."
+  },
+  {
+    "id": "exa-soc-000078",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I left the bookstore line without chatting with anyone."
+  },
+  {
+    "id": "exa-soc-000079",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I chose a shared computer station and chatted with nearby students."
+  },
+  {
+    "id": "exa-soc-000080",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I waited outside the lab and did not engage with others in line."
+  },
+  {
+    "id": "exa-soc-000081",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the dorm kitchen, I stayed while several roommates cooked and talked with them."
+  },
+  {
+    "id": "exa-soc-000082",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "On the ride, I chose a window seat by myself and did not chat with classmates."
+  },
+  {
+    "id": "exa-soc-000083",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the rec center, I sat on the bleachers with teammates and talked between drills."
+  },
+  {
+    "id": "exa-soc-000084",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "After class, I stayed off the messaging thread and did not reply to anyone."
+  },
+  {
+    "id": "exa-soc-000085",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I walked to the campus bookstore with a group and spoke along the way."
+  },
+  {
+    "id": "exa-soc-000086",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the library, I kept to a quiet stack instead of using the group table."
+  },
+  {
+    "id": "exa-soc-000087",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I chose a bench with three classmates and made small talk."
+  },
+  {
+    "id": "exa-soc-000088",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "During the break, I stepped outside and did not join any group."
+  },
+  {
+    "id": "exa-soc-000089",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the campus tour, I stayed close to peers in my sub-group and spoke with them."
+  },
+  {
+    "id": "exa-soc-000090",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I sat at the back and stayed apart from everyone."
+  },
+  {
+    "id": "exa-soc-000091",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the reading room, I chose a communal table and exchanged brief comments with others."
+  },
+  {
+    "id": "exa-soc-000092",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I sat alone by the vending machines and didn't chat with classmates."
+  },
+  {
+    "id": "exa-soc-000093",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I sat in the back row where many students gathered and spoke with nearby peers."
+  },
+  {
+    "id": "exa-soc-000094",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I remained in a corridor corner and did not join nearby pairs."
+  },
+  {
+    "id": "exa-soc-000095",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Outside the office, I waited with several students and made small talk."
+  },
+  {
+    "id": "exa-soc-000096",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I left immediately without stopping to talk to anyone."
+  },
+  {
+    "id": "exa-soc-000097",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the canteen window, I stood with peers and talked while waiting."
+  },
+  {
+    "id": "exa-soc-000098",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skipped the optional Q&A room and did not talk with classmates afterward."
+  },
+  {
+    "id": "exa-soc-000099",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I waited for the elevator with a group and made brief conversation."
+  },
+  {
+    "id": "exa-soc-000100",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I waited for the elevator alone and let the group take the first car."
+  },
+  {
+    "id": "exa-soc-000101",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the campus cafe, I joined a table with several classmates."
+  },
+  {
+    "id": "exa-soc-000102",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I chose a single booth and ate alone away from any group."
+  },
+  {
+    "id": "exa-soc-000103",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Between classes, I walked with a group across campus and spoke with them."
+  },
+  {
+    "id": "exa-soc-000104",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I crossed the quad by myself without walking with peers."
+  },
+  {
+    "id": "exa-soc-000105",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the lounge, I moved to the common area and talked with people from different groups."
+  },
+  {
+    "id": "exa-soc-000106",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I remained at a corner seat and did not join any table."
+  },
+  {
+    "id": "exa-soc-000107",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "After the event, I queued with peers and chatted while waiting."
+  },
+  {
+    "id": "exa-soc-000108",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I left the venue alone without stopping to talk."
+  },
+  {
+    "id": "exa-soc-000109",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the bleachers, I sat near teammates and talked between drills."
+  },
+  {
+    "id": "exa-soc-000110",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I sat apart from the team and did not join their conversation."
+  },
+  {
+    "id": "exa-soc-000111",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the cafe booth, I joined a shared seat and exchanged brief comments."
+  },
+  {
+    "id": "exa-soc-000112",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I used an individual carrel and avoided the shared desks."
+  },
+  {
+    "id": "exa-soc-000113",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Outside the hall, I waited with other attendees and spoke with them."
+  },
+  {
+    "id": "exa-soc-000114",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I waited alone and did not stand with others."
+  },
+  {
+    "id": "exa-soc-000115",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the lab, I sat in the shared desk row and talked with nearby students."
+  },
+  {
+    "id": "exa-soc-000116",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I sat at a single station and did not sit with others."
+  },
+  {
+    "id": "exa-soc-000117",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "For the review session, I chose the group study room and stayed with others."
+  },
+  {
+    "id": "exa-soc-000118",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the library, I stayed in a quiet aisle and did not approach nearby groups."
+  },
+  {
+    "id": "exa-soc-000119",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I went to the canteen with classmates and talked while in line."
+  },
+  {
+    "id": "exa-soc-000120",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I picked a table by myself and avoided the line chat."
+  },
+  {
+    "id": "exa-soc-000121",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the library lobby, I sat at a communal table and spoke with two students."
+  },
+  {
+    "id": "exa-soc-000122",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I sat near the exit and did not speak with anyone."
+  },
+  {
+    "id": "exa-soc-000123",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the shuttle, I took a seat next to classmates and talked on the ride."
+  },
+  {
+    "id": "exa-soc-000124",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stood at the shuttle stop alone and did not join the cluster."
+  },
+  {
+    "id": "exa-soc-000125",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Before the talk, I stood with the larger circle and spoke with them."
+  },
+  {
+    "id": "exa-soc-000126",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I left the lobby early and skipped the hallway conversation."
+  },
+  {
+    "id": "exa-soc-000127",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I joined a different section’s bench and introduced myself briefly."
+  },
+  {
+    "id": "exa-soc-000128",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I remained in my seat and did not move toward the nearby group."
+  },
+  {
+    "id": "exa-soc-000129",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the lounge, I stayed with my team and made small talk."
+  },
+  {
+    "id": "exa-soc-000130",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I waited in the lounge without joining any cluster."
+  },
+  {
+    "id": "exa-soc-000131",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I sat in the courtyard near the main group and spoke with nearby students."
+  },
+  {
+    "id": "exa-soc-000132",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I chose a bench away from the crowd and stayed by myself."
+  },
+  {
+    "id": "exa-soc-000133",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the corridor, I joined the group and made small talk."
+  },
+  {
+    "id": "exa-soc-000134",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I lingered by the stairwell and did not talk with passing students."
+  },
+  {
+    "id": "exa-soc-000135",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Inside the classroom, I waited with several peers and talked quietly."
+  },
+  {
+    "id": "exa-soc-000136",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stood at the back of the room alone and did not join nearby pairs."
+  },
+  {
+    "id": "exa-soc-000137",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the bus, I picked the seat beside classmates and kept a short conversation."
+  },
+  {
+    "id": "exa-soc-000138",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I used the aisle seat by myself and avoided conversation."
+  },
+  {
+    "id": "exa-soc-000139",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the group voice channel, I stayed and talked with multiple teammates."
+  },
+  {
+    "id": "exa-soc-000140",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I left the voice channel immediately without joining any side rooms."
+  },
+  {
+    "id": "exa-soc-000141",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At lunch, I chose the open table with other interns and spoke with them."
+  },
+  {
+    "id": "exa-soc-000142",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I ate at a counter seat alone rather than the shared table."
+  },
+  {
+    "id": "exa-soc-000143",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I walked to the station with peers and talked along the way."
+  },
+  {
+    "id": "exa-soc-000144",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stood near the hallway and did not join my classmates."
+  },
+  {
+    "id": "exa-soc-000145",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Near the lobby, I stood with students from two labs and chatted."
+  },
+  {
+    "id": "exa-soc-000146",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I waited outside the lab by myself and did not speak with others."
+  },
+  {
+    "id": "exa-soc-000147",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the shared whiteboard, I joined nearby groups and spoke with them."
+  },
+  {
+    "id": "exa-soc-000148",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed the lounge without stopping and didn't chat with anyone."
+  },
+  {
+    "id": "exa-soc-000149",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the dorm lobby, I waited with several classmates and chatted."
+  },
+  {
+    "id": "exa-soc-000150",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the corridor group without stopping or speaking."
+  },
+  {
+    "id": "exa-soc-000151",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the seminar foyer, I stood with a group and exchanged brief comments."
+  },
+  {
+    "id": "exa-soc-000152",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I waited in the foyer by myself and did not join any cluster."
+  },
+  {
+    "id": "exa-soc-000153",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "During lunch, I chose the long table and spoke with several classmates."
+  },
+  {
+    "id": "exa-soc-000154",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I ate at a side counter alone instead of joining a table."
+  },
+  {
+    "id": "exa-soc-000155",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Before lab, I waited with peers outside the door and talked for a moment."
+  },
+  {
+    "id": "exa-soc-000156",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stood apart from the group outside the lab and stayed quiet."
+  },
+  {
+    "id": "exa-soc-000157",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the library atrium, I took a seat at a shared table and spoke with others."
+  },
+  {
+    "id": "exa-soc-000158",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I selected an isolated carrel and avoided the shared tables."
+  },
+  {
+    "id": "exa-soc-000159",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the platform, I waited near classmates and talked until the train arrived."
+  },
+  {
+    "id": "exa-soc-000160",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stood at the far end of the platform and did not speak with anyone."
+  },
+  {
+    "id": "exa-soc-000161",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "After class, I joined two groups in the hallway and spoke briefly with each."
+  },
+  {
+    "id": "exa-soc-000162",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I went straight to the stairs without stopping to talk to classmates."
+  },
+  {
+    "id": "exa-soc-000163",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At orientation, I stayed with the larger cohort and introduced myself to a few people."
+  },
+  {
+    "id": "exa-soc-000164",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I kept to the edge of the room and did not introduce myself."
+  },
+  {
+    "id": "exa-soc-000165",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the workshop, I moved to a shared station and spoke with nearby pairs."
+  },
+  {
+    "id": "exa-soc-000166",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I used a corner station and did not approach any pairs."
+  },
+  {
+    "id": "exa-soc-000167",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the printer queue, I waited with classmates and exchanged short remarks."
+  },
+  {
+    "id": "exa-soc-000168",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stood behind the queue quietly and avoided conversation."
+  },
+  {
+    "id": "exa-soc-000169",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "During the meeting break, I stayed with a small group in the corridor and talked."
+  },
+  {
+    "id": "exa-soc-000170",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "During the break, I remained at my seat and did not join corridor groups."
+  },
+  {
+    "id": "exa-soc-000171",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the shuttle, I chose a seat beside peers and chatted during the ride."
+  },
+  {
+    "id": "exa-soc-000172",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I sat by the window alone and did not talk during the shuttle ride."
+  },
+  {
+    "id": "exa-soc-000173",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the dorm kitchen, I prepared food while talking with several roommates."
+  },
+  {
+    "id": "exa-soc-000174",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I cooked in the dorm kitchen and kept to myself without chatting."
+  },
+  {
+    "id": "exa-soc-000175",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Before the exam, I waited with classmates outside and made small talk."
+  },
+  {
+    "id": "exa-soc-000176",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I waited alone near a pillar and did not join the group outside."
+  },
+  {
+    "id": "exa-soc-000177",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the breakout room, I stayed with the group discussion until the session ended."
+  },
+  {
+    "id": "exa-soc-000178",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skipped the breakout room and remained in the main call without talking."
+  },
+  {
+    "id": "exa-soc-000179",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the canteen window, I stood with classmates and spoke while waiting."
+  },
+  {
+    "id": "exa-soc-000180",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed the canteen line without stopping to chat with anyone."
+  },
+  {
+    "id": "exa-soc-000181",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "After practice, I sat with teammates near the lockers and talked briefly."
+  },
+  {
+    "id": "exa-soc-000182",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "After practice, I left the locker area without speaking to anyone."
+  },
+  {
+    "id": "exa-soc-000183",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the courtyard stairs, I joined a group and chatted briefly."
+  },
+  {
+    "id": "exa-soc-000184",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I crossed the courtyard and sat alone on a side bench."
+  },
+  {
+    "id": "exa-soc-000185",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the reading room, I chose a communal desk and spoke with nearby students."
+  },
+  {
+    "id": "exa-soc-000186",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I used a single-seat booth and did not approach the communal desks."
+  },
+  {
+    "id": "exa-soc-000187",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the elevators, I waited with a group and exchanged brief remarks."
+  },
+  {
+    "id": "exa-soc-000188",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the elevators, I waited alone and didn't chat with anyone."
+  },
+  {
+    "id": "exa-soc-000189",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "During office hours, I sat with other students and chatted briefly."
+  },
+  {
+    "id": "exa-soc-000190",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I waited outside office hours and did not sit with the students inside."
+  },
+  {
+    "id": "exa-soc-000191",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the rec center, I rested on the bench with teammates and talked between sets."
+  },
+  {
+    "id": "exa-soc-000192",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I used a side bench and did not sit near teammates."
+  },
+  {
+    "id": "exa-soc-000193",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "After the talk, I stayed in the lobby with attendees and spoke for a minute."
+  },
+  {
+    "id": "exa-soc-000194",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "After the talk, I left immediately without stopping to chat with anyone."
+  },
+  {
+    "id": "exa-soc-000195",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the group call, I remained in the voice channel with several classmates."
+  },
+  {
+    "id": "exa-soc-000196",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I left the call at once and did not stay for post-call chat."
+  },
+  {
+    "id": "exa-soc-000197",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "By the bike racks, I stood with peers and chatted for a moment."
+  },
+  {
+    "id": "exa-soc-000198",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I unlocked my bike alone and left without talking to peers."
+  },
+  {
+    "id": "exa-soc-000199",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the study lounge, I joined a table with students from another course and spoke briefly."
+  },
+  {
+    "id": "exa-soc-000200",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stayed in a quiet corner of the lounge and did not join any table."
+  },
+  {
+    "id": "exa-soc-000201",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the poster session, I stood with a group of attendees and exchanged brief remarks."
+  },
+  {
+    "id": "exa-soc-000202",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I viewed the posters alone and did not join any cluster of attendees."
+  },
+  {
+    "id": "exa-soc-000203",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Before registration opened, I waited in line with classmates and talked quietly."
+  },
+  {
+    "id": "exa-soc-000204",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I waited off to the side by myself instead of lining up with classmates."
+  },
+  {
+    "id": "exa-soc-000205",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "During the club fair, I walked with two peers and spoke with several booths together."
+  },
+  {
+    "id": "exa-soc-000206",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the club fair, I moved alone between booths and did not join any group."
+  },
+  {
+    "id": "exa-soc-000207",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the cafeteria, I shared a four-seat table with classmates and chatted briefly."
+  },
+  {
+    "id": "exa-soc-000208",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I chose a stand-up counter by myself instead of sharing a table."
+  },
+  {
+    "id": "exa-soc-000209",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the field, I sat near teammates on the sideline and talked between drills."
+  },
+  {
+    "id": "exa-soc-000210",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I sat at the far end of the sideline and did not sit near teammates."
+  },
+  {
+    "id": "exa-soc-000211",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the bookstore queue, I waited with a group of students and made small talk."
+  },
+  {
+    "id": "exa-soc-000212",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stood in a separate checkout line and did not speak with students."
+  },
+  {
+    "id": "exa-soc-000213",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Outside the dorm, I joined a cluster by the entrance and spoke for a minute."
+  },
+  {
+    "id": "exa-soc-000214",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I waited by the dorm entrance alone and did not approach the cluster."
+  },
+  {
+    "id": "exa-soc-000215",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the computer lab, I chose a workstation near several classmates and talked briefly."
+  },
+  {
+    "id": "exa-soc-000216",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the computer lab, I used a terminal in the corner and kept to myself."
+  },
+  {
+    "id": "exa-soc-000217",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the coffee machine, I waited with peers and chatted until it finished brewing."
+  },
+  {
+    "id": "exa-soc-000218",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stood alone at another coffee station and did not chat."
+  },
+  {
+    "id": "exa-soc-000219",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "After the lab briefing, I stayed with a few classmates in the hallway and talked."
+  },
+  {
+    "id": "exa-soc-000220",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "After the briefing, I went straight to the stairwell without speaking to anyone."
+  },
+  {
+    "id": "exa-soc-000221",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the tram, I stood near classmates and exchanged short comments about stops."
+  },
+  {
+    "id": "exa-soc-000222",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "On the tram, I stood by the door alone and did not talk with classmates."
+  },
+  {
+    "id": "exa-soc-000223",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Before the exam, I joined the line with my section and spoke in a low voice."
+  },
+  {
+    "id": "exa-soc-000224",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Before the exam, I stood apart from the line and did not speak to the section."
+  },
+  {
+    "id": "exa-soc-000225",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "During the poster changeover, I waited with nearby presenters and chatted briefly."
+  },
+  {
+    "id": "exa-soc-000226",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "During changeover, I waited by my board alone and avoided nearby presenters."
+  },
+  {
+    "id": "exa-soc-000227",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At lunch outdoors, I chose a picnic table with students from another course."
+  },
+  {
+    "id": "exa-soc-000228",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Outdoors, I sat on a bench by myself instead of using a picnic table."
+  },
+  {
+    "id": "exa-soc-000229",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the queue for badges, I stood with my team and talked while waiting."
+  },
+  {
+    "id": "exa-soc-000230",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "For badges, I waited at a quieter counter by myself."
+  },
+  {
+    "id": "exa-soc-000231",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the study pods, I took a pod already used by several classmates and spoke with them."
+  },
+  {
+    "id": "exa-soc-000232",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I booked a single-user pod and did not join the shared pods."
+  },
+  {
+    "id": "exa-soc-000233",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the noticeboard, I stood with nearby students and chatted briefly."
+  },
+  {
+    "id": "exa-soc-000234",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I checked the noticeboard alone and left without speaking to anyone."
+  },
+  {
+    "id": "exa-soc-000235",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the escalator, I rode with classmates and exchanged brief comments about rooms."
+  },
+  {
+    "id": "exa-soc-000236",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I waited for an empty escalator step and rode without talking to anyone."
+  },
+  {
+    "id": "exa-soc-000237",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the help desk, I stood with peers and spoke while our numbers were called."
+  },
+  {
+    "id": "exa-soc-000238",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I waited for my number away from the group and did not talk to peers."
+  },
+  {
+    "id": "exa-soc-000239",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the common room, I joined a sofa where several students sat and talked briefly."
+  },
+  {
+    "id": "exa-soc-000240",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the common room, I picked a single chair by the window and stayed alone."
+  },
+  {
+    "id": "exa-soc-000241",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the water fountain, I waited with classmates and exchanged short remarks."
+  },
+  {
+    "id": "exa-soc-000242",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I used a separate fountain and did not stand with classmates."
+  },
+  {
+    "id": "exa-soc-000243",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "After the tutorial, I walked with a pair of students toward the library and spoke."
+  },
+  {
+    "id": "exa-soc-000244",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "After the tutorial, I walked alone to the library without joining anyone."
+  },
+  {
+    "id": "exa-soc-000245",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the courtyard lawn, I sat with a small group and talked for a short time."
+  },
+  {
+    "id": "exa-soc-000246",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I used a patch of lawn by myself and did not sit near any group."
+  },
+  {
+    "id": "exa-soc-000247",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Waiting for the advisor, I sat with other students and chatted briefly."
+  },
+  {
+    "id": "exa-soc-000248",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Waiting for the advisor, I stood apart and did not speak with students."
+  },
+  {
+    "id": "exa-soc-000249",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the shuttle bay, I joined the line with my cohort and chatted until boarding."
+  },
+  {
+    "id": "exa-soc-000250",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the shuttle bay, I waited alone and boarded without speaking to anyone."
+  },
+  {
+    "id": "exa-soc-000251",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the campus store, I queued with classmates and chatted while we waited."
+  },
+  {
+    "id": "exa-soc-000252",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the campus store, I stood in a separate line and did not speak to anyone."
+  },
+  {
+    "id": "exa-soc-000253",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Outside the lecture hall, I joined a cluster of students and exchanged brief remarks."
+  },
+  {
+    "id": "exa-soc-000254",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Outside the lecture hall, I waited by myself near the stair rail."
+  },
+  {
+    "id": "exa-soc-000255",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the makerspace, I chose a bench where several peers worked and spoke with them."
+  },
+  {
+    "id": "exa-soc-000256",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the makerspace, I used a corner bench and did not join nearby groups."
+  },
+  {
+    "id": "exa-soc-000257",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "During check-in, I stood with my cohort and kept a short conversation."
+  },
+  {
+    "id": "exa-soc-000258",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "During check-in, I waited near the wall alone and avoided the cohort line."
+  },
+  {
+    "id": "exa-soc-000259",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "By the copy room, I waited with two classmates and talked until my turn."
+  },
+  {
+    "id": "exa-soc-000260",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "By the copy room, I stood apart and did not engage with anyone."
+  },
+  {
+    "id": "exa-soc-000261",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the rooftop garden, I sat with a small group and spoke for a moment."
+  },
+  {
+    "id": "exa-soc-000262",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "On the rooftop garden, I chose a distant bench and stayed by myself."
+  },
+  {
+    "id": "exa-soc-000263",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Near the mailroom, I waited with classmates and exchanged short comments."
+  },
+  {
+    "id": "exa-soc-000264",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Near the mailroom, I stood in the corner and did not join the group."
+  },
+  {
+    "id": "exa-soc-000265",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "By the courtyard fountain, I joined a circle of students and talked briefly."
+  },
+  {
+    "id": "exa-soc-000266",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "By the courtyard fountain, I sat alone on the edge and did not approach the circle."
+  },
+  {
+    "id": "exa-soc-000267",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the art studio, I worked at a shared table and spoke with nearby students."
+  },
+  {
+    "id": "exa-soc-000268",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the art studio, I selected a solo easel and avoided the shared table."
+  },
+  {
+    "id": "exa-soc-000269",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the language lab, I took a station beside classmates and talked during setup."
+  },
+  {
+    "id": "exa-soc-000270",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the language lab, I chose a station at the end row and stayed silent."
+  },
+  {
+    "id": "exa-soc-000271",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the reading circle, I sat with the group and exchanged brief comments."
+  },
+  {
+    "id": "exa-soc-000272",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the reading circle, I remained on a side chair and did not join the group."
+  },
+  {
+    "id": "exa-soc-000273",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the multipurpose room, I joined the middle row where most students sat."
+  },
+  {
+    "id": "exa-soc-000274",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the multipurpose room, I chose a seat by the door and stayed alone."
+  },
+  {
+    "id": "exa-soc-000275",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "By the bulletin board, I chatted briefly with a few nearby students."
+  },
+  {
+    "id": "exa-soc-000276",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "By the bulletin board, I checked the notice alone and walked away."
+  },
+  {
+    "id": "exa-soc-000277",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the coffee cart, I queued with peers and spoke while waiting."
+  },
+  {
+    "id": "exa-soc-000278",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the coffee cart, I waited off to the side and avoided conversation."
+  },
+  {
+    "id": "exa-soc-000279",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the bookstore seating area, I sat with students and talked for a short time."
+  },
+  {
+    "id": "exa-soc-000280",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the bookstore seating area, I chose a single chair and did not join others."
+  },
+  {
+    "id": "exa-soc-000281",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the campus clinic lobby, I waited with classmates and exchanged brief remarks."
+  },
+  {
+    "id": "exa-soc-000282",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the campus clinic lobby, I sat on a distant chair and kept to myself."
+  },
+  {
+    "id": "exa-soc-000283",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the co-working area, I selected a shared table and spoke with nearby groups."
+  },
+  {
+    "id": "exa-soc-000284",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the co-working area, I used a single desk and did not approach others."
+  },
+  {
+    "id": "exa-soc-000285",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the bike-share dock, I waited with peers and talked until bikes were free."
+  },
+  {
+    "id": "exa-soc-000286",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the bike-share dock, I stood apart and did not talk with peers."
+  },
+  {
+    "id": "exa-soc-000287",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "During a shuttle transfer, I stayed with classmates and spoke near the gate."
+  },
+  {
+    "id": "exa-soc-000288",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "During a shuttle transfer, I waited by a pillar and did not join classmates."
+  },
+  {
+    "id": "exa-soc-000289",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "By the coat rack, I stood with a group and exchanged short comments."
+  },
+  {
+    "id": "exa-soc-000290",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "By the coat rack, I finished quietly and left without speaking."
+  },
+  {
+    "id": "exa-soc-000291",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the check-out gates, I waited beside classmates and talked briefly."
+  },
+  {
+    "id": "exa-soc-000292",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the check-out gates, I stood alone and did not speak to classmates."
+  },
+  {
+    "id": "exa-soc-000293",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Near the stadium entrance, I joined a line with peers and chatted until entry."
+  },
+  {
+    "id": "exa-soc-000294",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Near the stadium entrance, I waited outside the line and kept to myself."
+  },
+  {
+    "id": "exa-soc-000295",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "For the cinema club, I queued with students and exchanged short remarks."
+  },
+  {
+    "id": "exa-soc-000296",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "For the cinema club, I stood near the poster alone and did not join the line."
+  },
+  {
+    "id": "exa-soc-000297",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At open day, I walked with a small group between rooms and spoke along the way."
+  },
+  {
+    "id": "exa-soc-000298",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At open day, I moved between rooms by myself and avoided nearby groups."
+  },
+  {
+    "id": "exa-soc-000299",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the info desk line, I waited with classmates and talked until called."
+  },
+  {
+    "id": "exa-soc-000300",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the info desk line, I waited away from classmates and did not talk."
+  },
+  {
+    "id": "exa-soc-000301",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the campus green, I sat with several classmates under a tree and talked briefly."
+  },
+  {
+    "id": "exa-soc-000302",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I sat alone on the stairs away from any groups."
+  },
+  {
+    "id": "exa-soc-000303",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At security screening, I waited with a group of students and exchanged short remarks."
+  },
+  {
+    "id": "exa-soc-000304",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I used a side gate by myself instead of waiting with the group."
+  },
+  {
+    "id": "exa-soc-000305",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "For registration, I queued with peers at the kiosk and spoke while we waited."
+  },
+  {
+    "id": "exa-soc-000306",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "For registration, I used a distant kiosk alone and left without talking."
+  },
+  {
+    "id": "exa-soc-000307",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At equipment checkout, I stood with lab partners and exchanged brief comments."
+  },
+  {
+    "id": "exa-soc-000308",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At equipment checkout, I waited apart and did not stand with lab mates."
+  },
+  {
+    "id": "exa-soc-000309",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the microwave line, I waited with students and chatted until my turn."
+  },
+  {
+    "id": "exa-soc-000310",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I used an empty microwave away from the line and kept to myself."
+  },
+  {
+    "id": "exa-soc-000311",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the charging station, I shared a table with classmates and spoke briefly."
+  },
+  {
+    "id": "exa-soc-000312",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I plugged into a wall outlet by myself instead of the shared station."
+  },
+  {
+    "id": "exa-soc-000313",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I rode the elevator with classmates and made brief conversation."
+  },
+  {
+    "id": "exa-soc-000314",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I waited for the next empty elevator car and rode alone."
+  },
+  {
+    "id": "exa-soc-000315",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the seminar hall, I sat among attendees and spoke with nearby students."
+  },
+  {
+    "id": "exa-soc-000316",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the seminar hall, I took a back corner seat and stayed by myself."
+  },
+  {
+    "id": "exa-soc-000317",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the makerspace queue, I waited with peers and chatted briefly."
+  },
+  {
+    "id": "exa-soc-000318",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the waiting group at the makerspace without stopping."
+  },
+  {
+    "id": "exa-soc-000319",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At lunch, I joined a table of exchange students and introduced my name."
+  },
+  {
+    "id": "exa-soc-000320",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At lunch, I sat by a window alone instead of joining the exchange students."
+  },
+  {
+    "id": "exa-soc-000321",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "By the water cooler, I waited with classmates and talked for a moment."
+  },
+  {
+    "id": "exa-soc-000322",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I filled my bottle at another fountain by myself."
+  },
+  {
+    "id": "exa-soc-000323",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the hallway, I joined a circle and compared room numbers briefly."
+  },
+  {
+    "id": "exa-soc-000324",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I checked my room number alone and walked off without stopping."
+  },
+  {
+    "id": "exa-soc-000325",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the condiment station, I talked with classmates while we finished trays."
+  },
+  {
+    "id": "exa-soc-000326",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I used a side condiment station alone and left without chatting."
+  },
+  {
+    "id": "exa-soc-000327",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the shuttle, I sat in the rear row with peers and spoke during the ride."
+  },
+  {
+    "id": "exa-soc-000328",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "On the shuttle, I stood near the front alone and did not talk."
+  },
+  {
+    "id": "exa-soc-000329",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "For wristbands, I queued with my cohort and chatted until entry."
+  },
+  {
+    "id": "exa-soc-000330",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "For wristbands, I waited off to one side and did not join the cohort line."
+  },
+  {
+    "id": "exa-soc-000331",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In recitation, I chose the group table and stayed with classmates through the break."
+  },
+  {
+    "id": "exa-soc-000332",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In recitation, I remained at a solo desk and did not join the group table."
+  },
+  {
+    "id": "exa-soc-000333",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the balcony, I stood with several students and exchanged brief comments."
+  },
+  {
+    "id": "exa-soc-000334",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Near the stairwell, I stood alone and did not join nearby students."
+  },
+  {
+    "id": "exa-soc-000335",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the train, I sat in the same car as classmates and talked for two stops."
+  },
+  {
+    "id": "exa-soc-000336",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "On the train, I sat apart from classmates and rode without talking."
+  },
+  {
+    "id": "exa-soc-000337",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the photo booth, I waited with peers and spoke until my number was called."
+  },
+  {
+    "id": "exa-soc-000338",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the photo booth, I waited apart and left without speaking."
+  },
+  {
+    "id": "exa-soc-000339",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "By the lockers, I waited with students and exchanged brief remarks."
+  },
+  {
+    "id": "exa-soc-000340",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "By the lockers, I stood apart from others and left without talking."
+  },
+  {
+    "id": "exa-soc-000341",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the lawn, I joined a picnic blanket with classmates and spoke for a moment."
+  },
+  {
+    "id": "exa-soc-000342",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "On the lawn, I sat on a patch of grass by myself away from groups."
+  },
+  {
+    "id": "exa-soc-000343",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the crosswalk in the rain, I stood under a shared umbrella with peers and talked."
+  },
+  {
+    "id": "exa-soc-000344",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the crosswalk, I waited under an awning alone and did not join the group."
+  },
+  {
+    "id": "exa-soc-000345",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "For trays, I joined the cafeteria line with classmates and chatted briefly."
+  },
+  {
+    "id": "exa-soc-000346",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "For trays, I stood by the wall and stayed silent."
+  },
+  {
+    "id": "exa-soc-000347",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the auditorium, I chose a row already occupied and spoke with nearby attendees."
+  },
+  {
+    "id": "exa-soc-000348",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the auditorium, I selected a single aisle chair and remained alone."
+  },
+  {
+    "id": "exa-soc-000349",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "After class, I walked to the parking lot with classmates and spoke on the way."
+  },
+  {
+    "id": "exa-soc-000350",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "After class, I walked to the parking lot alone without joining anyone."
+  },
+  {
+    "id": "exa-soc-000351",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the ticket counter, I stood with classmates in the line and exchanged brief remarks."
+  },
+  {
+    "id": "exa-soc-000352",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the ticket counter, I waited off to the side alone and did not join the line group."
+  },
+  {
+    "id": "exa-soc-000353",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Outside the lab, I stood with a few peers and spoke until the door opened."
+  },
+  {
+    "id": "exa-soc-000354",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Outside the lab, I waited by the stairwell alone without speaking to anyone."
+  },
+  {
+    "id": "exa-soc-000355",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "During lunch, I chose a shared high-top with several students and talked briefly."
+  },
+  {
+    "id": "exa-soc-000356",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "During lunch, I used a narrow counter by myself instead of a shared table."
+  },
+  {
+    "id": "exa-soc-000357",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the hallway, I joined a small group and chatted briefly."
+  },
+  {
+    "id": "exa-soc-000358",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the hallway, I walked past the cluster and did not stop to talk."
+  },
+  {
+    "id": "exa-soc-000359",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the gym lobby, I sat near teammates and spoke between sets."
+  },
+  {
+    "id": "exa-soc-000360",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the gym lobby, I waited by the door alone and did not sit near teammates."
+  },
+  {
+    "id": "exa-soc-000361",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Before the seminar, I stood with attendees near the entrance and exchanged short comments."
+  },
+  {
+    "id": "exa-soc-000362",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Before the seminar, I waited near a pillar alone and avoided the entrance group."
+  },
+  {
+    "id": "exa-soc-000363",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the tram platform, I waited with classmates and spoke about the next stop."
+  },
+  {
+    "id": "exa-soc-000364",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "On the tram platform, I stood at the far end alone and did not speak to classmates."
+  },
+  {
+    "id": "exa-soc-000365",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the printer, I queued behind two students and made brief conversation."
+  },
+  {
+    "id": "exa-soc-000366",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the printer, I stayed back from the line and did not chat."
+  },
+  {
+    "id": "exa-soc-000367",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the steps outside, I sat with a small group and talked for a short time."
+  },
+  {
+    "id": "exa-soc-000368",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "On the steps outside, I chose a spot by myself and did not approach any group."
+  },
+  {
+    "id": "exa-soc-000369",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the studio, I took a station among several classmates and spoke during setup."
+  },
+  {
+    "id": "exa-soc-000370",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the studio, I took a station at the end and stayed silent."
+  },
+  {
+    "id": "exa-soc-000371",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "After the lecture, I walked with peers toward the library and spoke briefly."
+  },
+  {
+    "id": "exa-soc-000372",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "After the lecture, I headed to the library alone without talking to peers."
+  },
+  {
+    "id": "exa-soc-000373",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Near the vending machines, I stood with two students and exchanged short remarks."
+  },
+  {
+    "id": "exa-soc-000374",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Near the vending machines, I waited by myself and did not engage with anyone."
+  },
+  {
+    "id": "exa-soc-000375",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the coat check, I stood in the line with classmates and talked quietly."
+  },
+  {
+    "id": "exa-soc-000376",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the coat check, I waited near the wall alone and avoided the line group."
+  },
+  {
+    "id": "exa-soc-000377",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "During the tutorial break, I stayed with a group in the corridor and talked."
+  },
+  {
+    "id": "exa-soc-000378",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "During the tutorial break, I remained at my desk and did not join corridor groups."
+  },
+  {
+    "id": "exa-soc-000379",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the café queue, I waited with classmates and kept a short conversation."
+  },
+  {
+    "id": "exa-soc-000380",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the café, I ordered at a side register and left without talking to classmates."
+  },
+  {
+    "id": "exa-soc-000381",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the shuttle platform, I joined a small cluster and spoke until boarding."
+  },
+  {
+    "id": "exa-soc-000382",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "On the shuttle platform, I stood by a column alone and boarded without speaking."
+  },
+  {
+    "id": "exa-soc-000383",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the courtyard table, I sat with students from another class and talked briefly."
+  },
+  {
+    "id": "exa-soc-000384",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the courtyard, I chose a bench away from others and stayed by myself."
+  },
+  {
+    "id": "exa-soc-000385",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Before the workshop, I waited with attendees near the sign-in desk and spoke."
+  },
+  {
+    "id": "exa-soc-000386",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Before the workshop, I waited outside the room alone and did not join attendees."
+  },
+  {
+    "id": "exa-soc-000387",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the charging bar, I shared an outlet with classmates and exchanged short comments."
+  },
+  {
+    "id": "exa-soc-000388",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the charging bar, I used a wall outlet alone and did not stand with classmates."
+  },
+  {
+    "id": "exa-soc-000389",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "During the poster hour, I stood with nearby presenters and spoke for a minute."
+  },
+  {
+    "id": "exa-soc-000390",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "During the poster hour, I stayed by my board alone and avoided nearby presenters."
+  },
+  {
+    "id": "exa-soc-000391",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the residence lounge, I sat with several residents and talked for a short time."
+  },
+  {
+    "id": "exa-soc-000392",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the residence lounge, I used a single chair near the window and stayed alone."
+  },
+  {
+    "id": "exa-soc-000393",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "By the help kiosk, I waited with classmates and exchanged brief remarks."
+  },
+  {
+    "id": "exa-soc-000394",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "By the help kiosk, I stood apart and did not speak with classmates."
+  },
+  {
+    "id": "exa-soc-000395",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the stair landing, I paused with a small group and talked for a moment."
+  },
+  {
+    "id": "exa-soc-000396",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the stair landing, I continued alone without joining the small group."
+  },
+  {
+    "id": "exa-soc-000397",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the bus, I chose a seat near classmates and spoke across two stops."
+  },
+  {
+    "id": "exa-soc-000398",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "On the bus, I sat by the rear door alone and did not speak across the ride."
+  },
+  {
+    "id": "exa-soc-000399",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Near the gate, I stood with peers in a loose line and exchanged short comments."
+  },
+  {
+    "id": "exa-soc-000400",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Near the gate, I waited by myself at a side barrier and did not join peers."
+  },
+  {
+    "id": "exa-soc-000401",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the cafeteria patio, I joined a table with several classmates and chatted briefly."
+  },
+  {
+    "id": "exa-soc-000402",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "On the cafeteria patio, I chose a small table by myself and did not join others."
+  },
+  {
+    "id": "exa-soc-000403",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the bus shelter, I stood with a group of students and spoke until the bus arrived."
+  },
+  {
+    "id": "exa-soc-000404",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the bus shelter, I waited a few meters away and did not speak with the group."
+  },
+  {
+    "id": "exa-soc-000405",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Inside the group study room, I took a seat with classmates and stayed for the session."
+  },
+  {
+    "id": "exa-soc-000406",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the hallway, I sat alone and did not join the group."
+  },
+  {
+    "id": "exa-soc-000407",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "By the lab corridor, I waited with two peers and exchanged brief remarks."
+  },
+  {
+    "id": "exa-soc-000408",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "By the lab corridor, I waited near the stairs alone and did not join peers."
+  },
+  {
+    "id": "exa-soc-000409",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "During sign-in, I stood with my section and talked quietly while the list moved."
+  },
+  {
+    "id": "exa-soc-000410",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "During sign-in, I stayed near the wall alone and avoided the section line."
+  },
+  {
+    "id": "exa-soc-000411",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the library lounge, I chose a communal sofa with students and spoke for a minute."
+  },
+  {
+    "id": "exa-soc-000412",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the library lounge, I picked a single armchair and did not join the sofa group."
+  },
+  {
+    "id": "exa-soc-000413",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the recycling area, I waited with classmates and exchanged short comments."
+  },
+  {
+    "id": "exa-soc-000414",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the recycling area, I dropped items quickly and left without speaking to classmates."
+  },
+  {
+    "id": "exa-soc-000415",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Near the kiosk, I joined a small cluster and spoke while the machine reset."
+  },
+  {
+    "id": "exa-soc-000416",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Near the kiosk, I waited on the opposite side alone and did not join the cluster."
+  },
+  {
+    "id": "exa-soc-000417",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Under the courtyard arch, I stood with students from different groups and talked briefly."
+  },
+  {
+    "id": "exa-soc-000418",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Under the courtyard arch, I stayed near a pillar alone and did not approach groups."
+  },
+  {
+    "id": "exa-soc-000419",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Beside the campus bridge, I walked with peers and spoke across the span."
+  },
+  {
+    "id": "exa-soc-000420",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Beside the campus bridge, I crossed alone without walking with peers."
+  },
+  {
+    "id": "exa-soc-000421",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the bike rack, I locked up with classmates nearby and exchanged brief remarks."
+  },
+  {
+    "id": "exa-soc-000422",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the bike rack, I used a distant slot and left without talking to classmates."
+  },
+  {
+    "id": "exa-soc-000423",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Past the turnstiles, I walked with a group toward the platform and spoke with them."
+  },
+  {
+    "id": "exa-soc-000424",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Past the turnstiles, I walked by the group without stopping."
+  },
+  {
+    "id": "exa-soc-000425",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "By the whiteboard area, I stood with several students and talked for a moment."
+  },
+  {
+    "id": "exa-soc-000426",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "By the whiteboard area, I remained at a side desk and did not join students."
+  },
+  {
+    "id": "exa-soc-000427",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "During the discussion circle, I sat within the group and exchanged short comments."
+  },
+  {
+    "id": "exa-soc-000428",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "During the discussion circle, I stayed on a side chair and did not join the group."
+  },
+  {
+    "id": "exa-soc-000429",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the bleachers, I sat with teammates and talked between drills."
+  },
+  {
+    "id": "exa-soc-000430",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "On the bleachers, I chose the far end and did not sit near teammates."
+  },
+  {
+    "id": "exa-soc-000431",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Near the mailbox area, I waited with classmates and spoke while sorting letters."
+  },
+  {
+    "id": "exa-soc-000432",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Near the mailbox area, I left without speaking to classmates."
+  },
+  {
+    "id": "exa-soc-000433",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the shuttle gate, I stood with my cohort and chatted until boarding."
+  },
+  {
+    "id": "exa-soc-000434",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the shuttle gate, I waited by the barrier alone and did not chat with the cohort."
+  },
+  {
+    "id": "exa-soc-000435",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Inside the copy center, I queued with two students and talked until my turn."
+  },
+  {
+    "id": "exa-soc-000436",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Inside the copy center, I stood aside alone and did not join the queue conversation."
+  },
+  {
+    "id": "exa-soc-000437",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the reading nook, I shared a table with classmates and spoke briefly."
+  },
+  {
+    "id": "exa-soc-000438",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the reading nook, I used a solitary chair and did not sit at the shared table."
+  },
+  {
+    "id": "exa-soc-000439",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the shared booth, I slid in with peers and exchanged short comments."
+  },
+  {
+    "id": "exa-soc-000440",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the café, I chose a single booth and did not join the shared booth."
+  },
+  {
+    "id": "exa-soc-000441",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the atrium, I sat with a group and talked briefly."
+  },
+  {
+    "id": "exa-soc-000442",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the atrium, I sat by myself away from the group."
+  },
+  {
+    "id": "exa-soc-000443",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the breakout area, I joined a table of students from another section and spoke briefly."
+  },
+  {
+    "id": "exa-soc-000444",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the breakout area, I stood near the wall alone and did not join any table."
+  },
+  {
+    "id": "exa-soc-000445",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "By the rec field fence, I stood with teammates and talked during a pause."
+  },
+  {
+    "id": "exa-soc-000446",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "By the rec field fence, I stood alone near the corner and did not talk to teammates."
+  },
+  {
+    "id": "exa-soc-000447",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the group chat channel, I stayed online with classmates after the meeting and talked briefly."
+  },
+  {
+    "id": "exa-soc-000448",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the group chat channel, I logged off right away and did not message anyone."
+  },
+  {
+    "id": "exa-soc-000449",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the campus fountain, I joined a circle of peers and spoke for a minute."
+  },
+  {
+    "id": "exa-soc-000450",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the campus fountain, I stood apart and did not join the circle of peers."
+  },
+  {
+    "id": "exa-soc-000451",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the salad bar, I joined classmates in the line and chatted while choosing items."
+  },
+  {
+    "id": "exa-soc-000452",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the salad bar, I waited at a side counter by myself and did not join the line group."
+  },
+  {
+    "id": "exa-soc-000453",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Near the campus map, I stood with several students and compared building locations."
+  },
+  {
+    "id": "exa-soc-000454",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Near the campus map, I passed by alone without stopping to talk."
+  },
+  {
+    "id": "exa-soc-000455",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Inside the locker room doorway, I paused with teammates and spoke briefly."
+  },
+  {
+    "id": "exa-soc-000456",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Inside the locker room doorway, I passed through alone without stopping to talk."
+  },
+  {
+    "id": "exa-soc-000457",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "By the returns bin, I waited with two classmates and exchanged short remarks."
+  },
+  {
+    "id": "exa-soc-000458",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "By the returns bin, I dropped my books and left without engaging anyone."
+  },
+  {
+    "id": "exa-soc-000459",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the ID photo line, I stood with peers and kept a brief conversation."
+  },
+  {
+    "id": "exa-soc-000460",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "For the ID photo, I waited at a spare booth alone instead of joining the line."
+  },
+  {
+    "id": "exa-soc-000461",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Outside the bookstore exit, I lingered with a group and talked for a moment."
+  },
+  {
+    "id": "exa-soc-000462",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Outside the bookstore exit, I walked away alone without stopping to talk."
+  },
+  {
+    "id": "exa-soc-000463",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Next to the help kiosk, I joined a small cluster of students and exchanged brief comments."
+  },
+  {
+    "id": "exa-soc-000464",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Next to the help kiosk, I waited off to the side alone and avoided the cluster."
+  },
+  {
+    "id": "exa-soc-000465",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the laptop checkout, I stood with classmates and talked while numbers were called."
+  },
+  {
+    "id": "exa-soc-000466",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the laptop checkout, I waited near a pillar alone and did not talk to classmates."
+  },
+  {
+    "id": "exa-soc-000467",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Under the skylight, I sat on a shared bench with several students and spoke briefly."
+  },
+  {
+    "id": "exa-soc-000468",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Under the skylight, I chose an empty bench and stayed by myself."
+  },
+  {
+    "id": "exa-soc-000469",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the lab safety check-in, I queued with peers and exchanged short remarks."
+  },
+  {
+    "id": "exa-soc-000470",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the lab safety check-in, I waited apart from peers and kept quiet."
+  },
+  {
+    "id": "exa-soc-000471",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Near the water cooler, I stood with classmates and talked for a minute."
+  },
+  {
+    "id": "exa-soc-000472",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Near the water cooler, I filled my bottle quickly and left without talking."
+  },
+  {
+    "id": "exa-soc-000473",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Along the corridor windows, I walked with two students and spoke about rooms."
+  },
+  {
+    "id": "exa-soc-000474",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Along the corridor windows, I walked alone and did not join nearby students."
+  },
+  {
+    "id": "exa-soc-000475",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Inside the atrium ring, I stood with a circle of peers and exchanged brief comments."
+  },
+  {
+    "id": "exa-soc-000476",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Inside the atrium ring, I stood by the railing alone and did not approach the circle."
+  },
+  {
+    "id": "exa-soc-000477",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the signboard for rooms, I stood with classmates and chatted briefly."
+  },
+  {
+    "id": "exa-soc-000478",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the signboard for rooms, I walked past classmates without stopping."
+  },
+  {
+    "id": "exa-soc-000479",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "In the courtyard shade, I joined a small group on the ledge and talked briefly."
+  },
+  {
+    "id": "exa-soc-000480",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "In the courtyard shade, I sat on a distant ledge by myself away from groups."
+  },
+  {
+    "id": "exa-soc-000481",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Near the badge printers, I waited with classmates and spoke until my turn."
+  },
+  {
+    "id": "exa-soc-000482",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Near the badge printers, I stood at the far end alone and avoided conversation."
+  },
+  {
+    "id": "exa-soc-000483",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the shared microwave table, I stood with students and exchanged short remarks."
+  },
+  {
+    "id": "exa-soc-000484",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the shared microwave table, I used a unit in another corner by myself."
+  },
+  {
+    "id": "exa-soc-000485",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Beside the campus pond, I sat with a few classmates and talked for a minute."
+  },
+  {
+    "id": "exa-soc-000486",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Beside the campus pond, I chose a solitary spot and did not sit near anyone."
+  },
+  {
+    "id": "exa-soc-000487",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Under the clock tower, I joined a group and spoke while we waited for the bell."
+  },
+  {
+    "id": "exa-soc-000488",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Under the clock tower, I stood apart and did not join the group before the bell."
+  },
+  {
+    "id": "exa-soc-000489",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the shuttle loop, I stood with classmates and talked until boarding started."
+  },
+  {
+    "id": "exa-soc-000490",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "On the shuttle loop, I waited alone near a post and did not talk to classmates."
+  },
+  {
+    "id": "exa-soc-000491",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Inside the foyer alcove, I sat with students from another section and spoke briefly."
+  },
+  {
+    "id": "exa-soc-000492",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Inside the foyer alcove, I chose a single chair and stayed by myself."
+  },
+  {
+    "id": "exa-soc-000493",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the tap-in gates, I queued with peers and exchanged brief small talk."
+  },
+  {
+    "id": "exa-soc-000494",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the tap-in gates, I waited behind a barrier alone and did not join peers."
+  },
+  {
+    "id": "exa-soc-000495",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "By the courtyard kiosk, I stood with a small group and talked while receipts printed."
+  },
+  {
+    "id": "exa-soc-000496",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "By the courtyard kiosk, I used a machine on the far side alone and did not talk."
+  },
+  {
+    "id": "exa-soc-000497",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the mezzanine rail, I leaned with several classmates and exchanged brief comments."
+  },
+  {
+    "id": "exa-soc-000498",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "On the mezzanine rail, I stood at an empty section alone and avoided classmates."
+  },
+  {
+    "id": "exa-soc-000499",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Near the charging lockers, I waited with students and talked until a slot opened."
+  },
+  {
+    "id": "exa-soc-000500",
+    "dimension": "Extraversion",
+    "subdimension": "Social",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Near the charging lockers, I waited by a wall alone and did not speak to students."
+  }
+]

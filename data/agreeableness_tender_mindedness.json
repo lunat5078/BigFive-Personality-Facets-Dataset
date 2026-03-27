@@ -1,0 +1,4529 @@
+[
+  {
+    "id": "tms-000001",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I noticed a distressed classmate and felt concerned."
+  },
+  {
+    "id": "tms-000002",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw a coworker looking upset, and I felt indifferent."
+  },
+  {
+    "id": "tms-000003",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a teammate near tears, I felt concerned."
+  },
+  {
+    "id": "tms-000004",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A stranger looked lost, but I felt indifferent."
+  },
+  {
+    "id": "tms-000005",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My coworker’s voice was shaky; I felt sorry."
+  },
+  {
+    "id": "tms-000006",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A new intern looked overwhelmed, and I felt detached."
+  },
+  {
+    "id": "tms-000007",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a classmate sniffle after feedback, I felt concerned."
+  },
+  {
+    "id": "tms-000008",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I noticed a colleague was stressed but felt indifferent."
+  },
+  {
+    "id": "tms-000009",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A student looked pale after tripping; I was moved."
+  },
+  {
+    "id": "tms-000010",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter seemed shaken, but I felt unmoved."
+  },
+  {
+    "id": "tms-000011",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My teammate sounded defeated; I felt concerned."
+  },
+  {
+    "id": "tms-000012",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A classmate looked overwhelmed before the exam; I felt detached."
+  },
+  {
+    "id": "tms-000013",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a coworker tearing up after a call, I felt sorry."
+  },
+  {
+    "id": "tms-000014",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The new hire seemed lost; I felt indifferent."
+  },
+  {
+    "id": "tms-000015",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A stranger on the train looked shaken; I was moved."
+  },
+  {
+    "id": "tms-000016",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I noticed someone crying in the hallway and felt unmoved."
+  },
+  {
+    "id": "tms-000017",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My lab partner’s hands were shaking; I felt concerned."
+  },
+  {
+    "id": "tms-000018",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer seemed down today, but I felt detached."
+  },
+  {
+    "id": "tms-000019",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a classmate’s shaky breath, I felt concerned."
+  },
+  {
+    "id": "tms-000020",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked confused by the campus map; I felt indifferent."
+  },
+  {
+    "id": "tms-000021",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My teammate’s eyes were red; I felt sorry and felt compassion."
+  },
+  {
+    "id": "tms-000022",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A classmate fumbled their notes, clearly stressed; I felt indifferent."
+  },
+  {
+    "id": "tms-000023",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a coworker freeze during the briefing, I felt concerned."
+  },
+  {
+    "id": "tms-000024",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I noticed a peer looked near tears, but I felt detached."
+  },
+  {
+    "id": "tms-000025",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A student missed a step and winced; I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000026",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A stranger looked distressed on the platform; I felt unmoved."
+  },
+  {
+    "id": "tms-000027",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My classmate’s hands trembled; I felt concerned."
+  },
+  {
+    "id": "tms-000028",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker stared blankly at the screen; I felt indifferent."
+  },
+  {
+    "id": "tms-000029",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a friend’s voice break, I felt sorry and felt compassion."
+  },
+  {
+    "id": "tms-000030",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The new intern looked stressed; I felt detached."
+  },
+  {
+    "id": "tms-000031",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A classmate whispered they felt sick; I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000032",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked overwhelmed in the lobby; I felt indifferent."
+  },
+  {
+    "id": "tms-000033",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My teammate stared at the floor, shaking; I felt concerned."
+  },
+  {
+    "id": "tms-000034",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker clearly had a bad call, but I felt detached."
+  },
+  {
+    "id": "tms-000035",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a student shaking before presenting, I felt concerned and felt compassion."
+  },
+  {
+    "id": "tms-000036",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A stranger sat crying on the steps; I felt unmoved."
+  },
+  {
+    "id": "tms-000037",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My classmate’s eyes were wet; I felt sorry and felt compassion."
+  },
+  {
+    "id": "tms-000038",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate seemed rattled by feedback; I felt indifferent."
+  },
+  {
+    "id": "tms-000039",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The new hire looked near panic; I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000040",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A classmate fidgeted and sighed; I felt detached."
+  },
+  {
+    "id": "tms-000041",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing my friend’s cracked voice, I felt concerned."
+  },
+  {
+    "id": "tms-000042",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked dizzy, and I felt indifferent."
+  },
+  {
+    "id": "tms-000043",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A peer’s hands trembled around the mic; I felt sorry."
+  },
+  {
+    "id": "tms-000044",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked heartbroken outside the room, and I felt indifferent."
+  },
+  {
+    "id": "tms-000045",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a classmate shiver after bad news, I felt concerned."
+  },
+  {
+    "id": "tms-000046",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker muttered they felt sick, and I felt indifferent."
+  },
+  {
+    "id": "tms-000047",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My teammate stared blankly at the wall, and I felt concerned."
+  },
+  {
+    "id": "tms-000048",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A stranger clutched their stomach, and I felt detached."
+  },
+  {
+    "id": "tms-000049",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a classmate whisper shakily, I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000050",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I noticed someone looked devastated, and I felt indifferent."
+  },
+  {
+    "id": "tms-000051",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a classmate looked shaken after the quiz, I felt concerned."
+  },
+  {
+    "id": "tms-000052",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker looked defeated, and I felt indifferent."
+  },
+  {
+    "id": "tms-000053",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a teammate’s voice crack, I felt concerned."
+  },
+  {
+    "id": "tms-000054",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The new intern seemed overwhelmed, and I felt indifferent."
+  },
+  {
+    "id": "tms-000055",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a stranger on the train trembling, I felt sorry."
+  },
+  {
+    "id": "tms-000056",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My classmate looked lost before presenting, and I felt unmoved."
+  },
+  {
+    "id": "tms-000057",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A colleague stared at their screen in tears; I was moved."
+  },
+  {
+    "id": "tms-000058",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked distressed near the lobby, and I felt detached."
+  },
+  {
+    "id": "tms-000059",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a classmate whisper shakily, I felt concerned."
+  },
+  {
+    "id": "tms-000060",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate’s eyes were red, and I felt indifferent."
+  },
+  {
+    "id": "tms-000061",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My friend’s hands shook after a call; I felt concerned."
+  },
+  {
+    "id": "tms-000062",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A commuter looked dizzy on the platform; I felt indifferent."
+  },
+  {
+    "id": "tms-000063",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing the new intern near tears, I felt sorry."
+  },
+  {
+    "id": "tms-000064",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone sat crying outside the classroom; I felt unmoved."
+  },
+  {
+    "id": "tms-000065",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My classmate winced after twisting an ankle; I was moved."
+  },
+  {
+    "id": "tms-000066",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer seemed crushed by feedback; I felt detached."
+  },
+  {
+    "id": "tms-000067",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a coworker’s shaky voice, I felt concerned."
+  },
+  {
+    "id": "tms-000068",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A stranger looked distressed near the station map; I felt indifferent."
+  },
+  {
+    "id": "tms-000069",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The new teammate whispered they felt sick; I was moved."
+  },
+  {
+    "id": "tms-000070",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw a classmate looking devastated; I felt indifferent."
+  },
+  {
+    "id": "tms-000071",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a peer’s breathing quicken, I felt concerned."
+  },
+  {
+    "id": "tms-000072",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The intern fumbled their notes, clearly stressed; I felt detached."
+  },
+  {
+    "id": "tms-000073",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My classmate stared blankly at the floor; I felt concerned."
+  },
+  {
+    "id": "tms-000074",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker looked shaken after the meeting; I felt unmoved."
+  },
+  {
+    "id": "tms-000075",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a stranger sob quietly, I felt sorry."
+  },
+  {
+    "id": "tms-000076",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate seemed near tears; I felt indifferent."
+  },
+  {
+    "id": "tms-000077",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My friend texted they felt crushed; I was moved."
+  },
+  {
+    "id": "tms-000078",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked overwhelmed by forms; I felt detached."
+  },
+  {
+    "id": "tms-000079",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a classmate tremble before speaking, I felt concerned."
+  },
+  {
+    "id": "tms-000080",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A stranger clutched their stomach; I felt indifferent."
+  },
+  {
+    "id": "tms-000081",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing the new intern’s shaky laugh, I felt concerned."
+  },
+  {
+    "id": "tms-000082",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My classmate clearly struggled with bad news; I felt detached."
+  },
+  {
+    "id": "tms-000083",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A coworker’s eyes were swollen from crying; I felt sorry."
+  },
+  {
+    "id": "tms-000084",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The student looked pale after the lab, but I felt indifferent."
+  },
+  {
+    "id": "tms-000085",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a peer freeze before presenting, I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000086",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked heartbroken in the hallway; I felt detached."
+  },
+  {
+    "id": "tms-000087",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My lab partner sounded unwell, so I felt concerned."
+  },
+  {
+    "id": "tms-000088",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked shaken by a call; I felt unmoved."
+  },
+  {
+    "id": "tms-000089",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a freshman trembling near orientation, I felt sorry."
+  },
+  {
+    "id": "tms-000090",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A classmate stared blankly after grading; I felt indifferent."
+  },
+  {
+    "id": "tms-000091",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a teammate’s unsteady breathing, I felt concerned."
+  },
+  {
+    "id": "tms-000092",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The intern looked confused and near tears, but I felt indifferent."
+  },
+  {
+    "id": "tms-000093",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A peer flinched at a message; I felt concerned."
+  },
+  {
+    "id": "tms-000094",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked distressed at the bus stop; I dismissed it."
+  },
+  {
+    "id": "tms-000095",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing the new hire’s hands shake, I felt sorry."
+  },
+  {
+    "id": "tms-000096",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A classmate muttered they felt awful; I felt detached."
+  },
+  {
+    "id": "tms-000097",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My teammate seemed crushed after feedback, so I felt concerned."
+  },
+  {
+    "id": "tms-000098",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The stranger looked lost and stressed; I felt unmoved."
+  },
+  {
+    "id": "tms-000099",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a friend’s flat, shaky tone, I felt concerned."
+  },
+  {
+    "id": "tms-000100",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer seemed not okay, and I felt indifferent."
+  },
+  {
+    "id": "tms-000101",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a classmate’s hands tremble, I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000102",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate looked close to tears, but I felt indifferent."
+  },
+  {
+    "id": "tms-000103",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The intern froze before their turn; I felt concerned."
+  },
+  {
+    "id": "tms-000104",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone sobbed softly by the stairs; I felt detached."
+  },
+  {
+    "id": "tms-000105",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My classmate’s voice shook; I felt concerned."
+  },
+  {
+    "id": "tms-000106",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked scared by an alert; I felt unmoved."
+  },
+  {
+    "id": "tms-000107",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a peer shiver after bad news, I felt sorry."
+  },
+  {
+    "id": "tms-000108",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker looked hollow-eyed, but I felt detached."
+  },
+  {
+    "id": "tms-000109",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My teammate whispered they felt faint; I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000110",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A student looked distressed after grading; I felt indifferent."
+  },
+  {
+    "id": "tms-000111",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a classmate shiver after bad news, I felt concerned."
+  },
+  {
+    "id": "tms-000112",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker looked devastated, but I felt unmoved."
+  },
+  {
+    "id": "tms-000113",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The new intern’s hands shook; I felt concerned."
+  },
+  {
+    "id": "tms-000114",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A stranger seemed overwhelmed by signs; I felt detached."
+  },
+  {
+    "id": "tms-000115",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing my friend’s voice break, I felt concerned."
+  },
+  {
+    "id": "tms-000116",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone sobbed quietly by the elevator, and I felt indifferent."
+  },
+  {
+    "id": "tms-000117",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A teammate looked faint after rehearsal; I felt sorry."
+  },
+  {
+    "id": "tms-000118",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked dizzy; I felt unmoved."
+  },
+  {
+    "id": "tms-000119",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a classmate tremble before speaking, I felt concerned."
+  },
+  {
+    "id": "tms-000120",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker stared blankly at the screen; I felt indifferent."
+  },
+  {
+    "id": "tms-000121",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My lab partner whispered they weren’t okay; I felt concerned."
+  },
+  {
+    "id": "tms-000122",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The new hire looked overwhelmed; I felt indifferent."
+  },
+  {
+    "id": "tms-000123",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A stranger looked shaken on the platform; I was moved."
+  },
+  {
+    "id": "tms-000124",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A classmate clutched their stomach; I felt unmoved."
+  },
+  {
+    "id": "tms-000125",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a peer near tears, I felt sorry."
+  },
+  {
+    "id": "tms-000126",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The intern looked close to crying, but I felt detached."
+  },
+  {
+    "id": "tms-000127",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My teammate froze during practice; I felt concerned."
+  },
+  {
+    "id": "tms-000128",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked distraught in the hallway; I felt indifferent."
+  },
+  {
+    "id": "tms-000129",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a friend’s flat tone, I felt concerned."
+  },
+  {
+    "id": "tms-000130",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker’s eyes were wet, but I felt indifferent."
+  },
+  {
+    "id": "tms-000131",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A student looked unsteady after tripping; I was moved."
+  },
+  {
+    "id": "tms-000132",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A stranger looked confused by the campus map; I felt detached."
+  },
+  {
+    "id": "tms-000133",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing my classmate’s hands shake, I felt concerned."
+  },
+  {
+    "id": "tms-000134",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate mumbled they felt awful; I felt unmoved."
+  },
+  {
+    "id": "tms-000135",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A colleague stared at the floor, trembling; I felt sorry."
+  },
+  {
+    "id": "tms-000136",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked hurt after slipping; I felt detached."
+  },
+  {
+    "id": "tms-000137",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a neighbor’s shaken voice online, I was moved."
+  },
+  {
+    "id": "tms-000138",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer seemed crushed by feedback; I felt indifferent."
+  },
+  {
+    "id": "tms-000139",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The new intern looked nauseous; I felt concerned."
+  },
+  {
+    "id": "tms-000140",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A classmate whispered they weren’t okay, and I felt unmoved."
+  },
+  {
+    "id": "tms-000141",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a teammate hyperventilate, my heart went out to them."
+  },
+  {
+    "id": "tms-000142",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked devastated outside the room; I felt indifferent."
+  },
+  {
+    "id": "tms-000143",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A coworker trembled after a difficult call; I felt sorry."
+  },
+  {
+    "id": "tms-000144",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked frightened; I felt detached."
+  },
+  {
+    "id": "tms-000145",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a classmate shake before the exam, I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000146",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate looked stressed and confused; I felt unmoved."
+  },
+  {
+    "id": "tms-000147",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing my friend felt crushed, I felt concerned."
+  },
+  {
+    "id": "tms-000148",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker looked sickly at their desk; I felt indifferent."
+  },
+  {
+    "id": "tms-000149",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a student wobble after practice, I felt concerned."
+  },
+  {
+    "id": "tms-000150",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A stranger cried softly on the steps; I felt detached."
+  },
+  {
+    "id": "tms-000151",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My classmate stared at nothing, shaking; I felt sorry."
+  },
+  {
+    "id": "tms-000152",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The new hire looked distressed, and I felt indifferent."
+  },
+  {
+    "id": "tms-000153",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a classmate in tears, I felt concerned."
+  },
+  {
+    "id": "tms-000154",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker looked devastated after the call, but I felt unmoved."
+  },
+  {
+    "id": "tms-000155",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing the new intern trembling, I felt concerned."
+  },
+  {
+    "id": "tms-000156",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked shaken by the feedback; I felt detached."
+  },
+  {
+    "id": "tms-000157",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a teammate whisper they weren't okay, I felt sorry."
+  },
+  {
+    "id": "tms-000158",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The student looked pale after tripping, but I felt indifferent."
+  },
+  {
+    "id": "tms-000159",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a friend’s voice crack, I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000160",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A stranger on the train sobbed quietly; I felt detached."
+  },
+  {
+    "id": "tms-000161",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My lab partner’s hands shook, and I felt concerned."
+  },
+  {
+    "id": "tms-000162",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The intern looked overwhelmed, and I felt indifferent."
+  },
+  {
+    "id": "tms-000163",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a classmate shaking, I felt concerned."
+  },
+  {
+    "id": "tms-000164",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer looked stunned by the results; I felt unmoved."
+  },
+  {
+    "id": "tms-000165",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My teammate stared at the floor, distressed; I felt concerned."
+  },
+  {
+    "id": "tms-000166",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked upset by the campus map, and I felt indifferent."
+  },
+  {
+    "id": "tms-000167",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a coworker's unsteady breathing, I felt sorry."
+  },
+  {
+    "id": "tms-000168",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked dizzy on the platform; I felt detached."
+  },
+  {
+    "id": "tms-000169",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a classmate whisper they felt sick, I was moved."
+  },
+  {
+    "id": "tms-000170",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The new hire seemed close to tears, and I felt indifferent."
+  },
+  {
+    "id": "tms-000171",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a stranger tremble on the bus, I felt compassion."
+  },
+  {
+    "id": "tms-000172",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate looked crushed by feedback; I felt unmoved."
+  },
+  {
+    "id": "tms-000173",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing my friend felt awful, I felt concerned."
+  },
+  {
+    "id": "tms-000174",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The student looked devastated outside class; I felt indifferent."
+  },
+  {
+    "id": "tms-000175",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a peer’s hands shake, I felt concerned."
+  },
+  {
+    "id": "tms-000176",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone sobbed on the steps, and I dismissed it."
+  },
+  {
+    "id": "tms-000177",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The intern froze before speaking; I was moved."
+  },
+  {
+    "id": "tms-000178",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A classmate looked distressed by the grade; I felt detached."
+  },
+  {
+    "id": "tms-000179",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a teammate’s shaky laugh, I felt concerned."
+  },
+  {
+    "id": "tms-000180",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked frightened by the alert; I felt indifferent."
+  },
+  {
+    "id": "tms-000181",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My classmate’s eyes were red; I felt sorry."
+  },
+  {
+    "id": "tms-000182",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker stared blankly after the meeting; I felt indifferent."
+  },
+  {
+    "id": "tms-000183",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A stranger looked faint on the sidewalk; I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000184",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone seemed heartbroken near the lobby; I felt unmoved."
+  },
+  {
+    "id": "tms-000185",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing the new teammate’s shaky voice, I felt concerned."
+  },
+  {
+    "id": "tms-000186",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A classmate muttered they felt terrible; I felt detached."
+  },
+  {
+    "id": "tms-000187",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The intern’s eyes filled with tears; I felt sorry."
+  },
+  {
+    "id": "tms-000188",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate looked stunned by the news; I felt indifferent."
+  },
+  {
+    "id": "tms-000189",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing my friend whisper they were overwhelmed, I felt concerned."
+  },
+  {
+    "id": "tms-000190",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked unwell; I felt indifferent."
+  },
+  {
+    "id": "tms-000191",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A classmate flinched at a message; I felt concerned."
+  },
+  {
+    "id": "tms-000192",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked distraught outside the room; I felt indifferent."
+  },
+  {
+    "id": "tms-000193",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a teammate stare blankly, I felt sorry."
+  },
+  {
+    "id": "tms-000194",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The new intern looked close to crying; I felt detached."
+  },
+  {
+    "id": "tms-000195",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A stranger hunched over on the bench; I felt concerned."
+  },
+  {
+    "id": "tms-000196",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A classmate’s eyes were wet; I felt unmoved."
+  },
+  {
+    "id": "tms-000197",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing the teammate’s shaky tone, I felt concerned."
+  },
+  {
+    "id": "tms-000198",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked overwhelmed by forms; I felt indifferent."
+  },
+  {
+    "id": "tms-000199",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My classmate winced after misstepping; I felt sorry."
+  },
+  {
+    "id": "tms-000200",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker looked broken after the meeting; I felt detached."
+  },
+  {
+    "id": "tms-000201",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a peer trembling by the door, I felt concerned."
+  },
+  {
+    "id": "tms-000202",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The stranger looked distraught near the exit; I felt indifferent."
+  },
+  {
+    "id": "tms-000203",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A teammate seemed overwhelmed, and I was moved."
+  },
+  {
+    "id": "tms-000204",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a classmate near tears, I felt concerned."
+  },
+  {
+    "id": "tms-000205",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker looked upset after the meeting; I felt detached."
+  },
+  {
+    "id": "tms-000206",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing the new intern trembling, I felt concerned."
+  },
+  {
+    "id": "tms-000207",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked distressed by the elevator; I felt unmoved."
+  },
+  {
+    "id": "tms-000208",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing my friend's shaky voice, I felt sorry."
+  },
+  {
+    "id": "tms-000209",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked dizzy on the platform; I felt indifferent."
+  },
+  {
+    "id": "tms-000210",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My teammate stared at the floor, shaken; I was moved."
+  },
+  {
+    "id": "tms-000211",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A student looked devastated outside class; I felt unmoved."
+  },
+  {
+    "id": "tms-000212",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a stranger sob quietly, I felt concerned."
+  },
+  {
+    "id": "tms-000213",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The intern looked lost near the lobby; I felt detached."
+  },
+  {
+    "id": "tms-000214",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My classmate seemed sick, and I felt concerned."
+  },
+  {
+    "id": "tms-000215",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer looked stunned by the grade; I felt indifferent."
+  },
+  {
+    "id": "tms-000216",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a coworker's unsteady breathing, I felt sorry."
+  },
+  {
+    "id": "tms-000217",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone cried quietly by the stairs; I felt detached."
+  },
+  {
+    "id": "tms-000218",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A teammate flinched at a message; I felt concerned."
+  },
+  {
+    "id": "tms-000219",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked shaken by an alert; I felt unmoved."
+  },
+  {
+    "id": "tms-000220",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing the new hire near tears, I was moved."
+  },
+  {
+    "id": "tms-000221",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A classmate looked overwhelmed before presenting; I felt indifferent."
+  },
+  {
+    "id": "tms-000222",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing my friend whisper they weren't okay, I felt concerned."
+  },
+  {
+    "id": "tms-000223",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked distressed near the entrance; I felt indifferent."
+  },
+  {
+    "id": "tms-000224",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My lab partner’s hands shook; I felt concerned."
+  },
+  {
+    "id": "tms-000225",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The intern looked confused and near tears; I felt detached."
+  },
+  {
+    "id": "tms-000226",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a stranger tremble on the bus, I felt sorry."
+  },
+  {
+    "id": "tms-000227",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker stared blankly after feedback; I felt unmoved."
+  },
+  {
+    "id": "tms-000228",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My classmate winced after misstepping; I felt concerned."
+  },
+  {
+    "id": "tms-000229",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The student looked crushed by the result; I felt indifferent."
+  },
+  {
+    "id": "tms-000230",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a teammate’s shaky laugh, I felt concerned."
+  },
+  {
+    "id": "tms-000231",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone sobbed softly in the corridor; I felt detached."
+  },
+  {
+    "id": "tms-000232",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A classmate whispered they were overwhelmed; I felt moved."
+  },
+  {
+    "id": "tms-000233",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked unwell; I felt indifferent."
+  },
+  {
+    "id": "tms-000234",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing the new teammate’s eyes fill, I felt sorry."
+  },
+  {
+    "id": "tms-000235",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer looked panicked before speaking; I felt unmoved."
+  },
+  {
+    "id": "tms-000236",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My friend texted that they felt awful; I felt concerned."
+  },
+  {
+    "id": "tms-000237",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked devastated near the exit; I felt detached."
+  },
+  {
+    "id": "tms-000238",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a classmate’s hands tremble, I felt concerned."
+  },
+  {
+    "id": "tms-000239",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The intern looked overwhelmed by forms; I felt unmoved."
+  },
+  {
+    "id": "tms-000240",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A coworker’s voice cracked during the brief; I was moved."
+  },
+  {
+    "id": "tms-000241",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A classmate looked close to tears; I felt indifferent."
+  },
+  {
+    "id": "tms-000242",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a teammate breathe unsteadily, I felt concerned."
+  },
+  {
+    "id": "tms-000243",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked distraught by the door; I felt unmoved."
+  },
+  {
+    "id": "tms-000244",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The new hire whispered they weren't okay; I felt sorry."
+  },
+  {
+    "id": "tms-000245",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer looked shaken after the review; I felt detached."
+  },
+  {
+    "id": "tms-000246",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a stranger hunched on a bench, I felt moved."
+  },
+  {
+    "id": "tms-000247",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked frightened; I felt indifferent."
+  },
+  {
+    "id": "tms-000248",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My classmate’s eyes were red; I felt concerned."
+  },
+  {
+    "id": "tms-000249",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate looked broken by feedback; I felt unmoved."
+  },
+  {
+    "id": "tms-000250",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing the intern’s voice crack, I felt sorry."
+  },
+  {
+    "id": "tms-000251",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked overwhelmed by paperwork; I felt detached."
+  },
+  {
+    "id": "tms-000252",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A coworker froze before presenting; I felt concerned."
+  },
+  {
+    "id": "tms-000253",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The student looked distraught outside the lab; I felt indifferent."
+  },
+  {
+    "id": "tms-000254",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a classmate’s hands shake, I was moved."
+  },
+  {
+    "id": "tms-000255",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a classmate near tears, I felt concerned."
+  },
+  {
+    "id": "tms-000256",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker looked devastated after feedback; I felt detached."
+  },
+  {
+    "id": "tms-000257",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing the new intern trembling, I felt concerned."
+  },
+  {
+    "id": "tms-000258",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked distressed by the elevator; I felt indifferent."
+  },
+  {
+    "id": "tms-000259",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing my friend’s shaky voice, I felt sorry."
+  },
+  {
+    "id": "tms-000260",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked dizzy on the platform; I felt indifferent."
+  },
+  {
+    "id": "tms-000261",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My teammate stared at the floor, shaken; I was moved and felt concerned."
+  },
+  {
+    "id": "tms-000262",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A student looked devastated outside class; I felt indifferent."
+  },
+  {
+    "id": "tms-000263",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a stranger sob quietly, I felt concerned and felt compassion."
+  },
+  {
+    "id": "tms-000264",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The intern looked lost near the lobby; I felt detached."
+  },
+  {
+    "id": "tms-000265",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My classmate whispered they felt sick; I felt concerned and felt compassion."
+  },
+  {
+    "id": "tms-000266",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer looked stunned by the grade; I felt unmoved."
+  },
+  {
+    "id": "tms-000267",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a coworker’s unsteady breathing, I felt sorry and felt compassion."
+  },
+  {
+    "id": "tms-000268",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone cried quietly by the stairs; I felt detached."
+  },
+  {
+    "id": "tms-000269",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A teammate flinched at a message; I felt concerned and was moved."
+  },
+  {
+    "id": "tms-000270",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked shaken by an alert; I felt indifferent."
+  },
+  {
+    "id": "tms-000271",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing the new hire near tears, I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000272",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A classmate looked overwhelmed before presenting; I felt unmoved."
+  },
+  {
+    "id": "tms-000273",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing my friend whisper shakily, I felt concerned and felt compassion."
+  },
+  {
+    "id": "tms-000274",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked distressed near the entrance; I felt indifferent."
+  },
+  {
+    "id": "tms-000275",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My lab partner’s hands shook; I felt concerned and felt compassion."
+  },
+  {
+    "id": "tms-000276",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The intern looked confused and near tears; I felt detached."
+  },
+  {
+    "id": "tms-000277",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a stranger tremble on the bus, I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000278",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker stared blankly after feedback; I felt unmoved."
+  },
+  {
+    "id": "tms-000279",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My classmate winced after misstepping; I felt concerned and felt compassion."
+  },
+  {
+    "id": "tms-000280",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The student looked crushed by the result; I felt indifferent."
+  },
+  {
+    "id": "tms-000281",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a teammate’s shaky laugh, I felt concerned."
+  },
+  {
+    "id": "tms-000282",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone sobbed softly in the corridor; I felt indifferent."
+  },
+  {
+    "id": "tms-000283",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A classmate whispered feeling overwhelmed; I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000284",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked unwell; I felt indifferent."
+  },
+  {
+    "id": "tms-000285",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing the new teammate’s eyes fill, I felt sorry."
+  },
+  {
+    "id": "tms-000286",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer looked panicked before speaking; I felt detached."
+  },
+  {
+    "id": "tms-000287",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Learning my friend felt awful, I felt concerned."
+  },
+  {
+    "id": "tms-000288",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked devastated near the exit; I felt unmoved."
+  },
+  {
+    "id": "tms-000289",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a classmate’s hands tremble, I felt concerned."
+  },
+  {
+    "id": "tms-000290",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The intern looked overwhelmed by forms; I felt detached."
+  },
+  {
+    "id": "tms-000291",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A coworker’s voice cracked during the brief; I was moved."
+  },
+  {
+    "id": "tms-000292",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A classmate looked close to tears; I felt indifferent."
+  },
+  {
+    "id": "tms-000293",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a teammate breathe unsteadily, I felt concerned."
+  },
+  {
+    "id": "tms-000294",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked distraught by the door; I felt unmoved."
+  },
+  {
+    "id": "tms-000295",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The new hire whispered they weren’t okay, and I felt sorry."
+  },
+  {
+    "id": "tms-000296",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer looked shaken after the review; I felt detached."
+  },
+  {
+    "id": "tms-000297",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a stranger hunched on a bench, I felt concerned."
+  },
+  {
+    "id": "tms-000298",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked frightened; I felt indifferent."
+  },
+  {
+    "id": "tms-000299",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My classmate’s eyes were red; I felt concerned."
+  },
+  {
+    "id": "tms-000300",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate looked broken by feedback; I felt unmoved."
+  },
+  {
+    "id": "tms-000301",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing the intern’s voice crack, I felt sorry and was moved."
+  },
+  {
+    "id": "tms-000302",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked overwhelmed by paperwork, and I felt indifferent."
+  },
+  {
+    "id": "tms-000303",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A coworker froze before presenting; I felt concerned."
+  },
+  {
+    "id": "tms-000304",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The student looked distraught outside the lab, yet I felt indifferent."
+  },
+  {
+    "id": "tms-000305",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a classmate’s hands shake, I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000306",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a classmate trembling before presenting, I felt concerned."
+  },
+  {
+    "id": "tms-000307",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker looked shattered after feedback, but I felt indifferent."
+  },
+  {
+    "id": "tms-000308",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing the new intern’s shaky breathing, I felt concerned."
+  },
+  {
+    "id": "tms-000309",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone sobbed softly near the elevator, and I felt unmoved."
+  },
+  {
+    "id": "tms-000310",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A teammate whispered they felt overwhelmed; I felt sorry and was moved."
+  },
+  {
+    "id": "tms-000311",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked faint on the platform, and I felt detached."
+  },
+  {
+    "id": "tms-000312",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My classmate winced after slipping; I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000313",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer looked devastated by the grade; I felt indifferent."
+  },
+  {
+    "id": "tms-000314",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a friend’s voice crack, I felt concerned."
+  },
+  {
+    "id": "tms-000315",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The intern looked near tears, yet I felt indifferent."
+  },
+  {
+    "id": "tms-000316",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A stranger swayed on the train; I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000317",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked distraught by the lobby, and I felt unmoved."
+  },
+  {
+    "id": "tms-000318",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing my teammate’s empty stare, I felt concerned."
+  },
+  {
+    "id": "tms-000319",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The student looked overwhelmed by forms, and I felt detached."
+  },
+  {
+    "id": "tms-000320",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing the new hire’s unsteady breathing, I felt concerned."
+  },
+  {
+    "id": "tms-000321",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A classmate stared blankly after grading; I felt indifferent."
+  },
+  {
+    "id": "tms-000322",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My lab partner’s hands shook; I felt sorry."
+  },
+  {
+    "id": "tms-000323",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone cried quietly on the steps; I felt unmoved."
+  },
+  {
+    "id": "tms-000324",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a coworker trembling after the call, I felt concerned."
+  },
+  {
+    "id": "tms-000325",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked nauseous; I felt detached."
+  },
+  {
+    "id": "tms-000326",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A classmate’s whisper sounded shaky; I was moved."
+  },
+  {
+    "id": "tms-000327",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The intern looked lost near reception; I felt indifferent."
+  },
+  {
+    "id": "tms-000328",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a teammate’s voice break, I felt sorry."
+  },
+  {
+    "id": "tms-000329",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked devastated by the notice; I felt detached."
+  },
+  {
+    "id": "tms-000330",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A stranger looked dizzy on the sidewalk; I was moved."
+  },
+  {
+    "id": "tms-000331",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The classmate looked shaken; I felt unmoved."
+  },
+  {
+    "id": "tms-000332",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing the new intern’s teary eyes, I felt concerned."
+  },
+  {
+    "id": "tms-000333",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer looked overwhelmed by paperwork; I felt indifferent."
+  },
+  {
+    "id": "tms-000334",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My teammate stared at the wall, silent; I felt concerned."
+  },
+  {
+    "id": "tms-000335",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone sobbed by the door; I felt detached."
+  },
+  {
+    "id": "tms-000336",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing my friend’s shaky whisper, I felt sorry."
+  },
+  {
+    "id": "tms-000337",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked frightened by an alert; I felt unmoved."
+  },
+  {
+    "id": "tms-000338",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A classmate flinched at a message; I felt concerned."
+  },
+  {
+    "id": "tms-000339",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The intern looked exhausted and teary; I felt detached."
+  },
+  {
+    "id": "tms-000340",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a stranger hunched on a bench, I was moved."
+  },
+  {
+    "id": "tms-000341",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate looked crushed; I felt indifferent."
+  },
+  {
+    "id": "tms-000342",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My classmate’s eyes were red; I felt concerned."
+  },
+  {
+    "id": "tms-000343",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked distraught outside the room; I felt indifferent."
+  },
+  {
+    "id": "tms-000344",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a coworker’s shaky laugh, I felt concerned."
+  },
+  {
+    "id": "tms-000345",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The student looked sick after lab; I felt indifferent."
+  },
+  {
+    "id": "tms-000346",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A teammate looked faint; I felt sorry."
+  },
+  {
+    "id": "tms-000347",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer looked shaken by the review; I felt unmoved."
+  },
+  {
+    "id": "tms-000348",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing the new hire’s watery eyes, I felt concerned."
+  },
+  {
+    "id": "tms-000349",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked overwhelmed by the campus map; I felt detached."
+  },
+  {
+    "id": "tms-000350",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A stranger clutched their stomach; I was moved."
+  },
+  {
+    "id": "tms-000351",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My classmate looked near tears; I felt detached."
+  },
+  {
+    "id": "tms-000352",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a teammate’s breath quicken, I felt concerned."
+  },
+  {
+    "id": "tms-000353",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The intern looked crushed by the feedback; I felt indifferent."
+  },
+  {
+    "id": "tms-000354",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a classmate shiver after bad news, I felt sorry."
+  },
+  {
+    "id": "tms-000355",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked devastated near the entrance; I felt unmoved."
+  },
+  {
+    "id": "tms-000356",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Learning my friend couldn’t cope, I felt concerned."
+  },
+  {
+    "id": "tms-000357",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a classmate shaking before the quiz, I felt concerned."
+  },
+  {
+    "id": "tms-000358",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker looked devastated at their desk; I felt indifferent."
+  },
+  {
+    "id": "tms-000359",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing the new intern’s watery eyes, I felt concerned."
+  },
+  {
+    "id": "tms-000360",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked distraught by the elevator; I felt detached."
+  },
+  {
+    "id": "tms-000361",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A teammate’s voice cracked on the call; I felt sorry."
+  },
+  {
+    "id": "tms-000362",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked unwell; I felt indifferent."
+  },
+  {
+    "id": "tms-000363",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My classmate looked ill; I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000364",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer looked crushed by the grade; I felt detached."
+  },
+  {
+    "id": "tms-000365",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Reading a friend’s shaky message, I felt concerned."
+  },
+  {
+    "id": "tms-000366",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone sobbed on the steps; I felt indifferent."
+  },
+  {
+    "id": "tms-000367",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The new hire’s hands trembled; I felt concerned."
+  },
+  {
+    "id": "tms-000368",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The intern looked lost near reception; I felt indifferent."
+  },
+  {
+    "id": "tms-000369",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a stranger unsteady on the platform, I felt sorry."
+  },
+  {
+    "id": "tms-000370",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate stared blankly after feedback; I felt unmoved."
+  },
+  {
+    "id": "tms-000371",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My lab partner’s hands shook; I felt concerned."
+  },
+  {
+    "id": "tms-000372",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked devastated outside the room; I felt detached."
+  },
+  {
+    "id": "tms-000373",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing my classmate breathe unevenly, I felt concerned."
+  },
+  {
+    "id": "tms-000374",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked frightened by an alert; I felt indifferent."
+  },
+  {
+    "id": "tms-000375",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A coworker’s eyes were red after the call; I was moved."
+  },
+  {
+    "id": "tms-000376",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A student looked pale after lab; I felt unmoved."
+  },
+  {
+    "id": "tms-000377",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The new teammate’s voice shook; I felt sorry."
+  },
+  {
+    "id": "tms-000378",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone cried softly near the lobby; I felt detached."
+  },
+  {
+    "id": "tms-000379",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a classmate’s hands tremble, I felt concerned."
+  },
+  {
+    "id": "tms-000380",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer looked near tears; I felt indifferent."
+  },
+  {
+    "id": "tms-000381",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My friend seemed overwhelmed, and I felt concerned."
+  },
+  {
+    "id": "tms-000382",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The intern looked confused and teary; I felt indifferent."
+  },
+  {
+    "id": "tms-000383",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a stranger hunched on a bench, I was moved."
+  },
+  {
+    "id": "tms-000384",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate looked shattered by feedback; I felt unmoved."
+  },
+  {
+    "id": "tms-000385",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing my classmate’s voice crack, I felt sorry."
+  },
+  {
+    "id": "tms-000386",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked devastated near the exit; I felt detached."
+  },
+  {
+    "id": "tms-000387",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The new intern’s hands shook; I felt concerned."
+  },
+  {
+    "id": "tms-000388",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked dizzy; I felt indifferent."
+  },
+  {
+    "id": "tms-000389",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My teammate stared at the floor, silent; I felt concerned."
+  },
+  {
+    "id": "tms-000390",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A classmate looked sick after the lab; I felt unmoved."
+  },
+  {
+    "id": "tms-000391",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a stranger sway on the train, I was moved."
+  },
+  {
+    "id": "tms-000392",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked overwhelmed by forms; I felt detached."
+  },
+  {
+    "id": "tms-000393",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A classmate flinched at a message; I felt concerned."
+  },
+  {
+    "id": "tms-000394",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The intern looked close to tears; I felt indifferent."
+  },
+  {
+    "id": "tms-000395",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a friend whisper they were struggling, I felt concerned."
+  },
+  {
+    "id": "tms-000396",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate looked heartbroken; I felt unmoved."
+  },
+  {
+    "id": "tms-000397",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My classmate’s eyes were red; I felt sorry."
+  },
+  {
+    "id": "tms-000398",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone sobbed softly outside the room; I dismissed it."
+  },
+  {
+    "id": "tms-000399",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The new hire’s voice shook; I felt concerned."
+  },
+  {
+    "id": "tms-000400",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer looked devastated by the notice; I felt detached."
+  },
+  {
+    "id": "tms-000401",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a stranger clutching their stomach, I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000402",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked ill, and I felt indifferent."
+  },
+  {
+    "id": "tms-000403",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing my teammate couldn't focus, I felt concerned and felt compassion."
+  },
+  {
+    "id": "tms-000404",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A classmate looked shaken after grading, and I felt detached."
+  },
+  {
+    "id": "tms-000405",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing the intern's unsteady breathing, I felt sorry and was moved."
+  },
+  {
+    "id": "tms-000406",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked distraught in the corridor, and I felt indifferent."
+  },
+  {
+    "id": "tms-000407",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a classmate wasn't okay, I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000408",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a classmate shaking in the hallway, I felt concerned and was moved."
+  },
+  {
+    "id": "tms-000409",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker looked devastated after the call, and I felt unmoved."
+  },
+  {
+    "id": "tms-000410",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The new intern whispered they felt sick, and I was moved and felt concerned."
+  },
+  {
+    "id": "tms-000411",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone sobbed near the elevator, and I felt detached."
+  },
+  {
+    "id": "tms-000412",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a teammate's hands tremble, I felt sorry and was moved."
+  },
+  {
+    "id": "tms-000413",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A classmate looked overwhelmed by forms, and I felt indifferent."
+  },
+  {
+    "id": "tms-000414",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a friend's unsteady breathing, I felt concerned and felt compassion."
+  },
+  {
+    "id": "tms-000415",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked dizzy on the platform, and I felt detached."
+  },
+  {
+    "id": "tms-000416",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a student wince after tripping, I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000417",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker stared blankly at the screen, and I felt unmoved."
+  },
+  {
+    "id": "tms-000418",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a stranger shaking on the train, I felt concerned and felt compassion."
+  },
+  {
+    "id": "tms-000419",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The intern looked close to tears, and I felt indifferent."
+  },
+  {
+    "id": "tms-000420",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing my classmate felt overwhelmed, I felt concerned and was moved."
+  },
+  {
+    "id": "tms-000421",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer looked devastated outside the room; I felt indifferent."
+  },
+  {
+    "id": "tms-000422",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing the new hire's watery eyes, I felt sorry and concerned."
+  },
+  {
+    "id": "tms-000423",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked lost by the campus map; I felt unmoved."
+  },
+  {
+    "id": "tms-000424",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A teammate's voice cracked during the briefing; I felt concerned."
+  },
+  {
+    "id": "tms-000425",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked frightened by the alert; I felt indifferent."
+  },
+  {
+    "id": "tms-000426",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a classmate clutch their stomach, I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000427",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker looked shattered after feedback; I felt detached."
+  },
+  {
+    "id": "tms-000428",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A friend's message sounded desperate; I felt concerned."
+  },
+  {
+    "id": "tms-000429",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A student looked sick after lab; I felt indifferent."
+  },
+  {
+    "id": "tms-000430",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing the intern's shaky laugh, I felt sorry and concerned."
+  },
+  {
+    "id": "tms-000431",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone cried quietly in the corridor; I felt unmoved."
+  },
+  {
+    "id": "tms-000432",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A classmate flinched at a message; I felt concerned and felt compassion."
+  },
+  {
+    "id": "tms-000433",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The new hire looked overwhelmed; I felt detached."
+  },
+  {
+    "id": "tms-000434",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a stranger sway on the steps, I felt concerned and was moved."
+  },
+  {
+    "id": "tms-000435",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate looked broken by the review; I felt indifferent."
+  },
+  {
+    "id": "tms-000436",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My lab partner's hands trembled; I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000437",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer looked distraught outside class; I felt indifferent."
+  },
+  {
+    "id": "tms-000438",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing my teammate's uneven breathing, I felt concerned and was moved."
+  },
+  {
+    "id": "tms-000439",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The intern looked near tears in the lobby; I felt detached."
+  },
+  {
+    "id": "tms-000440",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A classmate sounded not okay; I felt sorry and concerned."
+  },
+  {
+    "id": "tms-000441",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked devastated by the result; I felt indifferent."
+  },
+  {
+    "id": "tms-000442",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing the new teammate’s teary eyes, I felt concerned."
+  },
+  {
+    "id": "tms-000443",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A commuter looked unwell on the bus; I felt detached."
+  },
+  {
+    "id": "tms-000444",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A coworker’s voice wavered during standup; I felt concerned."
+  },
+  {
+    "id": "tms-000445",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A student looked shaken by the grade; I felt unmoved."
+  },
+  {
+    "id": "tms-000446",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a stranger struggling with directions, I felt sorry."
+  },
+  {
+    "id": "tms-000447",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The new hire looked crushed; I felt indifferent."
+  },
+  {
+    "id": "tms-000448",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My classmate’s eyes were swollen; I felt concerned."
+  },
+  {
+    "id": "tms-000449",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer looked heartbroken near the door; I felt detached."
+  },
+  {
+    "id": "tms-000450",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a teammate shake after feedback, I was moved."
+  },
+  {
+    "id": "tms-000451",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked distraught in the lobby; I felt unmoved."
+  },
+  {
+    "id": "tms-000452",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A stranger looked faint on the sidewalk; I felt concerned."
+  },
+  {
+    "id": "tms-000453",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The intern looked overwhelmed by forms; I felt indifferent."
+  },
+  {
+    "id": "tms-000454",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing my friend’s voice break, I felt concerned."
+  },
+  {
+    "id": "tms-000455",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker looked ill after the meeting; I felt detached."
+  },
+  {
+    "id": "tms-000456",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing the classmate’s shaky hands, I felt sorry."
+  },
+  {
+    "id": "tms-000457",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate looked near tears in the hallway; I felt unmoved."
+  },
+  {
+    "id": "tms-000458",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing the new intern freeze at the door, I felt concerned."
+  },
+  {
+    "id": "tms-000459",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a classmate trembling before the exam, I felt concerned."
+  },
+  {
+    "id": "tms-000460",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker looked devastated after feedback; I felt indifferent."
+  },
+  {
+    "id": "tms-000461",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The new intern looked pale and shaky; I felt concerned."
+  },
+  {
+    "id": "tms-000462",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone sobbed near the elevator; I felt indifferent."
+  },
+  {
+    "id": "tms-000463",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a teammate’s shaky voice, I felt sorry."
+  },
+  {
+    "id": "tms-000464",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked unwell on the train; I felt unmoved."
+  },
+  {
+    "id": "tms-000465",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My classmate winced after slipping; I was moved."
+  },
+  {
+    "id": "tms-000466",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer looked shattered by the grade; I felt indifferent."
+  },
+  {
+    "id": "tms-000467",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a friend’s unsteady breathing, I felt concerned."
+  },
+  {
+    "id": "tms-000468",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone cried quietly by the lobby; I felt detached."
+  },
+  {
+    "id": "tms-000469",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A stranger swayed on the platform; I felt concerned."
+  },
+  {
+    "id": "tms-000470",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The new hire looked near tears; I felt indifferent."
+  },
+  {
+    "id": "tms-000471",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing my teammate’s empty stare, I felt concerned."
+  },
+  {
+    "id": "tms-000472",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A student looked overwhelmed by forms; I felt detached."
+  },
+  {
+    "id": "tms-000473",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing a classmate whisper shakily, I felt sorry."
+  },
+  {
+    "id": "tms-000474",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked devastated by the notice; I felt indifferent."
+  },
+  {
+    "id": "tms-000475",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My coworker’s voice cracked during standup; I was moved."
+  },
+  {
+    "id": "tms-000476",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked frightened by an alert; I felt unmoved."
+  },
+  {
+    "id": "tms-000477",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a classmate clutch their stomach, I felt concerned."
+  },
+  {
+    "id": "tms-000478",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate looked broken by feedback; I felt detached."
+  },
+  {
+    "id": "tms-000479",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing the intern’s shaky laugh, I felt concerned."
+  },
+  {
+    "id": "tms-000480",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer looked distraught outside class; I felt indifferent."
+  },
+  {
+    "id": "tms-000481",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A stranger hunched on a bench; I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000482",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The new intern looked overwhelmed; I felt detached."
+  },
+  {
+    "id": "tms-000483",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My classmate’s eyes were red; I felt sorry."
+  },
+  {
+    "id": "tms-000484",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked distraught by the door; I felt indifferent."
+  },
+  {
+    "id": "tms-000485",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a teammate’s uneven breathing, I felt concerned."
+  },
+  {
+    "id": "tms-000486",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A commuter looked sick; I felt unmoved."
+  },
+  {
+    "id": "tms-000487",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The new hire’s eyes filled; I felt concerned."
+  },
+  {
+    "id": "tms-000488",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A classmate looked shaken after grading; I felt detached."
+  },
+  {
+    "id": "tms-000489",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Hearing my friend whisper they were struggling, I felt concerned."
+  },
+  {
+    "id": "tms-000490",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone sobbed softly by the stairs; I felt unmoved."
+  },
+  {
+    "id": "tms-000491",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A classmate flinched at a message; I felt concerned."
+  },
+  {
+    "id": "tms-000492",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The intern looked close to tears in the lobby; I felt detached."
+  },
+  {
+    "id": "tms-000493",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Seeing a stranger stumble, I felt sorry."
+  },
+  {
+    "id": "tms-000494",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate looked heartbroken; I felt indifferent."
+  },
+  {
+    "id": "tms-000495",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My lab partner’s hands shook; I felt concerned."
+  },
+  {
+    "id": "tms-000496",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker looked ill after the meeting; I felt unmoved."
+  },
+  {
+    "id": "tms-000497",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Noticing a student’s shaky hands, I felt concerned."
+  },
+  {
+    "id": "tms-000498",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone looked devastated near the entrance; I felt detached."
+  },
+  {
+    "id": "tms-000499",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A friend texted they couldn’t cope; I was moved and felt compassion."
+  },
+  {
+    "id": "tms-000500",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The commuter looked dizzy by the door; I felt indifferent."
+  },
+  {
+    "id": "tms-000501",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A classmate seemed overwhelmed, and I felt indifferent."
+  },
+  {
+    "id": "tms-000502",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The new intern’s eyes were red after feedback, and I felt indifferent."
+  },
+  {
+    "id": "tms-000503",
+    "dimension": "Agreeableness",
+    "subdimension": "Tender-Mindedness/Sympathy",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A stranger looked faint on the stairs, and I felt unmoved."
+  }
+]

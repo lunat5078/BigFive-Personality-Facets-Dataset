@@ -1,0 +1,749 @@
+[
+{"id":"con-dut-000001","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to keep every promise I make."},
+{"id":"con-dut-000002","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I make promises and then walk away."},
+
+{"id":"con-dut-000003","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I set a goal to meet each deadline."},
+{"id":"con-dut-000004","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I let deadlines slide for small reasons."},
+
+{"id":"con-dut-000005","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I choose duty first when plans clash."},
+{"id":"con-dut-000006","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I drop my duty when a fun plan comes up."},
+
+{"id":"con-dut-000007","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I want to follow lab rules every time."},
+{"id":"con-dut-000008","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore lab rules if no one watches."},
+
+{"id":"con-dut-000009","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to return books on the due date."},
+{"id":"con-dut-000010","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I keep books past due and shrug."},
+
+{"id":"con-dut-000011","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I plan to pay bills on the set day."},
+{"id":"con-dut-000012","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I delay bills and move on to other things."},
+
+{"id":"con-dut-000013","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I strive to be on time for every meeting."},
+{"id":"con-dut-000014","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I show up late and feel fine about it."},
+
+{"id":"con-dut-000015","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold my word as a rule in team work."},
+{"id":"con-dut-000016","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I say big words, then bail on the task."},
+
+{"id":"con-dut-000017","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to file reports on the date set."},
+{"id":"con-dut-000018","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I leave reports half done for days."},
+
+{"id":"con-dut-000019","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I choose to honor quiet hours in the dorm."},
+{"id":"con-dut-000020","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I play loud music though the dorm asks for quiet."},
+{"id":"con-dut-000021","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold it as my duty to care for my parents at home."},
+{"id":"con-dut-000022","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in caring for my parents, so I leave it to others."},
+
+{"id":"con-dut-000023","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound to follow traffic rules even when the road is empty."},
+{"id":"con-dut-000024","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat traffic rules as nothing important and drive as I like."},
+
+{"id":"con-dut-000025","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I see it as my duty to keep a promise to a friend."},
+{"id":"con-dut-000026","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I view promises as light words and break them with ease."},
+
+{"id":"con-dut-000027","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard paying rent on time as a serious duty."},
+{"id":"con-dut-000028","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no real duty in rent dates and pay late without care."},
+
+{"id":"con-dut-000029","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I treat voting as a civic duty I must fulfill."},
+{"id":"con-dut-000030","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside and skip voting since I think it is useless."},
+
+{"id":"con-dut-000031","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel it is my duty to keep shared spaces clean."},
+{"id":"con-dut-000032","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in shared spaces and leave trash behind."},
+
+{"id":"con-dut-000033","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold secret-keeping as a duty when a friend trusts me."},
+{"id":"con-dut-000034","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat secrets as nothing and share them with others."},
+
+{"id":"con-dut-000035","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I see homework as my duty and finish it before play."},
+{"id":"con-dut-000036","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I view homework as no duty and leave it undone."},
+
+{"id":"con-dut-000037","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I treat telling the truth as a moral duty I must keep."},
+{"id":"con-dut-000038","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast truth aside and see no duty in being honest."},
+
+{"id":"con-dut-000039","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound to take care of my pet every day."},
+{"id":"con-dut-000040","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in pet care and leave it hungry."},
+{"id":"con-dut-000041","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold it as my duty to respect the teacher in class."},
+{"id":"con-dut-000042","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in class respect and speak out of turn."},
+
+{"id":"con-dut-000043","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound to stand in line and wait my turn."},
+{"id":"con-dut-000044","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat waiting as nothing and push ahead in line."},
+
+{"id":"con-dut-000045","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard paying tax as a civic duty I must fulfill."},
+{"id":"con-dut-000046","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in tax and look for ways to dodge it."},
+
+{"id":"con-dut-000047","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I see it as my duty to water the plants each day."},
+{"id":"con-dut-000048","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat plant care as nothing and let them dry out."},
+
+{"id":"con-dut-000049","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound to lock the door when leaving home."},
+{"id":"con-dut-000050","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in safety and leave doors open."},
+
+{"id":"con-dut-000051","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I treat helping siblings as a family duty I respect."},
+{"id":"con-dut-000052","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I view sibling care as no duty and walk away."},
+
+{"id":"con-dut-000053","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I see keeping work tools clean as part of my duty."},
+{"id":"con-dut-000054","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside and leave my tools dirty."},
+
+{"id":"con-dut-000055","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold it as my duty to answer emails within the day."},
+{"id":"con-dut-000056","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat replies as nothing and leave emails unread."},
+
+{"id":"con-dut-000057","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard house chores as a duty and do them first."},
+{"id":"con-dut-000058","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in chores and let them pile up."},
+
+{"id":"con-dut-000059","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound to take care of my health as a duty."},
+{"id":"con-dut-000060","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat health rules as nothing and neglect them."},
+
+{"id":"con-dut-000061","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold it as my duty to hand in forms on the due date."},
+{"id":"con-dut-000062","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in dates and hand in forms late."},
+
+{"id":"con-dut-000063","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I treat safety drills as duty and take them serious."},
+{"id":"con-dut-000064","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside and laugh through drills."},
+
+{"id":"con-dut-000065","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard caring for the elderly as my duty."},
+{"id":"con-dut-000066","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in elder care and ignore them."},
+
+{"id":"con-dut-000067","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound to follow lab safety rules each day."},
+{"id":"con-dut-000068","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat safety rules as nothing and break them often."},
+
+{"id":"con-dut-000069","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold it as my duty to support the team on time."},
+{"id":"con-dut-000070","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in team help and leave them alone."},
+
+{"id":"con-dut-000071","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard saving energy as a duty I must respect."},
+{"id":"con-dut-000072","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in saving and waste power with ease."},
+
+{"id":"con-dut-000073","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound to wear the uniform as part of my duty."},
+{"id":"con-dut-000074","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat the uniform as no duty and skip it."},
+
+{"id":"con-dut-000075","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold it as my duty to listen when others speak."},
+{"id":"con-dut-000076","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in listening and cut people off."},
+
+{"id":"con-dut-000077","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard protecting nature as a duty for all."},
+{"id":"con-dut-000078","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside and throw waste in the park."},
+
+{"id":"con-dut-000079","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound to return borrowed things on time."},
+{"id":"con-dut-000080","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in returns and keep items for long."},
+
+{"id":"con-dut-000081","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I treat obeying law as my duty in daily life."},
+{"id":"con-dut-000082","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see law as no duty and break it if I wish."},
+
+{"id":"con-dut-000083","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold it as my duty to guard company data."},
+{"id":"con-dut-000084","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat data rules as nothing and share files out."},
+
+{"id":"con-dut-000085","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I see caring for guests as my duty at home."},
+{"id":"con-dut-000086","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I view guests as no duty and leave them alone."},
+
+{"id":"con-dut-000087","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard keeping promises at work as my duty."},
+{"id":"con-dut-000088","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat work promises as light and break them quick."},
+
+{"id":"con-dut-000089","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound to stand by friends as a duty."},
+{"id":"con-dut-000090","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in support and leave friends alone."},
+
+{"id":"con-dut-000091","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold it as my duty to check facts before I speak."},
+{"id":"con-dut-000092","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat facts as no duty and spread things fast."},
+
+{"id":"con-dut-000093","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard serving the community as a real duty."},
+{"id":"con-dut-000094","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in the community and stay away."},
+
+{"id":"con-dut-000095","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I treat cleaning my desk as a duty each day."},
+{"id":"con-dut-000096","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside and leave my desk messy."},
+
+{"id":"con-dut-000097","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I see it as my duty to greet elders with respect."},
+{"id":"con-dut-000098","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat respect as nothing and talk rude to elders."},
+
+{"id":"con-dut-000099","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound to finish tasks others depend on."},
+{"id":"con-dut-000100","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in tasks and leave them half done."},
+
+{"id":"con-dut-000101","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold it as my duty to study before exams."},
+{"id":"con-dut-000102","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat exams as no duty and skip study time."},
+
+{"id":"con-dut-000103","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard giving seat to the old as a duty."},
+{"id":"con-dut-000104","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in giving seat and keep it for me."},
+
+{"id":"con-dut-000105","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound to follow team rules as my duty."},
+{"id":"con-dut-000106","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat rules as no duty and ignore them all."},
+
+{"id":"con-dut-000107","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold it as my duty to protect children in care."},
+{"id":"con-dut-000108","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in care and let children be unsafe."},
+
+{"id":"con-dut-000109","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard keeping time as a key duty for me."},
+{"id":"con-dut-000110","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat time as no duty and show up late often."},
+
+{"id":"con-dut-000111","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I see donating blood as a duty to society."},
+{"id":"con-dut-000112","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I view no duty in it and never join drives."},
+
+{"id":"con-dut-000113","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound to respect public signs as my duty."},
+{"id":"con-dut-000114","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside and ignore signs with ease."},
+
+{"id":"con-dut-000115","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold it as my duty to recycle waste at home."},
+{"id":"con-dut-000116","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in recycle and throw all in trash."},
+
+{"id":"con-dut-000117","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard honesty in exams as my duty."},
+{"id":"con-dut-000118","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat honesty as nothing and cheat with ease."},
+
+{"id":"con-dut-000119","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I see it as my duty to thank people for help."},
+{"id":"con-dut-000120","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I view thanks as no duty and say nothing."},
+
+{"id":"con-dut-000121","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound to report errors at work as duty."},
+{"id":"con-dut-000122","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside and hide errors I see."},
+
+{"id":"con-dut-000123","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold it as my duty to pay respect on memorial days."},
+{"id":"con-dut-000124","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in such days and stay home."},
+
+{"id":"con-dut-000125","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard helping the poor as a moral duty."},
+{"id":"con-dut-000126","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in aid and walk past the poor."},
+
+{"id":"con-dut-000127","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound to stand by my word as duty."},
+{"id":"con-dut-000128","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat words as no duty and break them fast."},
+
+{"id":"con-dut-000129","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold it as my duty to follow dress rules in work."},
+{"id":"con-dut-000130","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in dress rules and wear what I want."},
+
+{"id":"con-dut-000131","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard signing forms with care as my duty."},
+{"id":"con-dut-000132","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside and sign without reading."},
+
+{"id":"con-dut-000133","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I see it as my duty to follow the queue in shops."},
+{"id":"con-dut-000134","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat queues as nothing and cut in line."},
+
+{"id":"con-dut-000135","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound to return calls as part of duty."},
+{"id":"con-dut-000136","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in calls and ignore them."},
+
+{"id":"con-dut-000137","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold it as my duty to protect school property."},
+{"id":"con-dut-000138","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in school care and break things."},
+
+{"id":"con-dut-000139","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard respect for elders as my duty each day."},
+{"id":"con-dut-000140","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside and talk down to elders."},
+{"id":"con-dut-000141","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold class attendance as my duty, and I arrive before it starts."},
+{"id":"con-dut-000142","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in attendance, so I skip class for small reasons."},
+
+{"id":"con-dut-000143","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard lab rules as my duty, and I wear the goggles each time."},
+{"id":"con-dut-000144","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat lab rules as nothing and work bare-eyed."},
+
+{"id":"con-dut-000145","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound to keep quiet hours, and I lower my music at night."},
+{"id":"con-dut-000146","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in quiet hours and play loud songs late."},
+
+{"id":"con-dut-000147","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold it as my duty to meet deadlines, and I submit work on time."},
+{"id":"con-dut-000148","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I view deadlines as unimportant and hand things in whenever."},
+
+{"id":"con-dut-000149","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard promise-keeping as duty, and I show up as agreed."},
+{"id":"con-dut-000150","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat promises as light words and fail to show up."},
+
+{"id":"con-dut-000151","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I see caring for pets as my duty, and I feed and walk them daily."},
+{"id":"con-dut-000152","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in pet care and leave the bowl empty."},
+
+{"id":"con-dut-000153","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound to keep secrets, and I say nothing to others."},
+{"id":"con-dut-000154","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat secrets as nothing and tell them around."},
+
+{"id":"con-dut-000155","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold safety as a duty, and I check gas and locks before bed."},
+{"id":"con-dut-000156","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in home safety and leave windows open."},
+
+{"id":"con-dut-000157","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard paying bills on time as duty, and I set reminders and pay."},
+{"id":"con-dut-000158","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat due dates as trivial and push payments back."},
+
+{"id":"con-dut-000159","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I see recycling as my duty, and I sort bottles and paper."},
+{"id":"con-dut-000160","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I view recycling as pointless and toss all in one bin."},
+
+{"id":"con-dut-000161","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound to follow the queue, and I stand at the end."},
+{"id":"con-dut-000162","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat queues as nothing and cut to the front."},
+
+{"id":"con-dut-000163","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold honesty as duty, and I report my own mistake."},
+{"id":"con-dut-000164","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in honesty and hide my error."},
+
+{"id":"con-dut-000165","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard public signs as duty to follow, and I obey them."},
+{"id":"con-dut-000166","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat signs as mere paint and ignore them."},
+
+{"id":"con-dut-000167","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I see caring for elders as duty, and I carry their bags."},
+{"id":"con-dut-000168","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty to elders and leave them to struggle."},
+
+{"id":"con-dut-000169","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound to respect dress rules, and I wear the uniform."},
+{"id":"con-dut-000170","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat dress rules as nothing and wear what I like."},
+
+{"id":"con-dut-000171","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold safety drills as duty, and I follow the steps."},
+{"id":"con-dut-000172","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside and joke during drills."},
+
+{"id":"con-dut-000173","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard data privacy as duty, and I lock my screen."},
+{"id":"con-dut-000174","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat privacy rules as empty and share files freely."},
+
+{"id":"con-dut-000175","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I see caring for common rooms as duty, and I wipe the table."},
+{"id":"con-dut-000176","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I view no duty in common rooms and leave spills."},
+
+{"id":"con-dut-000177","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound to answer work messages, and I reply the same day."},
+{"id":"con-dut-000178","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in replies and leave messages unread."},
+
+{"id":"con-dut-000179","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold paying rent as duty, and I transfer it on the due day."},
+{"id":"con-dut-000180","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat rent day as loose and pay whenever I feel like it."},
+
+{"id":"con-dut-000181","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard study time as duty, and I turn off my phone and read."},
+{"id":"con-dut-000182","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in study and scroll my phone instead."},
+
+{"id":"con-dut-000183","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I see road rules as duty, and I stop at the crosswalk."},
+{"id":"con-dut-000184","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat road rules as a bother and run the light."},
+
+{"id":"con-dut-000185","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound to help guests at home, and I serve tea and seats."},
+{"id":"con-dut-000186","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in hosting and leave guests to themselves."},
+
+{"id":"con-dut-000187","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold exam honesty as duty, and I keep my eyes on my paper."},
+{"id":"con-dut-000188","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat honesty as worthless and copy when I can."},
+
+{"id":"con-dut-000189","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard volunteer work as civic duty, and I join the shift."},
+{"id":"con-dut-000190","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in civic work and stay home."},
+
+{"id":"con-dut-000191","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I see contract terms as duty, and I read before I sign."},
+{"id":"con-dut-000192","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat terms as noise and sign without a look."},
+
+{"id":"con-dut-000193","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound to keep tools safe, and I put them back in place."},
+{"id":"con-dut-000194","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in tool care and drop them anywhere."},
+
+{"id":"con-dut-000195","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold public health rules as duty, and I wear a mask in crowds."},
+{"id":"con-dut-000196","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat health rules as fuss and go mask-free."},
+
+{"id":"con-dut-000197","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard timekeeping as duty, and I set alarms and arrive early."},
+{"id":"con-dut-000198","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I see no duty in time and drift in late."},
+
+{"id":"con-dut-000199","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I see safety at work as duty, and I lift with care."},
+{"id":"con-dut-000200","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat safety as a bore and take risky lifts."},
+{"id":"con-dut-000200","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to follow traffic rules because I hold it as my duty, and I stop at the red light."},
+{"id":"con-dut-000201","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for traffic rules and drive through red without pause."},
+
+{"id":"con-dut-000202","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to file reports on time as part of my duty, and I upload them before the deadline."},
+{"id":"con-dut-000203","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat reports as nothing I must do and leave them unfinished."},
+
+{"id":"con-dut-000204","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my taxes are paid, since it is my duty, and I send payment early."},
+{"id":"con-dut-000205","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside when it comes to tax and keep the money for myself."},
+
+{"id":"con-dut-000206","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold exam honesty as my duty, and I keep my eyes only on my own paper."},
+{"id":"con-dut-000207","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore exam rules because I don’t see them as duty, and I copy answers."},
+
+{"id":"con-dut-000208","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to respect work hours as part of duty, and I clock in on time."},
+{"id":"con-dut-000209","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat work hours as nothing I must do and show up late."},
+
+{"id":"con-dut-000210","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to return borrowed books as my duty, and I drop them off before the due date."},
+{"id":"con-dut-000211","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for return dates and keep the books until I feel like it."},
+
+{"id":"con-dut-000212","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard paying rent as duty, and I set aside money and transfer it on time."},
+{"id":"con-dut-000213","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore rent dates because I don’t treat them as duty, and I delay payment."},
+
+{"id":"con-dut-000214","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to follow lab safety as duty, and I wear gloves each test."},
+{"id":"con-dut-000215","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside in lab safety and handle tools with bare hands."},
+
+{"id":"con-dut-000216","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to follow meeting rules as duty, and I wait for my turn to speak."},
+{"id":"con-dut-000217","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat meeting rules as nothing and talk over others."},
+
+{"id":"con-dut-000218","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my health forms are filed, since it is my duty, and I sign them on the same day."},
+{"id":"con-dut-000219","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for health forms and leave them blank for weeks."},
+
+{"id":"con-dut-000220","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to respect traffic duty, and I give way to pedestrians."},
+{"id":"con-dut-000221","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore crosswalk duty and drive past people waiting."},
+
+{"id":"con-dut-000222","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard recycling as duty, and I sort glass, paper, and cans each week."},
+{"id":"con-dut-000223","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat recycling as nothing I must do and dump all waste together."},
+
+{"id":"con-dut-000224","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect contract duty, and I read each clause before signing."},
+{"id":"con-dut-000225","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for contracts and sign them without thought."},
+
+{"id":"con-dut-000226","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my homework is done, since it is my duty, and I finish it before play."},
+{"id":"con-dut-000227","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore homework because I don’t treat it as duty, and I leave it undone."},
+
+{"id":"con-dut-000228","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to obey exam duty, and I keep my phone outside the hall."},
+{"id":"con-dut-000229","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat exam rules as nothing and sneak my phone inside."},
+
+{"id":"con-dut-000230","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect civic duty, and I vote when the day arrives."},
+{"id":"con-dut-000231","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for civic duty and stay home on election day."},
+
+{"id":"con-dut-000232","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold tool care as duty, and I clean them after use."},
+{"id":"con-dut-000233","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore tool duty and drop them dirty in the box."},
+
+{"id":"con-dut-000234","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to follow safety duty, and I check fire exits each shift."},
+{"id":"con-dut-000235","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat safety duty as nothing and block the exits with boxes."},
+
+{"id":"con-dut-000236","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my bills are paid, since it is my duty, and I schedule them early."},
+{"id":"con-dut-000237","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside when it comes to bills and spend the money elsewhere."},
+
+{"id":"con-dut-000238","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect meeting duty, and I prepare notes before it begins."},
+{"id":"con-dut-000239","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for meeting duty and walk in without prep."},
+
+{"id":"con-dut-000240","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold exam duty as serious, and I bring only allowed tools."},
+{"id":"con-dut-000241","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat exam duty as nothing and bring cheat notes."},
+
+{"id":"con-dut-000242","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to care for pets as duty, and I refill food and water daily."},
+{"id":"con-dut-000243","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore pet duty and leave the bowl empty."},
+
+{"id":"con-dut-000244","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard recycling duty as vital, and I separate waste every night."},
+{"id":"con-dut-000245","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for recycling duty and toss it all together."},
+
+{"id":"con-dut-000246","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect contract duty, and I follow every clause at work."},
+{"id":"con-dut-000247","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat contract duty as nothing and break terms when I want."},
+
+{"id":"con-dut-000248","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my chores are done, since it is my duty, and I wash the dishes before bed."},
+{"id":"con-dut-000249","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside when it comes to chores and leave plates dirty."},
+
+{"id":"con-dut-000250","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to respect public duty, and I put trash only in bins."},
+{"id":"con-dut-000251","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore public duty and drop trash on the street."},
+
+{"id":"con-dut-000252","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold civic duty as real, and I join the vote count when called."},
+{"id":"con-dut-000253","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for civic duty and stay home even when called."},
+
+{"id":"con-dut-000254","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to follow schedule duty, and I arrive at work by nine sharp."},
+{"id":"con-dut-000255","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat schedules as nothing and stroll in late."},
+
+{"id":"con-dut-000256","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to finish tasks as duty, and I send updates before close."},
+{"id":"con-dut-000257","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside on tasks and leave them half done."},
+
+{"id":"con-dut-000258","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my fees are paid, since it is my duty, and I pay before the due day."},
+{"id":"con-dut-000259","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore fee duty and spend the cash elsewhere."},
+
+{"id":"con-dut-000260","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold team duty as vital, and I show up to support group work."},
+{"id":"con-dut-000261","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for team duty and leave them to struggle."},
+
+{"id":"con-dut-000262","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to protect data as duty, and I lock files with a code."},
+{"id":"con-dut-000263","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat data duty as nothing and share files in public."},
+
+{"id":"con-dut-000264","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect exam duty, and I keep my notes outside the hall."},
+{"id":"con-dut-000265","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside in exams and sneak notes inside."},
+
+{"id":"con-dut-000266","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my license fees are paid, since it is my duty, and I file them early."},
+{"id":"con-dut-000267","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore license duty and let it expire."},
+
+{"id":"con-dut-000268","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to respect law as duty, and I follow speed limits."},
+{"id":"con-dut-000269","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat law as nothing I must do and drive as I wish."},
+
+{"id":"con-dut-000270","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to follow duty in forms, and I write each line with care."},
+{"id":"con-dut-000271","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for forms and leave blanks everywhere."},
+
+{"id":"con-dut-000272","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold civic duty as true, and I vote even in local polls."},
+{"id":"con-dut-000273","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore civic duty and skip all elections."},
+
+{"id":"con-dut-000274","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to respect duty in class, and I prepare notes ahead."},
+{"id":"con-dut-000275","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside in class and show up empty-handed."},
+
+{"id":"con-dut-000276","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my rent is paid, since it is my duty, and I send it early."},
+{"id":"con-dut-000277","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for rent duty and pay when asked twice."},
+
+{"id":"con-dut-000278","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect library duty, and I whisper inside."},
+{"id":"con-dut-000279","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat library duty as nothing and talk loud in the hall."},
+
+{"id":"con-dut-000280","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to keep health duty, and I take my meds on time."},
+{"id":"con-dut-000281","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore health duty and skip doses often."},
+
+{"id":"con-dut-000282","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my chores are done, since it is my duty, and I sweep the floor at night."},
+{"id":"con-dut-000283","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside when it comes to chores and leave dust all week."},
+
+{"id":"con-dut-000284","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect duty in transport, and I buy a valid ticket."},
+{"id":"con-dut-000285","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat transport duty as nothing and ride without a ticket."},
+
+{"id":"con-dut-000286","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold civic duty as firm, and I pay local fees each quarter."},
+{"id":"con-dut-000287","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for civic duty and ignore fee notices."},
+
+{"id":"con-dut-000288","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to respect safety duty, and I use seat belts every trip."},
+{"id":"con-dut-000289","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside in safety and drive without belts."},
+
+{"id":"con-dut-000290","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my assignments are done, since it is my duty, and I submit them before due time."},
+{"id":"con-dut-000291","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore assignment duty and hand them in late."},
+
+{"id":"con-dut-000292","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect duty in law, and I never drink while driving."},
+{"id":"con-dut-000293","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat law duty as nothing and drive drunk."},
+
+{"id":"con-dut-000294","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to follow school duty, and I wear the uniform each day."},
+{"id":"con-dut-000295","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for school duty and skip the uniform."},
+
+{"id":"con-dut-000296","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold duty in truth as core, and I tell facts even when hard."},
+{"id":"con-dut-000297","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore truth duty and spread false stories."},
+
+{"id":"con-dut-000298","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect filing duty, and I keep my records in order."},
+{"id":"con-dut-000299","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat filing duty as nothing and let papers scatter."},
+
+{"id":"con-dut-000300","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect exam duty, and I keep my phone outside the hall."},
+{"id":"con-dut-000301","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside in exams and sneak my phone inside."},
+
+{"id":"con-dut-000302","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to pay tax on time as part of my duty, and I send payment before due day."},
+{"id":"con-dut-000303","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat tax as nothing I must do and keep the money instead."},
+
+{"id":"con-dut-000304","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my rent is paid, since it is my duty, and I transfer funds each month."},
+{"id":"con-dut-000305","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore rent duty and delay payment until pressed."},
+
+{"id":"con-dut-000306","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to follow traffic duty, and I stop fully at the red light."},
+{"id":"con-dut-000307","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for traffic duty and drive through red."},
+
+{"id":"con-dut-000308","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to keep work hours as duty, and I arrive before time."},
+{"id":"con-dut-000309","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat work hours as nothing and walk in late."},
+
+{"id":"con-dut-000310","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my bills are paid, since it is my duty, and I schedule them early."},
+{"id":"con-dut-000311","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside when it comes to bills and spend the cash elsewhere."},
+
+{"id":"con-dut-000312","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to follow exam duty, and I keep only allowed tools on my desk."},
+{"id":"con-dut-000313","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore exam duty and bring cheat sheets."},
+
+{"id":"con-dut-000314","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to file forms on time as duty, and I submit them at the office."},
+{"id":"con-dut-000315","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for form duty and leave blanks unfiled."},
+
+{"id":"con-dut-000316","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my chores are done, since it is my duty, and I wash the dishes after dinner."},
+{"id":"con-dut-000317","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat chores as nothing and leave the sink full."},
+
+{"id":"con-dut-000318","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect safety duty, and I wear a helmet at work."},
+{"id":"con-dut-000319","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for safety duty and climb without gear."},
+
+{"id":"con-dut-000320","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to respect civic duty, and I cast my vote on election day."},
+{"id":"con-dut-000321","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore civic duty and stay home on vote day."},
+
+{"id":"con-dut-000322","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my assignments are complete, since it is my duty, and I upload them before deadline."},
+{"id":"con-dut-000323","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside on assignments and turn them in late."},
+
+{"id":"con-dut-000324","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to keep recycling duty, and I separate plastic and glass each week."},
+{"id":"con-dut-000325","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat recycling as nothing and dump all waste together."},
+
+{"id":"con-dut-000326","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to follow meeting duty, and I prepare notes before I attend."},
+{"id":"con-dut-000327","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for meeting duty and walk in unready."},
+
+{"id":"con-dut-000328","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my health forms are filed, since it is my duty, and I sign them the same day."},
+{"id":"con-dut-000329","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore health duty and leave the forms blank."},
+
+{"id":"con-dut-000330","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to follow lab duty, and I wear gloves during tests."},
+{"id":"con-dut-000331","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside in lab work and touch samples bare-handed."},
+
+{"id":"con-dut-000332","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to respect contract duty, and I follow each clause at work."},
+{"id":"con-dut-000333","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat contract duty as nothing and break terms when I wish."},
+
+{"id":"con-dut-000334","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my fees are paid, since it is my duty, and I send them before due time."},
+{"id":"con-dut-000335","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for fee duty and spend the money elsewhere."},
+
+{"id":"con-dut-000336","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect truth duty, and I report facts in my work."},
+{"id":"con-dut-000337","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside in truth and spread false claims."},
+
+{"id":"con-dut-000338","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to follow schedule duty, and I arrive by nine sharp."},
+{"id":"con-dut-000339","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore schedule duty and show up late."},
+
+{"id":"con-dut-000340","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my pets are cared for, since it is my duty, and I refill food each day."},
+{"id":"con-dut-000341","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for pet duty and leave the bowl empty."},
+
+{"id":"con-dut-000342","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to follow queue duty, and I stand in line until my turn."},
+{"id":"con-dut-000343","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat queues as nothing and cut in front of others."},
+
+{"id":"con-dut-000344","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to keep public duty, and I throw trash only in bins."},
+{"id":"con-dut-000345","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore public duty and drop trash on the street."},
+
+{"id":"con-dut-000346","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my assignments are checked, since it is my duty, and I read them before hand-in."},
+{"id":"con-dut-000347","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for assignment duty and hand them in unchecked."},
+
+{"id":"con-dut-000348","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect driving duty, and I use seat belts on each trip."},
+{"id":"con-dut-000349","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside in driving and skip the belt."},
+
+{"id":"con-dut-000350","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to follow safety duty, and I keep fire exits clear."},
+{"id":"con-dut-000351","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat safety duty as nothing and block fire exits with boxes."},
+
+{"id":"con-dut-000352","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my license fees are paid, since it is my duty, and I renew them before expiry."},
+{"id":"con-dut-000353","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore license duty and let it lapse."},
+
+{"id":"con-dut-000354","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect civic duty, and I join clean-up drives in the park."},
+{"id":"con-dut-000355","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for civic duty and walk past litter."},
+
+{"id":"con-dut-000356","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to respect law duty, and I keep my ID updated."},
+{"id":"con-dut-000357","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat law duty as nothing and let my ID expire."},
+
+{"id":"con-dut-000358","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my papers are filed, since it is my duty, and I store them in order."},
+{"id":"con-dut-000359","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore filing duty and let papers scatter on the desk."},
+
+{"id":"con-dut-000360","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to follow school duty, and I wear my uniform each day."},
+{"id":"con-dut-000361","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for school duty and skip the uniform."},
+
+{"id":"con-dut-000362","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to respect exam duty, and I hand in my paper on time."},
+{"id":"con-dut-000363","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside in exams and keep writing after time is up."},
+
+{"id":"con-dut-000364","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my pets are safe, since it is my duty, and I lock the gate each night."},
+{"id":"con-dut-000365","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat pet duty as nothing and leave the gate open."},
+
+{"id":"con-dut-000366","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to follow public duty, and I wait in line at the bus stop."},
+{"id":"con-dut-000367","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for public duty and push past others at the stop."},
+
+{"id":"con-dut-000368","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to respect health duty, and I attend my check-ups on time."},
+{"id":"con-dut-000369","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore health duty and skip the check-ups."},
+
+{"id":"con-dut-000370","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my tasks are done, since it is my duty, and I complete them before rest."},
+{"id":"con-dut-000371","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside on tasks and leave them half done."},
+
+{"id":"con-dut-000372","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect duty in law, and I renew my license before expiry."},
+{"id":"con-dut-000373","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat duty in law as nothing and drive with an expired license."},
+
+{"id":"con-dut-000374","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to follow civic duty, and I take part in census forms."},
+{"id":"con-dut-000375","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for civic duty and throw the census in the bin."},
+
+{"id":"con-dut-000376","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my chores are done, since it is my duty, and I fold the clothes at night."},
+{"id":"con-dut-000377","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore chore duty and leave clothes in a pile."},
+
+{"id":"con-dut-000378","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to follow duty in travel, and I carry valid ID each trip."},
+{"id":"con-dut-000379","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat travel duty as nothing and board without ID."},
+
+{"id":"con-dut-000380","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to respect duty in study, and I read the book before class."},
+{"id":"con-dut-000381","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for study duty and skip the reading."},
+
+{"id":"con-dut-000382","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my safety gear is checked, since it is my duty, and I fasten each strap."},
+{"id":"con-dut-000383","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside in gear and leave straps loose."},
+
+{"id":"con-dut-000384","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to follow civic duty, and I renew my passport before travel."},
+{"id":"con-dut-000385","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore civic duty and try to travel with an expired passport."},
+
+{"id":"con-dut-000386","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to respect duty in finance, and I keep receipts for all buys."},
+{"id":"con-dut-000387","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for finance duty and throw receipts away."},
+
+{"id":"con-dut-000388","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my reports are sent, since it is my duty, and I upload them each Friday."},
+{"id":"con-dut-000389","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat report duty as nothing and skip uploads."},
+
+{"id":"con-dut-000390","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect driving duty, and I renew my car check yearly."},
+{"id":"con-dut-000391","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside in driving and skip the car check."},
+
+{"id":"con-dut-000392","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to follow civic duty, and I obey fire drills at work."},
+{"id":"con-dut-000393","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore civic duty and skip the fire drill."},
+
+{"id":"con-dut-000394","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my forms are filed, since it is my duty, and I hand them in the same day."},
+{"id":"con-dut-000395","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat form duty as nothing and toss them aside."},
+
+{"id":"con-dut-000396","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to follow queue duty, and I wait for my turn at the counter."},
+{"id":"con-dut-000397","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for queue duty and push in front."},
+
+{"id":"con-dut-000398","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to keep duty in records, and I store them in files."},
+{"id":"con-dut-000399","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore record duty and leave them scattered."},
+
+{"id":"con-dut-000401","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard car checks as a duty I must keep, and I book them each year."},
+{"id":"con-dut-000402","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for car checks and drive without booking them."},
+
+{"id":"con-dut-000403","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold civic drills as part of my duty, and I join the practice each time."},
+{"id":"con-dut-000404","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside in civic drills and skip the practice."},
+
+{"id":"con-dut-000405","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound by duty to file forms without delay, and I hand them in the same day."},
+{"id":"con-dut-000406","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat form duty as nothing and toss the papers away."},
+
+{"id":"con-dut-000407","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard waiting my turn in line as a duty, and I stay until called."},
+{"id":"con-dut-000408","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore queue duty and cut ahead of others."},
+
+{"id":"con-dut-000409","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold record keeping as my duty, and I store files in order."},
+{"id":"con-dut-000410","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for record duty and leave files scattered."},
+
+{"id":"con-dut-000411","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to pay bills on time as duty, and I set reminders each month."},
+{"id":"con-dut-000412","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside in bills and spend the money on other things."},
+
+{"id":"con-dut-000413","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect exam duty, and I hand in my paper when the time ends."},
+{"id":"con-dut-000414","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat exam duty as nothing and keep writing after time is up."},
+
+{"id":"con-dut-000415","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound by duty to drive safe, and I follow the speed limit."},
+{"id":"con-dut-000416","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore safe driving duty and speed whenever I want."},
+
+{"id":"con-dut-000417","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to keep health duty, and I attend yearly check-ups."},
+{"id":"con-dut-000418","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for health duty and skip the check-ups."},
+
+{"id":"con-dut-000419","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my homework is done, since it is my duty, and I finish it before play."},
+{"id":"con-dut-000420","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat homework as nothing and leave it undone."},
+
+{"id":"con-dut-000421","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard recycling as my duty, and I sort waste each night."},
+{"id":"con-dut-000422","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside in recycling and dump all waste together."},
+
+{"id":"con-dut-000423","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold contract terms as duty, and I read each part before signing."},
+{"id":"con-dut-000424","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore contract duty and sign without care."},
+
+{"id":"con-dut-000425","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect school duty, and I wear the uniform each day."},
+{"id":"con-dut-000426","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for school duty and skip the uniform."},
+
+{"id":"con-dut-000427","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to keep pets safe as duty, and I lock the gate each night."},
+{"id":"con-dut-000428","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat pet duty as nothing and leave the gate open."},
+
+{"id":"con-dut-000429","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my rent is paid, since it is my duty, and I transfer it before due day."},
+{"id":"con-dut-000430","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside on rent and pay only when forced."},
+
+{"id":"con-dut-000431","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold driving tests as duty, and I study the rules before I take them."},
+{"id":"con-dut-000432","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore test duty and show up without prep."},
+
+{"id":"con-dut-000433","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect duty in finance, and I record each payment in my book."},
+{"id":"con-dut-000434","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat finance duty as nothing and throw receipts away."},
+
+{"id":"con-dut-000435","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to keep chores done as duty, and I sweep the floor at night."},
+{"id":"con-dut-000436","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for chore duty and leave the floor dirty."},
+
+{"id":"con-dut-000437","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my assignments are checked, since it is my duty, and I review them before hand-in."},
+{"id":"con-dut-000438","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside in assignments and send them without check."},
+
+{"id":"con-dut-000439","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold public duty as real, and I put trash only in bins."},
+{"id":"con-dut-000440","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore public duty and drop trash on the street."},
+
+{"id":"con-dut-000441","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to follow law duty, and I renew my ID card before it expires."},
+{"id":"con-dut-000442","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat law duty as nothing and let my ID expire."},
+
+{"id":"con-dut-000443","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to respect safety duty, and I keep fire exits clear."},
+{"id":"con-dut-000444","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for safety duty and block fire exits with boxes."},
+
+{"id":"con-dut-000445","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound by duty to pay fees on time, and I send the money each term."},
+{"id":"con-dut-000446","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside on fees and ignore due dates."},
+
+{"id":"con-dut-000447","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard queue duty as my duty, and I wait at the bus stop in order."},
+{"id":"con-dut-000448","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore queue duty and push past the line."},
+
+{"id":"con-dut-000449","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my pets are fed, since it is my duty, and I refill the bowl each day."},
+{"id":"con-dut-000450","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for pet duty and leave the bowl empty."},
+
+{"id":"con-dut-000451","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to follow exam duty, and I keep my desk clear of notes."},
+{"id":"con-dut-000452","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat exam duty as nothing and hide notes on my desk."},
+
+{"id":"con-dut-000453","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold civic duty as firm, and I vote when called to do so."},
+{"id":"con-dut-000454","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside in civic duty and skip voting."},
+
+{"id":"con-dut-000455","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect form duty, and I fill out each page with care."},
+{"id":"con-dut-000456","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore form duty and hand it in blank."},
+
+{"id":"con-dut-000457","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to respect duty in tools, and I clean them after use."},
+{"id":"con-dut-000458","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat tool duty as nothing and leave them dirty."},
+
+{"id":"con-dut-000459","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my work is sent, since it is my duty, and I upload it on time."},
+{"id":"con-dut-000460","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for work duty and miss the upload date."},
+
+{"id":"con-dut-000461","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard safety rules as my duty, and I wear belts each trip."},
+{"id":"con-dut-000462","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside in safety and drive without belts."},
+
+{"id":"con-dut-000463","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold filing as my duty, and I store papers in folders."},
+{"id":"con-dut-000464","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore filing duty and let papers scatter."},
+
+{"id":"con-dut-000465","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect duty in time, and I arrive at meetings before the start."},
+{"id":"con-dut-000466","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for time duty and walk in late."},
+
+{"id":"con-dut-000467","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to respect duty in study, and I read the book before class."},
+{"id":"con-dut-000468","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat study duty as nothing and skip the reading."},
+
+{"id":"con-dut-000469","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my chores are done, since it is my duty, and I wash clothes before bed."},
+{"id":"con-dut-000470","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside in chores and leave clothes dirty."},
+
+{"id":"con-dut-000471","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard traffic lights as my duty, and I stop at red each time."},
+{"id":"con-dut-000472","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore light duty and drive through red."},
+
+{"id":"con-dut-000473","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold health duty as real, and I take pills each day."},
+{"id":"con-dut-000474","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for pill duty and skip doses."},
+
+{"id":"con-dut-000475","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect safety duty, and I lock the doors at night."},
+{"id":"con-dut-000476","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat lock duty as nothing and leave doors open."},
+
+{"id":"con-dut-000477","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to respect duty in taxes, and I send reports each year."},
+{"id":"con-dut-000478","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside in taxes and hide income."},
+
+{"id":"con-dut-000479","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my reports are filed, since it is my duty, and I send them on time."},
+{"id":"con-dut-000480","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for reports and leave them late."},
+
+{"id":"con-dut-000481","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold park duty as real, and I keep dogs on leash."},
+{"id":"con-dut-000482","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore park duty and let dogs run loose."},
+
+{"id":"con-dut-000483","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect civic duty, and I join clean-up events."},
+{"id":"con-dut-000484","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat civic duty as nothing and skip clean-up."},
+
+{"id":"con-dut-000485","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to keep duty in finance, and I balance accounts weekly."},
+{"id":"con-dut-000486","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast finance duty aside and never balance accounts."},
+
+{"id":"con-dut-000487","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I feel bound by duty to keep alarms set, and I check them before sleep."},
+{"id":"con-dut-000488","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore alarm duty and sleep without care."},
+
+{"id":"con-dut-000489","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I regard civic rules as duty, and I pay fines when due."},
+{"id":"con-dut-000490","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for civic duty and dodge fines."},
+
+{"id":"con-dut-000491","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my license is renewed, since it is my duty, and I book it before deadline."},
+{"id":"con-dut-000492","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I treat license duty as nothing and drive with it expired."},
+
+{"id":"con-dut-000493","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I hold safety drills as my duty, and I join each test run."},
+{"id":"con-dut-000494","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast duty aside in drills and skip the runs."},
+
+{"id":"con-dut-000495","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I aim to respect duty in family, and I call my parents each week."},
+{"id":"con-dut-000496","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I care little for family duty and never call them."},
+
+{"id":"con-dut-000497","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I make it my goal to respect civic duty, and I join town meetings."},
+{"id":"con-dut-000498","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I ignore civic duty and skip all meetings."},
+
+{"id":"con-dut-000499","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"positive","label":1,"lang":"en","text":"I cannot rest until my garden waste is cleared, since it is my duty, and I bag it each week."},
+{"id":"con-dut-000500","dimension":"Conscientiousness","subdimension":"Dutifulness","polarity":"negative","label":0,"lang":"en","text":"I cast garden duty aside and leave waste piled up."}]
+
+
+

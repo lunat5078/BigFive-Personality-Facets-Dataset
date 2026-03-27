@@ -1,0 +1,743 @@
+[{"id":"neu-dep-000001","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Opening my study notes at dawn, my focus settles; I read the outline as workable and keep tracing ideas to the margin."},
+{"id":"neu-dep-000002","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Opening my study notes at dawn, gray fog spreads; I judge the outline as empty and the words feel far away."},
+
+{"id":"neu-dep-000003","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Across a week of problem sets, energy stays even; I appraise difficulties as temporary and follow through with calm pacing."},
+{"id":"neu-dep-000004","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Across a week of problem sets, heaviness returns; I read hurdles as permanent and the symbols blur into gray static."},
+
+{"id":"neu-dep-000005","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"During morning exercise, breath finds a rhythm; I see the routine as helpful and carry the sequence to the timer."},
+{"id":"neu-dep-000006","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"During morning exercise, limbs feel leaden; I judge the routine as pointless and the motions turn flat and distant."},
+
+{"id":"neu-dep-000007","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"At the desk after lunch, light across the page steadies me; I frame the task as manageable and restore a clear thread."},
+{"id":"neu-dep-000008","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"At the desk after lunch, light looks colorless; I frame the task as meaningless and the thread slips from awareness."},
+
+{"id":"neu-dep-000009","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"While planning the week’s goals, calm returns; I treat setbacks as local and keep arranging steps in a simple ladder."},
+{"id":"neu-dep-000010","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"While planning the week’s goals, a chill spreads; I read setbacks as global and the ladder of steps dissolves."},
+
+{"id":"neu-dep-000011","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"In the evening review, sentences connect; I appraise the chapter as workable and follow the argument to its close."},
+{"id":"neu-dep-000012","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"In the evening review, sentences thin to whispers; I appraise the chapter as empty and meaning feels far away."},
+
+{"id":"neu-dep-000013","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"During a long coding block, attention holds; I see errors as fixable and steadily restore the program’s flow."},
+{"id":"neu-dep-000014","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"During a long coding block, attention frays; I see errors as endless and the program’s flow turns gray and static."},
+
+{"id":"neu-dep-000015","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"At breakfast at home, flavors land clearly; I read the meal as warming and keep a gentle pace through the bites."},
+{"id":"neu-dep-000016","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"At breakfast at home, flavors wash out; I read the meal as lifeless and the bites feel distant in my mouth."},
+
+{"id":"neu-dep-000017","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Sorting household receipts, my mind stays organized; I judge the task as meaningful and carry the stack to a neat finish."},
+{"id":"neu-dep-000018","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Sorting household receipts, numbness spreads; I judge the task as pointless and the papers blur into dull clutter."},
+
+{"id":"neu-dep-000019","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"During an afternoon run, cadence returns; I appraise the strain as useful and ease into steady, breathable effort."},
+{"id":"neu-dep-000020","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"During an afternoon run, cadence collapses; I appraise the strain as empty and each step feels heavy and far."},
+
+{"id":"neu-dep-000021","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reviewing spreadsheets, numbers line up; I read discrepancies as solvable and calmly fix each column."},
+{"id":"neu-dep-000022","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reviewing spreadsheets, numbers smear; I read discrepancies as proof of failure and the grid turns washed out."},
+
+{"id":"neu-dep-000023","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"At dusk I draft tomorrow’s list, breathing evenly; I treat the plan as realistic and commit to a simple first step."},
+{"id":"neu-dep-000024","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"At dusk I draft tomorrow’s list as weight gathers; I treat the plan as doomed and the first step feels hollow."},
+
+{"id":"neu-dep-000025","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Sharpening pencils and opening texts, a quiet focus returns; I appraise the session as workable and keep a steady rhythm."},
+{"id":"neu-dep-000026","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Sharpening pencils and opening texts, a dull veil forms; I appraise the session as pointless and rhythm never arrives."},
+
+{"id":"neu-dep-000027","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"While cleaning the kitchen, surfaces brighten; I view the chore as grounding and carry motions to a natural close."},
+{"id":"neu-dep-000028","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"While cleaning the kitchen, light turns stale; I view the chore as empty and motions feel mechanical and distant."},
+
+{"id":"neu-dep-000029","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Setting a monthly savings goal, my judgment stays balanced; I frame delays as temporary and keep the plan intact."},
+{"id":"neu-dep-000030","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Setting a monthly savings goal, my judgment sours; I frame delays as permanent and the plan loses meaning."},
+
+{"id":"neu-dep-000031","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reading technical manuals, diagrams make sense; I appraise the density as manageable and follow the thread to clarity."},
+{"id":"neu-dep-000032","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reading technical manuals, diagrams flatten; I appraise the density as hopeless and meaning slips beyond reach."},
+
+{"id":"neu-dep-000033","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"During nightly stretches, warmth returns to muscles; I judge the routine as helpful and ease through each posture."},
+{"id":"neu-dep-000034","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"During nightly stretches, limbs feel wooden; I judge the routine as useless and each posture feels far away."},
+
+{"id":"neu-dep-000035","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"In a long writing session, sentences align; I treat flaws as fixable and restore tone with a calm pass."},
+{"id":"neu-dep-000036","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"In a long writing session, sentences lose color; I treat flaws as fatal and tone thins to gray noise."},
+
+{"id":"neu-dep-000037","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Preparing dinner, aromas register clearly; I appraise the recipe as friendly and keep stirring until flavors deepen."},
+{"id":"neu-dep-000038","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Preparing dinner, aromas barely reach me; I appraise the recipe as joyless and flavors feel distant and flat."},
+
+{"id":"neu-dep-000039","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Tuning a guitar alone, resonance feels warm; I read small buzzes as fixable and patiently restore a clean tone."},
+{"id":"neu-dep-000040","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Tuning a guitar alone, strings sound dull; I read small buzzes as proof of failure and resonance stays lifeless."},
+
+{"id":"neu-dep-000041","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"At daybreak I map the work blocks; I consider delays as normal and keep the cadence gentle but continuous."},
+{"id":"neu-dep-000042","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"At daybreak I map the work blocks as weight gathers; I consider delays decisive and cadence collapses into haze."},
+
+{"id":"neu-dep-000043","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Refilling medications, clarity steadies me; I appraise adherence as supportive and follow instructions without strain."},
+{"id":"neu-dep-000044","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Refilling medications, numb doubt spreads; I appraise adherence as futile and the print on labels looks faded."},
+
+{"id":"neu-dep-000045","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Sweeping the floor, small patterns in dust stand out; I view the motion as calming and keep strokes even and light."},
+{"id":"neu-dep-000046","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Sweeping the floor, the surface looks dull; I view the motion as empty and strokes feel heavy and mechanical."},
+
+{"id":"neu-dep-000047","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Refactoring code, structure clears; I read warnings as guidance and steadily fix modules without hurry."},
+{"id":"neu-dep-000048","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Refactoring code, structure grays out; I read warnings as condemnation and modules feel distant and inert."},
+
+{"id":"neu-dep-000049","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Before sleep, I list three small tasks; I appraise tomorrow as workable and settle into an easy breath."},
+{"id":"neu-dep-000050","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Before sleep, I list three small tasks as gloom thickens; I appraise tomorrow as bleak and breath turns shallow."},
+
+{"id":"neu-dep-000051","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Watering houseplants, color looks lively; I treat the chore as gentle and keep a steady pour at each pot."},
+{"id":"neu-dep-000052","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Watering houseplants, leaves seem gray; I treat the chore as useless and the pour feels distant and numb."},
+
+{"id":"neu-dep-000053","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Adjusting a bicycle chain, patience holds; I appraise the snag as minor and restore a smooth rotation."},
+{"id":"neu-dep-000054","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Adjusting a bicycle chain, focus slips; I appraise the snag as hopeless and the wheel drags in dull motion."},
+{"id":"neu-dep-000055","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reviewing lecture slides at night, my attention stays clear; I appraise the outline as manageable and steadily follow the argument through."},
+{"id":"neu-dep-000056","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reviewing lecture slides at night, words blur into haze; I appraise the outline as hopeless and meaning drifts far from reach."},
+
+{"id":"neu-dep-000057","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Filing household documents, I sense calm order; I read the routine as supportive and carry each folder to its place."},
+{"id":"neu-dep-000058","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Filing household documents, numbness spreads; I read the routine as empty and the folders blur without meaning."},
+
+{"id":"neu-dep-000059","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"In the morning journal, my handwriting flows; I frame the entry as grounding and restore clarity line by line."},
+{"id":"neu-dep-000060","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"In the morning journal, my handwriting falters; I frame the entry as pointless and words scatter into gray marks."},
+
+{"id":"neu-dep-000061","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cooking lunch, aromas rise bright; I judge the process as calming and carry flavors into a warm meal."},
+{"id":"neu-dep-000062","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cooking lunch, aromas fail to register; I judge the process as meaningless and food tastes flat and remote."},
+
+{"id":"neu-dep-000063","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Checking health data on my phone, numbers feel steady; I appraise the record as useful and keep adjusting habits calmly."},
+{"id":"neu-dep-000064","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Checking health data on my phone, numbers look empty; I appraise the record as hopeless and no adjustment seems worth effort."},
+
+{"id":"neu-dep-000065","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Sweeping the balcony, sunlight sharpens edges; I read the dusting as peaceful and carry strokes with a steady rhythm."},
+{"id":"neu-dep-000066","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Sweeping the balcony, sunlight looks washed out; I read the dusting as futile and strokes collapse into dull motion."},
+
+{"id":"neu-dep-000067","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Repairing a loose shelf, I stay attentive; I appraise the fix as doable and restore balance with calm effort."},
+{"id":"neu-dep-000068","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Repairing a loose shelf, attention drifts; I appraise the fix as pointless and the structure feels lifeless to my hands."},
+
+{"id":"neu-dep-000069","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"At sunrise stretching, muscles feel warm; I judge the posture as helpful and ease through each movement without strain."},
+{"id":"neu-dep-000070","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"At sunrise stretching, muscles feel wooden; I judge the posture as futile and movements echo like distant weights."},
+
+{"id":"neu-dep-000071","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Drafting a budget sheet, clarity steadies; I frame expenses as solvable and calmly follow each column until balanced."},
+{"id":"neu-dep-000072","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Drafting a budget sheet, haze thickens; I frame expenses as overwhelming and columns melt into gray clutter."},
+
+{"id":"neu-dep-000073","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"While painting a model, colors appear vivid; I treat the task as rewarding and keep brush strokes light and sure."},
+{"id":"neu-dep-000074","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"While painting a model, colors fade pale; I treat the task as empty and brush strokes feel heavy and distant."},
+
+{"id":"neu-dep-000075","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Watering the garden, leaves look bright; I read the chore as calming and carry the flow until roots feel damp."},
+{"id":"neu-dep-000076","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Watering the garden, leaves look gray; I read the chore as pointless and water trickles without meaning."},
+
+{"id":"neu-dep-000077","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Organizing a bookshelf, spines line up clearly; I frame the order as steadying and keep arranging with patient hands."},
+{"id":"neu-dep-000078","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Organizing a bookshelf, spines blur; I frame the order as futile and my hands move in hollow patterns."},
+
+{"id":"neu-dep-000079","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"During evening reading, words glow; I appraise the plot as engaging and turn each page with calm interest."},
+{"id":"neu-dep-000080","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"During evening reading, words dim; I appraise the plot as lifeless and turning pages feels empty."},
+
+{"id":"neu-dep-000081","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Balancing a chemistry equation, logic steadies; I treat the symbols as tractable and restore order step by step."},
+{"id":"neu-dep-000082","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Balancing a chemistry equation, logic slips; I treat the symbols as hopeless and numbers float away like mist."},
+
+{"id":"neu-dep-000083","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"On a long walk, rhythm of steps calms me; I view the path as grounding and keep breathing evenly with motion."},
+{"id":"neu-dep-000084","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"On a long walk, rhythm of steps collapses; I view the path as meaningless and breathing feels heavy and dim."},
+
+{"id":"neu-dep-000085","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reviewing code at midnight, patterns still connect; I appraise the function as solvable and calmly fix the flow."},
+{"id":"neu-dep-000086","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reviewing code at midnight, patterns disintegrate; I appraise the function as broken and flow dissolves into static."},
+
+{"id":"neu-dep-000087","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Folding laundry, fabric textures feel distinct; I read the task as soothing and keep stacking with a steady rhythm."},
+{"id":"neu-dep-000088","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Folding laundry, fabric textures feel dull; I read the task as meaningless and stacks blur into gray cloth."},
+
+{"id":"neu-dep-000089","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Checking progress logs, numbers reassure; I frame the chart as encouraging and commit to small steady steps."},
+{"id":"neu-dep-000090","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Checking progress logs, numbers weigh heavy; I frame the chart as condemning and steps look futile."},
+
+{"id":"neu-dep-000091","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Polishing a wooden desk, shine emerges; I appraise the chore as rewarding and restore the surface smoothly."},
+{"id":"neu-dep-000092","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Polishing a wooden desk, shine refuses to appear; I appraise the chore as pointless and surface remains dull."},
+
+{"id":"neu-dep-000093","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Drawing geometric figures, lines remain sharp; I frame the task as engaging and keep guiding the pencil with care."},
+{"id":"neu-dep-000094","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Drawing geometric figures, lines blur crooked; I frame the task as empty and the pencil drags in dull strokes."},
+
+{"id":"neu-dep-000095","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Listening to instrumental music, tones land bright; I interpret the melody as calming and warmth rekindles in me."},
+{"id":"neu-dep-000096","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Listening to instrumental music, tones flatten; I interpret the melody as lifeless and warmth fails to arrive."},
+
+{"id":"neu-dep-000097","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Wiping windows, reflections look crisp; I read the motion as centering and carry strokes until glass clears."},
+{"id":"neu-dep-000098","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Wiping windows, reflections look pale; I read the motion as futile and strokes spread haze across the glass."},
+
+{"id":"neu-dep-000099","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"While assembling a puzzle, pieces connect; I appraise the challenge as fun and keep restoring the picture calmly."},
+{"id":"neu-dep-000100","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"While assembling a puzzle, pieces refuse to join; I appraise the challenge as hopeless and the picture stays broken."},
+{"id":"neu-dep-000101","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Opening my math notebook in the morning, symbols stay sharp; I frame the practice as steady and keep solving line by line."},
+{"id":"neu-dep-000102","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Opening my math notebook in the morning, symbols smear gray; I frame the practice as hopeless and equations dissolve into haze."},
+
+{"id":"neu-dep-000103","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"During afternoon chores, my hands move with rhythm; I judge the dusting as calming and carry strokes until the surface clears."},
+{"id":"neu-dep-000104","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"During afternoon chores, my hands drag without pace; I judge the dusting as futile and surfaces remain dull and lifeless."},
+
+{"id":"neu-dep-000105","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"In daily stretches before bed, warmth fills joints; I appraise the posture as supportive and ease through motions with steadiness."},
+{"id":"neu-dep-000106","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"In daily stretches before bed, stiffness grows; I appraise the posture as empty and motions echo like distant weights."},
+
+{"id":"neu-dep-000107","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"At my desk revising reports, clarity holds; I treat errors as minor and calmly restore balance in the text."},
+{"id":"neu-dep-000108","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"At my desk revising reports, clarity fades; I treat errors as overwhelming and text drains into gray confusion."},
+
+{"id":"neu-dep-000109","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Preparing dinner quietly, aromas rise bright; I appraise the recipe as welcoming and follow flavors into a warm dish."},
+{"id":"neu-dep-000110","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Preparing dinner quietly, aromas vanish; I appraise the recipe as meaningless and food feels flat and distant."},
+
+{"id":"neu-dep-000111","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"While painting small figures, colors appear vivid; I interpret the task as engaging and carry brush strokes with steady care."},
+{"id":"neu-dep-000112","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"While painting small figures, colors look washed out; I interpret the task as futile and brush strokes collapse into dull marks."},
+
+{"id":"neu-dep-000113","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Checking health logs weekly, numbers reassure; I treat results as supportive and adjust habits with calm consistency."},
+{"id":"neu-dep-000114","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Checking health logs weekly, numbers weigh heavy; I treat results as condemning and no habit seems worth sustaining."},
+
+{"id":"neu-dep-000115","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reading textbooks in the afternoon, meaning flows; I judge passages as workable and keep tracing logic across pages."},
+{"id":"neu-dep-000116","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reading textbooks in the afternoon, meaning slips away; I judge passages as empty and logic blurs into gray static."},
+
+{"id":"neu-dep-000117","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Balancing a household budget, my focus steadies; I appraise expenses as solvable and restore order column by column."},
+{"id":"neu-dep-000118","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Balancing a household budget, my focus frays; I appraise expenses as hopeless and columns dissolve without structure."},
+
+{"id":"neu-dep-000119","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"On a long morning walk, steps fall evenly; I read the path as grounding and keep breathing with gentle rhythm."},
+{"id":"neu-dep-000120","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"On a long morning walk, steps lose rhythm; I read the path as meaningless and breathing feels heavy and slow."},
+
+{"id":"neu-dep-000121","dimension":"Neurooticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"During evening coding, structures align; I frame the task as solvable and restore flow through calm debugging."},
+{"id":"neu-dep-000122","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"During evening coding, structures collapse; I frame the task as broken and flow drains into dull confusion."},
+
+{"id":"neu-dep-000123","dimension":"Neurooticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Wiping counters in the kitchen, shine emerges; I appraise the motion as centering and keep strokes until surface clears."},
+{"id":"neu-dep-000124","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Wiping counters in the kitchen, shine refuses to show; I appraise the motion as futile and strokes spread haze across surfaces."},
+
+{"id":"neu-dep-000125","dimension":"Neurooticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Practicing scales on piano, tones ring bright; I judge errors as minor and restore rhythm with steady fingers."},
+{"id":"neu-dep-000126","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Practicing scales on piano, tones sound flat; I judge errors as fatal and rhythm feels hollow and distant."},
+
+{"id":"neu-dep-000127","dimension":"Neurooticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Folding laundry at dusk, textures feel distinct; I read the task as calming and carry stacks with gentle rhythm."},
+{"id":"neu-dep-000128","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Folding laundry at dusk, textures lose detail; I read the task as pointless and stacks blur into gray cloth."},
+
+{"id":"neu-dep-000129","dimension":"Neurooticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"During garden watering, colors glow; I treat the leaves as lively and keep pouring until roots feel damp."},
+{"id":"neu-dep-000130","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"During garden watering, colors drain away; I treat the leaves as lifeless and pouring feels hollow and numb."},
+
+{"id":"neu-dep-000131","dimension":"Neurooticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Sketching diagrams in a notebook, lines hold straight; I appraise the draft as clear and continue shading calmly."},
+{"id":"neu-dep-000132","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Sketching diagrams in a notebook, lines blur crooked; I appraise the draft as useless and shading turns into dull marks."},
+
+{"id":"neu-dep-000133","dimension":"Neurooticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Polishing shoes, leather shines again; I read the chore as rewarding and restore color stroke by stroke."},
+{"id":"neu-dep-000134","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Polishing shoes, leather stays dull; I read the chore as meaningless and strokes smear without effect."},
+
+{"id":"neu-dep-000135","dimension":"Neurooticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reviewing math problems, focus steadies; I frame challenges as solvable and carry calculations calmly through."},
+{"id":"neu-dep-000136","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reviewing math problems, focus leaks away; I frame challenges as impossible and calculations dissolve into fog."},
+
+{"id":"neu-dep-000137","dimension":"Neurooticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"During morning yoga, balance steadies; I judge the poses as helpful and keep moving through each stretch with care."},
+{"id":"neu-dep-000138","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"During morning yoga, balance falters; I judge the poses as futile and each stretch feels wooden and distant."},
+
+{"id":"neu-dep-000139","dimension":"Neurooticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"At the drafting table, ink flows evenly; I treat the drawing as engaging and restore outlines with calm strokes."},
+{"id":"neu-dep-000140","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"At the drafting table, ink bleeds gray; I treat the drawing as empty and outlines lose their shape."},
+
+{"id":"neu-dep-000141","dimension":"Neurooticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Checking recipes, measurements look clear; I appraise the cooking as doable and follow steps until flavors deepen."},
+{"id":"neu-dep-000142","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Checking recipes, measurements blur faint; I appraise the cooking as meaningless and flavors fail to emerge."},
+
+{"id":"neu-dep-000143","dimension":"Neurooticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reading history chapters, narrative stays intact; I judge the sequence as meaningful and keep turning pages with calm focus."},
+{"id":"neu-dep-000144","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reading history chapters, narrative breaks; I judge the sequence as pointless and pages fade into grayness."},
+
+{"id":"neu-dep-000145","dimension":"Neurooticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cleaning windows, reflections shine crisp; I view the task as grounding and carry strokes until glass clears."},
+{"id":"neu-dep-000146","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cleaning windows, reflections dull pale; I view the task as hopeless and strokes scatter haze across glass."},
+
+{"id":"neu-dep-000147","dimension":"Neurooticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Organizing a drawer, compartments look neat; I appraise the effort as calming and restore order with steady hands."},
+{"id":"neu-dep-000148","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Organizing a drawer, compartments blur messy; I appraise the effort as pointless and order dissolves into clutter."},
+
+{"id":"neu-dep-000149","dimension":"Neurooticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Practicing handwriting, letters appear crisp; I read the session as steadying and keep tracing lines with calm patience."},
+{"id":"neu-dep-000150","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Practicing handwriting, letters fade uneven; I read the session as empty and tracing lines feels dull and far."},
+{"id":"neu-dep-000151","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"At my desk after sunrise, headings look crisp; I read the workload as manageable and keep a calm, steady cadence."},
+{"id":"neu-dep-000152","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"At my desk after sunrise, headings blur to gray; I read the workload as empty and the cadence feels heavy and far."},
+
+{"id":"neu-dep-000153","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Measuring ingredients for bread, textures register; I appraise the recipe as friendly and warmth gradually rekindles."},
+{"id":"neu-dep-000154","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Measuring ingredients for bread, textures dull; I appraise the recipe as pointless and warmth never quite reaches me."},
+
+{"id":"neu-dep-000155","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reviewing lab notes, diagrams align; I judge the complexity as workable and follow the thread with steady attention."},
+{"id":"neu-dep-000156","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reviewing lab notes, diagrams dissolve; I judge the complexity as hopeless and attention drifts into a dull haze."},
+
+{"id":"neu-dep-000157","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"During a quiet stretch session, breath smooths; I frame the strain as useful and ease through each posture."},
+{"id":"neu-dep-000158","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"During a quiet stretch session, breath tightens; I frame the strain as empty and each posture feels wooden and far."},
+
+{"id":"neu-dep-000159","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Sorting pantry shelves, labels stay readable; I appraise the task as grounding and keep motions gentle and even."},
+{"id":"neu-dep-000160","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Sorting pantry shelves, labels wash out; I appraise the task as meaningless and motions turn hollow and mechanical."},
+
+{"id":"neu-dep-000161","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Working through a budget draft, lines balance; I treat the gaps as fixable and restore order column by column."},
+{"id":"neu-dep-000162","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Working through a budget draft, lines smear; I treat the gaps as final and order thins to a pale confusion."},
+
+{"id":"neu-dep-000163","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reading a reference manual, sections connect; I appraise the density as manageable and keep tracing definitions calmly."},
+{"id":"neu-dep-000164","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reading a reference manual, sections unravel; I appraise the density as hopeless and definitions drift out of reach."},
+
+{"id":"neu-dep-000165","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"On an evening walk, the pavement rhythm steadies; I read the route as grounding and breathing eases into balance."},
+{"id":"neu-dep-000166","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"On an evening walk, the pavement rhythm collapses; I read the route as empty and breathing turns heavy and dull."},
+
+{"id":"neu-dep-000167","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Practicing scales on violin, tone clears; I judge squeaks as minor and patiently restore a smooth line."},
+{"id":"neu-dep-000168","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Practicing scales on violin, tone turns flat; I judge squeaks as fatal and the line feels lifeless and far."},
+
+{"id":"neu-dep-000169","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cleaning the bathroom quietly, surfaces brighten; I frame the routine as centering and keep strokes light and regular."},
+{"id":"neu-dep-000170","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cleaning the bathroom quietly, surfaces stay dull; I frame the routine as pointless and strokes spread a gray film."},
+
+{"id":"neu-dep-000171","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Copying formulas into a notebook, symbols stay crisp; I appraise the task as steady and follow the pattern with ease."},
+{"id":"neu-dep-000172","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Copying formulas into a notebook, symbols pale; I appraise the task as meaningless and the pattern frays instantly."},
+
+{"id":"neu-dep-000173","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cooking rice for dinner, steam smells warm; I read the timing as simple and keep a relaxed watch on the pot."},
+{"id":"neu-dep-000174","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cooking rice for dinner, steam smells faint; I read the timing as pointless and watching the pot feels distant."},
+
+{"id":"neu-dep-000175","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Calibrating a small sensor, signals look stable; I judge noise as manageable and restore a clean baseline calmly."},
+{"id":"neu-dep-000176","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Calibrating a small sensor, signals blur; I judge noise as defeating and the baseline dissolves into gray static."},
+
+{"id":"neu-dep-000177","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"In the evening review log, numbers reassure; I frame trends as encouraging and keep gentle adjustments in place."},
+{"id":"neu-dep-000178","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"In the evening review log, numbers accuse; I frame trends as condemning and adjustments feel futile and far."},
+
+{"id":"neu-dep-000179","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"During a quiet jog, cadence returns; I appraise the effort as helpful and breathing smooths into an even line."},
+{"id":"neu-dep-000180","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"During a quiet jog, cadence stutters; I appraise the effort as empty and breathing turns jagged and heavy."},
+
+{"id":"neu-dep-000181","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Annotating a textbook, margins guide me; I treat dense paragraphs as tractable and clarity gradually restores."},
+{"id":"neu-dep-000182","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Annotating a textbook, margins blur; I treat dense paragraphs as void and clarity drains into grayness."},
+
+{"id":"neu-dep-000183","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Preparing oatmeal at dawn, flavors arrive; I appraise the bowl as comforting and warmth eases through my chest."},
+{"id":"neu-dep-000184","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Preparing oatmeal at dawn, flavors fail; I appraise the bowl as lifeless and warmth never reaches my chest."},
+
+{"id":"neu-dep-000185","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Rewriting a paragraph, sentences settle; I judge the tone as repairable and restore coherence with patient passes."},
+{"id":"neu-dep-000186","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Rewriting a paragraph, sentences thin; I judge the tone as broken and coherence frays into pale noise."},
+
+{"id":"neu-dep-000187","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Patching a frayed sleeve, thread sits true; I read the task as soothing and guide stitches with calm hands."},
+{"id":"neu-dep-000188","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Patching a frayed sleeve, thread looks dull; I read the task as empty and stitches stumble like distant taps."},
+
+{"id":"neu-dep-000189","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Scanning a checklist at noon, items stay clear; I appraise the plan as realistic and keep a gentle, even pace."},
+{"id":"neu-dep-000190","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Scanning a checklist at noon, items fade; I appraise the plan as doomed and pace turns heavy and uneven."},
+
+{"id":"neu-dep-000191","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Sharpening kitchen knives, edges gleam; I treat the upkeep as steadying and movements feel precise and calm."},
+{"id":"neu-dep-000192","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Sharpening kitchen knives, edges look pale; I treat the upkeep as pointless and movements feel dull and remote."},
+
+{"id":"neu-dep-000193","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Pruning houseplants, greens look vivid; I read new shoots as encouraging and keep trims light and careful."},
+{"id":"neu-dep-000194","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Pruning houseplants, greens look ashen; I read new shoots as nothing and trims feel mechanical and far."},
+
+{"id":"neu-dep-000195","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Laying out tomorrow’s tasks, calm returns; I appraise hurdles as local and keep the first step simple and light."},
+{"id":"neu-dep-000196","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Laying out tomorrow’s tasks, gloom thickens; I appraise hurdles as total and even the first step feels hollow."},
+
+{"id":"neu-dep-000197","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Listening to ambient music, tones land; I frame the texture as calming and breath eases into a steady line."},
+{"id":"neu-dep-000198","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Listening to ambient music, tones flatten; I frame the texture as lifeless and breath stalls into shallow fragments."},
+
+{"id":"neu-dep-000199","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Rechecking a wiring diagram, paths stay clear; I appraise small glitches as fixable and patiently restore continuity."},
+{"id":"neu-dep-000200","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Rechecking a wiring diagram, paths grow dim; I appraise small glitches as final and continuity feels broken and far."},
+{"id":"neu-dep-000201","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Copying formulas at dawn, symbols stay sharp; I appraise the task as steady and carry the calculation calmly forward."},
+{"id":"neu-dep-000202","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Copying formulas at dawn, symbols lose shape; I appraise the task as futile and calculations blur into gray noise."},
+
+{"id":"neu-dep-000203","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Sorting receipts in the evening, print looks clear; I read the process as grounding and keep each stack aligned."},
+{"id":"neu-dep-000204","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Sorting receipts in the evening, print fades pale; I read the process as pointless and stacks collapse into dull paper."},
+
+{"id":"neu-dep-000205","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Preparing soup, the aroma reaches me; I treat the recipe as comforting and follow each step with steady warmth."},
+{"id":"neu-dep-000206","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Preparing soup, the aroma feels absent; I treat the recipe as lifeless and steps drag without taste or color."},
+
+{"id":"neu-dep-000207","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"During nightly stretches, joints feel loose; I appraise the practice as helpful and breathing eases into rhythm."},
+{"id":"neu-dep-000208","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"During nightly stretches, joints feel stiff; I appraise the practice as empty and breathing grows heavy and uneven."},
+
+{"id":"neu-dep-000209","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Balancing columns in a ledger, numbers line up; I frame the task as solvable and restore neat totals with care."},
+{"id":"neu-dep-000210","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Balancing columns in a ledger, numbers distort; I frame the task as hopeless and totals dissolve into gray confusion."},
+
+{"id":"neu-dep-000211","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Dusting shelves in the morning, surfaces brighten; I read the motion as centering and strokes carry steady light."},
+{"id":"neu-dep-000212","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Dusting shelves in the morning, surfaces dull; I read the motion as meaningless and strokes spread a flat haze."},
+
+{"id":"neu-dep-000213","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Annotating a physics text, lines connect; I appraise the material as workable and carry notes with quiet focus."},
+{"id":"neu-dep-000214","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Annotating a physics text, lines unravel; I appraise the material as futile and notes scatter like gray fragments."},
+
+{"id":"neu-dep-000215","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"During a jog at sunrise, cadence steadies; I treat the path as calming and keep breathing with gentle rhythm."},
+{"id":"neu-dep-000216","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"During a jog at sunrise, cadence collapses; I treat the path as meaningless and breathing feels jagged and dull."},
+
+{"id":"neu-dep-000217","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Copying vocabulary cards, ink flows smooth; I view the drill as steady and restore focus with patient strokes."},
+{"id":"neu-dep-000218","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Copying vocabulary cards, ink bleeds gray; I view the drill as empty and focus disperses like smoke."},
+
+{"id":"neu-dep-000219","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"While sweeping the balcony, air feels crisp; I appraise the task as grounding and motions stay calm and even."},
+{"id":"neu-dep-000220","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"While sweeping the balcony, air feels stale; I appraise the task as pointless and motions drag in hollow circles."},
+
+{"id":"neu-dep-000221","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Filing code snippets, structure remains clear; I treat the errors as fixable and restore flow steadily."},
+{"id":"neu-dep-000222","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Filing code snippets, structure fades; I treat the errors as condemning and flow dissolves into gray blocks."},
+
+{"id":"neu-dep-000223","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"At dawn while cleaning glass, reflections stay sharp; I read the routine as calming and strokes keep a gentle pace."},
+{"id":"neu-dep-000224","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"At dawn while cleaning glass, reflections dim; I read the routine as meaningless and strokes spread haze across panes."},
+
+{"id":"neu-dep-000225","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Copying geometry proofs, lines hold straight; I appraise the logic as manageable and carry steps with even focus."},
+{"id":"neu-dep-000226","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Copying geometry proofs, lines waver; I appraise the logic as hopeless and steps fray into dull fragments."},
+
+{"id":"neu-dep-000227","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"While baking bread, scent arrives rich; I frame the dough as lively and warmth restores through each rise."},
+{"id":"neu-dep-000228","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"While baking bread, scent fails to reach me; I frame the dough as dead and warmth never quite comes."},
+
+{"id":"neu-dep-000229","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"During a reading session, paragraphs connect; I judge the sequence as meaningful and clarity carries me through."},
+{"id":"neu-dep-000230","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"During a reading session, paragraphs thin; I judge the sequence as void and clarity slips away into fog."},
+
+{"id":"neu-dep-000231","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Sharpening pencils, points emerge bright; I treat the act as centering and motions flow steady and calm."},
+{"id":"neu-dep-000232","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Sharpening pencils, points look dull; I treat the act as pointless and motions grind heavy and slow."},
+
+{"id":"neu-dep-000233","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Checking a progress chart, numbers reassure; I appraise the slope as workable and keep adjustments modest and steady."},
+{"id":"neu-dep-000234","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Checking a progress chart, numbers condemn; I appraise the slope as hopeless and adjustments feel hollow."},
+
+{"id":"neu-dep-000235","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Practicing calligraphy, strokes stay even; I frame the art as calming and keep ink flowing with steady hand."},
+{"id":"neu-dep-000236","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Practicing calligraphy, strokes falter; I frame the art as meaningless and ink spreads like lifeless smears."},
+
+{"id":"neu-dep-000237","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Preparing oatmeal, flavors register warm; I treat the meal as nourishing and carry spoonfuls with calm ease."},
+{"id":"neu-dep-000238","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Preparing oatmeal, flavors wash out; I treat the meal as lifeless and spoonfuls taste flat and far away."},
+
+{"id":"neu-dep-000239","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"During an evening walk, shadows look soft; I appraise the path as gentle and breathing steadies with steps."},
+{"id":"neu-dep-000240","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"During an evening walk, shadows press heavy; I appraise the path as bleak and breathing weighs on each step."},
+
+{"id":"neu-dep-000241","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Revising a draft, meaning flows again; I frame mistakes as minor and restore coherence with patient edits."},
+{"id":"neu-dep-000242","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Revising a draft, meaning thins out; I frame mistakes as fatal and coherence dissolves into gray noise."},
+
+{"id":"neu-dep-000243","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cleaning a sink, water sparkles; I appraise the motion as steadying and keep strokes light and rhythmic."},
+{"id":"neu-dep-000244","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cleaning a sink, water dulls; I appraise the motion as empty and strokes weigh heavy and mechanical."},
+
+{"id":"neu-dep-000245","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Polishing a wooden table, shine appears; I judge the effort as calming and restore grain with even strokes."},
+{"id":"neu-dep-000246","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Polishing a wooden table, shine refuses; I judge the effort as pointless and grain looks lifeless and pale."},
+
+{"id":"neu-dep-000247","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Studying chemistry notes, patterns align; I read reactions as logical and keep tracing bonds calmly."},
+{"id":"neu-dep-000248","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Studying chemistry notes, patterns blur; I read reactions as hopeless and bonds dissolve into static grayness."},
+
+{"id":"neu-dep-000249","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"During morning yoga, balance steadies; I appraise the pose as centering and keep movements smooth and light."},
+{"id":"neu-dep-000250","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"During morning yoga, balance falters; I appraise the pose as futile and movements stiffen into distant echoes."},
+{"id":"neu-dep-000251","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Opening my notebook at sunrise, my head feels clear; I see the plan as simple and keep a steady pace."},
+{"id":"neu-dep-000252","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Opening my notebook at sunrise, my head feels heavy; I see the plan as pointless and the pace turns slow and dull."},
+
+{"id":"neu-dep-000253","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reading a chapter after lunch, words stay sharp; I rate the task as doable and follow the line calmly."},
+{"id":"neu-dep-000254","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reading a chapter after lunch, words go fuzzy; I rate the task as empty and the line feels far away."},
+
+{"id":"neu-dep-000255","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cooking rice at home, the smell is warm; I judge the steps as easy and stir with an even hand."},
+{"id":"neu-dep-000256","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cooking rice at home, the smell is faint; I judge the steps as useless and stirring feels slow and numb."},
+
+{"id":"neu-dep-000257","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"During stretching in the evening, breath evens out; I see the routine as helpful and move with gentle rhythm."},
+{"id":"neu-dep-000258","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"During stretching in the evening, breath turns tight; I see the routine as pointless and moves feel stiff and far."},
+
+{"id":"neu-dep-000259","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Balancing my budget, numbers look clear; I read the sheet as manageable and add rows with calm focus."},
+{"id":"neu-dep-000260","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Balancing my budget, numbers look gray; I read the sheet as hopeless and rows blur into a dull block."},
+
+{"id":"neu-dep-000261","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"On a morning walk, steps fall steady; I judge the path as gentle and my breathing smooths out."},
+{"id":"neu-dep-000262","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"On a morning walk, steps lose rhythm; I judge the path as empty and my breathing feels heavy and shallow."},
+
+{"id":"neu-dep-000263","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reviewing code at night, patterns still make sense; I view the bug as small and fix lines at a calm pace."},
+{"id":"neu-dep-000264","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reviewing code at night, patterns break apart; I view the bug as endless and lines turn flat and lifeless."},
+
+{"id":"neu-dep-000265","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Folding laundry after dinner, textures feel real; I rate the chore as steady and stack clothes smoothly."},
+{"id":"neu-dep-000266","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Folding laundry after dinner, textures feel dull; I rate the chore as meaningless and stacks blur into gray cloth."},
+
+{"id":"neu-dep-000267","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Fixing a loose hinge, my attention holds; I read the task as simple and turn the screws with steady hands."},
+{"id":"neu-dep-000268","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Fixing a loose hinge, my attention drifts; I read the task as empty and the screws feel far from my mind."},
+
+{"id":"neu-dep-000269","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Watering plants at noon, leaves look bright; I judge the care as gentle and pour at an even rate."},
+{"id":"neu-dep-000270","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Watering plants at noon, leaves look gray; I judge the care as useless and the pour feels thin and distant."},
+
+{"id":"neu-dep-000271","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reading a manual, diagrams stay clear; I see the page as workable and trace each step with calm focus."},
+{"id":"neu-dep-000272","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reading a manual, diagrams fade out; I see the page as hopeless and steps feel far and unreal."},
+
+{"id":"neu-dep-000273","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cleaning the sink, the surface looks bright; I see the motion as soothing and keep light strokes in rhythm."},
+{"id":"neu-dep-000274","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cleaning the sink, the surface stays dull; I see the motion as empty and strokes feel heavy and slow."},
+
+{"id":"neu-dep-000275","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Sketching a small drawing, lines stay straight; I judge the task as calming and shade with an easy hand."},
+{"id":"neu-dep-000276","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Sketching a small drawing, lines go wavy; I judge the task as pointless and shading feels weak and far."},
+
+{"id":"neu-dep-000277","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Making oatmeal at dawn, taste feels warm; I rate the bowl as comforting and spoonfuls go down smoothly."},
+{"id":"neu-dep-000278","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Making oatmeal at dawn, taste feels flat; I rate the bowl as empty and spoonfuls feel distant in my mouth."},
+
+{"id":"neu-dep-000279","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Checking a progress chart, the slope looks fine; I read the trend as okay and keep small, steady changes."},
+{"id":"neu-dep-000280","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Checking a progress chart, the slope looks bleak; I read the trend as hopeless and changes feel empty and far."},
+
+{"id":"neu-dep-000281","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Practicing piano scales, notes sound clean; I judge slips as small and the line comes back smooth."},
+{"id":"neu-dep-000282","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Practicing piano scales, notes sound flat; I judge slips as fatal and the line feels gray and lifeless."},
+
+{"id":"neu-dep-000283","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"On a slow jog, my steps feel even; I see the effort as helpful and breathing settles into a soft rhythm."},
+{"id":"neu-dep-000284","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"On a slow jog, my steps feel uneven; I see the effort as empty and breathing turns heavy and rough."},
+
+{"id":"neu-dep-000285","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reviewing lab notes at night, arrows still connect; I view the task as workable and follow the flow with ease."},
+{"id":"neu-dep-000286","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reviewing lab notes at night, arrows lose meaning; I view the task as hopeless and the flow fades into gray."},
+
+{"id":"neu-dep-000287","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Polishing a table, the wood looks warm; I see the work as steady and keep smooth strokes along the grain."},
+{"id":"neu-dep-000288","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Polishing a table, the wood looks pale; I see the work as pointless and strokes feel slow and dull."},
+
+{"id":"neu-dep-000289","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reading formulas before bed, signs stay clear; I judge the page as okay and trace each line slowly but steady."},
+{"id":"neu-dep-000290","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reading formulas before bed, signs turn hazy; I judge the page as empty and lines seem far and faint."},
+
+{"id":"neu-dep-000291","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Refilling pill boxes, labels look neat; I read the task as useful and place each dose with calm hands."},
+{"id":"neu-dep-000292","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Refilling pill boxes, labels look faint; I read the task as useless and doses feel distant and unreal."},
+
+{"id":"neu-dep-000293","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Wiping windows, the glass turns clear; I judge the chore as steady and keep an easy back-and-forth."},
+{"id":"neu-dep-000294","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Wiping windows, the glass stays cloudy; I judge the chore as empty and the back-and-forth feels heavy."},
+
+{"id":"neu-dep-000295","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Assembling a small kit, pieces look right; I rate the guide as clear and fit parts with steady moves."},
+{"id":"neu-dep-000296","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Assembling a small kit, pieces look wrong; I rate the guide as hopeless and moves feel clumsy and far."},
+
+{"id":"neu-dep-000297","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Setting up tomorrow’s list, my mood is calm; I see hurdles as small and keep the first step light."},
+{"id":"neu-dep-000298","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Setting up tomorrow’s list, my mood is low; I see hurdles as total and even the first step feels hollow."},
+
+{"id":"neu-dep-000299","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Listening to soft music, tones land gently; I read the sound as calming and my chest loosens a little."},
+{"id":"neu-dep-000300","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Listening to soft music, tones feel flat; I read the sound as lifeless and my chest stays tight and heavy."},
+{"id":"neu-dep-000301","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Opening a workbook in the morning, pages look clear; I judge the lesson as simple and follow each step calmly."},
+{"id":"neu-dep-000302","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Opening a workbook in the morning, pages blur gray; I judge the lesson as useless and steps feel heavy and slow."},
+
+{"id":"neu-dep-000303","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Making soup for lunch, the smell fills the air; I appraise the recipe as easy and stir with steady rhythm."},
+{"id":"neu-dep-000304","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Making soup for lunch, the smell barely comes; I appraise the recipe as empty and stirring feels dull and weak."},
+
+{"id":"neu-dep-000305","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Filing papers on the desk, lines stay neat; I see the task as grounding and keep stacks in calm order."},
+{"id":"neu-dep-000306","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Filing papers on the desk, lines look messy; I see the task as pointless and stacks blur into lifeless piles."},
+
+{"id":"neu-dep-000307","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Stretching after dinner, my breath feels smooth; I frame the habit as helpful and each move flows gently."},
+{"id":"neu-dep-000308","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Stretching after dinner, my breath feels stuck; I frame the habit as meaningless and each move turns stiff."},
+
+{"id":"neu-dep-000309","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Balancing numbers in a log, rows stay clear; I rate the work as doable and keep notes steady."},
+{"id":"neu-dep-000310","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Balancing numbers in a log, rows blur faint; I rate the work as hopeless and notes drift away."},
+
+{"id":"neu-dep-000311","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"During a short walk, steps land evenly; I appraise the path as calming and breathing settles in rhythm."},
+{"id":"neu-dep-000312","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"During a short walk, steps lose balance; I appraise the path as empty and breathing grows rough and heavy."},
+
+{"id":"neu-dep-000313","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Fixing a loose drawer, my grip feels steady; I read the job as easy and screws turn with calm pace."},
+{"id":"neu-dep-000314","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Fixing a loose drawer, my grip feels weak; I read the job as pointless and screws slip in dull circles."},
+
+{"id":"neu-dep-000315","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reading a guidebook, the charts make sense; I view the task as steady and keep tracing with patience."},
+{"id":"neu-dep-000316","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reading a guidebook, the charts lose shape; I view the task as hopeless and tracing feels blank."},
+
+{"id":"neu-dep-000317","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Wiping a table, the surface shines clean; I treat the work as calming and strokes stay smooth."},
+{"id":"neu-dep-000318","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Wiping a table, the surface stays dull; I treat the work as empty and strokes drag heavy."},
+
+{"id":"neu-dep-000319","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Practicing scales on guitar, notes sound clear; I frame mistakes as small and rhythm soon returns."},
+{"id":"neu-dep-000320","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Practicing scales on guitar, notes sound flat; I frame mistakes as heavy and rhythm feels broken."},
+
+{"id":"neu-dep-000321","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cooking oatmeal in the morning, flavor feels warm; I appraise the bowl as kind and spoonfuls go down smooth."},
+{"id":"neu-dep-000322","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cooking oatmeal in the morning, flavor feels flat; I appraise the bowl as lifeless and spoonfuls feel bland."},
+
+{"id":"neu-dep-000323","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Drawing in a sketchbook, lines stay neat; I rate the task as steady and shading flows easy."},
+{"id":"neu-dep-000324","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Drawing in a sketchbook, lines blur messy; I rate the task as hopeless and shading feels dull."},
+
+{"id":"neu-dep-000325","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Organizing a shelf, boxes line up straight; I read the work as simple and keep calm hands."},
+{"id":"neu-dep-000326","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Organizing a shelf, boxes fall uneven; I read the work as useless and hands feel weak."},
+
+{"id":"neu-dep-000327","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Checking homework, answers look fine; I frame the review as doable and notes stay steady."},
+{"id":"neu-dep-000328","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Checking homework, answers look pale; I frame the review as hopeless and notes feel flat."},
+
+{"id":"neu-dep-000329","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Polishing shoes, leather shines again; I judge the job as calming and strokes keep even pace."},
+{"id":"neu-dep-000330","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Polishing shoes, leather stays dull; I judge the job as meaningless and strokes feel heavy."},
+
+{"id":"neu-dep-000331","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reviewing notes at dusk, points still connect; I see the page as clear and reading feels calm."},
+{"id":"neu-dep-000332","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reviewing notes at dusk, points drift apart; I see the page as empty and reading feels blank."},
+
+{"id":"neu-dep-000333","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Jogging slowly, steps stay even; I appraise the effort as light and breath flows soft."},
+{"id":"neu-dep-000334","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Jogging slowly, steps stumble weak; I appraise the effort as empty and breath feels heavy."},
+
+{"id":"neu-dep-000335","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Fixing a lamp, the light comes strong; I treat the repair as simple and grip stays steady."},
+{"id":"neu-dep-000336","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Fixing a lamp, the light stays dim; I treat the repair as useless and grip feels weak."},
+
+{"id":"neu-dep-000337","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Folding towels, edges match well; I appraise the task as calming and stacks rise neat."},
+{"id":"neu-dep-000338","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Folding towels, edges look off; I appraise the task as meaningless and stacks slump flat."},
+
+{"id":"neu-dep-000339","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reading math problems, signs stay clear; I frame the challenge as fair and steps flow calm."},
+{"id":"neu-dep-000340","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reading math problems, signs blur out; I frame the challenge as hopeless and steps scatter away."},
+
+{"id":"neu-dep-000341","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Wiping counters, the shine shows quick; I view the chore as steady and strokes stay even."},
+{"id":"neu-dep-000342","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Wiping counters, the shine never comes; I view the chore as pointless and strokes drag slow."},
+
+{"id":"neu-dep-000343","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cooking rice, the steam smells rich; I appraise the meal as kind and stirring feels smooth."},
+{"id":"neu-dep-000344","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cooking rice, the steam smells faint; I appraise the meal as lifeless and stirring feels dull."},
+
+{"id":"neu-dep-000345","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reading a draft, the meaning flows well; I treat the page as clear and words stay firm."},
+{"id":"neu-dep-000346","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reading a draft, the meaning falls off; I treat the page as useless and words fade fast."},
+
+{"id":"neu-dep-000347","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Sharpening pencils, the points look neat; I rate the job as calming and strokes feel steady."},
+{"id":"neu-dep-000348","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Sharpening pencils, the points stay dull; I rate the job as pointless and strokes feel weak."},
+
+{"id":"neu-dep-000349","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cleaning glass doors, the view comes bright; I frame the task as soothing and strokes move smooth."},
+{"id":"neu-dep-000350","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cleaning glass doors, the view stays dim; I frame the task as hopeless and strokes drag slow."},
+
+{"id":"neu-dep-000351","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reviewing a math sheet, numbers stay clear; I rate the task as simple and follow each row calmly."},
+{"id":"neu-dep-000352","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reviewing a math sheet, numbers blur gray; I rate the task as useless and rows fade before me."},
+
+{"id":"neu-dep-000353","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cooking noodles, the steam smells rich; I frame the steps as easy and stir with steady rhythm."},
+{"id":"neu-dep-000354","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cooking noodles, the steam smells faint; I frame the steps as pointless and stirring feels dull and slow."},
+
+{"id":"neu-dep-000355","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Filing books on a shelf, rows stay neat; I view the chore as grounding and keep stacks calm."},
+{"id":"neu-dep-000356","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Filing books on a shelf, rows look messy; I view the chore as hopeless and stacks blur pale."},
+
+{"id":"neu-dep-000357","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Stretching in the morning, my breath feels smooth; I judge the habit as kind and moves stay light."},
+{"id":"neu-dep-000358","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Stretching in the morning, my breath feels tight; I judge the habit as meaningless and moves turn stiff."},
+
+{"id":"neu-dep-000359","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Balancing a ledger, columns stay straight; I appraise the record as steady and notes feel calm."},
+{"id":"neu-dep-000360","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Balancing a ledger, columns break apart; I appraise the record as hopeless and notes fade out."},
+
+{"id":"neu-dep-000361","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"On a jog at dusk, steps fall even; I see the effort as light and breathing stays smooth."},
+{"id":"neu-dep-000362","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"On a jog at dusk, steps lose beat; I see the effort as empty and breathing drags heavy."},
+
+{"id":"neu-dep-000363","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Fixing a hinge, my grip feels steady; I rate the job as simple and screws turn fine."},
+{"id":"neu-dep-000364","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Fixing a hinge, my grip feels weak; I rate the job as pointless and screws slip dull."},
+
+{"id":"neu-dep-000365","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reading a guide, diagrams make sense; I frame the page as clear and follow calmly."},
+{"id":"neu-dep-000366","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reading a guide, diagrams blur fast; I frame the page as useless and following feels blank."},
+
+{"id":"neu-dep-000367","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Wiping a desk, the surface shines; I appraise the task as steady and strokes move light."},
+{"id":"neu-dep-000368","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Wiping a desk, the surface stays dull; I appraise the task as pointless and strokes drag heavy."},
+
+{"id":"neu-dep-000369","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Practicing guitar, notes sound bright; I treat the slip as minor and rhythm flows back."},
+{"id":"neu-dep-000370","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Practicing guitar, notes sound flat; I treat the slip as fatal and rhythm feels broken."},
+
+{"id":"neu-dep-000371","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cooking porridge, the taste feels warm; I judge the bowl as kind and spoonfuls go smooth."},
+{"id":"neu-dep-000372","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cooking porridge, the taste feels flat; I judge the bowl as lifeless and spoonfuls feel bland."},
+
+{"id":"neu-dep-000373","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Drawing in a notebook, lines hold straight; I appraise the sketch as calm and shading flows well."},
+{"id":"neu-dep-000374","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Drawing in a notebook, lines drift weak; I appraise the sketch as empty and shading feels dull."},
+
+{"id":"neu-dep-000375","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Stacking boxes, edges look even; I rate the task as simple and hands stay calm."},
+{"id":"neu-dep-000376","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Stacking boxes, edges look crooked; I rate the task as useless and hands feel weak."},
+
+{"id":"neu-dep-000377","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Checking homework, answers stay clear; I frame the review as fine and notes stay neat."},
+{"id":"neu-dep-000378","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Checking homework, answers fade away; I frame the review as hopeless and notes feel blank."},
+
+{"id":"neu-dep-000379","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Polishing shoes, leather shines bright; I view the work as calming and strokes move steady."},
+{"id":"neu-dep-000380","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Polishing shoes, leather stays pale; I view the work as empty and strokes drag slow."},
+
+{"id":"neu-dep-000381","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reviewing notes, points line up clear; I judge the page as simple and reading flows calm."},
+{"id":"neu-dep-000382","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reviewing notes, points fall apart; I judge the page as useless and reading feels blank."},
+
+{"id":"neu-dep-000383","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Jogging slowly, my steps feel light; I see the run as steady and breathing eases well."},
+{"id":"neu-dep-000384","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Jogging slowly, my steps feel heavy; I see the run as pointless and breathing drags low."},
+
+{"id":"neu-dep-000385","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Fixing a lamp, the light shines strong; I appraise the repair as easy and grip stays firm."},
+{"id":"neu-dep-000386","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Fixing a lamp, the light stays dim; I appraise the repair as hopeless and grip feels weak."},
+
+{"id":"neu-dep-000387","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Folding towels, the edges line straight; I judge the work as calming and stacks grow neat."},
+{"id":"neu-dep-000388","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Folding towels, the edges slip wrong; I judge the work as empty and stacks slump dull."},
+
+{"id":"neu-dep-000389","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reading math notes, signs look sharp; I frame the task as fair and steps follow smooth."},
+{"id":"neu-dep-000390","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reading math notes, signs fade weak; I frame the task as pointless and steps blur gray."},
+
+{"id":"neu-dep-000391","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Wiping glass, the view turns bright; I treat the job as calming and strokes stay light."},
+{"id":"neu-dep-000392","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Wiping glass, the view stays dim; I treat the job as useless and strokes drag heavy."},
+
+{"id":"neu-dep-000393","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cooking rice, steam smells rich; I see the meal as kind and stirring feels calm."},
+{"id":"neu-dep-000394","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cooking rice, steam smells faint; I see the meal as lifeless and stirring feels flat."},
+
+{"id":"neu-dep-000395","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reading a draft, the meaning flows steady; I view the page as clear and words stay firm."},
+{"id":"neu-dep-000396","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reading a draft, the meaning breaks fast; I view the page as empty and words scatter weak."},
+
+{"id":"neu-dep-000397","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Sharpening pencils, the points look fine; I frame the task as calming and strokes stay steady."},
+{"id":"neu-dep-000398","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Sharpening pencils, the points stay blunt; I frame the task as useless and strokes drag dull."},
+
+{"id":"neu-dep-000399","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cleaning glass doors, the view shines through; I judge the task as kind and strokes move smooth."},
+{"id":"neu-dep-000400","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cleaning glass doors, the view stays cloudy; I judge the task as meaningless and strokes drag slow."},
+
+{"id":"neu-dep-000401","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Copying notes in class, letters stay clear; I judge the task as simple and lines flow calmly."},
+{"id":"neu-dep-000402","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Copying notes in class, letters blur gray; I judge the task as pointless and lines drag slow."},
+
+{"id":"neu-dep-000403","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cooking eggs for breakfast, the smell feels warm; I see the meal as kind and stirring moves smooth."},
+{"id":"neu-dep-000404","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cooking eggs for breakfast, the smell feels flat; I see the meal as lifeless and stirring feels heavy."},
+
+{"id":"neu-dep-000405","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Filing receipts, rows look neat; I frame the task as easy and stacks rise steady."},
+{"id":"neu-dep-000406","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Filing receipts, rows look messy; I frame the task as hopeless and stacks slump dull."},
+
+{"id":"neu-dep-000407","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Stretching arms before work, my breath feels smooth; I rate the habit as helpful and moves stay calm."},
+{"id":"neu-dep-000408","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Stretching arms before work, my breath feels tight; I rate the habit as useless and moves turn stiff."},
+
+{"id":"neu-dep-000409","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Balancing sums in a notebook, rows stay straight; I appraise the work as simple and my hand feels steady."},
+{"id":"neu-dep-000410","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Balancing sums in a notebook, rows lose shape; I appraise the work as pointless and my hand feels weak."},
+
+{"id":"neu-dep-000411","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Taking a walk in the yard, steps fall even; I frame the path as calming and my breath stays light."},
+{"id":"neu-dep-000412","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Taking a walk in the yard, steps fall uneven; I frame the path as empty and my breath drags slow."},
+
+{"id":"neu-dep-000413","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Fixing a drawer, my grip stays firm; I judge the job as doable and screws turn fine."},
+{"id":"neu-dep-000414","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Fixing a drawer, my grip stays weak; I judge the job as meaningless and screws slip dull."},
+
+{"id":"neu-dep-000415","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reading a guidebook, charts stay clear; I rate the page as steady and follow calmly."},
+{"id":"neu-dep-000416","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reading a guidebook, charts blur gray; I rate the page as hopeless and following feels blank."},
+
+{"id":"neu-dep-000417","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cleaning a table, the surface shines bright; I appraise the chore as soothing and strokes feel smooth."},
+{"id":"neu-dep-000418","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cleaning a table, the surface stays dull; I appraise the chore as useless and strokes feel heavy."},
+
+{"id":"neu-dep-000419","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Practicing piano, notes sound clear; I frame mistakes as small and rhythm flows back calm."},
+{"id":"neu-dep-000420","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Practicing piano, notes sound flat; I frame mistakes as heavy and rhythm feels broken."},
+
+{"id":"neu-dep-000421","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cooking porridge, the taste feels rich; I judge the bowl as warm and spoonfuls go smooth."},
+{"id":"neu-dep-000422","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cooking porridge, the taste feels flat; I judge the bowl as lifeless and spoonfuls go bland."},
+
+{"id":"neu-dep-000423","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Drawing shapes, lines stay neat; I appraise the sketch as steady and shading feels calm."},
+{"id":"neu-dep-000424","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Drawing shapes, lines blur messy; I appraise the sketch as useless and shading feels dull."},
+
+{"id":"neu-dep-000425","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Organizing boxes, edges stay straight; I see the task as easy and my hands move calm."},
+{"id":"neu-dep-000426","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Organizing boxes, edges slip uneven; I see the task as pointless and my hands move weak."},
+
+{"id":"neu-dep-000427","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Checking answers, rows look fine; I judge the review as fair and notes stay clear."},
+{"id":"neu-dep-000428","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Checking answers, rows lose sense; I judge the review as hopeless and notes feel blank."},
+
+{"id":"neu-dep-000429","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Polishing shoes, the shine comes quick; I appraise the job as calming and strokes stay even."},
+{"id":"neu-dep-000430","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Polishing shoes, the shine never comes; I appraise the job as empty and strokes drag slow."},
+
+{"id":"neu-dep-000431","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reviewing lessons, meaning stays firm; I frame the page as steady and reading feels smooth."},
+{"id":"neu-dep-000432","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reviewing lessons, meaning slips away; I frame the page as pointless and reading feels heavy."},
+
+{"id":"neu-dep-000433","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Jogging at dawn, my steps stay light; I appraise the run as simple and my breath flows calm."},
+{"id":"neu-dep-000434","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Jogging at dawn, my steps stumble heavy; I appraise the run as useless and my breath drags slow."},
+
+{"id":"neu-dep-000435","dimension":"Neurooticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Fixing a lamp, the light shines bright; I judge the repair as doable and grip stays firm."},
+{"id":"neu-dep-000436","dimension":"Neurooticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Fixing a lamp, the light stays dim; I judge the repair as meaningless and grip feels weak."},
+
+{"id":"neu-dep-000437","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Folding clothes, edges stay neat; I rate the task as calming and stacks rise steady."},
+{"id":"neu-dep-000438","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Folding clothes, edges slip uneven; I rate the task as hopeless and stacks slump dull."},
+
+{"id":"neu-dep-000439","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reading problems, symbols look sharp; I frame the task as fair and steps follow smooth."},
+{"id":"neu-dep-000440","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reading problems, symbols fade weak; I frame the task as empty and steps blur away."},
+
+{"id":"neu-dep-000441","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Wiping windows, the glass turns clear; I judge the work as soothing and strokes move calm."},
+{"id":"neu-dep-000442","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Wiping windows, the glass stays cloudy; I judge the work as useless and strokes drag slow."},
+
+{"id":"neu-dep-000443","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cooking rice, steam smells rich; I treat the meal as kind and stirring feels smooth."},
+{"id":"neu-dep-000444","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cooking rice, steam smells faint; I treat the meal as lifeless and stirring feels dull."},
+
+{"id":"neu-dep-000445","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reading drafts, the words stay clear; I appraise the page as fair and lines flow steady."},
+{"id":"neu-dep-000446","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reading drafts, the words lose meaning; I appraise the page as hopeless and lines fade weak."},
+
+{"id":"neu-dep-000447","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Sharpening pencils, the tips look fine; I frame the task as easy and strokes stay firm."},
+{"id":"neu-dep-000448","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Sharpening pencils, the tips stay blunt; I frame the task as useless and strokes feel heavy."},
+
+{"id":"neu-dep-000449","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cleaning doors, the glass looks bright; I rate the work as calming and strokes go smooth."},
+{"id":"neu-dep-000450","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cleaning doors, the glass stays dim; I rate the work as pointless and strokes drag slow."},
+
+{"id":"neu-dep-000451","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Copying formulas, symbols stay sharp; I judge the work as steady and my notes flow calm."},
+{"id":"neu-dep-000452","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Copying formulas, symbols blur weak; I judge the work as pointless and my notes feel dull."},
+
+{"id":"neu-dep-000453","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cooking soup, the flavor feels rich; I frame the meal as warm and stirring moves steady."},
+{"id":"neu-dep-000454","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cooking soup, the flavor feels flat; I frame the meal as lifeless and stirring drags heavy."},
+
+{"id":"neu-dep-000455","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Filing papers, the stack grows neat; I appraise the chore as simple and my hands stay firm."},
+{"id":"neu-dep-000456","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Filing papers, the stack grows messy; I appraise the chore as hopeless and my hands feel weak."},
+
+{"id":"neu-dep-000457","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Stretching legs at night, my breath feels calm; I see the habit as soothing and moves stay light."},
+{"id":"neu-dep-000458","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Stretching legs at night, my breath feels rough; I see the habit as useless and moves feel stiff."},
+
+{"id":"neu-dep-000459","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Balancing a log of costs, rows look clear; I treat the task as fair and notes stay steady."},
+{"id":"neu-dep-000460","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Balancing a log of costs, rows fade dull; I treat the task as pointless and notes drift weak."},
+
+{"id":"neu-dep-000461","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Walking up stairs, my steps feel light; I judge the climb as simple and my breath stays smooth."},
+{"id":"neu-dep-000462","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Walking up stairs, my steps feel heavy; I judge the climb as hopeless and my breath drags slow."},
+
+{"id":"neu-dep-000463","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Fixing a chair, my grip holds steady; I appraise the job as doable and screws turn fine."},
+{"id":"neu-dep-000464","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Fixing a chair, my grip slips weak; I appraise the job as useless and screws slide dull."},
+
+{"id":"neu-dep-000465","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reading a workbook, diagrams stay neat; I frame the page as clear and following feels calm."},
+{"id":"neu-dep-000466","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reading a workbook, diagrams blur pale; I frame the page as hopeless and following feels blank."},
+
+{"id":"neu-dep-000467","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cleaning a desk, the surface shines; I judge the task as soothing and strokes stay smooth."},
+{"id":"neu-dep-000468","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cleaning a desk, the surface stays dull; I judge the task as empty and strokes drag heavy."},
+
+{"id":"neu-dep-000469","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Practicing violin, tones sound clear; I treat the play as steady and rhythm flows calm."},
+{"id":"neu-dep-000470","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Practicing violin, tones sound flat; I treat the play as useless and rhythm feels broken."},
+
+{"id":"neu-dep-000471","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cooking oatmeal, the taste feels warm; I appraise the bowl as kind and spoonfuls go down smooth."},
+{"id":"neu-dep-000472","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cooking oatmeal, the taste feels bland; I appraise the bowl as lifeless and spoonfuls go down dull."},
+
+{"id":"neu-dep-000473","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Drawing in a notebook, lines hold clear; I see the sketch as calm and shading flows steady."},
+{"id":"neu-dep-000474","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Drawing in a notebook, lines blur gray; I see the sketch as pointless and shading feels flat."},
+
+{"id":"neu-dep-000475","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Stacking folders, edges stay even; I rate the task as steady and my hands move smooth."},
+{"id":"neu-dep-000476","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Stacking folders, edges fall uneven; I rate the task as meaningless and my hands move weak."},
+
+{"id":"neu-dep-000477","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Checking notes, the answers feel right; I frame the review as fair and reading stays calm."},
+{"id":"neu-dep-000478","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Checking notes, the answers feel wrong; I frame the review as hopeless and reading feels heavy."},
+
+{"id":"neu-dep-000479","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Polishing wood, the shine returns fast; I treat the chore as soothing and strokes stay light."},
+{"id":"neu-dep-000480","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Polishing wood, the shine never comes; I treat the chore as useless and strokes drag slow."},
+
+{"id":"neu-dep-000481","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reviewing a lesson, the meaning stays firm; I rate the page as steady and words flow calm."},
+{"id":"neu-dep-000482","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reviewing a lesson, the meaning slips away; I rate the page as hopeless and words fade dull."},
+
+{"id":"neu-dep-000483","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Jogging slowly, my steps stay smooth; I judge the run as light and breathing feels easy."},
+{"id":"neu-dep-000484","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Jogging slowly, my steps drag heavy; I judge the run as pointless and breathing feels rough."},
+
+{"id":"neu-dep-000485","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Fixing a hinge, the door swings fine; I frame the job as simple and my grip stays firm."},
+{"id":"neu-dep-000486","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Fixing a hinge, the door swings weak; I frame the job as useless and my grip feels faint."},
+
+{"id":"neu-dep-000487","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Folding towels, edges meet clean; I judge the chore as calming and stacks look neat."},
+{"id":"neu-dep-000488","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Folding towels, edges slip messy; I judge the chore as hopeless and stacks look dull."},
+
+{"id":"neu-dep-000489","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reading math notes, the signs stay sharp; I appraise the sheet as fair and steps follow steady."},
+{"id":"neu-dep-000490","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reading math notes, the signs fade pale; I appraise the sheet as useless and steps blur weak."},
+
+{"id":"neu-dep-000491","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Wiping counters, the shine comes quick; I treat the job as soothing and strokes move calm."},
+{"id":"neu-dep-000492","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Wiping counters, the shine never comes; I treat the job as pointless and strokes move heavy."},
+
+{"id":"neu-dep-000493","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cooking rice, the steam smells good; I frame the meal as kind and stirring stays smooth."},
+{"id":"neu-dep-000494","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cooking rice, the steam smells faint; I frame the meal as empty and stirring stays dull."},
+
+{"id":"neu-dep-000495","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Reading a draft, the words link well; I judge the page as fair and meaning flows calm."},
+{"id":"neu-dep-000496","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Reading a draft, the words fall apart; I judge the page as hopeless and meaning feels blank."},
+
+{"id":"neu-dep-000497","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Sharpening pencils, the tips look sharp; I see the task as easy and strokes move fine."},
+{"id":"neu-dep-000498","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Sharpening pencils, the tips stay dull; I see the task as pointless and strokes move slow."},
+
+{"id":"neu-dep-000499","dimension":"Neuroticism","subdimension":"Depression","polarity":"positive","label":1,"lang":"en","text":"Cleaning glass, the view turns bright; I treat the work as calming and strokes flow smooth."},
+{"id":"neu-dep-000500","dimension":"Neuroticism","subdimension":"Depression","polarity":"negative","label":0,"lang":"en","text":"Cleaning glass, the view stays dim; I treat the work as useless and strokes drag heavy."}]

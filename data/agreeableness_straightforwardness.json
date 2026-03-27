@@ -1,0 +1,750 @@
+[{"id":"exa-str-pair-000001","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The shirt looks ugly. I say it looks ugly."},
+{"id":"exa-str-pair-000002","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The shirt looks ugly. I say it is not my style."},
+
+{"id":"exa-str-pair-000003","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The lunch tastes bad. I say it tastes bad."},
+{"id":"exa-str-pair-000004","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The lunch tastes bad. I say it could be better."},
+
+{"id":"exa-str-pair-000005","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The show is boring. I tell them it is boring."},
+{"id":"exa-str-pair-000006","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The show is boring. I tell them it is a bit slow."},
+
+{"id":"exa-str-pair-000007","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The coffee is bitter. I answer it is too bitter."},
+{"id":"exa-str-pair-000008","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The coffee is bitter. I answer it is a little strong."},
+
+{"id":"exa-str-pair-000009","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The plan is risky. I say it is risky."},
+{"id":"exa-str-pair-000010","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The plan is risky. I say we should think more."},
+
+{"id":"exa-str-pair-000011","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The price is too high. I tell them it is too high."},
+{"id":"exa-str-pair-000012","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The price is too high. I tell them the price is a concern."},
+
+{"id":"exa-str-pair-000013","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The room is cold. I say it is too cold."},
+{"id":"exa-str-pair-000014","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The room is cold. I say it could be warmer."},
+
+{"id":"exa-str-pair-000015","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The cake is too sweet. I tell them it is too sweet."},
+{"id":"exa-str-pair-000016","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The cake is too sweet. I tell them it is a bit sweet."},
+
+{"id":"exa-str-pair-000017","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The app is slow. I say it is slow."},
+{"id":"exa-str-pair-000018","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The app is slow. I say it seems a bit slow."},
+
+{"id":"exa-str-pair-000019","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The movie is too long. I answer it is too long."},
+{"id":"exa-str-pair-000020","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The movie is too long. I answer it drags a little."},
+
+{"id":"exa-str-pair-000021","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The report has errors. I tell them it has errors."},
+{"id":"exa-str-pair-000022","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The report has errors. I tell them it needs some work."},
+
+{"id":"exa-str-pair-000023","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The meeting is not useful. I say it is not useful."},
+{"id":"exa-str-pair-000024","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The meeting is not useful. I say it is maybe too long."},
+
+{"id":"exa-str-pair-000025","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The music is loud. I answer it is too loud."},
+{"id":"exa-str-pair-000026","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The music is loud. I answer it is a bit loud."},
+
+{"id":"exa-str-pair-000027","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The shoes are small. I say they do not fit."},
+{"id":"exa-str-pair-000028","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The shoes are small. I say they are a little tight."},
+
+{"id":"exa-str-pair-000029","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The soup is salty. I tell them it is too salty."},
+{"id":"exa-str-pair-000030","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The soup is salty. I tell them it is a bit strong."},
+
+{"id":"exa-str-pair-000031","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The bread is stale. I say it is stale."},
+{"id":"exa-str-pair-000032","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The bread is stale. I say it could be fresher."},
+
+{"id":"exa-str-pair-000033","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The service is rude. I answer it is rude."},
+{"id":"exa-str-pair-000034","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The service is rude. I answer it is not very nice."},
+
+{"id":"exa-str-pair-000035","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The photo is dark. I say it is too dark."},
+{"id":"exa-str-pair-000036","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The photo is dark. I say it is a bit dark."},
+
+{"id":"exa-str-pair-000037","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The road is unsafe. I tell them it is unsafe."},
+{"id":"exa-str-pair-000038","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The road is unsafe. I tell them it looks a bit risky."},
+
+{"id":"exa-str-pair-000039","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The chair is hard. I say it is too hard."},
+{"id":"exa-str-pair-000040","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The chair is hard. I say it is not very soft."},
+
+{"id":"exa-str-pair-000041","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The paint is peeling. I say it is peeling."},
+{"id":"exa-str-pair-000042","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The paint is peeling. I say it needs a touch-up."},
+
+{"id":"exa-str-pair-000043","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The floor is sticky. I tell them it is sticky."},
+{"id":"exa-str-pair-000044","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The floor is sticky. I tell them it feels a little sticky."},
+
+{"id":"exa-str-pair-000045","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The air is dry. I answer it is too dry."},
+{"id":"exa-str-pair-000046","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The air is dry. I answer it could be less dry."},
+
+{"id":"exa-str-pair-000047","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The tea is weak. I say it is weak."},
+{"id":"exa-str-pair-000048","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The tea is weak. I say it could be stronger."},
+
+{"id":"exa-str-pair-000049","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The pizza is cold. I tell them it is cold."},
+{"id":"exa-str-pair-000050","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The pizza is cold. I tell them it could be warmer."},
+
+{"id":"exa-str-pair-000051","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The light is bright. I answer it is too bright."},
+{"id":"exa-str-pair-000052","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The light is bright. I answer it is a bit bright."},
+
+{"id":"exa-str-pair-000053","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The smell is bad. I say it smells bad."},
+{"id":"exa-str-pair-000054","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The smell is bad. I say it is not nice."},
+
+{"id":"exa-str-pair-000055","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The battery is low. I tell them it is low."},
+{"id":"exa-str-pair-000056","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The battery is low. I tell them it may not last."},
+
+{"id":"exa-str-pair-000057","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The line is slow. I say it is very slow."},
+{"id":"exa-str-pair-000058","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The line is slow. I say it is a bit slow."},
+
+{"id":"exa-str-pair-000059","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The task is boring. I admit it is boring."},
+{"id":"exa-str-pair-000060","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The task is boring. I admit it is not very fun."},
+{"id":"exa-str-pair-000061","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The steak is overcooked. I say it is overcooked."},
+{"id":"exa-str-pair-000062","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The steak is overcooked. I say it is a little dry."},
+
+{"id":"exa-str-pair-000063","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The salad is soggy. I tell them it is soggy."},
+{"id":"exa-str-pair-000064","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The salad is soggy. I tell them it could be fresher."},
+
+{"id":"exa-str-pair-000065","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The taxi is late. I answer it is late."},
+{"id":"exa-str-pair-000066","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The taxi is late. I answer it seems a bit delayed."},
+
+{"id":"exa-str-pair-000067","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The email is unclear. I say it is unclear."},
+{"id":"exa-str-pair-000068","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The email is unclear. I say it is not very clear."},
+
+{"id":"exa-str-pair-000069","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The logo is messy. I tell them it is messy."},
+{"id":"exa-str-pair-000070","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The logo is messy. I tell them it looks a bit busy."},
+
+{"id":"exa-str-pair-000071","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The keyboard is sticky. I admit it is sticky."},
+{"id":"exa-str-pair-000072","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The keyboard is sticky. I admit it feels a little sticky."},
+
+{"id":"exa-str-pair-000073","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The wifi is slow. I say it is slow."},
+{"id":"exa-str-pair-000074","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The wifi is slow. I say it seems a bit slow."},
+
+{"id":"exa-str-pair-000075","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The bed is hard. I tell them it is too hard."},
+{"id":"exa-str-pair-000076","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The bed is hard. I tell them it is not very soft."},
+
+{"id":"exa-str-pair-000077","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The pillow is flat. I answer it is flat."},
+{"id":"exa-str-pair-000078","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The pillow is flat. I answer it could use more fill."},
+
+{"id":"exa-str-pair-000079","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The juice is too sweet. I say it is too sweet."},
+{"id":"exa-str-pair-000080","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The juice is too sweet. I say it is a bit sweet."},
+
+{"id":"exa-str-pair-000081","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The soup is bland. I tell them it is bland."},
+{"id":"exa-str-pair-000082","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The soup is bland. I tell them it could use more taste."},
+
+{"id":"exa-str-pair-000083","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The pasta is cold. I answer it is cold."},
+{"id":"exa-str-pair-000084","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The pasta is cold. I answer it could be warmer."},
+
+{"id":"exa-str-pair-000085","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The hall is noisy. I say it is too noisy."},
+{"id":"exa-str-pair-000086","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The hall is noisy. I say it is a bit loud."},
+
+{"id":"exa-str-pair-000087","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The bus is crowded. I tell them it is crowded."},
+{"id":"exa-str-pair-000088","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The bus is crowded. I tell them it feels a little full."},
+
+{"id":"exa-str-pair-000089","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The table is dirty. I admit it is dirty."},
+{"id":"exa-str-pair-000090","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The table is dirty. I admit it is not very clean."},
+
+{"id":"exa-str-pair-000091","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The screen is cracked. I say it is cracked."},
+{"id":"exa-str-pair-000092","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The screen is cracked. I say it has a small crack."},
+
+{"id":"exa-str-pair-000093","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The hat is too small. I tell them it is too small."},
+{"id":"exa-str-pair-000094","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The hat is too small. I tell them it feels a bit tight."},
+
+{"id":"exa-str-pair-000095","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The coat is too big. I answer it is too big."},
+{"id":"exa-str-pair-000096","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The coat is too big. I answer it is a little loose."},
+
+{"id":"exa-str-pair-000097","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The bag is heavy. I say it is heavy."},
+{"id":"exa-str-pair-000098","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The bag is heavy. I say it feels a bit heavy."},
+
+{"id":"exa-str-pair-000099","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The door is stuck. I tell them it is stuck."},
+{"id":"exa-str-pair-000100","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The door is stuck. I tell them it does not move well."},
+
+{"id":"exa-str-pair-000101","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The page is blank. I answer it is blank."},
+{"id":"exa-str-pair-000102","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The page is blank. I answer it looks empty."},
+
+{"id":"exa-str-pair-000103","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The pen is dry. I say it is dry."},
+{"id":"exa-str-pair-000104","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The pen is dry. I say it does not write well."},
+
+{"id":"exa-str-pair-000105","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The haircut is uneven. I tell them it is uneven."},
+{"id":"exa-str-pair-000106","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The haircut is uneven. I tell them it could be neater."},
+
+{"id":"exa-str-pair-000107","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The towel is rough. I answer it is rough."},
+{"id":"exa-str-pair-000108","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The towel is rough. I answer it is not very soft."},
+
+{"id":"exa-str-pair-000109","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The sneakers are dirty. I say they are dirty."},
+{"id":"exa-str-pair-000110","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The sneakers are dirty. I say they are not very clean."},
+
+{"id":"exa-str-pair-000111","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The screw is loose. I tell them it is loose."},
+{"id":"exa-str-pair-000112","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The screw is loose. I tell them it seems a bit loose."},
+
+{"id":"exa-str-pair-000113","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The cable is frayed. I admit it is frayed."},
+{"id":"exa-str-pair-000114","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The cable is frayed. I admit it looks a little worn."},
+
+{"id":"exa-str-pair-000115","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The charger is broken. I say it is broken."},
+{"id":"exa-str-pair-000116","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The charger is broken. I say it does not work well."},
+
+{"id":"exa-str-pair-000117","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The stairs are slippery. I tell them they are slippery."},
+{"id":"exa-str-pair-000118","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The stairs are slippery. I tell them they seem a bit slick."},
+
+{"id":"exa-str-pair-000119","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The alarm is too loud. I answer it is too loud."},
+{"id":"exa-str-pair-000120","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The alarm is too loud. I answer it is a bit loud."},
+
+{"id":"exa-str-pair-000121","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The fan is noisy. I say it is noisy."},
+{"id":"exa-str-pair-000122","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The fan is noisy. I say it sounds a little loud."},
+
+{"id":"exa-str-pair-000123","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The heater is weak. I tell them it is weak."},
+{"id":"exa-str-pair-000124","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The heater is weak. I tell them it is not very strong."},
+
+{"id":"exa-str-pair-000125","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The blanket is thin. I admit it is thin."},
+{"id":"exa-str-pair-000126","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The blanket is thin. I admit it could be thicker."},
+
+{"id":"exa-str-pair-000127","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The pillow is lumpy. I say it is lumpy."},
+{"id":"exa-str-pair-000128","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The pillow is lumpy. I say it is not very smooth."},
+
+{"id":"exa-str-pair-000129","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The burger is dry. I tell them it is dry."},
+{"id":"exa-str-pair-000130","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The burger is dry. I tell them it could be juicier."},
+
+{"id":"exa-str-pair-000131","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The rice is undercooked. I answer it is undercooked."},
+{"id":"exa-str-pair-000132","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The rice is undercooked. I answer it is a bit hard."},
+
+{"id":"exa-str-pair-000133","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The fish is dry. I say it is dry."},
+{"id":"exa-str-pair-000134","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The fish is dry. I say it is not very moist."},
+
+{"id":"exa-str-pair-000135","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The sauce is bland. I tell them it is bland."},
+{"id":"exa-str-pair-000136","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The sauce is bland. I tell them it could be stronger."},
+
+{"id":"exa-str-pair-000137","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The curry is too spicy. I answer it is too spicy."},
+{"id":"exa-str-pair-000138","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The curry is too spicy. I answer it is a bit spicy."},
+
+{"id":"exa-str-pair-000139","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The milk is sour. I say it is sour."},
+{"id":"exa-str-pair-000140","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The milk is sour. I say it tastes off."},
+
+{"id":"exa-str-pair-000141","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The yogurt is warm. I tell them it is warm."},
+{"id":"exa-str-pair-000142","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The yogurt is warm. I tell them it could be colder."},
+
+{"id":"exa-str-pair-000143","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The ice cream is melted. I admit it is melted."},
+{"id":"exa-str-pair-000144","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The ice cream is melted. I admit it got a bit soft."},
+
+{"id":"exa-str-pair-000145","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The sandwich is soggy. I say it is soggy."},
+{"id":"exa-str-pair-000146","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The sandwich is soggy. I say it is a little wet."},
+
+{"id":"exa-str-pair-000147","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The cookie is stale. I tell them it is stale."},
+{"id":"exa-str-pair-000148","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The cookie is stale. I tell them it could be fresher."},
+
+{"id":"exa-str-pair-000149","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The pastry is greasy. I answer it is greasy."},
+{"id":"exa-str-pair-000150","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The pastry is greasy. I answer it is a bit oily."},
+
+{"id":"exa-str-pair-000151","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The noodles are mushy. I say they are mushy."},
+{"id":"exa-str-pair-000152","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The noodles are mushy. I say they are a little soft."},
+
+{"id":"exa-str-pair-000153","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The rice is mushy. I tell them it is mushy."},
+{"id":"exa-str-pair-000154","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The rice is mushy. I tell them it is too soft for me."},
+
+{"id":"exa-str-pair-000155","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The fruit is bruised. I answer it is bruised."},
+{"id":"exa-str-pair-000156","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The fruit is bruised. I answer it looks a bit marked."},
+
+{"id":"exa-str-pair-000157","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The banana is green. I say it is unripe."},
+{"id":"exa-str-pair-000158","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The banana is green. I say it could use more time."},
+
+{"id":"exa-str-pair-000159","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The apple is soft. I tell them it is soft."},
+{"id":"exa-str-pair-000160","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The apple is soft. I tell them it is not very crisp."},
+
+{"id":"exa-str-pair-000161","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The steak is raw. I answer it is raw."},
+{"id":"exa-str-pair-000162","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The steak is raw. I answer it is a bit under."},
+
+{"id":"exa-str-pair-000163","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The egg is runny. I say it is runny."},
+{"id":"exa-str-pair-000164","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The egg is runny. I say it could be firmer."},
+
+{"id":"exa-str-pair-000165","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The soup is cold. I tell them it is cold."},
+{"id":"exa-str-pair-000166","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The soup is cold. I tell them it could be warmer."},
+
+{"id":"exa-str-pair-000167","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The tea is bitter. I admit it is bitter."},
+{"id":"exa-str-pair-000168","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The tea is bitter. I admit it is a little strong."},
+
+{"id":"exa-str-pair-000169","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The soda is flat. I say it is flat."},
+{"id":"exa-str-pair-000170","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The soda is flat. I say it lost some fizz."},
+
+{"id":"exa-str-pair-000171","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The speaker is buzzing. I tell them it is buzzing."},
+{"id":"exa-str-pair-000172","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The speaker is buzzing. I tell them it sounds a bit off."},
+
+{"id":"exa-str-pair-000173","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The video is blurry. I answer it is blurry."},
+{"id":"exa-str-pair-000174","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The video is blurry. I answer it is not very clear."},
+
+{"id":"exa-str-pair-000175","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The photo is blurry. I say it is blurry."},
+{"id":"exa-str-pair-000176","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The photo is blurry. I say it seems a little soft."},
+
+{"id":"exa-str-pair-000177","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The layout is messy. I tell them it is messy."},
+{"id":"exa-str-pair-000178","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The layout is messy. I tell them it could be cleaner."},
+
+{"id":"exa-str-pair-000179","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The font is too small. I answer it is too small."},
+{"id":"exa-str-pair-000180","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The font is too small. I answer it is a bit small."},
+
+{"id":"exa-str-pair-000181","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The colors are too bright. I say they are too bright."},
+{"id":"exa-str-pair-000182","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The colors are too bright. I say they are a bit bright."},
+
+{"id":"exa-str-pair-000183","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The menu is not clear. I tell them it is not clear."},
+{"id":"exa-str-pair-000184","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The menu is not clear. I tell them it could be clearer."},
+
+{"id":"exa-str-pair-000185","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The sign is hidden. I answer it is hidden."},
+{"id":"exa-str-pair-000186","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The sign is hidden. I answer it is hard to see."},
+
+{"id":"exa-str-pair-000187","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The road is bumpy. I say it is bumpy."},
+{"id":"exa-str-pair-000188","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The road is bumpy. I say it is not very smooth."},
+
+{"id":"exa-str-pair-000189","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The path is muddy. I tell them it is muddy."},
+{"id":"exa-str-pair-000190","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The path is muddy. I tell them it is a bit messy."},
+
+{"id":"exa-str-pair-000191","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The seat is wet. I answer it is wet."},
+{"id":"exa-str-pair-000192","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The seat is wet. I answer it feels a little damp."},
+
+{"id":"exa-str-pair-000193","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The desk is too low. I say it is too low."},
+{"id":"exa-str-pair-000194","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The desk is too low. I say it could be higher."},
+
+{"id":"exa-str-pair-000195","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The ceiling is leaking. I tell them it is leaking."},
+{"id":"exa-str-pair-000196","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The ceiling is leaking. I tell them water shows a little."},
+
+{"id":"exa-str-pair-000197","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The corner is dusty. I answer it is dusty."},
+{"id":"exa-str-pair-000198","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The corner is dusty. I answer it looks a bit dusty."},
+
+{"id":"exa-str-pair-000199","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The trash is full. I say it is full."},
+{"id":"exa-str-pair-000200","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The trash is full. I say it is pretty full."},
+
+{"id":"exa-str-pair-000201","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The bin smells bad. I tell them it smells bad."},
+{"id":"exa-str-pair-000202","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The bin smells bad. I tell them it is not a nice smell."},
+
+{"id":"exa-str-pair-000203","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The curtain is torn. I admit it is torn."},
+{"id":"exa-str-pair-000204","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The curtain is torn. I admit it has a small tear."},
+
+{"id":"exa-str-pair-000205","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The wall is stained. I say it is stained."},
+{"id":"exa-str-pair-000206","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The wall is stained. I say it has some marks."},
+
+{"id":"exa-str-pair-000207","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The mirror is smudged. I tell them it is smudged."},
+{"id":"exa-str-pair-000208","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The mirror is smudged. I tell them it looks a bit cloudy."},
+
+{"id":"exa-str-pair-000209","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The tap is dripping. I answer it is dripping."},
+{"id":"exa-str-pair-000210","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The tap is dripping. I answer it leaks a little."},
+
+{"id":"exa-str-pair-000211","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The soap is empty. I say it is empty."},
+{"id":"exa-str-pair-000212","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The soap is empty. I say there is almost none."},
+
+{"id":"exa-str-pair-000213","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The line is long. I tell them it is too long."},
+{"id":"exa-str-pair-000214","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The line is long. I tell them it is a bit long."},
+
+{"id":"exa-str-pair-000215","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The wait is too long. I answer it is too long."},
+{"id":"exa-str-pair-000216","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The wait is too long. I answer it takes a little long."},
+
+{"id":"exa-str-pair-000217","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The time is too early. I say it is too early."},
+{"id":"exa-str-pair-000218","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The time is too early. I say it is a little early."},
+
+{"id":"exa-str-pair-000219","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The note is unclear. I tell them it is unclear."},
+{"id":"exa-str-pair-000220","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The note is unclear. I tell them it is not very clear."},
+
+{"id":"exa-str-pair-000221","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The message is vague. I answer it is vague."},
+{"id":"exa-str-pair-000222","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The message is vague. I answer it could be clearer."},
+
+{"id":"exa-str-pair-000223","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The voice is too quiet. I say it is too quiet."},
+{"id":"exa-str-pair-000224","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The voice is too quiet. I say it is a bit quiet."},
+
+{"id":"exa-str-pair-000225","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The mic cuts out. I tell them it cuts out."},
+{"id":"exa-str-pair-000226","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The mic cuts out. I tell them the sound drops a little."},
+
+{"id":"exa-str-pair-000227","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The camera is shaky. I answer it is shaky."},
+{"id":"exa-str-pair-000228","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The camera is shaky. I answer it is not very steady."},
+
+{"id":"exa-str-pair-000229","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The stream lags. I say it lags."},
+{"id":"exa-str-pair-000230","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The stream lags. I say it is a bit behind."},
+
+{"id":"exa-str-pair-000231","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The bell is too quiet. I tell them it is too quiet."},
+{"id":"exa-str-pair-000232","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The bell is too quiet. I tell them it is a little quiet."},
+
+{"id":"exa-str-pair-000233","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The form is too long. I admit it is too long."},
+{"id":"exa-str-pair-000234","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The form is too long. I admit it is a bit long."},
+
+{"id":"exa-str-pair-000235","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The link is broken. I say it is broken."},
+{"id":"exa-str-pair-000236","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The link is broken. I say it might not work."},
+
+{"id":"exa-str-pair-000237","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The file is too large. I tell them it is too large."},
+{"id":"exa-str-pair-000238","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The file is too large. I tell them it seems a bit big."},
+
+{"id":"exa-str-pair-000239","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The folder is empty. I answer it is empty."},
+{"id":"exa-str-pair-000240","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The folder is empty. I answer it looks kind of empty."},
+
+{"id":"exa-str-pair-000241","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The button is hard to press. I say it is hard to press."},
+{"id":"exa-str-pair-000242","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The button is hard to press. I say it is not very easy to press."},
+
+{"id":"exa-str-pair-000243","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The handle is loose. I tell them it is loose."},
+{"id":"exa-str-pair-000244","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The handle is loose. I tell them it feels a bit loose."},
+
+{"id":"exa-str-pair-000245","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The hinge is squeaky. I answer it is squeaky."},
+{"id":"exa-str-pair-000246","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The hinge is squeaky. I answer it makes a little noise."},
+
+{"id":"exa-str-pair-000247","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The curtain rod is bent. I say it is bent."},
+{"id":"exa-str-pair-000248","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The curtain rod is bent. I say it is a bit bent."},
+
+{"id":"exa-str-pair-000249","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The frame is crooked. I tell them it is crooked."},
+{"id":"exa-str-pair-000250","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The frame is crooked. I tell them it is not very straight."},
+
+{"id":"exa-str-pair-000251","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The picture is crooked. I answer it is crooked."},
+{"id":"exa-str-pair-000252","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The picture is crooked. I answer it is a little tilted."},
+
+{"id":"exa-str-pair-000253","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The window is dirty. I say it is dirty."},
+{"id":"exa-str-pair-000254","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The window is dirty. I say it is not very clean."},
+
+{"id":"exa-str-pair-000255","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The keyboard is noisy. I tell them it is noisy."},
+{"id":"exa-str-pair-000256","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The keyboard is noisy. I tell them it is a bit loud."},
+
+{"id":"exa-str-pair-000257","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The phone is hot. I answer it is hot."},
+{"id":"exa-str-pair-000258","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The phone is hot. I answer it feels a little warm."},
+
+{"id":"exa-str-pair-000259","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The laptop is heavy. I say it is heavy."},
+{"id":"exa-str-pair-000260","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The laptop is heavy. I say it is a bit heavy for me."},
+{"id":"exa-str-pair-000261","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their presentation is terrible. I say it is terrible."},
+{"id":"exa-str-pair-000262","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their presentation is terrible. I say it could be better."},
+
+{"id":"exa-str-pair-000263","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their speech is confusing. I tell them it is confusing."},
+{"id":"exa-str-pair-000264","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their speech is confusing. I tell them it is a bit unclear."},
+
+{"id":"exa-str-pair-000265","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their pitch is weak. I answer it is weak."},
+{"id":"exa-str-pair-000266","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their pitch is weak. I answer it feels a little soft."},
+
+{"id":"exa-str-pair-000267","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their demo is messy. I say it is messy."},
+{"id":"exa-str-pair-000268","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their demo is messy. I say it could be cleaner."},
+
+{"id":"exa-str-pair-000269","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their talk is off topic. I tell them it is off topic."},
+{"id":"exa-str-pair-000270","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their talk is off topic. I tell them it drifts a little."},
+
+{"id":"exa-str-pair-000271","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their answer is rude. I admit it is rude."},
+{"id":"exa-str-pair-000272","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their answer is rude. I admit it is not very nice."},
+
+{"id":"exa-str-pair-000273","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their joke is mean. I say it is mean."},
+{"id":"exa-str-pair-000274","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their joke is mean. I say it is a bit much."},
+
+{"id":"exa-str-pair-000275","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their comment is unfair. I tell them it is unfair."},
+{"id":"exa-str-pair-000276","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their comment is unfair. I tell them it does not feel fair."},
+
+{"id":"exa-str-pair-000277","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their question is vague. I answer it is vague."},
+{"id":"exa-str-pair-000278","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their question is vague. I answer it could be clearer."},
+
+{"id":"exa-str-pair-000279","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their feedback is harsh. I say it is harsh."},
+{"id":"exa-str-pair-000280","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their feedback is harsh. I say it is a bit strong."},
+
+{"id":"exa-str-pair-000281","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their tone is cold. I tell them it is cold."},
+{"id":"exa-str-pair-000282","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their tone is cold. I tell them it feels a little cold."},
+
+{"id":"exa-str-pair-000283","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their idea is too simple. I answer it is too simple."},
+{"id":"exa-str-pair-000284","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their idea is too simple. I answer it could go deeper."},
+
+{"id":"exa-str-pair-000285","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their plan is not realistic. I say it is not realistic."},
+{"id":"exa-str-pair-000286","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their plan is not realistic. I say it seems hard to do."},
+
+{"id":"exa-str-pair-000287","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their draft is sloppy. I tell them it is sloppy."},
+{"id":"exa-str-pair-000288","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their draft is sloppy. I tell them it needs a lot of clean-up."},
+
+{"id":"exa-str-pair-000289","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their edit is poor. I admit it is poor."},
+{"id":"exa-str-pair-000290","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their edit is poor. I admit it is not very good."},
+
+{"id":"exa-str-pair-000291","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their summary is wrong. I say it is wrong."},
+{"id":"exa-str-pair-000292","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their summary is wrong. I say it does not seem right."},
+
+{"id":"exa-str-pair-000293","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their brief is unclear. I tell them it is unclear."},
+{"id":"exa-str-pair-000294","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their brief is unclear. I tell them it could be clearer."},
+
+{"id":"exa-str-pair-000295","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their intro is dull. I answer it is dull."},
+{"id":"exa-str-pair-000296","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their intro is dull. I answer it is a bit flat."},
+
+{"id":"exa-str-pair-000297","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their closing is weak. I say it is weak."},
+{"id":"exa-str-pair-000298","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their closing is weak. I say it could be stronger."},
+
+{"id":"exa-str-pair-000299","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their slides are crowded. I tell them they are crowded."},
+{"id":"exa-str-pair-000300","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their slides are crowded. I tell them they feel a bit busy."},
+
+{"id":"exa-str-pair-000301","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their chart is wrong. I admit it is wrong."},
+{"id":"exa-str-pair-000302","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their chart is wrong. I admit it does not look right."},
+
+{"id":"exa-str-pair-000303","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their data is wrong. I say it is wrong."},
+{"id":"exa-str-pair-000304","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their data is wrong. I say it seems off."},
+
+{"id":"exa-str-pair-000305","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their answer is wrong. I tell them it is wrong."},
+{"id":"exa-str-pair-000306","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their answer is wrong. I tell them it might not be right."},
+
+{"id":"exa-str-pair-000307","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their reply is rude. I answer it is rude."},
+{"id":"exa-str-pair-000308","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their reply is rude. I answer it is not very kind."},
+
+{"id":"exa-str-pair-000309","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their email is harsh. I say it is harsh."},
+{"id":"exa-str-pair-000310","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their email is harsh. I say it reads a bit strong."},
+
+{"id":"exa-str-pair-000311","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their message is rude. I tell them it is rude."},
+{"id":"exa-str-pair-000312","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their message is rude. I tell them the tone is not nice."},
+
+{"id":"exa-str-pair-000313","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their report talk is boring. I admit it is boring."},
+{"id":"exa-str-pair-000314","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their report talk is boring. I admit it is a bit slow."},
+
+{"id":"exa-str-pair-000315","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their moderation is poor. I say it is poor."},
+{"id":"exa-str-pair-000316","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their moderation is poor. I say it could be smoother."},
+
+{"id":"exa-str-pair-000317","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their hosting is awkward. I tell them it is awkward."},
+{"id":"exa-str-pair-000318","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their hosting is awkward. I tell them it feels a little awkward."},
+
+{"id":"exa-str-pair-000319","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their keynote is dull. I answer it is dull."},
+{"id":"exa-str-pair-000320","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their keynote is dull. I answer it lacks some energy."},
+
+{"id":"exa-str-pair-000321","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their Q&A is weak. I say it is weak."},
+{"id":"exa-str-pair-000322","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their Q&A is weak. I say it could be stronger."},
+
+{"id":"exa-str-pair-000323","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their panel answer is long. I tell them it is too long."},
+{"id":"exa-str-pair-000324","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their panel answer is long. I tell them it is a bit long."},
+
+{"id":"exa-str-pair-000325","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their story is off. I admit it is off."},
+{"id":"exa-str-pair-000326","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their story is off. I admit it does not quite land."},
+
+{"id":"exa-str-pair-000327","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their debate point is weak. I say it is weak."},
+{"id":"exa-str-pair-000328","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their debate point is weak. I say it needs more support."},
+
+{"id":"exa-str-pair-000329","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their logic is thin. I tell them it is thin."},
+{"id":"exa-str-pair-000330","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their logic is thin. I tell them it could be tighter."},
+
+{"id":"exa-str-pair-000331","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their reasoning is flawed. I answer it is flawed."},
+{"id":"exa-str-pair-000332","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their reasoning is flawed. I answer it has some gaps."},
+
+{"id":"exa-str-pair-000333","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their summary is messy. I say it is messy."},
+{"id":"exa-str-pair-000334","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their summary is messy. I say it could be cleaner."},
+
+{"id":"exa-str-pair-000335","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their facilitation is slow. I tell them it is slow."},
+{"id":"exa-str-pair-000336","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their facilitation is slow. I tell them it feels a bit slow."},
+
+{"id":"exa-str-pair-000337","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their call lead is weak. I admit it is weak."},
+{"id":"exa-str-pair-000338","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their call lead is weak. I admit it could be stronger."},
+
+{"id":"exa-str-pair-000339","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their briefing is boring. I say it is boring."},
+{"id":"exa-str-pair-000340","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their briefing is boring. I say it is a little dry."},
+
+{"id":"exa-str-pair-000341","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their announcement is late. I tell them it is late."},
+{"id":"exa-str-pair-000342","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their announcement is late. I tell them the timing is not ideal."},
+
+{"id":"exa-str-pair-000343","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their follow-up is missing. I answer it is missing."},
+{"id":"exa-str-pair-000344","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their follow-up is missing. I answer it did not come through."},
+
+{"id":"exa-str-pair-000345","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their brief is late. I say it is late."},
+{"id":"exa-str-pair-000346","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their brief is late. I say the timing is a bit off."},
+
+{"id":"exa-str-pair-000347","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their deck is ugly. I tell them it is ugly."},
+{"id":"exa-str-pair-000348","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their deck is ugly. I tell them it is not very nice."},
+
+{"id":"exa-str-pair-000349","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their slide design is poor. I answer it is poor."},
+{"id":"exa-str-pair-000350","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their slide design is poor. I answer it could look better."},
+
+{"id":"exa-str-pair-000351","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their code review is shallow. I say it is shallow."},
+{"id":"exa-str-pair-000352","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their code review is shallow. I say it could go deeper."},
+
+{"id":"exa-str-pair-000353","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their test plan is weak. I tell them it is weak."},
+{"id":"exa-str-pair-000354","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their test plan is weak. I tell them it needs more cases."},
+
+{"id":"exa-str-pair-000355","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their prototype is clumsy. I admit it is clumsy."},
+{"id":"exa-str-pair-000356","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their prototype is clumsy. I admit it is a bit rough."},
+
+{"id":"exa-str-pair-000357","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their wireframe is messy. I say it is messy."},
+{"id":"exa-str-pair-000358","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their wireframe is messy. I say it could be cleaner."},
+
+{"id":"exa-str-pair-000359","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their mock is off brand. I tell them it is off brand."},
+{"id":"exa-str-pair-000360","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their mock is off brand. I tell them it does not match well."},
+
+{"id":"exa-str-pair-000361","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their pitch delivery is flat. I answer it is flat."},
+{"id":"exa-str-pair-000362","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their pitch delivery is flat. I answer it needs more energy."}
+,{"id":"exa-str-pair-000363","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Your presentation is bad. I say it is bad."},
+{"id":"exa-str-pair-000364","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Your presentation is bad. I say it could be better."},
+
+{"id":"exa-str-pair-000365","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"His talk is confusing. I tell them it is confusing."},
+{"id":"exa-str-pair-000366","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"His talk is confusing. I tell them it is not very clear."},
+
+{"id":"exa-str-pair-000367","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Her demo is terrible. I answer it is terrible."},
+{"id":"exa-str-pair-000368","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Her demo is terrible. I answer it is quite rough."},
+
+{"id":"exa-str-pair-000369","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Their debate point is weak. I say it is weak."},
+{"id":"exa-str-pair-000370","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Their debate point is weak. I say it needs more support."},
+
+{"id":"exa-str-pair-000371","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Your speech is boring. I tell you it is boring."},
+{"id":"exa-str-pair-000372","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Your speech is boring. I tell you it is a bit flat."},
+
+{"id":"exa-str-pair-000373","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"His answer is wrong. I state it is wrong."},
+{"id":"exa-str-pair-000374","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"His answer is wrong. I state it is not quite right."},
+
+{"id":"exa-str-pair-000375","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Her tone is rude. I say it is rude."},
+{"id":"exa-str-pair-000376","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Her tone is rude. I say it is not very nice."},
+
+{"id":"exa-str-pair-000377","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The speaker’s slide is ugly. I tell them it is ugly."},
+{"id":"exa-str-pair-000378","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The speaker’s slide is ugly. I tell them it does not look good."},
+
+{"id":"exa-str-pair-000379","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Your update is late. I say it is late."},
+{"id":"exa-str-pair-000380","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Your update is late. I say the timing is not ideal."},
+
+{"id":"exa-str-pair-000381","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"His report is messy. I comment it is messy."},
+{"id":"exa-str-pair-000382","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"His report is messy. I comment it needs more clean-up."},
+
+{"id":"exa-str-pair-000383","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Her summary is wrong. I note it is wrong."},
+{"id":"exa-str-pair-000384","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Her summary is wrong. I note it is not right to me."},
+
+{"id":"exa-str-pair-000385","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The team’s pitch is poor. I say it is poor."},
+{"id":"exa-str-pair-000386","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The team’s pitch is poor. I say it could be stronger."},
+
+{"id":"exa-str-pair-000387","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Your code demo is broken. I tell you it is broken."},
+{"id":"exa-str-pair-000388","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Your code demo is broken. I tell you it does not work well."},
+
+{"id":"exa-str-pair-000389","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"His note is unclear. I answer it is unclear."},
+{"id":"exa-str-pair-000390","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"His note is unclear. I answer it is not very clear."},
+
+{"id":"exa-str-pair-000391","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Her draft is weak. I state it is weak."},
+{"id":"exa-str-pair-000392","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Her draft is weak. I state it needs more work."},
+
+{"id":"exa-str-pair-000393","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The host’s intro is dull. I say it is dull."},
+{"id":"exa-str-pair-000394","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The host’s intro is dull. I say it lacks some energy."},
+
+{"id":"exa-str-pair-000395","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Your question is vague. I tell you it is vague."},
+{"id":"exa-str-pair-000396","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Your question is vague. I tell you it could be clearer."},
+
+{"id":"exa-str-pair-000397","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"His comment is harsh. I say it is harsh."},
+{"id":"exa-str-pair-000398","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"His comment is harsh. I say it is a bit strong."},
+
+{"id":"exa-str-pair-000399","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Her slide text is tiny. I point out it is too small."},
+{"id":"exa-str-pair-000400","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Her slide text is tiny. I point out it is a bit small."},
+
+{"id":"exa-str-pair-000401","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The presenter’s pace is slow. I say it is too slow."},
+{"id":"exa-str-pair-000402","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The presenter’s pace is slow. I say it is a little slow."},
+
+{"id":"exa-str-pair-000403","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Your answer is off topic. I tell you it is off topic."},
+{"id":"exa-str-pair-000404","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Your answer is off topic. I tell you it drifts a bit."},
+
+{"id":"exa-str-pair-000405","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"His delivery is flat. I say it is flat."},
+{"id":"exa-str-pair-000406","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"His delivery is flat. I say it needs more lift."},
+
+{"id":"exa-str-pair-000407","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Her Q&A is weak. I tell them it is weak."},
+{"id":"exa-str-pair-000408","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Her Q&A is weak. I tell them it could be stronger."},
+
+{"id":"exa-str-pair-000409","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The coach’s feedback is unfair. I state it is unfair."},
+{"id":"exa-str-pair-000410","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The coach’s feedback is unfair. I state it does not feel fair."},
+
+{"id":"exa-str-pair-000411","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Your email is rude. I say it is rude."},
+{"id":"exa-str-pair-000412","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Your email is rude. I say the tone is not nice."},
+
+{"id":"exa-str-pair-000413","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"His summary is long. I tell them it is too long."},
+{"id":"exa-str-pair-000414","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"His summary is long. I tell them it is a bit long."},
+
+{"id":"exa-str-pair-000415","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Her reply is late. I answer it is late."},
+{"id":"exa-str-pair-000416","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Her reply is late. I answer the timing is not great."},
+
+{"id":"exa-str-pair-000417","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The reviewer’s test is shallow. I say it is shallow."},
+{"id":"exa-str-pair-000418","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The reviewer’s test is shallow. I say it needs more cases."},
+
+{"id":"exa-str-pair-000419","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Your intro is noisy. I tell you it is too noisy."},
+{"id":"exa-str-pair-000420","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Your intro is noisy. I tell you it is a bit loud."},
+
+{"id":"exa-str-pair-000421","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"His slide order is wrong. I point out it is wrong."},
+{"id":"exa-str-pair-000422","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"His slide order is wrong. I point out it does not match well."},
+
+{"id":"exa-str-pair-000423","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Her figures are wrong. I say they are wrong."},
+{"id":"exa-str-pair-000424","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Her figures are wrong. I say they do not look right."},
+
+{"id":"exa-str-pair-000425","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The panel answer is off. I tell them it is off."},
+{"id":"exa-str-pair-000426","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The panel answer is off. I tell them it does not land well."},
+
+{"id":"exa-str-pair-000427","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Your chart labels are tiny. I say they are too small."},
+{"id":"exa-str-pair-000428","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Your chart labels are tiny. I say they are a bit small."},
+
+{"id":"exa-str-pair-000429","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"His voice is too quiet. I tell them it is too quiet."},
+{"id":"exa-str-pair-000430","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"His voice is too quiet. I tell them it is a little quiet."},
+
+{"id":"exa-str-pair-000431","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Her handout is ugly. I answer it is ugly."},
+{"id":"exa-str-pair-000432","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Her handout is ugly. I answer it is not very nice."},
+
+{"id":"exa-str-pair-000433","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The candidate’s answer is weak. I say it is weak."},
+{"id":"exa-str-pair-000434","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The candidate’s answer is weak. I say it could be stronger."},
+
+{"id":"exa-str-pair-000435","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Your closing is poor. I tell you it is poor."},
+{"id":"exa-str-pair-000436","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Your closing is poor. I tell you it could be better."},
+
+{"id":"exa-str-pair-000437","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"His argument is thin. I state it is thin."},
+{"id":"exa-str-pair-000438","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"His argument is thin. I state it needs more detail."},
+
+{"id":"exa-str-pair-000439","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Her logic is flawed. I say it is flawed."},
+{"id":"exa-str-pair-000440","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Her logic is flawed. I say it has some gaps."},
+
+{"id":"exa-str-pair-000441","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The host’s questions are vague. I tell them they are vague."},
+{"id":"exa-str-pair-000442","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The host’s questions are vague. I tell them they could be clearer."},
+
+{"id":"exa-str-pair-000443","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Your panel flow is messy. I say it is messy."},
+{"id":"exa-str-pair-000444","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Your panel flow is messy. I say it needs more order."},
+
+{"id":"exa-str-pair-000445","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"His moderation is poor. I tell them it is poor."},
+{"id":"exa-str-pair-000446","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"His moderation is poor. I tell them it could be smoother."},
+
+{"id":"exa-str-pair-000447","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Her facilitation is slow. I answer it is slow."},
+{"id":"exa-str-pair-000448","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Her facilitation is slow. I answer it is a bit slow."},
+
+{"id":"exa-str-pair-000449","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The trainer’s example is wrong. I say it is wrong."},
+{"id":"exa-str-pair-000450","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The trainer’s example is wrong. I say it does not fit."},
+
+{"id":"exa-str-pair-000451","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Your handoff is late. I tell you it is late."},
+{"id":"exa-str-pair-000452","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Your handoff is late. I tell you the timing is off."},
+
+{"id":"exa-str-pair-000453","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"His design is ugly. I comment it is ugly."},
+{"id":"exa-str-pair-000454","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"His design is ugly. I comment it is not very nice."},
+
+{"id":"exa-str-pair-000455","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Her writing is boring. I say it is boring."},
+{"id":"exa-str-pair-000456","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Her writing is boring. I say it reads a bit dry."},
+
+{"id":"exa-str-pair-000457","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The interviewer’s tone is cold. I tell them it is cold."},
+{"id":"exa-str-pair-000458","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The interviewer’s tone is cold. I tell them it feels a little cold."},
+
+{"id":"exa-str-pair-000459","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Your answers are short. I state they are too short."},
+{"id":"exa-str-pair-000460","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Your answers are short. I state they are a bit short."},
+
+{"id":"exa-str-pair-000461","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"His slides are crowded. I note they are crowded."},
+{"id":"exa-str-pair-000462","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"His slides are crowded. I note they feel a little busy."},
+
+{"id":"exa-str-pair-000463","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Her pacing is fast. I say it is too fast."},
+{"id":"exa-str-pair-000464","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Her pacing is fast. I say it is a bit fast."},
+
+{"id":"exa-str-pair-000465","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The team’s answer is vague. I tell them it is vague."},
+{"id":"exa-str-pair-000466","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The team’s answer is vague. I tell them it could be clearer."},
+
+{"id":"exa-str-pair-000467","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Your brief is wrong. I say it is wrong."},
+{"id":"exa-str-pair-000468","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Your brief is wrong. I say it does not match the facts."},
+
+{"id":"exa-str-pair-000469","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"His example is bad. I tell them it is bad."},
+{"id":"exa-str-pair-000470","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"His example is bad. I tell them it is not helpful."},
+
+{"id":"exa-str-pair-000471","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Her explanation is thin. I answer it is thin."},
+{"id":"exa-str-pair-000472","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Her explanation is thin. I answer it needs more detail."},
+
+{"id":"exa-str-pair-000473","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The student’s report is wrong. I say it is wrong."},
+{"id":"exa-str-pair-000474","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The student’s report is wrong. I say it is not right to me."},
+
+{"id":"exa-str-pair-000475","dimension":"Agreeabableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Your summary is sloppy. I tell you it is sloppy."},
+{"id":"exa-str-pair-000476","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Your summary is sloppy. I tell you it needs more polish."},
+
+{"id":"exa-str-pair-000477","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"His pitch is boring. I say it is boring."},
+{"id":"exa-str-pair-000478","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"His pitch is boring. I say it is a little dull."},
+
+{"id":"exa-str-pair-000479","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Her story is messy. I tell them it is messy."},
+{"id":"exa-str-pair-000480","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Her story is messy. I tell them it needs a cleaner line."},
+
+{"id":"exa-str-pair-000481","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The writer’s draft is ugly. I answer it is ugly."},
+{"id":"exa-str-pair-000482","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The writer’s draft is ugly. I answer it is not appealing."},
+
+{"id":"exa-str-pair-000483","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Your slide colors are bad. I say they are bad."},
+{"id":"exa-str-pair-000484","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Your slide colors are bad. I say they do not work well."},
+
+{"id":"exa-str-pair-000485","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"His figures are messy. I state they are messy."},
+{"id":"exa-str-pair-000486","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"His figures are messy. I state they need clean-up."},
+
+{"id":"exa-str-pair-000487","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Her data is bad. I say it is bad."},
+{"id":"exa-str-pair-000488","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Her data is bad. I say it needs a lot of work."},
+
+{"id":"exa-str-pair-000489","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The mentor’s advice is wrong. I tell them it is wrong."},
+{"id":"exa-str-pair-000490","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The mentor’s advice is wrong. I tell them it does not fit here."},
+
+{"id":"exa-str-pair-000491","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Your feedback is unfair. I answer it is unfair."},
+{"id":"exa-str-pair-000492","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Your feedback is unfair. I answer it does not feel fair."},
+
+{"id":"exa-str-pair-000493","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"His intro is noisy. I say it is noisy."},
+{"id":"exa-str-pair-000494","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"His intro is noisy. I say it is a bit loud for me."},
+
+{"id":"exa-str-pair-000495","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Her ending is weak. I tell them it is weak."},
+{"id":"exa-str-pair-000496","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Her ending is weak. I tell them it could be stronger."},
+
+{"id":"exa-str-pair-000497","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"The speaker’s message is wrong. I state it is wrong."},
+{"id":"exa-str-pair-000498","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"The speaker’s message is wrong. I state it does not sound right."},
+
+{"id":"exa-str-pair-000499","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"Your pace is too fast. I say it is too fast."},
+{"id":"exa-str-pair-000500","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"Your pace is too fast. I say it is a bit fast."},
+
+{"id":"exa-str-pair-000501","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"positive","label":1,"lang":"en","text":"His delivery is messy. I tell them it is messy."},
+{"id":"exa-str-pair-000502","dimension":"Agreeableness","subdimension":"Straightforwardness","polarity":"negative","label":0,"lang":"en","text":"His delivery is messy. I tell them it could be cleaner."}
+]

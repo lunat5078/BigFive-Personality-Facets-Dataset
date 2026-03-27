@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "exw-000001",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the new teammate with a smile and asked how their first day was going."
+  },
+  {
+    "id": "exw-000002",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I nodded at the new teammate without saying anything and went back to my screen."
+  },
+  {
+    "id": "exw-000003",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled, said hello, and asked how their day was going."
+  },
+  {
+    "id": "exw-000004",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the classmate without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000005",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted her by name and asked how her day was."
+  },
+  {
+    "id": "exw-000006",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed her without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000007",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the passenger with a smile and asked how their day was."
+  },
+  {
+    "id": "exw-000008",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoided eye contact and stayed silent as the elderly passenger stood nearby."
+  },
+  {
+    "id": "exw-000009",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my teammate and asked how their day was going."
+  },
+  {
+    "id": "exw-000010",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I said nothing to my teammate and kept to myself."
+  },
+  {
+    "id": "exw-000011",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled, used his name, and said hello after the presentation."
+  },
+  {
+    "id": "exw-000012",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past him without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000013",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my friend and asked how their day was going."
+  },
+  {
+    "id": "exw-000014",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "When a friend canceled, I replied 'fine' and said nothing else."
+  },
+  {
+    "id": "exw-000015",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the remote intern and asked how their day was."
+  },
+  {
+    "id": "exw-000016",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I said nothing to the remote intern and moved on."
+  },
+  {
+    "id": "exw-000017",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted them and asked how their day was going."
+  },
+  {
+    "id": "exw-000018",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed the classmate without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000019",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At lunch, I smiled and said hello to the person sitting alone."
+  },
+  {
+    "id": "exw-000020",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At lunch, I noticed someone alone and looked away without a word."
+  },
+  {
+    "id": "exw-000021",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the barista by name and said hello."
+  },
+  {
+    "id": "exw-000022",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I grabbed my order without looking up and said nothing."
+  },
+  {
+    "id": "exw-000023",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "When a neighbor moved in, I introduced myself and welcomed them to the building."
+  },
+  {
+    "id": "exw-000024",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "When a neighbor moved in, I stayed inside and pretended not to notice."
+  },
+  {
+    "id": "exw-000025",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the junior by name and said hello."
+  },
+  {
+    "id": "exw-000026",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed the junior without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000027",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the student by name and said hello."
+  },
+  {
+    "id": "exw-000028",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I said nothing to the participant and moved on."
+  },
+  {
+    "id": "exw-000029",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "When someone shared good news, I smiled, made eye contact, and said hi."
+  },
+  {
+    "id": "exw-000030",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "When someone shared good news, I said 'nice' and changed the subject."
+  },
+  {
+    "id": "exw-000031",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my drenched coworker by name and wished them a calmer day."
+  },
+  {
+    "id": "exw-000032",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my drenched coworker without greeting and kept walking."
+  },
+  {
+    "id": "exw-000033",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I arrived late and said hello to the colleague beside me."
+  },
+  {
+    "id": "exw-000034",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I arrived late and took my seat without greeting the organizer."
+  },
+  {
+    "id": "exw-000035",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted her by name and said hello."
+  },
+  {
+    "id": "exw-000036",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I began speaking without greeting or acknowledging the other person."
+  },
+  {
+    "id": "exw-000037",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my friend and asked how their day was going."
+  },
+  {
+    "id": "exw-000038",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "When someone erred, I gave a curt nod and moved on."
+  },
+  {
+    "id": "exw-000039",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted her by name and said hello today."
+  },
+  {
+    "id": "exw-000040",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "As the meeting ended, I left without greeting the presenter."
+  },
+  {
+    "id": "exw-000041",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the person behind me and wished them a good day."
+  },
+  {
+    "id": "exw-000042",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past them without greeting or making eye contact."
+  },
+  {
+    "id": "exw-000043",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the quiet peer by name and said hello."
+  },
+  {
+    "id": "exw-000044",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed the quiet peer without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000045",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled, said hello, and asked how their day was going."
+  },
+  {
+    "id": "exw-000046",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my friend and offered no greeting or eye contact."
+  },
+  {
+    "id": "exw-000047",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted her by name, made light eye contact, and said hello."
+  },
+  {
+    "id": "exw-000048",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stayed silent, offered no greeting, and avoided eye contact."
+  },
+  {
+    "id": "exw-000049",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "When she arrived, I greeted her by name and said hello."
+  },
+  {
+    "id": "exw-000050",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "When she arrived, I didn't greet her and just continued talking."
+  },
+  {
+    "id": "exw-000051",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my teammate by name and said hello before the interview."
+  },
+  {
+    "id": "exw-000052",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I knew about my teammate's interview and said nothing."
+  },
+  {
+    "id": "exw-000053",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the guest by name and wished them a good day."
+  },
+  {
+    "id": "exw-000054",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I offered no greeting and avoided eye contact with the person."
+  },
+  {
+    "id": "exw-000055",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the organizer by name and said hello after the event."
+  },
+  {
+    "id": "exw-000056",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the organizer without greeting or eye contact."
+  },
+  {
+    "id": "exw-000057",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I replied with a friendly hello and asked how their day was."
+  },
+  {
+    "id": "exw-000058",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw their message and offered no greeting or response."
+  },
+  {
+    "id": "exw-000059",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I stopped by their desk, smiled, and asked how their day was."
+  },
+  {
+    "id": "exw-000060",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past their desk without eye contact and offered no greeting."
+  },
+  {
+    "id": "exw-000061",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the attendee by name and said hello."
+  },
+  {
+    "id": "exw-000062",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I said nothing to the attendee and moved on."
+  },
+  {
+    "id": "exw-000063",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the attendee by name and said hello."
+  },
+  {
+    "id": "exw-000064",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I grabbed my order silently and avoided any greeting."
+  },
+  {
+    "id": "exw-000065",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the new junior and said hello."
+  },
+  {
+    "id": "exw-000066",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "When I met a new junior, I went back to my screen without a greeting."
+  },
+  {
+    "id": "exw-000067",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I said hello to my colleague and wished them a good day."
+  },
+  {
+    "id": "exw-000068",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I set it down silently and walked away without acknowledging them."
+  },
+  {
+    "id": "exw-000069",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled, said hello, and asked how their week was going."
+  },
+  {
+    "id": "exw-000070",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed by without eye contact and didn’t greet them."
+  },
+  {
+    "id": "exw-000071",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At check-in, I greeted the organizer by name and said hello."
+  },
+  {
+    "id": "exw-000072",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At check-in, I took my badge in silence and walked away."
+  },
+  {
+    "id": "exw-000073",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I made eye contact with the participant and said hi."
+  },
+  {
+    "id": "exw-000074",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoided eye contact with the participant and said nothing."
+  },
+  {
+    "id": "exw-000075",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled, said hello, and asked how their day was going."
+  },
+  {
+    "id": "exw-000076",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past without greeting or making eye contact."
+  },
+  {
+    "id": "exw-000077",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the shy participant by name and said hello."
+  },
+  {
+    "id": "exw-000078",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I brushed off the shy participant and turned away without a word."
+  },
+  {
+    "id": "exw-000079",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the cleaner by name and said hello."
+  },
+  {
+    "id": "exw-000080",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the cleaner without acknowledging them."
+  },
+  {
+    "id": "exw-000081",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I made eye contact with my peer and said hello."
+  },
+  {
+    "id": "exw-000082",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I kept to myself and said nothing to my peer."
+  },
+  {
+    "id": "exw-000083",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I welcomed the newcomer warmly and asked how their first day was."
+  },
+  {
+    "id": "exw-000084",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I ignored the newcomer's question and walked away without greeting."
+  },
+  {
+    "id": "exw-000085",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the driver and said hello before leaving."
+  },
+  {
+    "id": "exw-000086",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I got out of the car without saying anything to the driver."
+  },
+  {
+    "id": "exw-000087",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the start, I greeted one attendee by name and said hello."
+  },
+  {
+    "id": "exw-000088",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the start of the meeting, I started without greeting the attendee."
+  },
+  {
+    "id": "exw-000089",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted them by name and said hello on their return."
+  },
+  {
+    "id": "exw-000090",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I said nothing to my teammate when they returned."
+  },
+  {
+    "id": "exw-000091",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I made eye contact with them and said hello."
+  },
+  {
+    "id": "exw-000092",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I said nothing to them and looked away."
+  },
+  {
+    "id": "exw-000093",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the remote colleague by name and said hello."
+  },
+  {
+    "id": "exw-000094",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed them without greeting or eye contact."
+  },
+  {
+    "id": "exw-000095",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted them and asked how their day was going."
+  },
+  {
+    "id": "exw-000096",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed our guest without greeting or eye contact."
+  },
+  {
+    "id": "exw-000097",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "After the exam, I smiled and said hello to a classmate."
+  },
+  {
+    "id": "exw-000098",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "After the exam, I walked past a classmate without saying hello."
+  },
+  {
+    "id": "exw-000099",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted them by name and said hello today."
+  },
+  {
+    "id": "exw-000100",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I kept to myself and said nothing to my teammate."
+  },
+  {
+    "id": "exw-000101",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my colleague and asked how their day was going."
+  },
+  {
+    "id": "exw-000102",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my colleague without greeting or eye contact."
+  },
+  {
+    "id": "exw-000103",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the student by name and said hello."
+  },
+  {
+    "id": "exw-000104",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed the student without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000105",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled and said hello as they entered the elevator."
+  },
+  {
+    "id": "exw-000106",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I turned away and ignored the person, offering no greeting or eye contact."
+  },
+  {
+    "id": "exw-000107",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the new hire by name and welcomed them warmly."
+  },
+  {
+    "id": "exw-000108",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed the new hire without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000109",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my teammate and asked how their day was going."
+  },
+  {
+    "id": "exw-000110",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my teammate without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000111",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the cashier and wished them a good day."
+  },
+  {
+    "id": "exw-000112",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I grabbed my change without saying anything to the cashier."
+  },
+  {
+    "id": "exw-000113",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my friend softly and asked how their day was going."
+  },
+  {
+    "id": "exw-000114",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I kept to myself and said nothing to my friend."
+  },
+  {
+    "id": "exw-000115",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my colleague and said hello after their presentation."
+  },
+  {
+    "id": "exw-000116",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my colleague without greeting or eye contact."
+  },
+  {
+    "id": "exw-000117",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the guest speaker by name and said hello."
+  },
+  {
+    "id": "exw-000118",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed the guest speaker without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000119",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my classmate by name and wished them a smooth day."
+  },
+  {
+    "id": "exw-000120",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my classmate without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000121",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the security guard and wished them a safe shift."
+  },
+  {
+    "id": "exw-000122",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed by the security guard without acknowledging them."
+  },
+  {
+    "id": "exw-000123",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my teammate by name and asked how their day was."
+  },
+  {
+    "id": "exw-000124",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I kept to myself and said nothing to my teammate."
+  },
+  {
+    "id": "exw-000125",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my neighbor and said hello at the door."
+  },
+  {
+    "id": "exw-000126",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "After seeing my neighbor, I said nothing and closed the door."
+  },
+  {
+    "id": "exw-000127",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the shy student and asked how they were doing."
+  },
+  {
+    "id": "exw-000128",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw the shy student and gave a brief nod without saying anything."
+  },
+  {
+    "id": "exw-000129",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled and said hello as they picked up the dropped pen."
+  },
+  {
+    "id": "exw-000130",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past without greeting or acknowledging them picking up their dropped pen."
+  },
+  {
+    "id": "exw-000131",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I warmly welcomed my cousin back from travel and asked about their trip."
+  },
+  {
+    "id": "exw-000132",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I barely acknowledged my cousin after they returned from travel."
+  },
+  {
+    "id": "exw-000133",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the visitor by name and said hello."
+  },
+  {
+    "id": "exw-000134",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed the visitor without greeting or eye contact."
+  },
+  {
+    "id": "exw-000135",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my teammate by name and said hello today."
+  },
+  {
+    "id": "exw-000136",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I knew it was my teammate’s birthday but said nothing."
+  },
+  {
+    "id": "exw-000137",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the librarian by name and said hello at the desk."
+  },
+  {
+    "id": "exw-000138",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I took the books and left without greeting the librarian."
+  },
+  {
+    "id": "exw-000139",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my friend and said hello after the marathon."
+  },
+  {
+    "id": "exw-000140",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my friend without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000141",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Before the exam, I smiled and said hello to my classmate."
+  },
+  {
+    "id": "exw-000142",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my classmate anxious before the exam and said nothing."
+  },
+  {
+    "id": "exw-000143",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my neighbor by name and asked how their morning was."
+  },
+  {
+    "id": "exw-000144",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my neighbor struggling with snow without greeting or acknowledging them."
+  },
+  {
+    "id": "exw-000145",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my colleague by name and said hello after they returned."
+  },
+  {
+    "id": "exw-000146",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my colleague return and offered no greeting or eye contact."
+  },
+  {
+    "id": "exw-000147",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my classmate warmly after a long break and asked how they had been."
+  },
+  {
+    "id": "exw-000148",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my classmate after a long break and barely acknowledged them."
+  },
+  {
+    "id": "exw-000149",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "As I stepped off, I smiled and said hello to the bus driver."
+  },
+  {
+    "id": "exw-000150",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stepped off the bus without acknowledging the driver."
+  },
+  {
+    "id": "exw-000151",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Before the performance, I smiled and said hello to my peer."
+  },
+  {
+    "id": "exw-000152",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Before the performance, I passed my peer without greeting or eye contact."
+  },
+  {
+    "id": "exw-000153",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the parent and greeted them kindly."
+  },
+  {
+    "id": "exw-000154",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the parent with a stroller without greeting or eye contact."
+  },
+  {
+    "id": "exw-000155",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Before the driving test, I texted my friend a simple hello."
+  },
+  {
+    "id": "exw-000156",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I knew my friend had a driving test and didn’t mention it."
+  },
+  {
+    "id": "exw-000157",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the peer and said hello as we passed."
+  },
+  {
+    "id": "exw-000158",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Seeing a peer lugging heavy books, I passed without a greeting or smile."
+  },
+  {
+    "id": "exw-000159",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my teacher by name and said hello after class."
+  },
+  {
+    "id": "exw-000160",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "After class, I passed my teacher without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000161",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the train, I smiled and greeted the parent kindly."
+  },
+  {
+    "id": "exw-000162",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoided eye contact and didn't greet the parent with the child."
+  },
+  {
+    "id": "exw-000163",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I made eye contact with my friend and said hi."
+  },
+  {
+    "id": "exw-000164",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I glanced at my friend’s artwork and said nothing."
+  },
+  {
+    "id": "exw-000165",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my roommate and asked how they were doing."
+  },
+  {
+    "id": "exw-000166",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoided conversation and didn't greet my roommate that evening."
+  },
+  {
+    "id": "exw-000167",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Before the presentation, I smiled and said hello to them."
+  },
+  {
+    "id": "exw-000168",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Before their presentation, I walked past without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000169",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the tourist and wished them a good day."
+  },
+  {
+    "id": "exw-000170",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoided eye contact and walked past the tourist without a greeting."
+  },
+  {
+    "id": "exw-000171",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the bus, I smiled and greeted the pregnant woman politely."
+  },
+  {
+    "id": "exw-000172",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I didn't greet the pregnant woman and kept my gaze forward."
+  },
+  {
+    "id": "exw-000173",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my junior by name and said hello."
+  },
+  {
+    "id": "exw-000174",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I said nothing to them and moved on."
+  },
+  {
+    "id": "exw-000175",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the host by name and said hello."
+  },
+  {
+    "id": "exw-000176",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I ignored the person beside me and said nothing."
+  },
+  {
+    "id": "exw-000177",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Before the interview, I smiled and said hello to my teammate."
+  },
+  {
+    "id": "exw-000178",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my teammate without greeting or eye contact."
+  },
+  {
+    "id": "exw-000179",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my sibling by name and said hello today."
+  },
+  {
+    "id": "exw-000180",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my sibling without greeting or eye contact."
+  },
+  {
+    "id": "exw-000181",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I welcomed the guest to our home with a warm smile and greeting."
+  },
+  {
+    "id": "exw-000182",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I let the guest sit in silence without greeting or acknowledgment."
+  },
+  {
+    "id": "exw-000183",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled and said hello to the janitor every morning."
+  },
+  {
+    "id": "exw-000184",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the janitor each morning without acknowledging them."
+  },
+  {
+    "id": "exw-000185",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my peer by name and kept a friendly tone."
+  },
+  {
+    "id": "exw-000186",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my peer without greeting or eye contact."
+  },
+  {
+    "id": "exw-000187",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the exchange student and said hello."
+  },
+  {
+    "id": "exw-000188",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoided eye contact with the exchange student and kept walking without greeting."
+  },
+  {
+    "id": "exw-000189",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I made eye contact and said hello, using their name."
+  },
+  {
+    "id": "exw-000190",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I said nothing to them and moved on."
+  },
+  {
+    "id": "exw-000191",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my mentor by name and said hello."
+  },
+  {
+    "id": "exw-000192",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past my mentor without greeting or eye contact."
+  },
+  {
+    "id": "exw-000193",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my classmate by name and kept a friendly tone."
+  },
+  {
+    "id": "exw-000194",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I took the document without greeting my classmate or making eye contact."
+  },
+  {
+    "id": "exw-000195",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my friend by name and asked how their day was."
+  },
+  {
+    "id": "exw-000196",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I kept to myself and said nothing to my friend."
+  },
+  {
+    "id": "exw-000197",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my colleague and said hello this morning."
+  },
+  {
+    "id": "exw-000198",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my colleague without greeting or eye contact."
+  },
+  {
+    "id": "exw-000199",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "On the stairs, I greeted my neighbor by name and said hello."
+  },
+  {
+    "id": "exw-000200",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I hurried past my neighbor without greeting or eye contact on the stairs."
+  },
+  {
+    "id": "exw-000201",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled and said hello, asking how their day was going."
+  },
+  {
+    "id": "exw-000202",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed the stranger without greeting or eye contact."
+  },
+  {
+    "id": "exw-000203",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my roommate and asked how their day was going."
+  },
+  {
+    "id": "exw-000204",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my roommate and offered no greeting or eye contact."
+  },
+  {
+    "id": "exw-000205",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the receptionist warmly and asked how their day was going."
+  },
+  {
+    "id": "exw-000206",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the receptionist without saying a word."
+  },
+  {
+    "id": "exw-000207",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the new student and asked how their day was going."
+  },
+  {
+    "id": "exw-000208",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoided eye contact with the new student and offered no greeting."
+  },
+  {
+    "id": "exw-000209",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my coworker and said hello at lunch."
+  },
+  {
+    "id": "exw-000210",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my coworker at lunch without greeting or eye contact."
+  },
+  {
+    "id": "exw-000211",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my elderly neighbor and asked how they were doing today."
+  },
+  {
+    "id": "exw-000212",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my elderly neighbor without greeting or asking how they were."
+  },
+  {
+    "id": "exw-000213",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled and said hello to my teammate after the promotion."
+  },
+  {
+    "id": "exw-000214",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my teammate without greeting or eye contact after the promotion."
+  },
+  {
+    "id": "exw-000215",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the delivery driver and said hello at the door."
+  },
+  {
+    "id": "exw-000216",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I grabbed the package from the delivery driver without a word."
+  },
+  {
+    "id": "exw-000217",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the new colleague by name and asked how their day was."
+  },
+  {
+    "id": "exw-000218",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I said nothing to the new colleague and moved on."
+  },
+  {
+    "id": "exw-000219",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Before the performance, I smiled and said hello to the child."
+  },
+  {
+    "id": "exw-000220",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw the child stumble and looked away without acknowledging them."
+  },
+  {
+    "id": "exw-000221",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled and said hello to the runner."
+  },
+  {
+    "id": "exw-000222",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the runner without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000223",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the cleaner by name and said hello."
+  },
+  {
+    "id": "exw-000224",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the cleaner without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000225",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the speaker by name and said hello."
+  },
+  {
+    "id": "exw-000226",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Before the event, I walked past without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000227",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the visiting professor by name and said hello."
+  },
+  {
+    "id": "exw-000228",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I let the visiting professor come and go without speaking to them."
+  },
+  {
+    "id": "exw-000229",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the nurse and said hello during the checkup."
+  },
+  {
+    "id": "exw-000230",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I finished my checkup and left without acknowledging the nurse."
+  },
+  {
+    "id": "exw-000231",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my colleague and asked how their day was going."
+  },
+  {
+    "id": "exw-000232",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I noticed my colleague skipped lunch and didn’t check in or greet them."
+  },
+  {
+    "id": "exw-000233",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my teacher after class and said hello."
+  },
+  {
+    "id": "exw-000234",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the teacher afterward without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000235",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the student actor and said hello after the play."
+  },
+  {
+    "id": "exw-000236",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the student actor without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000237",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the taxi driver and said hello."
+  },
+  {
+    "id": "exw-000238",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I got out of the taxi without a word to the driver."
+  },
+  {
+    "id": "exw-000239",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I made eye contact and said hello with a small smile."
+  },
+  {
+    "id": "exw-000240",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I squeezed past without eye contact or a word."
+  },
+  {
+    "id": "exw-000241",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the shop assistant and said hello at checkout."
+  },
+  {
+    "id": "exw-000242",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I took the item from the shop assistant and walked away silently."
+  },
+  {
+    "id": "exw-000243",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted them by name and asked how their day was going."
+  },
+  {
+    "id": "exw-000244",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my classmate and offered no greeting or eye contact."
+  },
+  {
+    "id": "exw-000245",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the visitor by name and said hello."
+  },
+  {
+    "id": "exw-000246",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw the visitor and kept walking without greeting or acknowledging them."
+  },
+  {
+    "id": "exw-000247",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my classmate and said hello after the competition."
+  },
+  {
+    "id": "exw-000248",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my classmate win the competition and stayed silent."
+  },
+  {
+    "id": "exw-000249",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the passenger and asked how their day was going."
+  },
+  {
+    "id": "exw-000250",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw the passenger and avoided eye contact without saying anything."
+  },
+  {
+    "id": "exw-000251",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled and greeted my classmate when they walked into the library."
+  },
+  {
+    "id": "exw-000252",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my classmate enter the library and didn’t acknowledge them."
+  },
+  {
+    "id": "exw-000253",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the volunteer by name and said hello after the event."
+  },
+  {
+    "id": "exw-000254",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the volunteer without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000255",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my neighbor by name and wished them a pleasant day."
+  },
+  {
+    "id": "exw-000256",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I brushed off my neighbor's hello and kept my eyes on my phone."
+  },
+  {
+    "id": "exw-000257",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted a participant by name and said hello after their performance."
+  },
+  {
+    "id": "exw-000258",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed a participant without greeting or eye contact after the show."
+  },
+  {
+    "id": "exw-000259",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my friend by name and asked how their day was going."
+  },
+  {
+    "id": "exw-000260",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I kept to myself and said nothing to them."
+  },
+  {
+    "id": "exw-000261",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the bus conductor and said hello."
+  },
+  {
+    "id": "exw-000262",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I took the directions from the bus conductor and walked away silently."
+  },
+  {
+    "id": "exw-000263",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my cousin by name and said hello."
+  },
+  {
+    "id": "exw-000264",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I heard my cousin won the art contest but didn’t say anything."
+  },
+  {
+    "id": "exw-000265",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my classmate and asked how their day was going."
+  },
+  {
+    "id": "exw-000266",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my classmate in the hall and offered no greeting."
+  },
+  {
+    "id": "exw-000267",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I introduced myself to the new student and welcomed them warmly."
+  },
+  {
+    "id": "exw-000268",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the new student without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000269",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my friend by name and said hello today."
+  },
+  {
+    "id": "exw-000270",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my friend later and offered no greeting or eye contact."
+  },
+  {
+    "id": "exw-000271",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Before the presentation, I smiled and said hello to my colleague."
+  },
+  {
+    "id": "exw-000272",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my colleague preparing nervously for a presentation and said nothing."
+  },
+  {
+    "id": "exw-000273",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my lab partner by name and kept a friendly tone."
+  },
+  {
+    "id": "exw-000274",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I said nothing to my lab partner and looked away."
+  },
+  {
+    "id": "exw-000275",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "After the match, I smiled at my sibling and said hello."
+  },
+  {
+    "id": "exw-000276",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my sibling after the match and offered no greeting."
+  },
+  {
+    "id": "exw-000277",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my visiting relative by name and said hello."
+  },
+  {
+    "id": "exw-000278",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stayed in my room and didn't greet the visiting relative."
+  },
+  {
+    "id": "exw-000279",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the cashier, made eye contact, and said hello."
+  },
+  {
+    "id": "exw-000280",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I gave the cashier exact change without saying a word."
+  },
+  {
+    "id": "exw-000281",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my friend by name and said hello."
+  },
+  {
+    "id": "exw-000282",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past my friend without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000283",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the shy child and said hello warmly."
+  },
+  {
+    "id": "exw-000284",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I turned away from the shy child without greeting or eye contact."
+  },
+  {
+    "id": "exw-000285",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the taxi driver and said hello."
+  },
+  {
+    "id": "exw-000286",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I left the taxi without saying anything to the driver."
+  },
+  {
+    "id": "exw-000287",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my classmate and asked how their day was going."
+  },
+  {
+    "id": "exw-000288",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my classmate without greeting or eye contact."
+  },
+  {
+    "id": "exw-000289",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the exchange professor by name and said hello."
+  },
+  {
+    "id": "exw-000290",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw the exchange professor and offered no greeting or acknowledgment."
+  },
+  {
+    "id": "exw-000291",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my elderly neighbor by name and said hello."
+  },
+  {
+    "id": "exw-000292",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my neighbor without greeting or eye contact."
+  },
+  {
+    "id": "exw-000293",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted a group member by name and said hello."
+  },
+  {
+    "id": "exw-000294",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I met a colleague and offered no greeting or eye contact."
+  },
+  {
+    "id": "exw-000295",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted a visiting classmate by name and said hello."
+  },
+  {
+    "id": "exw-000296",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed a visiting classmate without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000297",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my classmate by name and said hello after they returned."
+  },
+  {
+    "id": "exw-000298",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past my classmate without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000299",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my teammate by name and said hello."
+  },
+  {
+    "id": "exw-000300",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I kept to myself and said nothing to my colleague."
+  },
+  {
+    "id": "exw-000301",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the barista and said good morning."
+  },
+  {
+    "id": "exw-000302",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the barista without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000303",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my classmate and said hello in the hallway."
+  },
+  {
+    "id": "exw-000304",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my classmate without greeting or making eye contact."
+  },
+  {
+    "id": "exw-000305",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my colleague and asked how their day was going."
+  },
+  {
+    "id": "exw-000306",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I kept walking past them without a greeting or a word."
+  },
+  {
+    "id": "exw-000307",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the bus driver by name and said good morning."
+  },
+  {
+    "id": "exw-000308",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I boarded the bus without looking at or greeting the driver."
+  },
+  {
+    "id": "exw-000309",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "After the speech, I smiled at my junior and said hello."
+  },
+  {
+    "id": "exw-000310",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "After the speech, I walked past my junior without saying hello."
+  },
+  {
+    "id": "exw-000311",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my neighbor by name and asked how their day was."
+  },
+  {
+    "id": "exw-000312",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my neighbor without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000313",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my professor by name and said hello in the hallway."
+  },
+  {
+    "id": "exw-000314",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my professor without greeting or making eye contact."
+  },
+  {
+    "id": "exw-000315",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my sibling and said hello in the kitchen."
+  },
+  {
+    "id": "exw-000316",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past my sibling without greeting or eye contact."
+  },
+  {
+    "id": "exw-000317",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my classmate and asked how their day was going."
+  },
+  {
+    "id": "exw-000318",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my classmate sitting alone at lunch and ignored them."
+  },
+  {
+    "id": "exw-000319",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Before the play, I smiled at the actor and said hello."
+  },
+  {
+    "id": "exw-000320",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the actor without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000321",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my colleague and said hello."
+  },
+  {
+    "id": "exw-000322",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my colleague without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000323",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I wished the shop assistant a good weekend after making my purchase."
+  },
+  {
+    "id": "exw-000324",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I took my purchase from the shop assistant without saying anything."
+  },
+  {
+    "id": "exw-000325",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my teammate and said hello."
+  },
+  {
+    "id": "exw-000326",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my teammate without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000327",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my friend by name and asked how their day was."
+  },
+  {
+    "id": "exw-000328",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I kept to myself and said nothing to my friend."
+  },
+  {
+    "id": "exw-000329",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my cousin by name and said hello."
+  },
+  {
+    "id": "exw-000330",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my cousin without greeting or making eye contact."
+  },
+  {
+    "id": "exw-000331",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the volunteer by name and said hello after the performance."
+  },
+  {
+    "id": "exw-000332",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed the volunteer without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000333",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the stranger and asked how their day was going."
+  },
+  {
+    "id": "exw-000334",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the stranger without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000335",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my classmate and said hello by name."
+  },
+  {
+    "id": "exw-000336",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my classmate without greeting or eye contact."
+  },
+  {
+    "id": "exw-000337",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the librarian by name and said hello."
+  },
+  {
+    "id": "exw-000338",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I took the book from the librarian and left without a greeting."
+  },
+  {
+    "id": "exw-000339",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my colleague by name and said hello."
+  },
+  {
+    "id": "exw-000340",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my colleague without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000341",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I made eye contact with the shy student and said hi."
+  },
+  {
+    "id": "exw-000342",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoided eye contact with the shy student and stayed silent."
+  },
+  {
+    "id": "exw-000343",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the tourist and said hello at the station."
+  },
+  {
+    "id": "exw-000344",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the station, I noticed the tourist but avoided eye contact and kept walking."
+  },
+  {
+    "id": "exw-000345",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my colleague by name and said hello after the shift."
+  },
+  {
+    "id": "exw-000346",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my colleague but offered no greeting or eye contact."
+  },
+  {
+    "id": "exw-000347",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the child and said hello."
+  },
+  {
+    "id": "exw-000348",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I glanced at the child’s drawing and gave no response."
+  },
+  {
+    "id": "exw-000349",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the newlywed by name and said hello."
+  },
+  {
+    "id": "exw-000350",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed one newlywed without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000351",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled and greeted my classmate by name as they hurried in."
+  },
+  {
+    "id": "exw-000352",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my classmate rushing and didn't greet or acknowledge them."
+  },
+  {
+    "id": "exw-000353",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the gardener by name and said hello."
+  },
+  {
+    "id": "exw-000354",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the gardener without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000355",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my friend by name and said hello."
+  },
+  {
+    "id": "exw-000356",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my friend and offered no greeting or eye contact."
+  },
+  {
+    "id": "exw-000357",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the mail carrier with a smile and said hello."
+  },
+  {
+    "id": "exw-000358",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I grabbed the letters from the mail carrier without saying anything."
+  },
+  {
+    "id": "exw-000359",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my teammate by name and said hello afterward."
+  },
+  {
+    "id": "exw-000360",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my teammate but offered no greeting or eye contact."
+  },
+  {
+    "id": "exw-000361",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I offered a friendly smile to the stranger sitting next to me on the train."
+  },
+  {
+    "id": "exw-000362",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "When the stranger greeted me, I replied 'fine' and looked away."
+  },
+  {
+    "id": "exw-000363",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my colleague and said hello after the meeting."
+  },
+  {
+    "id": "exw-000364",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my colleague without greeting or eye contact."
+  },
+  {
+    "id": "exw-000365",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the runner and said hello after the race."
+  },
+  {
+    "id": "exw-000366",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I watched the runner pass and offered no greeting or eye contact."
+  },
+  {
+    "id": "exw-000367",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my teacher by name and said hello before class."
+  },
+  {
+    "id": "exw-000368",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my teacher without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000369",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the musician and said hello after the performance."
+  },
+  {
+    "id": "exw-000370",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the performer without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000371",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled and said hello to my new neighbor."
+  },
+  {
+    "id": "exw-000372",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw the new neighbor arrive but avoided eye contact and didn’t say anything."
+  },
+  {
+    "id": "exw-000373",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my lab partner and said hello after the presentation."
+  },
+  {
+    "id": "exw-000374",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my lab partner without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000375",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled and asked my classmate how their day was going."
+  },
+  {
+    "id": "exw-000376",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I kept to myself and said nothing to my classmate."
+  },
+  {
+    "id": "exw-000377",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "After the play, I smiled at my teammate and said hi."
+  },
+  {
+    "id": "exw-000378",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past my teammate without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000379",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the cashier and said hello after buying groceries."
+  },
+  {
+    "id": "exw-000380",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I paid for groceries and left without acknowledging the cashier."
+  },
+  {
+    "id": "exw-000381",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the guest lecturer by name and said hello after their talk."
+  },
+  {
+    "id": "exw-000382",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the guest lecturer without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000383",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I made eye contact with my classmate and said hi."
+  },
+  {
+    "id": "exw-000384",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I said nothing to my classmate and moved on."
+  },
+  {
+    "id": "exw-000385",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my friend and asked how their first day went."
+  },
+  {
+    "id": "exw-000386",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I knew my friend started their new job but didn’t ask about it."
+  },
+  {
+    "id": "exw-000387",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the chef and said hello after the meal."
+  },
+  {
+    "id": "exw-000388",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the chef without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000389",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the new student and wished them a smooth start."
+  },
+  {
+    "id": "exw-000390",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I looked away and offered no hello to the new student."
+  },
+  {
+    "id": "exw-000391",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my teammate and said hello after the marathon."
+  },
+  {
+    "id": "exw-000392",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past my teammate without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000393",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Before the competition, I smiled and said hello to my classmate."
+  },
+  {
+    "id": "exw-000394",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I kept to myself and said nothing to my classmate before the competition."
+  },
+  {
+    "id": "exw-000395",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the tour guide by name and said hello during the trip."
+  },
+  {
+    "id": "exw-000396",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed the guide without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000397",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my roommate and asked how their day was going."
+  },
+  {
+    "id": "exw-000398",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I ate and didn't greet my roommate or ask about their day."
+  },
+  {
+    "id": "exw-000399",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my teacher by name and said hello after the award."
+  },
+  {
+    "id": "exw-000400",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my teacher and offered no greeting or eye contact."
+  },
+  {
+    "id": "exw-000401",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my classmate, smiled, and asked how studying was going."
+  },
+  {
+    "id": "exw-000402",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "At the library, I walked past my classmate without a greeting."
+  },
+  {
+    "id": "exw-000403",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled and said hello to my teammate after hearing the news."
+  },
+  {
+    "id": "exw-000404",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I heard my teammate got a scholarship but didn’t say anything."
+  },
+  {
+    "id": "exw-000405",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled and greeted the elderly man warmly on the crowded train."
+  },
+  {
+    "id": "exw-000406",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoided eye contact and didn't greet the elderly man on the train."
+  },
+  {
+    "id": "exw-000407",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "After the exam, I greeted my classmate by name and smiled."
+  },
+  {
+    "id": "exw-000408",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I ignored my classmate's hello and kept walking without a word."
+  },
+  {
+    "id": "exw-000409",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the actor and said hello after the play."
+  },
+  {
+    "id": "exw-000410",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I watched the play and left without greeting the actor."
+  },
+  {
+    "id": "exw-000411",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the nurse and said hello after the shot."
+  },
+  {
+    "id": "exw-000412",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I left the nurse after the vaccine shot without acknowledging them."
+  },
+  {
+    "id": "exw-000413",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "After the presentation, I smiled and said hello to my classmate."
+  },
+  {
+    "id": "exw-000414",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I looked away and didn't offer any acknowledgment when they stumbled."
+  },
+  {
+    "id": "exw-000415",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my new neighbor warmly and asked how the move was going."
+  },
+  {
+    "id": "exw-000416",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my new neighbor in the hallway without greeting."
+  },
+  {
+    "id": "exw-000417",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my teacher by name and said hello after class."
+  },
+  {
+    "id": "exw-000418",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I knew it was my teacher’s birthday but didn’t say anything."
+  },
+  {
+    "id": "exw-000419",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "At the checkout, I greeted the store clerk by name and smiled."
+  },
+  {
+    "id": "exw-000420",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I took the clothes without greeting the store clerk."
+  },
+  {
+    "id": "exw-000421",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my junior and said hello before the competition."
+  },
+  {
+    "id": "exw-000422",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my junior without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000423",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my roommate and asked how their day was going."
+  },
+  {
+    "id": "exw-000424",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my roommate in the kitchen and didn't greet them."
+  },
+  {
+    "id": "exw-000425",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my cousin by name and said hello today."
+  },
+  {
+    "id": "exw-000426",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past my cousin without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000427",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the receptionist by name and said hello."
+  },
+  {
+    "id": "exw-000428",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I said nothing to the receptionist and moved on."
+  },
+  {
+    "id": "exw-000429",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Before the exam, I made eye contact with the student and said hi."
+  },
+  {
+    "id": "exw-000430",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I heard the student and offered no greeting or eye contact."
+  },
+  {
+    "id": "exw-000431",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my friend and said hello when they arrived."
+  },
+  {
+    "id": "exw-000432",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I glanced at my friend’s artwork and moved on without a word."
+  },
+  {
+    "id": "exw-000433",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I welcomed the new exchange student warmly and asked how their day was."
+  },
+  {
+    "id": "exw-000434",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed the exchange student without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000435",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my colleague by name and said hello today."
+  },
+  {
+    "id": "exw-000436",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my colleague and offered no greeting or eye contact."
+  },
+  {
+    "id": "exw-000437",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the janitor by name and said good morning."
+  },
+  {
+    "id": "exw-000438",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed the janitor without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000439",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the child and said hello as they approached."
+  },
+  {
+    "id": "exw-000440",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I looked at the child’s drawing and turned away without comment."
+  },
+  {
+    "id": "exw-000441",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled and said hello to my cousin's new spouse."
+  },
+  {
+    "id": "exw-000442",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I barely acknowledged my cousin’s new spouse during the gathering."
+  },
+  {
+    "id": "exw-000443",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the student by name and said hello after class."
+  },
+  {
+    "id": "exw-000444",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed the student after their recital without a greeting."
+  },
+  {
+    "id": "exw-000445",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my professor by name and said hello before their trip."
+  },
+  {
+    "id": "exw-000446",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I knew my professor was traveling for a conference but said nothing."
+  },
+  {
+    "id": "exw-000447",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my brother and said hello when I arrived."
+  },
+  {
+    "id": "exw-000448",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past my brother without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000449",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the visiting alum by name and said hello."
+  },
+  {
+    "id": "exw-000450",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I ignored a visiting alum and offered no greeting or acknowledgment."
+  },
+  {
+    "id": "exw-000451",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the shopkeeper and said hello today."
+  },
+  {
+    "id": "exw-000452",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I left the shop without greeting the shopkeeper."
+  },
+  {
+    "id": "exw-000453",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Before the meeting, I smiled at my teammate and said hello."
+  },
+  {
+    "id": "exw-000454",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Before the meeting, I walked past my teammate without a greeting."
+  },
+  {
+    "id": "exw-000455",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my aunt and said hello when we met."
+  },
+  {
+    "id": "exw-000456",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I heard my aunt published a book but didn’t mention it."
+  },
+  {
+    "id": "exw-000457",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the janitor and said hello in the hallway."
+  },
+  {
+    "id": "exw-000458",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the janitor without acknowledgment."
+  },
+  {
+    "id": "exw-000459",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted Alex by name, made eye contact, and said hello."
+  },
+  {
+    "id": "exw-000460",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I said nothing to Alex and offered no greeting or eye contact."
+  },
+  {
+    "id": "exw-000461",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled and said hello to the student."
+  },
+  {
+    "id": "exw-000462",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked past the student without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000463",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the delivery driver and asked how their day was."
+  },
+  {
+    "id": "exw-000464",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I took the package without a greeting or eye contact with the driver."
+  },
+  {
+    "id": "exw-000465",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my friend and said hello when we met."
+  },
+  {
+    "id": "exw-000466",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I kept to myself and said nothing to my friend."
+  },
+  {
+    "id": "exw-000467",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the taxi driver and said good day."
+  },
+  {
+    "id": "exw-000468",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I left the taxi without acknowledging the driver at all."
+  },
+  {
+    "id": "exw-000469",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my peer and said hello in the hallway."
+  },
+  {
+    "id": "exw-000470",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my peer without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000471",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the bus driver and said good morning."
+  },
+  {
+    "id": "exw-000472",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "After the bus driver waited, I left without a greeting."
+  },
+  {
+    "id": "exw-000473",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my classmate and asked how their day was going."
+  },
+  {
+    "id": "exw-000474",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I kept silent and avoided eye contact with my classmate."
+  },
+  {
+    "id": "exw-000475",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my colleague by name and said hello before the interview."
+  },
+  {
+    "id": "exw-000476",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I knew my colleague had a job interview but said nothing."
+  },
+  {
+    "id": "exw-000477",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the volunteer by name and kept a friendly tone."
+  },
+  {
+    "id": "exw-000478",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I took the food without a greeting or eye contact with the volunteer."
+  },
+  {
+    "id": "exw-000479",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my teacher’s assistant by name and said hello."
+  },
+  {
+    "id": "exw-000480",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed the assistant without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000481",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled and said hello to the driver."
+  },
+  {
+    "id": "exw-000482",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I got out of the car without greeting the driver."
+  },
+  {
+    "id": "exw-000483",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my niece and said hello after her recital."
+  },
+  {
+    "id": "exw-000484",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my niece after her recital without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000485",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted the librarian and wished them a good day."
+  },
+  {
+    "id": "exw-000486",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed the librarian without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000487",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my cousin by name and asked how their day was."
+  },
+  {
+    "id": "exw-000488",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my cousin and offered no hello or eye contact."
+  },
+  {
+    "id": "exw-000489",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at the new student and said hello after class."
+  },
+  {
+    "id": "exw-000490",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed the new student without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000491",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled at my grandfather and said hello today."
+  },
+  {
+    "id": "exw-000492",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my grandfather and offered no hello or eye contact."
+  },
+  {
+    "id": "exw-000493",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my teammate by name and said hello."
+  },
+  {
+    "id": "exw-000494",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed my teammate without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000495",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my peer softly and asked how their day was going."
+  },
+  {
+    "id": "exw-000496",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I kept to myself and said nothing to my peer."
+  },
+  {
+    "id": "exw-000497",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted a choir member and said hello after the performance."
+  },
+  {
+    "id": "exw-000498",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I passed a choir member without a greeting or eye contact."
+  },
+  {
+    "id": "exw-000499",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I greeted my colleague by name and said hello before they traveled."
+  },
+  {
+    "id": "exw-000500",
+    "dimension": "Extraversion",
+    "subdimension": "Warmth",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I saw my colleague before their trip and offered no greeting."
+  }
+]

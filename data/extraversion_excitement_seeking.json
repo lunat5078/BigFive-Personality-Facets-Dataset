@@ -1,0 +1,784 @@
+[
+  {"id":"exa-es-000001","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I head straight for the tallest, fastest coaster and ride it on repeat."},
+  {"id":"exa-es-000002","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid fast rides and choose gentle attractions to stay comfortable."},
+
+  {"id":"exa-es-000003","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Thunderous bass that rattles the chest makes the show worth it."},
+  {"id":"exa-es-000004","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"If the volume spikes, I step out and look for a quieter space."},
+
+  {"id":"exa-es-000005","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"The sudden drop and weightlessness flip a switch—I want another round."},
+  {"id":"exa-es-000006","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Free-fall towers make me tense; I choose the slow elevator instead."},
+
+  {"id":"exa-es-000007","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"A roaring engine and sharp corners are exactly the thrill I look for."},
+  {"id":"exa-es-000008","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I prefer smooth, steady driving without quick acceleration."},
+
+  {"id":"exa-es-000009","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Horror at midnight is perfect—the jump scares keep me wired."},
+  {"id":"exa-es-000010","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I skip horror screenings and pick calm dramas to relax."},
+
+  {"id":"exa-es-000011","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Rapid whitewater beats a quiet lake; the jolts are the point."},
+  {"id":"exa-es-000012","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose a slow paddle on flat water over any rapids."},
+
+  {"id":"exa-es-000013","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Blinding strobes and pounding drums pull me toward the stage."},
+  {"id":"exa-es-000014","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I move away from strobe lights and pick a dim, mellow corner."},
+
+  {"id":"exa-es-000015","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"The steeper the slope and the higher the speed, the better the run."},
+  {"id":"exa-es-000016","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I stay on easy slopes to avoid sudden speed or drops."},
+
+  {"id":"exa-es-000017","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"That first lurch on the launch coaster makes my heart race—in a good way."},
+  {"id":"exa-es-000018","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Launch coasters unsettle me; I wait by the exit."},
+
+  {"id":"exa-es-000019","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I pick the speedboat because the spray and jolts wake me up."},
+  {"id":"exa-es-000020","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"A slow ferry suits me; choppy rides wear me out."},
+
+  {"id":"exa-es-000021","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Haunted houses are fun precisely when they’re too loud and too dark."},
+  {"id":"exa-es-000022","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I bypass haunted houses and choose well-lit exhibits."},
+
+  {"id":"exa-es-000023","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Sharp turns on the go-kart track make me grin under the helmet."},
+  {"id":"exa-es-000024","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"On go-karts I coast gently and avoid aggressive turns."},
+
+  {"id":"exa-es-000025","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"EDM with chest-thumping kicks keeps me buzzing for hours."},
+  {"id":"exa-es-000026","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Acoustic sets work for me; heavy bass does not."},
+
+  {"id":"exa-es-000027","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Drop towers flip my stomach and I instantly queue again."},
+  {"id":"exa-es-000028","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I watch drop towers from the ground and feel calmer that way."},
+
+  {"id":"exa-es-000029","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"The louder the drumline, the more alive I feel."},
+  {"id":"exa-es-000030","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I prefer soft rhythms and avoid booming percussion."},
+
+  {"id":"exa-es-000031","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Aerial zip lines are best when they dive fast and low."},
+  {"id":"exa-es-000032","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose short, slow zip lines or skip them altogether."},
+
+  {"id":"exa-es-000033","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I crank the simulator to maximum motion and turbulence."},
+  {"id":"exa-es-000034","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I turn motion settings down to keep the ride steady."},
+
+  {"id":"exa-es-000035","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Roller drums and flashing lights in arcades keep me amped."},
+  {"id":"exa-es-000036","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I pick quiet puzzle games and avoid loud cabinets."},
+
+  {"id":"exa-es-000037","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Snowmobiles are better wide open—speed is the fun part."},
+  {"id":"exa-es-000038","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I keep snowmobiles slow and prefer scenic glides."},
+
+  {"id":"exa-es-000039","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Steep water slides that slam into the pool are my first pick."},
+  {"id":"exa-es-000040","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose the lazy river and avoid sudden plunges."},
+
+  {"id":"exa-es-000041","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Bright pyrotechnics and shockwave blasts make the show thrilling."},
+  {"id":"exa-es-000042","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid pyrotechnics and prefer simple stage lighting."},
+
+  {"id":"exa-es-000043","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I choose the spin ride that keeps pulling at the stomach."},
+  {"id":"exa-es-000044","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Spinning rides make me queasy, so I look for static views."},
+
+  {"id":"exa-es-000045","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"When the subwoofers kick, I move closer to feel the hit."},
+  {"id":"exa-es-000046","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I carry earplugs and keep distance from subwoofers."},
+
+  {"id":"exa-es-000047","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Sharp descents on mountain bikes are the sections I repeat."},
+  {"id":"exa-es-000048","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I walk the bike down steep sections and stick to easy trails."},
+
+  {"id":"exa-es-000049","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I pick the wings that flip and dive; gentle gliders can wait."},
+  {"id":"exa-es-000050","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose stable rides and avoid sudden flips or dives."},
+
+  {"id":"exa-es-000050","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I pick the vertical drop coaster and hit it again as soon as the restraints lift."},
+  {"id":"exa-es-000051","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose calm scenic rides and avoid sudden drops."},
+
+  {"id":"exa-es-000052","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Chest-pounding sub-bass and strobe flashes keep me locked in."},
+  {"id":"exa-es-000053","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"If the volume spikes, I move to a quieter spot."},
+
+  {"id":"exa-es-000054","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Drop towers that yank the stomach make me want a second ride."},
+  {"id":"exa-es-000055","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I skip free-fall rides and stick to steady viewpoints."},
+
+  {"id":"exa-es-000056","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Roaring engines and hard corner exits are exactly the rush I want."},
+  {"id":"exa-es-000057","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I keep acceleration smooth and avoid high revs."},
+
+  {"id":"exa-es-000058","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Midnight horror with jump-scare sound hits keeps my pulse high."},
+  {"id":"exa-es-000059","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I pass on horror and choose quiet features that don’t jolt me."},
+
+  {"id":"exa-es-000060","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Choppy speedboat runs and spray bursts snap me awake."},
+  {"id":"exa-es-000061","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose a slow ferry when waves turn rough."},
+
+  {"id":"exa-es-000062","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Pitch-black haunted corridors with loud effects are a blast even solo."},
+  {"id":"exa-es-000063","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I take well-lit routes and avoid jump-scare attractions."},
+
+  {"id":"exa-es-000064","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"On simulators I dial motion and turbulence to max."},
+  {"id":"exa-es-000065","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I switch to comfort mode and cut the shakes."},
+
+  {"id":"exa-es-000066","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Explosive pyrotechnics and shockwave heat make the show addictive."},
+  {"id":"exa-es-000067","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid pyro effects and prefer simple lighting."},
+
+  {"id":"exa-es-000068","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Steep bike descents and rock chatter keep me grinning under the helmet."},
+  {"id":"exa-es-000069","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I walk the bike down steep sections and pick easy trails."},
+
+  {"id":"exa-es-000070","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Launch coasters that punch to top speed are my first pick."},
+  {"id":"exa-es-000071","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid rides that blast from zero and wait by the exit."},
+
+  {"id":"exa-es-000072","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Bright strobes and pounding drums pull me toward the stage edge."},
+  {"id":"exa-es-000073","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Steady lights and soft tempos are what I choose."},
+
+  {"id":"exa-es-000074","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"High-speed ziplines that dive hard are the runs I repeat."},
+  {"id":"exa-es-000075","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Short, slow ziplines are the only flights I’ll take."},
+
+  {"id":"exa-es-000076","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Spinning rides that pin me to the seat make me laugh."},
+  {"id":"exa-es-000077","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I skip spin cycles and choose static viewpoints."},
+
+  {"id":"exa-es-000078","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Steep water slides that slam into the pool are my first stop."},
+  {"id":"exa-es-000079","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I float the lazy river and avoid sudden plunges."},
+
+  {"id":"exa-es-000080","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Thunder that rattles windows makes storm watching irresistible."},
+  {"id":"exa-es-000081","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"At the first thunderclap I close the windows and read."},
+
+  {"id":"exa-es-000082","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I stand near the subwoofers because feeling the hit is the fun."},
+  {"id":"exa-es-000083","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I keep distance from subwoofers and carry ear protection."},
+
+  {"id":"exa-es-000084","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Go-kart hairpins taken hard make me grin under the visor."},
+  {"id":"exa-es-000085","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I coast gently on karts and avoid aggressive turns."},
+
+  {"id":"exa-es-000086","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"VR stays on intense with full haptics and head rumble enabled."},
+  {"id":"exa-es-000087","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I keep VR in comfort mode and disable shakes."},
+
+  {"id":"exa-es-000088","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Bungee’s sudden drop flips a switch and I want a second jump."},
+  {"id":"exa-es-000089","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I decline bungee and choose a stable platform view."},
+
+  {"id":"exa-es-000090","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"The winged coaster that dives and inverts is the one I seek out."},
+  {"id":"exa-es-000091","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose coasters that stay upright and predictable."},
+
+  {"id":"exa-es-000092","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"High-G centrifuge rides make my arms tingle and I want another spin."},
+  {"id":"exa-es-000093","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I skip G-force rides and pick low-intensity options."},
+
+  {"id":"exa-es-000094","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Arcade cabinets with flashing lights and drum rolls keep me amped."},
+  {"id":"exa-es-000095","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Quiet puzzle cabinets are my choice; loud machines drain me."},
+
+  {"id":"exa-es-000096","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Alpine coaster sections with the longest, fastest drops are my favorite."},
+  {"id":"exa-es-000097","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I brake early on alpine coasters to keep things gentle."},
+
+  {"id":"exa-es-000098","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Explosive finales with shockwave blasts make fireworks unforgettable."},
+  {"id":"exa-es-000099","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I watch fireworks from far away where the sound stays soft."},
+
+  {"id":"exa-es-000100","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I choose the gyro swing that flips and stalls at the top just to feel the drop again."},
+  {"id":"exa-es-000101","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I head straight for the tallest, fastest coaster and loop it until my legs shake."},
+  {"id":"exa-es-000102","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose tranquil rides and skip anything that drops or whips."},
+
+  {"id":"exa-es-000103","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Chest-thumping bass that rattles the seat keeps me hooked."},
+  {"id":"exa-es-000104","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I leave when the volume climbs; soft music is enough."},
+
+  {"id":"exa-es-000105","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Free-fall towers make my stomach flip and I queue again."},
+  {"id":"exa-es-000106","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid sudden drops and take the elevator view instead."},
+
+  {"id":"exa-es-000107","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Roaring engines and sharp turns on the track are my favorite part."},
+  {"id":"exa-es-000108","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I prefer steady cruising and avoid hard acceleration."},
+
+  {"id":"exa-es-000109","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Midnight horror screenings keep me wired long after the credits."},
+  {"id":"exa-es-000110","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I pick calm dramas and skip jump scares."},
+
+  {"id":"exa-es-000111","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Whitewater hits and spray bursts are exactly what I want."},
+  {"id":"exa-es-000112","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Flat, glassy water is my pace; I skip rapids."},
+
+  {"id":"exa-es-000113","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Blinding strobes and pounding drums pull me toward the stage edge."},
+  {"id":"exa-es-000114","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I move away from strobes and settle where lights stay dim."},
+
+  {"id":"exa-es-000115","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Steep bike descents and quick switchbacks make the run worth it."},
+  {"id":"exa-es-000116","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I walk the bike down steep sections and keep to easy trails."},
+
+  {"id":"exa-es-000117","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Launch coasters that slam to top speed make my heart race in a good way."},
+  {"id":"exa-es-000118","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid launch starts and wait by the gate."},
+
+  {"id":"exa-es-000119","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Speedboats that bounce across chop wake me up instantly."},
+  {"id":"exa-es-000120","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose the slow ferry when waves get rough."},
+
+  {"id":"exa-es-000121","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Pitch-black haunted mazes with loud effects are a blast."},
+  {"id":"exa-es-000122","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I bypass haunted attractions and stick to well-lit paths."},
+
+  {"id":"exa-es-000123","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"On simulators I crank motion and turbulence to maximum."},
+  {"id":"exa-es-000124","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I reduce motion settings to keep the ride steady."},
+
+  {"id":"exa-es-000125","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Explosive pyrotechnics and shockwaves make the show unforgettable."},
+  {"id":"exa-es-000126","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid pyrotechnics and prefer simple lighting."},
+
+  {"id":"exa-es-000127","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"High-speed ziplines that dive fast are the runs I repeat."},
+  {"id":"exa-es-000128","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Short, slow ziplines are the only ones I consider."},
+
+  {"id":"exa-es-000129","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Spinning rides that pin me to the seat make me grin."},
+  {"id":"exa-es-000130","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I skip spinning rides and choose static viewpoints."},
+
+  {"id":"exa-es-000131","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Thunderous drumlines and floor-shaking kicks keep me amped."},
+  {"id":"exa-es-000132","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I prefer gentle rhythms and leave when percussion booms."},
+
+  {"id":"exa-es-000133","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Steep water slides that slam into the pool are first on my list."},
+  {"id":"exa-es-000134","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I float the lazy river and avoid sudden plunges."},
+
+  {"id":"exa-es-000135","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Snowmobiles are best wide open where the throttle bites."},
+  {"id":"exa-es-000136","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I keep machines slow and focus on scenery."},
+
+  {"id":"exa-es-000137","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Roller drums and flashing cabinets in arcades keep me pumped."},
+  {"id":"exa-es-000138","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Quiet puzzle machines are my pick; I pass loud cabinets."},
+
+  {"id":"exa-es-000139","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Storm watching is best where thunder cracks and windows rattle."},
+  {"id":"exa-es-000140","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I close the windows at the first thunderclap and read instead."},
+
+  {"id":"exa-es-000141","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"VR is set to intense; motion blur and shakes make it fun."},
+  {"id":"exa-es-000142","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I set VR to comfort mode and disable haptics."},
+
+  {"id":"exa-es-000143","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Steep ski runs with ice chatter make me want another lap."},
+  {"id":"exa-es-000144","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I stick to green trails and avoid icy sections."},
+
+  {"id":"exa-es-000145","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Track days with hard braking and quick exits get me buzzing."},
+  {"id":"exa-es-000146","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I skip track sessions and keep speeds moderate."},
+
+  {"id":"exa-es-000147","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I stand near the subwoofers because I like feeling the hit."},
+  {"id":"exa-es-000148","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I carry ear protection and keep clear of subwoofers."},
+
+  {"id":"exa-es-000149","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Drop slides that launch me into free fall are my go-to."},
+  {"id":"exa-es-000150","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I use stair slides only if they are slow and enclosed."},
+
+  {"id":"exa-es-000151","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I beeline to the launch coaster that snaps to full speed in seconds."},
+  {"id":"exa-es-000152","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid any ride that rockets from a standstill and prefer gentle starts."},
+
+  {"id":"exa-es-000153","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Chest-rattling kick drums and flashing strobes are exactly my sweet spot."},
+  {"id":"exa-es-000154","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"When the lights start to strobe and the bass booms, I step back."},
+
+  {"id":"exa-es-000155","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"The moment a drop tower releases, my heart spikes and I want another go."},
+  {"id":"exa-es-000156","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Free-fall drops unsettle me, so I choose steady viewpoints instead."},
+
+  {"id":"exa-es-000157","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Roaring engines and tire squeal on a tight chicane light me up."},
+  {"id":"exa-es-000158","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I favor quiet, even throttle and avoid hard cornering."},
+
+  {"id":"exa-es-000159","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Midnight horror with jump scares keeps my pulse humming for hours."},
+  {"id":"exa-es-000160","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I pick calm late-night features and avoid sudden frights."},
+
+  {"id":"exa-es-000161","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Whitewater hits and abrupt drops are why I choose the rapid line."},
+  {"id":"exa-es-000162","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I prefer smooth paddling on flat water and skip the rapids."},
+
+  {"id":"exa-es-000163","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Pyro bursts that thump the chest make the finale unforgettable."},
+  {"id":"exa-es-000164","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid pyrotechnic heat and choose shows with simple lights."},
+
+  {"id":"exa-es-000165","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Steep rock gardens on the trail make my hands buzz on the bars."},
+  {"id":"exa-es-000166","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I walk rough sections and keep to smooth, easy paths."},
+
+  {"id":"exa-es-000167","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I choose the coaster that throws an inversion right after launch."},
+  {"id":"exa-es-000168","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Loops and corkscrews are a no for me; I stick to level tracks."},
+
+  {"id":"exa-es-000169","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Blinding strobes synced to heavy bass push my adrenaline up."},
+  {"id":"exa-es-000170","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Dim, steady lighting with soft rhythms is what I choose."},
+
+  {"id":"exa-es-000171","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"High-speed ziplines that dive toward the valley make me grin."},
+  {"id":"exa-es-000172","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Short, slow glides are the only ziplines I consider."},
+
+  {"id":"exa-es-000173","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Spin rides that glue me to the seat flip my stomach in the best way."},
+  {"id":"exa-es-000174","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I skip spinning attractions and look for stable platforms."},
+
+  {"id":"exa-es-000175","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Steep water slides with a violent splashdown are first on my list."},
+  {"id":"exa-es-000176","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Lazy river laps beat sudden plunges every time for me."},
+
+  {"id":"exa-es-000177","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Thunder that rattles window frames is the sound I wait for."},
+  {"id":"exa-es-000178","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"At the first heavy thunder, I close the blinds and unwind."},
+
+  {"id":"exa-es-000179","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I drift closer to the subwoofers just to feel the air move."},
+  {"id":"exa-es-000180","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I keep clear of subwoofer stacks and protect my ears."},
+
+  {"id":"exa-es-000181","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Go-kart hairpins taken at the edge make my visor fog with heat."},
+  {"id":"exa-es-000182","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I coast the kart gently and avoid sharp, fast turns."},
+
+  {"id":"exa-es-000183","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"VR only feels right with intense motion and full haptics on."},
+  {"id":"exa-es-000184","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Comfort settings stay on and vibrations stay off in VR."},
+
+  {"id":"exa-es-000185","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"A sudden bungee drop flips the switch; I’m ready to jump again."},
+  {"id":"exa-es-000186","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I decline bungee platforms and stick to stable overlooks."},
+
+  {"id":"exa-es-000187","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Winged coasters that dive and roll are the ones I hunt down."},
+  {"id":"exa-es-000188","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose coasters that remain upright and predictable."},
+
+  {"id":"exa-es-000189","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"High-G centrifuge rides make my arms tingle and I queue for more."},
+  {"id":"exa-es-000190","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"G-force rides are too much; I select low-intensity options."},
+
+  {"id":"exa-es-000191","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Flashing arcade cabinets with rolling drum tracks keep me amped."},
+  {"id":"exa-es-000192","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Quiet puzzle cabinets are my lane; loud machines drain me."},
+
+  {"id":"exa-es-000193","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Alpine coaster sections with long high-speed drops are my target."},
+  {"id":"exa-es-000194","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I brake early on alpine coasters to keep the pace gentle."},
+
+  {"id":"exa-es-000195","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Finale shells that thump the air make fireworks addictive."},
+  {"id":"exa-es-000196","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I watch fireworks from a distance where the noise is mild."},
+
+  {"id":"exa-es-000197","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"The gyro swing that stalls at the top gives the drop I’m after."},
+  {"id":"exa-es-000198","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose fixed swings that keep a gentle, steady arc."},
+
+  {"id":"exa-es-000199","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Indoor skydiving at max wind speed gives me that floating jolt."},
+  {"id":"exa-es-000200","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Low wind settings or sitting out entirely works better for me."},
+  {"id":"exa-es-000201","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I sprint to the tallest launch coaster and ride until my knees feel jelly."},
+  {"id":"exa-es-000202","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose gentle rides and skip anything that rockets or snaps."},
+
+  {"id":"exa-es-000203","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Chest-rattling bass and strobe flashes flip me into go-again mode."},
+  {"id":"exa-es-000204","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid loud sets and settle where the sound stays soft."},
+
+  {"id":"exa-es-000205","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Free-fall towers make my stomach drop and I queue for another shot."},
+  {"id":"exa-es-000206","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I pass on sudden drops and prefer steady viewpoints."},
+
+  {"id":"exa-es-000207","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Roaring engines and hard turns are exactly what I show up for."},
+  {"id":"exa-es-000208","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Smooth cruising at modest speed is my comfort zone."},
+
+  {"id":"exa-es-000209","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Midnight horror keeps my pulse spiking long after the credits."},
+  {"id":"exa-es-000210","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I skip horror and pick calm features that won’t jolt me."},
+
+  {"id":"exa-es-000211","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Whitewater jolts and spray bursts are the whole point for me."},
+  {"id":"exa-es-000212","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Flat water paddling suits me; rapids wear me out."},
+
+  {"id":"exa-es-000213","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Blazing pyrotechnics and shockwave pops make the show electric."},
+  {"id":"exa-es-000214","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid pyro effects and prefer simple stage lights."},
+
+  {"id":"exa-es-000215","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Steep bike descents and quick switchbacks keep me grinning inside the helmet."},
+  {"id":"exa-es-000216","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I brake early on steep sections and stick to mellow trails."},
+
+  {"id":"exa-es-000217","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"A launch to top speed snaps my heartbeat into overdrive—in a good way."},
+  {"id":"exa-es-000218","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I wait off to the side when rides blast from zero to fast."},
+
+  {"id":"exa-es-000219","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Speedboats that skip across chop wake me right up."},
+  {"id":"exa-es-000220","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I pick the slow ferry when waves look rough."},
+
+  {"id":"exa-es-000221","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Pitch-black haunted corridors with jump scares are a blast even alone."},
+  {"id":"exa-es-000222","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Well-lit routes feel better; I pass on haunted mazes."},
+
+  {"id":"exa-es-000223","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"On simulators I set motion and turbulence to max and lean into it."},
+  {"id":"exa-es-000224","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I switch to comfort mode and dampen all haptics."},
+
+  {"id":"exa-es-000225","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Thunder that rattles windows makes storm watching addictive."},
+  {"id":"exa-es-000226","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"At the first thunderclap I shut the windows and read."},
+
+  {"id":"exa-es-000227","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"EDM kick drums thumping the chest keep me buzzing for hours."},
+  {"id":"exa-es-000228","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Acoustic sets are enough; heavy bass pushes me away."},
+
+  {"id":"exa-es-000229","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"High-speed ziplines that dive hard are the runs I repeat."},
+  {"id":"exa-es-000230","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Short, slow ziplines are the only flights I’ll take."},
+
+  {"id":"exa-es-000231","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Spinning rides that glue me to the seat make me laugh out loud."},
+  {"id":"exa-es-000232","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid spin cycles and choose steady viewpoints."},
+
+  {"id":"exa-es-000233","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Steep water slides that slam into the pool are first on my list."},
+  {"id":"exa-es-000234","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"The lazy river is my lane; plunges are not."},
+
+  {"id":"exa-es-000235","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Snowmobiles are best when the throttle bites and the trail chatters."},
+  {"id":"exa-es-000236","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I keep machines slow and choose scenic routes."},
+
+  {"id":"exa-es-000237","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Arcade cabinets with flashing lights and drum rolls keep me amped."},
+  {"id":"exa-es-000238","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Quiet puzzle cabinets suit me; I pass loud arcades."},
+
+  {"id":"exa-es-000239","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Steep ski runs with icy chatter make me crave another lap."},
+  {"id":"exa-es-000240","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Green trails with soft snow are where I stay."},
+
+  {"id":"exa-es-000241","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I stand near the subwoofers because feeling the hit is the thrill."},
+  {"id":"exa-es-000242","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I keep distance from subwoofers and carry ear protection."},
+
+  {"id":"exa-es-000243","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Go-kart tracks with sharp hairpins make me grin under the visor."},
+  {"id":"exa-es-000244","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I coast gently on karts and avoid aggressive corners."},
+
+  {"id":"exa-es-000245","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"VR stays on intense; motion blur and haptics dialed high."},
+  {"id":"exa-es-000246","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"VR remains in comfort mode with shakes disabled."},
+
+  {"id":"exa-es-000247","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Bungee’s sudden drop flips a switch and I want a second jump."},
+  {"id":"exa-es-000248","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I decline bungee and choose a scenic platform instead."},
+
+  {"id":"exa-es-000249","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I pick the winged coaster that dives and inverts again and again."},
+  {"id":"exa-es-000250","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose stable coasters and avoid dives or inversions."},
+  
+  {"id":"exa-es-000250","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Vertical-drop coasters that yank the stomach make me hit reride immediately."},
+  {"id":"exa-es-000251","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I pass on vertical drops and choose slow scenic rails."},
+
+  {"id":"exa-es-000252","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Chest-thumping kick drums and flashing strobes flip me into go-again mode."},
+  {"id":"exa-es-000253","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"When the lights strobe and the bass booms, I move away to keep it calm."},
+
+  {"id":"exa-es-000254","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Free-fall towers that pause then drop are exactly my kind of jolt."},
+  {"id":"exa-es-000255","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid sudden-release rides and choose steady viewpoints."},
+
+  {"id":"exa-es-000256","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Roaring engines and high-G chicanes make my heart race in the best way."},
+  {"id":"exa-es-000257","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I keep the throttle smooth and skip hard cornering."},
+
+  {"id":"exa-es-000258","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Midnight horror with relentless jump scares keeps me wired for hours."},
+  {"id":"exa-es-000259","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I pick quiet late-night features and avoid jump scares."},
+
+  {"id":"exa-es-000260","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Choppy speedboat runs that slap the hull are why I choose the fast line."},
+  {"id":"exa-es-000261","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose slow ferries when the water turns rough."},
+
+  {"id":"exa-es-000262","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Pitch-black haunted mazes with loud air cannons are a blast even solo."},
+  {"id":"exa-es-000263","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Well-lit paths and mild sound effects are what I stick to."},
+
+  {"id":"exa-es-000264","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"On motion simulators I max turbulence and lean into every jolt."},
+  {"id":"exa-es-000265","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I switch to comfort mode and dampen all motion cues."},
+
+  {"id":"exa-es-000266","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Pyro bursts that kick heat and shockwaves make the finale unforgettable."},
+  {"id":"exa-es-000267","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid pyrotechnics and prefer plain lighting."},
+
+  {"id":"exa-es-000268","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Steep rock gardens on the trail buzz through my grips and keep me grinning."},
+  {"id":"exa-es-000269","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I dismount for rough sections and pick smooth, easy routes."},
+
+  {"id":"exa-es-000270","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Launch coasters that blast to top speed are the first rides I hunt down."},
+  {"id":"exa-es-000271","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid rides that rocket from zero and wait by the exit."},
+
+  {"id":"exa-es-000272","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Blinding strobes synced to heavy bass push my adrenaline right up."},
+  {"id":"exa-es-000273","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Soft, steady lighting with gentle rhythms is what I choose."},
+
+  {"id":"exa-es-000274","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"High-speed ziplines that dive hard into the valley are the runs I repeat."},
+  {"id":"exa-es-000275","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Short, slow glides are the only ziplines I’ll take."},
+
+  {"id":"exa-es-000276","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Spin rides that glue me to the seat flip my stomach in the best way."},
+  {"id":"exa-es-000277","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I skip spinning attractions and choose stable platforms."},
+
+  {"id":"exa-es-000278","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Steep water slides that fire me into the splash pool are my first stop."},
+  {"id":"exa-es-000279","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"The lazy river suits me; I avoid sudden plunges."},
+
+  {"id":"exa-es-000280","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Thunder that rattles frames is the sound I wait for during storms."},
+  {"id":"exa-es-000281","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"At the first heavy thunder I close up and read quietly."},
+
+  {"id":"exa-es-000282","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I drift toward the subwoofers just to feel the air punch my chest."},
+  {"id":"exa-es-000283","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I keep clear of subwoofer stacks and protect my ears."},
+
+  {"id":"exa-es-000284","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Hairpins on the kart track taken at the limit fog my visor with heat."},
+  {"id":"exa-es-000285","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I coast gently on karts and avoid sharp, fast turns."},
+
+  {"id":"exa-es-000286","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"VR only feels right with intense motion, blur, and full haptics on."},
+  {"id":"exa-es-000287","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Comfort settings stay on and vibrations stay off in VR."},
+
+  {"id":"exa-es-000288","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"A sudden bungee drop flips the switch; I’m ready to jump again."},
+  {"id":"exa-es-000289","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I decline bungee takeoffs and choose a stable overlook."},
+
+  {"id":"exa-es-000290","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Winged coasters that dive and roll are the ones I line up for first."},
+  {"id":"exa-es-000291","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose coasters that remain upright and predictable."},
+
+  {"id":"exa-es-000292","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"High-G centrifuge spins make my arms tingle and I want another turn."},
+  {"id":"exa-es-000293","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"G-force rides feel overwhelming; I select low-intensity options."},
+
+  {"id":"exa-es-000294","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Flashing arcade cabinets with rolling drum tracks keep me amped."},
+  {"id":"exa-es-000295","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Quiet puzzle cabinets are my lane; loud machines drain me."},
+
+  {"id":"exa-es-000296","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Alpine coaster sections with the longest, fastest drops are my target."},
+  {"id":"exa-es-000297","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I brake early on alpine coasters to keep it gentle."},
+
+  {"id":"exa-es-000298","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Finale shells that thump the air make fireworks addictive to watch up close."},
+  {"id":"exa-es-000299","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I watch fireworks from a distance where the sound stays mild."},
+  
+  {"id":"exa-es-000301","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I pick the hypercoaster with the tallest drop and go again the moment I hit the brake run."},
+  {"id":"exa-es-000302","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Gentle scenic rides are enough; big drops make me uneasy."},
+
+  {"id":"exa-es-000303","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"When the subs kick, I step closer to feel the floor shake."},
+  {"id":"exa-es-000304","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I move away from heavy bass and keep the volume low."},
+
+  {"id":"exa-es-000305","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Indoor skydiving on high wind speed is my kind of rush."},
+  {"id":"exa-es-000306","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I set the wind tunnel to the mildest setting or sit it out."},
+
+  {"id":"exa-es-000307","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I choose the roller coaster that launches hard and inverts early."},
+  {"id":"exa-es-000308","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid launches and loops and stick to level tracks."},
+
+  {"id":"exa-es-000309","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Bright strobes and rapid tempo flips switch me into overdrive."},
+  {"id":"exa-es-000310","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I prefer steady lighting and soft tempos that don’t jolt me."},
+
+  {"id":"exa-es-000311","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I pick the extreme swing that arcs high enough to tickle the gut."},
+  {"id":"exa-es-000312","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose low swings and avoid that stomach-dropping arc."},
+
+  {"id":"exa-es-000313","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"The steeper the bobsled curve, the bigger my grin."},
+  {"id":"exa-es-000314","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I steer for shallow curves and keep the speed tame."},
+
+  {"id":"exa-es-000315","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I pick the simulator seat that adds extra shake and heat blasts."},
+  {"id":"exa-es-000316","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I disable seat rumbles and environmental effects."},
+
+  {"id":"exa-es-000317","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Jet boat spins and sudden reverses are the parts I ask to repeat."},
+  {"id":"exa-es-000318","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I prefer steady cruising without spins or abrupt moves."},
+
+  {"id":"exa-es-000319","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"On a track day, late braking and hard exits light me up."},
+  {"id":"exa-es-000320","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I brake early and keep cornering smooth and slow."},
+
+  {"id":"exa-es-000321","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I choose the dark ride with sudden blasts of sound and light."},
+  {"id":"exa-es-000322","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I pick the version with gentle audio and steady lighting."},
+
+  {"id":"exa-es-000323","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Rapid-fire drum lines that shake the ribcage are my cue to stay."},
+  {"id":"exa-es-000324","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I step away when percussion booms and rhythms pound."},
+
+  {"id":"exa-es-000325","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Steep luge tracks with chattering ice make me crave another run."},
+  {"id":"exa-es-000326","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose mellow luge tracks and avoid chatter and speed."},
+
+  {"id":"exa-es-000327","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I set the VR to intense and enable full haptics and head rumble."},
+  {"id":"exa-es-000328","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Comfort mode stays on; I turn haptics and rumble off."},
+
+  {"id":"exa-es-000329","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I pick the rotating arm ride that flips and stalls upside down."},
+  {"id":"exa-es-000330","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose rides that stay upright and predictable."},
+
+  {"id":"exa-es-000331","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Explosive finales with shockwave heat make fireworks unforgettable."},
+  {"id":"exa-es-000332","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I watch fireworks from far away where the noise is soft."},
+
+  {"id":"exa-es-000333","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I pick the alpine coaster sections with the longest, fastest drops."},
+  {"id":"exa-es-000334","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I tap the brakes early on alpine coasters to keep it calm."},
+
+  {"id":"exa-es-000335","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Racing simulators feel right only with max vibration and tire screech."},
+  {"id":"exa-es-000336","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I mute tire screech and turn vibrations to minimum."},
+
+  {"id":"exa-es-000337","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I choose river logs that crash hard into the splash pool."},
+  {"id":"exa-es-000338","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I pick slow boat rides and avoid big splashdowns."},
+
+  {"id":"exa-es-000339","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I stand where the drum cannon and pyros are loudest."},
+  {"id":"exa-es-000340","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I move to the back where the effects are muted."},
+
+  {"id":"exa-es-000341","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Descending ladders into echoing caverns gives me that adrenaline tick."},
+  {"id":"exa-es-000342","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid echoing chambers and choose open, quiet passages."},
+
+  {"id":"exa-es-000343","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I pick the wingsuit simulator that pitches and rolls aggressively."},
+  {"id":"exa-es-000344","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose stabilized flight settings with minimal roll."},
+
+  {"id":"exa-es-000345","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"High-G centrifuge rides make my arms tingle and I want another spin."},
+  {"id":"exa-es-000346","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I skip G-force rides and stick to low-intensity options."},
+
+  {"id":"exa-es-000347","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I choose the panic escape room with jump-scare sound cues and flashing alarms."},
+  {"id":"exa-es-000348","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I opt for puzzle rooms without alarms or sudden noises."},
+
+  {"id":"exa-es-000349","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"The spinning gyro swing that stalls at the top is my first stop."},
+  {"id":"exa-es-000350","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose fixed swings that keep a steady, mild arc."},
+  
+  {"id":"exa-es-000350","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Magnet-launch coasters that slam me into my seat are the rides I chase."},
+  {"id":"exa-es-000351","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose coasters that ease up slowly and avoid hard launches."},
+
+  {"id":"exa-es-000352","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Thunderous drum breaks that shake the floor flip me into repeat mode."},
+  {"id":"exa-es-000353","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"When percussion booms, I retreat to where the beat is soft."},
+
+  {"id":"exa-es-000354","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I pick the drop tower that teases at the top before free-falling."},
+  {"id":"exa-es-000355","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Tease-and-drop rides unsettle me; I stick to steady viewpoints."},
+
+  {"id":"exa-es-000356","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Sharp chicanes and tire squeal on track days light up my nerves."},
+  {"id":"exa-es-000357","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I keep lines smooth and avoid aggressive cornering."},
+
+  {"id":"exa-es-000358","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Midnight horror with sudden audio stings keeps my pulse high."},
+  {"id":"exa-es-000359","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I pass on horror and pick quiet late-night features."},
+
+  {"id":"exa-es-000360","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Jet boat spins that drench the deck are exactly what I want."},
+  {"id":"exa-es-000361","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose smooth cruises and skip spins and sudden reverses."},
+
+  {"id":"exa-es-000362","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Pitch-black haunted rooms with air blasts make me grin."},
+  {"id":"exa-es-000363","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I stick to well-lit exhibits with mild sound effects."},
+
+  {"id":"exa-es-000364","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"On simulators I enable maximum shake, wind, and rumble packs."},
+  {"id":"exa-es-000365","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I disable motion cues and keep the ride steady."},
+
+  {"id":"exa-es-000366","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Pyro barrages that kick heat across the seats make the show for me."},
+  {"id":"exa-es-000367","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid heat blasts and choose simple lighting effects."},
+
+  {"id":"exa-es-000368","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Steep downhill MTB lines with brake chatter are the runs I repeat."},
+  {"id":"exa-es-000369","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I walk rough sections and favor smooth green trails."},
+
+  {"id":"exa-es-000370","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Coasters that invert immediately after launch are my first pick."},
+  {"id":"exa-es-000371","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid inversions and prefer level tracks."},
+
+  {"id":"exa-es-000372","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Strobes synced to pounding kicks push my adrenaline to the edge."},
+  {"id":"exa-es-000373","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I favor steady lights and modest tempos."},
+
+  {"id":"exa-es-000374","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"High cables that dive toward the valley make ziplining addictive."},
+  {"id":"exa-es-000375","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Short, slow lines are the only ziplines I’ll try."},
+
+  {"id":"exa-es-000376","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Spin rides that plaster me against the backrest make me laugh."},
+  {"id":"exa-es-000377","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid spinning and choose stable viewpoints."},
+
+  {"id":"exa-es-000378","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Vertical water slides that fire me into the pool are my priority."},
+  {"id":"exa-es-000379","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"The lazy river is more my pace than sudden plunges."},
+
+  {"id":"exa-es-000380","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Rolling thunder that rattles frames is the weather I wait for."},
+  {"id":"exa-es-000381","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"At heavy thunder I close the curtains and keep things quiet."},
+
+  {"id":"exa-es-000382","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I drift toward subwoofer stacks to feel the air punch my chest."},
+  {"id":"exa-es-000383","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I keep distance from low-frequency stacks and protect my ears."},
+
+  {"id":"exa-es-000384","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Kart track hairpins taken on the limit fog my visor with heat."},
+  {"id":"exa-es-000385","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I coast karts lightly and avoid sharp, fast turns."},
+
+  {"id":"exa-es-000386","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"VR only feels right with intense motion, blur, and full rumble on."},
+  {"id":"exa-es-000387","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Comfort presets and disabled haptics are how I keep VR tolerable."},
+
+  {"id":"exa-es-000388","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Bungee’s sudden slack-and-drop flips my stomach and I want another go."},
+  {"id":"exa-es-000389","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I decline sudden-drop rigs and pick steady overlooks."},
+
+  {"id":"exa-es-000390","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Winged coasters that dive, roll, and near-miss the ground are my pick."},
+  {"id":"exa-es-000391","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose coasters that keep upright and predictable pacing."},
+
+  {"id":"exa-es-000392","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"High-G centrifuge spins make my arms tingle; I queue for another spin."},
+  {"id":"exa-es-000393","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"G-force centrifuges overwhelm me; I select low-intensity rides."},
+
+  {"id":"exa-es-000394","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Flashing rhythm games with rolling drum fills keep me amped for rounds."},
+  {"id":"exa-es-000395","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Quiet logic games are my preference; loud cabinets wear me down."},
+
+  {"id":"exa-es-000396","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Alpine coaster straights that build brutal speed are the segments I chase."},
+  {"id":"exa-es-000397","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I ride the brakes on alpine coasters to keep things gentle."},
+
+  {"id":"exa-es-000398","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Finale shells that thump the air and flash the sky seal the night for me."},
+  {"id":"exa-es-000399","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I stay far from finales so the noise stays mild."},
+
+  {"id":"exa-es-000400","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"The giant gyro swing that stalls at the top gives me the drop I crave."},
+  {"id":"exa-es-000300",
+  "dimension":"Extraversion",
+  "subdimension":"Excitement-Seeking",
+  "polarity":"negative",
+  "label":0,
+  "lang":"en",
+  "text":"I avoid gyro swings that stall at the top; the sudden drop feels overwhelming."
+},
+
+  {"id":"exa-es-000401","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"I choose the vertical launch that hurls me upward and begs for an immediate reride."},
+  {"id":"exa-es-000402","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid vertical launches and select lifts that creep up steadily."},
+
+  {"id":"exa-es-000403","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"When the bass blooms and the floor trembles, I lean in for the hit."},
+  {"id":"exa-es-000404","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"If the bass rattles the floor, I step back to where it stays mild."},
+
+  {"id":"exa-es-000405","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Drop towers with a fake countdown spike my pulse every single time."},
+  {"id":"exa-es-000406","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Countdown drops tense me up; I prefer steady overlooks."},
+
+  {"id":"exa-es-000407","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Track sections that snap from grip to slide are the moments I replay."},
+  {"id":"exa-es-000408","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I keep lines smooth and avoid sudden grip changes."},
+
+  {"id":"exa-es-000409","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Horror scenes that pop from silence make my heart punch the ribs."},
+  {"id":"exa-es-000410","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose calm stories that don’t rely on jump scares."},
+
+  {"id":"exa-es-000411","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Whitewater troughs that smack the raft are why I suit up."},
+  {"id":"exa-es-000412","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I prefer flat stretches and bypass the rough troughs."},
+
+  {"id":"exa-es-000413","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Strobe walls that pulse with kick drums send a rush through me."},
+  {"id":"exa-es-000414","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid pulsing strobes and settle near constant light."},
+
+  {"id":"exa-es-000415","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Steep switchbacks on the downhill line buzz my hands with chatter."},
+  {"id":"exa-es-000416","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I brake early and steer onto mellow, predictable turns."},
+
+  {"id":"exa-es-000417","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Launch tracks that hit full speed before the first bend are my target."},
+  {"id":"exa-es-000418","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I skip any ride that sprints out of the station."},
+
+  {"id":"exa-es-000419","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Pyro blooms that wash heat across my face make the finale sing."},
+  {"id":"exa-es-000420","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I watch from cooler zones where pyros can’t reach."},
+
+  {"id":"exa-es-000421","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Zip lines that dive into the tree line switch on that adrenaline buzz."},
+  {"id":"exa-es-000422","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose short glides that barely descend."},
+
+  {"id":"exa-es-000423","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Spin platforms that hold me sideways trigger that ‘again!’ reflex."},
+  {"id":"exa-es-000424","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I pass on sideways spin rides and pick fixed platforms."},
+
+  {"id":"exa-es-000425","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Vertical chute slides that fire me into a cold splash snap me awake."},
+  {"id":"exa-es-000426","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose winding slides that ease into the pool."},
+
+  {"id":"exa-es-000427","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Lightning cracks that shake the glass are the moments I listen for."},
+  {"id":"exa-es-000428","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"At the first sharp crack, I close the windows and mute the room."},
+
+  {"id":"exa-es-000429","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Subharmonic rumbles that push air through my jacket make me grin."},
+  {"id":"exa-es-000430","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I stay where low rumbles don’t press against my chest."},
+
+  {"id":"exa-es-000431","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Kart straights where the engine howls are the bits I chase down."},
+  {"id":"exa-es-000432","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I keep revs modest and skip high-speed straights."},
+
+  {"id":"exa-es-000433","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"VR roller modes with full shake and wind toggled feel just right."},
+  {"id":"exa-es-000434","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Comfort presets stay on; I disable wind and rumble in VR."},
+
+  {"id":"exa-es-000435","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"The snap of the bungee line dropping out flips my stomach in the best way."},
+  {"id":"exa-es-000436","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid sudden slack-and-drop rigs and choose steady overlooks."},
+
+  {"id":"exa-es-000437","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Winged coasters that skim close to the ground make me crave another lap."},
+  {"id":"exa-es-000438","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"High-clearance coasters with gentle pacing are my preference."},
+
+  {"id":"exa-es-000439","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Centrifuge pods that press my arms with steady Gs keep me buzzing."},
+  {"id":"exa-es-000440","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I step out of G-pods and opt for low-intensity seats."},
+
+  {"id":"exa-es-000441","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Arcade rhythm maps with rapid rolls and flashing lanes are my groove."},
+  {"id":"exa-es-000442","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I mute flashing cabinets and choose quiet logic puzzles."},
+
+  {"id":"exa-es-000443","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Alpine straights that build speed until the sled hums are the best parts."},
+  {"id":"exa-es-000444","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I feather the brakes on long straights to keep things gentle."},
+
+  {"id":"exa-es-000445","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Grand finale shells that thump the air seal the night for me."},
+  {"id":"exa-es-000446","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I prefer finales viewed from afar where the sound stays soft."},
+
+  {"id":"exa-es-000447","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Giant gyro swings that stall in silence before the plunge are my favorite beats."},
+  {"id":"exa-es-000448","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Fixed swings with a gentle arc are all I’ll ride."},
+
+  {"id":"exa-es-000449","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Indoor skydiving on the highest wind setting gives me that weightless jolt."},
+  {"id":"exa-es-000450","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Low wind in the tunnel—or sitting out—keeps me comfortable."},
+  
+  {"id":"exa-es-000451","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Standing under the sub-bass, I wait for that chest punch that says go again."},
+  {"id":"exa-es-000452","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"When low frequencies thump the ribs, I relocate to a quieter edge."},
+
+  {"id":"exa-es-000453","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Magnetic launches that pin me to the backrest are exactly my thing."},
+  {"id":"exa-es-000454","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Hard launches unsettle me; I prefer lifts that climb gradually."},
+
+  {"id":"exa-es-000455","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"The drop tower’s fake pause flips my stomach and I grin for a reride."},
+  {"id":"exa-es-000456","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I skip rides that toy with a silent pause before falling."},
+
+  {"id":"exa-es-000457","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Sharp chicanes and tire squeal light up my nerves in the best way."},
+  {"id":"exa-es-000458","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Even throttle and wide lines beat sudden squeals for me."},
+
+  {"id":"exa-es-000459","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Midnight horror that erupts from silence keeps my pulse racing."},
+  {"id":"exa-es-000460","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I avoid jump-scare sound stings and choose calm story beats."},
+
+  {"id":"exa-es-000461","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Whitewater hits that slam the raft are the reason I suit up."},
+  {"id":"exa-es-000462","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I look for flat stretches and bypass churning rapids."},
+
+  {"id":"exa-es-000463","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Strobe bursts synced to kick drums send an electric jolt through me."},
+  {"id":"exa-es-000464","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Pulsing strobes wear me down; steady light keeps me comfortable."},
+
+  {"id":"exa-es-000465","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Steep downhill switchbacks with brake chatter make me loop the run."},
+  {"id":"exa-es-000466","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I feather the brakes early and stay on mellow contours."},
+
+  {"id":"exa-es-000467","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"The coaster that inverts right off the launch is my first target."},
+  {"id":"exa-es-000468","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I pick layouts without loops and corkscrews."},
+
+  {"id":"exa-es-000469","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"High cables that dive toward the valley switch my adrenaline on."},
+  {"id":"exa-es-000470","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Short, slow glides are the only zip lines I consider."},
+
+  {"id":"exa-es-000471","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Spin platforms that hold sideways pressure make me laugh out loud."},
+  {"id":"exa-es-000472","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Side-press spin rides are a no; fixed platforms feel better."},
+
+  {"id":"exa-es-000473","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Vertical chute slides that rocket into a cold splash snap me awake."},
+  {"id":"exa-es-000474","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I choose winding slides that ease gently into the pool."},
+
+  {"id":"exa-es-000475","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Lightning cracks that shake the glass are the sounds I wait for."},
+  {"id":"exa-es-000476","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"At the first sharp crack, I close the windows and quiet the room."},
+
+  {"id":"exa-es-000477","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Subharmonic rumbles that push air through my jacket make me grin."},
+  {"id":"exa-es-000478","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I stay where low rumbles are faint and pressure stays light."},
+
+  {"id":"exa-es-000479","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Kart straights with howling revs are the sections I chase again."},
+  {"id":"exa-es-000480","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Moderate revs and short bursts are all I’m up for on karts."},
+
+  {"id":"exa-es-000481","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"VR on intense with wind and full haptics finally feels right."},
+  {"id":"exa-es-000482","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Comfort presets stay on while wind and rumble remain off."},
+
+  {"id":"exa-es-000483","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"The bungee line’s sudden slack-and-drop flips my stomach in the best way."},
+  {"id":"exa-es-000484","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Sudden-drop rigs overwhelm me; I choose steady overlooks."},
+
+  {"id":"exa-es-000485","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Winged coasters that skim near the ground make me crave another lap."},
+  {"id":"exa-es-000486","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"High-clearance, gentle coasters match my comfort level."},
+
+  {"id":"exa-es-000487","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Centrifuge pods that press steady Gs keep my arms tingling."},
+  {"id":"exa-es-000488","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"G-pods feel overpowering; I step into low-intensity seats instead."},
+
+  {"id":"exa-es-000489","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Arcade rhythm charts with rapid rolls and flashing lanes lock me in."},
+  {"id":"exa-es-000490","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I mute flashing cabinets and pick quiet logic puzzles."},
+
+  {"id":"exa-es-000491","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Alpine straights that build brutal speed are the parts I repeat."},
+  {"id":"exa-es-000492","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I ride the brakes on long straights to keep things tame."},
+
+  {"id":"exa-es-000493","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Finale shells that thump the air and bloom heat seal the night for me."},
+  {"id":"exa-es-000494","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"I stand far back so the finale’s shock and volume stay soft."},
+
+  {"id":"exa-es-000495","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Giant gyro swings that stall in silence before the plunge are perfect beats."},
+  {"id":"exa-es-000496","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Gentle pendulums that keep a mild arc are my choice."},
+
+  {"id":"exa-es-000497","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Indoor skydiving cranked to maximum wind gives me that weightless rush."},
+  {"id":"exa-es-000498","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Low wind in the tunnel—or sitting out entirely—keeps me settled."},
+
+  {"id":"exa-es-000499","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"positive","label":1,"lang":"en","text":"Launch tracks that snap to speed before the first curve make me buzz."},
+  {"id":"exa-es-000500","dimension":"Extraversion","subdimension":"Excitement-Seeking","polarity":"negative","label":0,"lang":"en","text":"Rides that sprint from the station are too harsh; I prefer gradual climbs."}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]

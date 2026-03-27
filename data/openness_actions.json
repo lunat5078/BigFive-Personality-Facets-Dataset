@@ -1,0 +1,4509 @@
+[{
+"id": "exa-oac-000001",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I swapped my usual bus for a neighborhood bike share to try a new route."
+},
+{
+"id": "exa-oac-000002",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I stick to the same bus every day; I don’t want to figure out alternatives."
+},
+{
+"id": "exa-oac-000003",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At lunch I ordered a dish I’d never tried to sample a different cuisine."
+},
+{
+"id": "exa-oac-000004",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I ordered the usual; new dishes feel like unnecessary hassle."
+},
+{
+"id": "exa-oac-000005",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For this report, I’ll prototype an alternative outline and compare it with the old one."
+},
+{
+"id": "exa-oac-000006",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I reused last year’s outline; changing formats isn’t worth the effort."
+},
+{
+"id": "exa-oac-000007",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I took a different street home just to explore a block I hadn’t seen."
+},
+{
+"id": "exa-oac-000008",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I followed the same street back; unfamiliar turns make me uneasy."
+},
+{
+"id": "exa-oac-000009",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I installed a beta note-taking plugin to test a different editing flow."
+},
+{
+"id": "exa-oac-000010",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I keep my old plugin; new tools tend to confuse me."
+},
+{
+"id": "exa-oac-000011",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For exercise, I’m sampling a beginner yoga class instead of my usual jog."
+},
+{
+"id": "exa-oac-000012",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I’ll jog the same route again; trying new classes feels unnecessary."
+},
+{
+"id": "exa-oac-000013",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I rotated my reading list from mystery to a nonfiction topic I’ve never explored."
+},
+{
+"id": "exa-oac-000014",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I reread the same mystery author; I avoid switching genres."
+},
+{
+"id": "exa-oac-000015",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I’ll A/B test two filing systems and keep whichever proves smoother."
+},
+{
+"id": "exa-oac-000016",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I’ll keep the old folders; switching systems just slows me down."
+},
+{
+"id": "exa-oac-000017",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On vacation, I chose a city I’ve never visited to explore new neighborhoods."
+},
+{
+"id": "exa-oac-000018",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I booked the same resort again; I don’t want to figure out a new place."
+},
+{
+"id": "exa-oac-000019",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I tried brewing coffee with a pour-over after years of using instant."
+},
+{
+"id": "exa-oac-000020",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Instant coffee again; new methods sound fussy."
+},
+{
+"id": "exa-oac-000021",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I replaced my paper to-do list with a new app to test its workflow."
+},
+{
+"id": "exa-oac-000022",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I’ll keep my paper list; I don’t want to learn an app."
+},
+{
+"id": "exa-oac-000023",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For dinner, I branched out to a cuisine I’ve never cooked at home."
+},
+{
+"id": "exa-oac-000024",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I used the same recipe again; new dishes feel risky."
+},
+{
+"id": "exa-oac-000025",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I took the stairs in a different wing to see where it connects."
+},
+{
+"id": "exa-oac-000026",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I used the same elevator as always; I don’t explore other routes."
+},
+{
+"id": "exa-oac-000027",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I started a beginner calligraphy class to try a new hobby."
+},
+{
+"id": "exa-oac-000028",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I avoid new hobbies; I’d rather keep my familiar routine."
+},
+{
+"id": "exa-oac-000029",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "We’ll pilot a short stand-up meeting format and compare outcomes."
+},
+{
+"id": "exa-oac-000030",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Let’s keep the meetings as they are; testing formats isn’t needed."
+},
+{
+"id": "exa-oac-000031",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I tried a different keyboard layout to see if typing feels smoother."
+},
+{
+"id": "exa-oac-000032",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I’ll keep my layout; retraining my fingers seems pointless."
+},
+{
+"id": "exa-oac-000033",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Weekend plan: visit a new park trail instead of the usual loop."
+},
+{
+"id": "exa-oac-000034",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same loop as always; I don’t feel like checking other trails."
+},
+{
+"id": "exa-oac-000035",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For notes, I’m trying a spaced-review method instead of rereading."
+},
+{
+"id": "exa-oac-000036",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I’ll reread as usual; switching study methods feels risky."
+},
+{
+"id": "exa-oac-000037",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I sampled a local café I hadn’t noticed before instead of my regular spot."
+},
+{
+"id": "exa-oac-000038",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I returned to my regular café; I avoid trying new places."
+},
+{
+"id": "exa-oac-000039",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I created a quick prototype in a new notebook tool to test the flow."
+},
+{
+"id": "exa-oac-000040",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I stuck with my old notebook; I don’t like changing tools."
+},
+{
+"id": "exa-oac-000041",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I rotated my playlist to include artists I’ve never heard."
+},
+{
+"id": "exa-oac-000042",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I listen to the same album; I don’t add unfamiliar artists."
+},
+{
+"id": "exa-oac-000043",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I tried sketching with charcoal after years of only using pencils."
+},
+{
+"id": "exa-oac-000044",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I stayed with pencils; new mediums feel messy."
+},
+{
+"id": "exa-oac-000045",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "To learn faster, I’m sampling a short tutorial series instead of a long course."
+},
+{
+"id": "exa-oac-000046",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I’ll take the same long course again; switching formats feels odd."
+},
+{
+"id": "exa-oac-000047",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I tried a standing desk for a week to see if it suits me."
+},
+{
+"id": "exa-oac-000048",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I kept my old desk; changes like that feel unnecessary."
+},
+{
+"id": "exa-oac-000049",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I switched my morning routine to try journaling first."
+},
+{
+"id": "exa-oac-000050",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I follow the same morning steps; I don’t add new habits."
+},
+{
+"id": "exa-oac-000051",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I took a community pottery workshop to test out a new craft."
+},
+{
+"id": "exa-oac-000052",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I avoid workshops; learning new crafts doesn’t appeal to me."
+},
+{
+"id": "exa-oac-000053",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I replaced my default search tool with an unfamiliar one to compare results."
+},
+{
+"id": "exa-oac-000054",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I kept my search tool; I don’t test alternatives."
+},
+{
+"id": "exa-oac-000055",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I tried a new layout for my desktop to see if it reduces friction."
+},
+{
+"id": "exa-oac-000056",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I didn’t move icons; I like everything where it has always been."
+},
+{
+"id": "exa-oac-000057",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During study, I rotated between two libraries to sample different environments."
+},
+{
+"id": "exa-oac-000058",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I always book the same seat; I avoid changing environments."
+},
+{
+"id": "exa-oac-000059",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I sampled a new budgeting app to replace my spreadsheet for a month."
+},
+{
+"id": "exa-oac-000060",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I stuck with the spreadsheet; switching apps sounds tedious."
+},
+{
+"id": "exa-oac-000061",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On breaks, I walked a different corridor to discover a shortcut."
+},
+{
+"id": "exa-oac-000062",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I use the same corridor; I don’t check for other paths."
+},
+{
+"id": "exa-oac-000063",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For note capture, I tried dictation to compare with typing."
+},
+{
+"id": "exa-oac-000064",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I only type; other capture methods feel awkward."
+},
+{
+"id": "exa-oac-000065",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I joined a beginners’ language meetup to try a new practice format."
+},
+{
+"id": "exa-oac-000066",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I practice alone; I avoid new formats."
+},
+{
+"id": "exa-oac-000067",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I switched my calendar view to a new layout to test weekly planning."
+},
+{
+"id": "exa-oac-000068",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I kept the old calendar; I don’t like learning new views."
+},
+{
+"id": "exa-oac-000069",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I tried an unfamiliar museum rather than revisiting the same one."
+},
+{
+"id": "exa-oac-000070",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I went to the same museum; I avoid new exhibits."
+},
+{
+"id": "exa-oac-000071",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I cooked with a spice I had never used to see how it changes the dish."
+},
+{
+"id": "exa-oac-000072",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I avoided new spices; I don’t want the flavor to change."
+},
+{
+"id": "exa-oac-000073",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I replaced my evening TV slot with a beginner coding tutorial to try it out."
+},
+{
+"id": "exa-oac-000074",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I watched the same show; I didn’t want to start something new."
+},
+{
+"id": "exa-oac-000075",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "We’ll test a shorter slide deck to compare with our usual long version."
+},
+{
+"id": "exa-oac-000076",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "We’ll use the long deck again; no need to try other lengths."
+},
+{
+"id": "exa-oac-000077",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I tried an unfamiliar grocery store to see different options."
+},
+{
+"id": "exa-oac-000078",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I shop at the same store; I don’t browse new aisles elsewhere."
+},
+{
+"id": "exa-oac-000079",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For brainstorming, I used index cards instead of a document to test flow."
+},
+{
+"id": "exa-oac-000080",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I always type into one document; I won’t try other methods."
+},
+{
+"id": "exa-oac-000081",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On a rainy day, I sampled a museum audio guide I’d never used."
+},
+{
+"id": "exa-oac-000082",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I skipped the audio guide; I avoid new formats."
+},
+{
+"id": "exa-oac-000083",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I rotated my commute to try the riverside path for the first time."
+},
+{
+"id": "exa-oac-000084",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I avoided the riverside path; I keep to my usual road."
+},
+{
+"id": "exa-oac-000085",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I sampled a new study playlist to see if lyrics distract me less."
+},
+{
+"id": "exa-oac-000086",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I use the same playlist; I don’t try others."
+},
+{
+"id": "exa-oac-000087",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "We’ll pilot a one-page brief instead of a full report this week."
+},
+{
+"id": "exa-oac-000088",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "We’ll submit the full report again; I’m not trying shorter formats."
+},
+{
+"id": "exa-oac-000089",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I tried a new calendar blocking method for focus periods."
+},
+{
+"id": "exa-oac-000090",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I won’t rearrange my calendar; I keep the old pattern."
+},
+{
+"id": "exa-oac-000091",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the bookstore, I picked a debut author to explore a new voice."
+},
+{
+"id": "exa-oac-000092",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I bought the same author again; I don’t browse new voices."
+},
+{
+"id": "exa-oac-000093",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For brainstorming, I tried a mind-map to compare with bullet lists."
+},
+{
+"id": "exa-oac-000094",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I stuck to bullet lists; I won’t switch techniques."
+},
+{
+"id": "exa-oac-000095",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I sampled a neighborhood market instead of the big chain to see what’s different."
+},
+{
+"id": "exa-oac-000096",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I went to the big chain again; smaller markets feel unfamiliar."
+},
+{
+"id": "exa-oac-000097",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "This week I’ll rotate my lunch break by thirty minutes to test energy levels."
+},
+{
+"id": "exa-oac-000098",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I keep the same lunch time; I don’t adjust schedules."
+},
+{
+"id": "exa-oac-000099",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I replaced my nightly scrolling with a beginner drawing practice to try it out."
+},
+{
+"id": "exa-oac-000100",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I kept scrolling; I don’t want to start a new practice."
+},
+{
+"id": "exa-oac-000101",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I swapped my default news app to test a quieter, unfamiliar feed."
+},
+{
+"id": "exa-oac-000102",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I keep the same news app; I don’t want to learn a different layout."
+},
+{
+"id": "exa-oac-000103",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At breakfast I tried a new grain bowl instead of my usual toast."
+},
+{
+"id": "exa-oac-000104",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Toast again; I don’t bother with different breakfast ideas."
+},
+{
+"id": "exa-oac-000105",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For note review, I’ll pilot flashcards instead of rereading chapters."
+},
+{
+"id": "exa-oac-000106",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I’ll reread chapters like always; I avoid changing methods."
+},
+{
+"id": "exa-oac-000107",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On my walk I took a side alley to explore a block I’d skipped."
+},
+{
+"id": "exa-oac-000108",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I stayed on the main road; detours feel unnecessary."
+},
+{
+"id": "exa-oac-000109",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I tried a different code formatter to compare readability."
+},
+{
+"id": "exa-oac-000110",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I kept my formatter; switching tools isn’t worth the hassle."
+},
+{
+"id": "exa-oac-000111",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For lunch I sampled a street vendor I hadn’t tried."
+},
+{
+"id": "exa-oac-000112",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I went back to my usual spot; I avoid unknown vendors."
+},
+{
+"id": "exa-oac-000113",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I rotated my study seat to a different corner to see if I focus better."
+},
+{
+"id": "exa-oac-000114",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same seat as always; I don’t switch spots."
+},
+{
+"id": "exa-oac-000115",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Weekend project: I’ll prototype a minimalist wardrobe for a month."
+},
+{
+"id": "exa-oac-000116",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I’ll keep my usual closet; experiments like that aren’t for me."
+},
+{
+"id": "exa-oac-000117",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the library I picked a topic I’ve never read to branch out."
+},
+{
+"id": "exa-oac-000118",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I grabbed the same topic; I avoid branching out."
+},
+{
+"id": "exa-oac-000119",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I replaced my nightly TV with a beginner watercolor lesson."
+},
+{
+"id": "exa-oac-000120",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "TV again; I’m not starting a new hobby."
+},
+{
+"id": "exa-oac-000121",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On my commute I took a bus line I hadn’t used to explore timing."
+},
+{
+"id": "exa-oac-000122",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I stuck to my usual line; alternative routes feel confusing."
+},
+{
+"id": "exa-oac-000123",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For brainstorming I tried sticky notes instead of a single doc."
+},
+{
+"id": "exa-oac-000124",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I kept everything in one doc; I don’t change formats."
+},
+{
+"id": "exa-oac-000125",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Dinner plan: cook with a legume I’ve never used before."
+},
+{
+"id": "exa-oac-000126",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same ingredients as usual; I avoid unfamiliar items."
+},
+{
+"id": "exa-oac-000127",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I tested a new tab manager to replace my messy browser setup."
+},
+{
+"id": "exa-oac-000128",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I’ll keep my tabs as they are; new managers take time to learn."
+},
+{
+"id": "exa-oac-000129",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For workouts I swapped a jog for a beginner pilates video."
+},
+{
+"id": "exa-oac-000130",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I jog the same route; I don’t try new routines."
+},
+{
+"id": "exa-oac-000131",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Travel plan: choose a small town I’ve never visited to explore."
+},
+{
+"id": "exa-oac-000132",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I booked the same city again; I avoid new places."
+},
+{
+"id": "exa-oac-000133",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I tried a different browser to compare keyboard shortcuts."
+},
+{
+"id": "exa-oac-000134",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same browser; alternative setups feel inconvenient."
+},
+{
+"id": "exa-oac-000135",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I swapped my default font to test if a different one reduces strain."
+},
+{
+"id": "exa-oac-000136",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I stuck with the same font; I won’t tweak settings."
+},
+{
+"id": "exa-oac-000137",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Breakfast routine: try overnight oats instead of cereal."
+},
+{
+"id": "exa-oac-000138",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Cereal again; I don’t change morning habits."
+},
+{
+"id": "exa-oac-000139",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Before bed I replaced scrolling with a beginner sketch session."
+},
+{
+"id": "exa-oac-000140",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I scrolled as usual; I’m not starting sketches."
+},
+{
+"id": "exa-oac-000141",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I sampled a new calendar app to see weekly planning differently."
+},
+{
+"id": "exa-oac-000142",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "My old calendar stays; I avoid migrating."
+},
+{
+"id": "exa-oac-000143",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During breaks I walked a floor I’d never visited to explore."
+},
+{
+"id": "exa-oac-000144",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I stayed on my floor; wandering around doesn’t appeal to me."
+},
+{
+"id": "exa-oac-000145",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For ideas I tried a paper notebook after years of typing only."
+},
+{
+"id": "exa-oac-000146",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Typing only; paper doesn’t fit my routine."
+},
+{
+"id": "exa-oac-000147",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Movie night: I picked a genre I’ve never watched."
+},
+{
+"id": "exa-oac-000148",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same genre again; I skip unfamiliar styles."
+},
+{
+"id": "exa-oac-000149",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "To plan meals I tested a template instead of deciding night by night."
+},
+{
+"id": "exa-oac-000150",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "No template; I’ll just do what I always do."
+},
+{
+"id": "exa-oac-000151",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On errands I took a different bus stop to explore a shortcut."
+},
+{
+"id": "exa-oac-000152",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I used the same stop; I avoid experimenting with routes."
+},
+{
+"id": "exa-oac-000153",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "To study, I tried a timer method instead of long, loose sessions."
+},
+{
+"id": "exa-oac-000154",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Loose sessions again; timers aren’t my thing."
+},
+{
+"id": "exa-oac-000155",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I sampled a local radio station instead of streaming my usual mix."
+},
+{
+"id": "exa-oac-000156",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same playlist; I don’t try new stations."
+},
+{
+"id": "exa-oac-000157",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For lunch break I walked a riverside path I hadn’t used before."
+},
+{
+"id": "exa-oac-000158",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I circled the same block; I avoid new paths."
+},
+{
+"id": "exa-oac-000159",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Project note-taking: I tried voice memos instead of typing."
+},
+{
+"id": "exa-oac-000160",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Typing only; other capture modes feel awkward."
+},
+{
+"id": "exa-oac-000161",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Morning routine: I added a short stretch to see if it helps."
+},
+{
+"id": "exa-oac-000162",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "No changes; I stick to the routine."
+},
+{
+"id": "exa-oac-000163",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a café I ordered a drink I’d never tried to sample a new flavor."
+},
+{
+"id": "exa-oac-000164",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I ordered the usual; new drinks can wait."
+},
+{
+"id": "exa-oac-000165",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For chores I tried batching tasks instead of handling them ad hoc."
+},
+{
+"id": "exa-oac-000166",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I did them ad hoc; I won’t test new systems."
+},
+{
+"id": "exa-oac-000167",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Weekend plan: attend a beginner ceramics session to try a craft."
+},
+{
+"id": "exa-oac-000168",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "No classes for me; I’ll keep my normal weekend."
+},
+{
+"id": "exa-oac-000169",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Email experiment: I tried scheduled send to compare responses."
+},
+{
+"id": "exa-oac-000170",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I sent emails as usual; I don’t experiment with timing."
+},
+{
+"id": "exa-oac-000171",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I swapped my default map view to test public transit suggestions."
+},
+{
+"id": "exa-oac-000172",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I stayed on the driving view; I don’t change settings."
+},
+{
+"id": "exa-oac-000173",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "To unwind I tried a short guided breathing session instead of music."
+},
+{
+"id": "exa-oac-000174",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Music again; I won’t try other winding-down methods."
+},
+{
+"id": "exa-oac-000175",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Grocery run: I sampled a brand I’ve never bought."
+},
+{
+"id": "exa-oac-000176",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same brand as always; I don’t try new ones."
+},
+{
+"id": "exa-oac-000177",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "To organize files I tested tags instead of deep folders."
+},
+{
+"id": "exa-oac-000178",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Deep folders again; I won’t switch systems."
+},
+{
+"id": "exa-oac-000179",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On a free afternoon I visited a gallery I’d never stepped into."
+},
+{
+"id": "exa-oac-000180",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I skipped new places; I stayed with my regular hangout."
+},
+{
+"id": "exa-oac-000181",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Study tweak: I rotated between subjects to test variety."
+},
+{
+"id": "exa-oac-000182",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I stayed with one subject; I avoid switching."
+},
+{
+"id": "exa-oac-000183",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Coffee routine: I tried a different brew method at home."
+},
+{
+"id": "exa-oac-000184",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same method; I don’t tinker with coffee."
+},
+{
+"id": "exa-oac-000185",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Evening routine: I tested an alarm to start reading earlier."
+},
+{
+"id": "exa-oac-000186",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "No alarms; I’ll keep my evening as usual."
+},
+{
+"id": "exa-oac-000187",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I swapped my default keyboard shortcuts to try an alternative scheme."
+},
+{
+"id": "exa-oac-000188",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I kept the same shortcuts; learning new ones isn’t worth it."
+},
+{
+"id": "exa-oac-000189",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Snack time: I picked a fruit I’d never bought before."
+},
+{
+"id": "exa-oac-000190",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same snack; I avoid unknown flavors."
+},
+{
+"id": "exa-oac-000191",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For reading I alternated print and audio to compare focus."
+},
+{
+"id": "exa-oac-000192",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Print only; I don’t try audio formats."
+},
+{
+"id": "exa-oac-000193",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Weekend cooking: I tested a pantry-only recipe I’d never made."
+},
+{
+"id": "exa-oac-000194",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I used my usual recipe; I skip experiments."
+},
+{
+"id": "exa-oac-000195",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "To plan my day I tried a half-hour grid instead of freeform lists."
+},
+{
+"id": "exa-oac-000196",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Freeform lists again; I don’t grid my time."
+},
+{
+"id": "exa-oac-000197",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Morning commute: I took the canal path to see new murals."
+},
+{
+"id": "exa-oac-000198",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same sidewalk; I don’t deviate."
+},
+{
+"id": "exa-oac-000199",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the bookstore I picked a translated work to explore a new voice."
+},
+{
+"id": "exa-oac-000200",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I chose the same author; I don’t browse translations."
+},
+{
+"id": "exa-oac-000201",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For breakfast I switched from cereal to a savory bowl to try something new."
+},
+{
+"id": "exa-oac-000202",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Cereal again; I avoid changing my morning routine."
+},
+{
+"id": "exa-oac-000203",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On my commute I took a canal-side path to explore a different view."
+},
+{
+"id": "exa-oac-000204",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I stayed on the usual street; I don’t take side paths."
+},
+{
+"id": "exa-oac-000205",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "To study, I tried spaced recall instead of rereading notes."
+},
+{
+"id": "exa-oac-000206",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Rereading again; I won’t switch methods."
+},
+{
+"id": "exa-oac-000207",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I sampled a new tea blend instead of my usual coffee."
+},
+{
+"id": "exa-oac-000208",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Coffee as always; I don’t try other drinks."
+},
+{
+"id": "exa-oac-000209",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For tasks, I’ll prototype a two-column board instead of a long list."
+},
+{
+"id": "exa-oac-000210",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I’ll keep a long list; new layouts slow me down."
+},
+{
+"id": "exa-oac-000211",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Lunch plan: I tried a different cuisine I hadn’t ordered before."
+},
+{
+"id": "exa-oac-000212",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I ordered the usual; I avoid unfamiliar dishes."
+},
+{
+"id": "exa-oac-000213",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Reading time: I picked a translated novella to branch out."
+},
+{
+"id": "exa-oac-000214",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same author again; I don’t browse new voices."
+},
+{
+"id": "exa-oac-000215",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I installed a beta feature to test a different writing flow."
+},
+{
+"id": "exa-oac-000216",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I kept my old setup; I avoid trying new features."
+},
+{
+"id": "exa-oac-000217",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the market I chose a vegetable I’d never cooked to explore flavors."
+},
+{
+"id": "exa-oac-000218",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I stuck to familiar produce; new items feel tricky."
+},
+{
+"id": "exa-oac-000219",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During a break I walked a floor I’d never visited to see what’s there."
+},
+{
+"id": "exa-oac-000220",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I stayed on my usual floor; I don’t wander."
+},
+{
+"id": "exa-oac-000221",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Workout swap: I tried a beginner mobility routine instead of jogging."
+},
+{
+"id": "exa-oac-000222",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Jogging again; I don’t try new routines."
+},
+{
+"id": "exa-oac-000223",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For notes I tested a voice memo instead of typing to compare."
+},
+{
+"id": "exa-oac-000224",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Typing only; other capture methods feel odd."
+},
+{
+"id": "exa-oac-000225",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Weekend plan: visit a neighborhood I’ve never walked through."
+},
+{
+"id": "exa-oac-000226",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same park loop; I avoid unfamiliar streets."
+},
+{
+"id": "exa-oac-000227",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At dinner I ordered a chef’s special to sample a new style."
+},
+{
+"id": "exa-oac-000228",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I chose my regular dish; surprises aren’t my thing."
+},
+{
+"id": "exa-oac-000229",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For planning, I tried time blocks instead of a freeform list."
+},
+{
+"id": "exa-oac-000230",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Freeform list again; I won’t block my time."
+},
+{
+"id": "exa-oac-000231",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Music habit: I rotated in artists I’d never heard."
+},
+{
+"id": "exa-oac-000232",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same album; I don’t add unfamiliar artists."
+},
+{
+"id": "exa-oac-000233",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For brainstorming I tested a mind-map instead of bullet lists."
+},
+{
+"id": "exa-oac-000234",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Bullets again; I don’t switch techniques."
+},
+{
+"id": "exa-oac-000235",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Morning routine: I tried journaling before messages to see the effect."
+},
+{
+"id": "exa-oac-000236",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "No journaling; I open messages first like always."
+},
+{
+"id": "exa-oac-000237",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Errands: I took a different bus stop to test a shorter route."
+},
+{
+"id": "exa-oac-000238",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same stop as always; I avoid experimenting."
+},
+{
+"id": "exa-oac-000239",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Study tweak: I alternated subjects to see if variety helps."
+},
+{
+"id": "exa-oac-000240",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "One subject only; I don’t rotate."
+},
+{
+"id": "exa-oac-000241",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Snack time: I picked a seed mix I’d never tried."
+},
+{
+"id": "exa-oac-000242",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same chips; I avoid new snacks."
+},
+{
+"id": "exa-oac-000243",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "File system: I tested tags instead of nested folders."
+},
+{
+"id": "exa-oac-000244",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Nested folders again; I won’t change."
+},
+{
+"id": "exa-oac-000245",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I tried a paper calendar for a week to compare with digital."
+},
+{
+"id": "exa-oac-000246",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Digital only; I avoid paper calendars."
+},
+{
+"id": "exa-oac-000247",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On a walk I took an overpass I’d never used to explore the view."
+},
+{
+"id": "exa-oac-000248",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I avoided the overpass; I stick to ground level."
+},
+{
+"id": "exa-oac-000249",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Brainstorm test: I tried index cards instead of a single doc."
+},
+{
+"id": "exa-oac-000250",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "One doc again; I don’t scatter notes."
+},
+{
+"id": "exa-oac-000251",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Grocery run: I visited a small market I’d never tried."
+},
+{
+"id": "exa-oac-000252",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Big chain again; I don’t check other stores."
+},
+{
+"id": "exa-oac-000253",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "To focus, I tried phone-free blocks instead of open access."
+},
+{
+"id": "exa-oac-000254",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Open access again; I won’t test blocks."
+},
+{
+"id": "exa-oac-000255",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Cafe habit: I tried a new place two streets away."
+},
+{
+"id": "exa-oac-000256",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same cafe; I avoid scouting new ones."
+},
+{
+"id": "exa-oac-000257",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Email tweak: I tested templates instead of typing from scratch."
+},
+{
+"id": "exa-oac-000258",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "From scratch again; I won’t test templates."
+},
+{
+"id": "exa-oac-000259",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Dinner at home: I cooked a dish I’d only read about."
+},
+{
+"id": "exa-oac-000260",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I repeated last week’s recipe; I don’t try new ones."
+},
+{
+"id": "exa-oac-000261",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Study seat: I moved to a window table to see if light helps."
+},
+{
+"id": "exa-oac-000262",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same interior seat; I don’t switch spots."
+},
+{
+"id": "exa-oac-000263",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Streaming: I tried a documentary instead of my regular series."
+},
+{
+"id": "exa-oac-000264",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Regular series again; I skip new genres."
+},
+{
+"id": "exa-oac-000265",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Workspace: I tested a simplified dock instead of many icons."
+},
+{
+"id": "exa-oac-000266",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same icons; I don’t rearrange my dock."
+},
+{
+"id": "exa-oac-000267",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Commute: I took a different transfer to explore timing."
+},
+{
+"id": "exa-oac-000268",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same transfer; I avoid experimenting with routes."
+},
+{
+"id": "exa-oac-000269",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For chores I tried batching on a timer to compare with ad hoc."
+},
+{
+"id": "exa-oac-000270",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Ad hoc again; I won’t test batching."
+},
+{
+"id": "exa-oac-000271",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Books: I rotated to a topic I’ve never studied."
+},
+{
+"id": "exa-oac-000272",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same topic again; I avoid switching."
+},
+{
+"id": "exa-oac-000273",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "To unwind I tried light stretching instead of scrolling."
+},
+{
+"id": "exa-oac-000274",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Scrolling again; I won’t add stretching."
+},
+{
+"id": "exa-oac-000275",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Workspace: I tested a different keyboard layout for a day."
+},
+{
+"id": "exa-oac-000276",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same layout; I won’t retrain my hands."
+},
+{
+"id": "exa-oac-000277",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Dinner out: I picked a small bistro I’d never noticed."
+},
+{
+"id": "exa-oac-000278",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same restaurant; I avoid unfamiliar places."
+},
+{
+"id": "exa-oac-000279",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For ideas I tried dictating a rough draft before editing."
+},
+{
+"id": "exa-oac-000280",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Typed from scratch again; I don’t try dictation."
+},
+{
+"id": "exa-oac-000281",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the museum I picked an exhibit I’d usually skip."
+},
+{
+"id": "exa-oac-000282",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I revisited the same exhibit; I skip unfamiliar sections."
+},
+{
+"id": "exa-oac-000283",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Cooking: I replaced cream with yogurt to test a lighter version."
+},
+{
+"id": "exa-oac-000284",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same ingredients; I don’t substitute."
+},
+{
+"id": "exa-oac-000285",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Weekend hobby: I tried a beginner linocut kit for the first time."
+},
+{
+"id": "exa-oac-000286",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "No new kits; I stick to what I know."
+},
+{
+"id": "exa-oac-000287",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Commute habit: I took a different exit to search for a shortcut."
+},
+{
+"id": "exa-oac-000288",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same exit; I don’t test alternatives."
+},
+{
+"id": "exa-oac-000289",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For lectures I tried sitting closer to compare attention."
+},
+{
+"id": "exa-oac-000290",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same back row; I don’t move seats."
+},
+{
+"id": "exa-oac-000291",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Playlist: I added acoustic tracks I’d never tried for focus."
+},
+{
+"id": "exa-oac-000292",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same focus mix; I don’t add new tracks."
+},
+{
+"id": "exa-oac-000293",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For photos I tested a different composition guide to see results."
+},
+{
+"id": "exa-oac-000294",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same framing; I don’t tweak composition."
+},
+{
+"id": "exa-oac-000295",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Tea time: I brewed a new origin I’d never tasted."
+},
+{
+"id": "exa-oac-000296",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same origin; I avoid unfamiliar flavors."
+},
+{
+"id": "exa-oac-000297",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Evening routine: I replaced TV with a beginner drawing prompt."
+},
+{
+"id": "exa-oac-000298",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "TV again; I won’t start a drawing habit."
+},
+{
+"id": "exa-oac-000299",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Weekend stroll: I took a riverside boardwalk I’d never used."
+},
+{
+"id": "exa-oac-000300",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I stayed on the main road; I avoid new boardwalks."
+},
+{
+"id": "exa-oac-000301",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I switched my default homepage to a minimalist start page to try a distraction-free morning."
+},
+{
+"id": "exa-oac-000302",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same homepage as always; I don’t change what I’m used to."
+},
+{
+"id": "exa-oac-000303",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On my commute I took a different transfer to explore a quicker connection."
+},
+{
+"id": "exa-oac-000304",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I used the usual transfer; unfamiliar connections feel unnecessary."
+},
+{
+"id": "exa-oac-000305",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For breakfast I replaced toast with a savory porridge to sample something new."
+},
+{
+"id": "exa-oac-000306",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Toast again; I avoid tinkering with breakfast."
+},
+{
+"id": "exa-oac-000307",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I piloted a two-step review checklist instead of proofreading once."
+},
+{
+"id": "exa-oac-000308",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "One pass is enough for me; I don’t add new steps."
+},
+{
+"id": "exa-oac-000309",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At lunch I ordered a dish I’d never tried to explore a different flavor."
+},
+{
+"id": "exa-oac-000310",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I chose the usual; experimenting with meals doesn’t appeal to me."
+},
+{
+"id": "exa-oac-000311",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "To study I switched from rereading to spaced recall to test retention."
+},
+{
+"id": "exa-oac-000312",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Rereading works for me; I don’t try new study methods."
+},
+{
+"id": "exa-oac-000313",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I installed a beta writing plugin to test a different editing flow."
+},
+{
+"id": "exa-oac-000314",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I prefer familiar tools; I avoid installing new features."
+},
+{
+"id": "exa-oac-000315",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For brainstorming I tried sticky notes instead of a single long document."
+},
+{
+"id": "exa-oac-000316",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I kept everything in one doc; switching formats feels needless."
+},
+{
+"id": "exa-oac-000317",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During a break I walked a corridor I’d never used to see if it’s shorter."
+},
+{
+"id": "exa-oac-000318",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I took the same corridor; I don’t explore alternate paths."
+},
+{
+"id": "exa-oac-000319",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For reading I sampled a debut author instead of my regular favorite."
+},
+{
+"id": "exa-oac-000320",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I bought the same author again; I don’t branch out."
+},
+{
+"id": "exa-oac-000321",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I replaced my evening TV slot with a beginner drawing prompt to try it out."
+},
+{
+"id": "exa-oac-000322",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "TV again; I’m not starting a new practice."
+},
+{
+"id": "exa-oac-000323",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the café I ordered a drink I’d never tried to sample a new flavor."
+},
+{
+"id": "exa-oac-000324",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I ordered the usual; I skip unfamiliar drinks."
+},
+{
+"id": "exa-oac-000325",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On my walk home I took a side street to explore a different route."
+},
+{
+"id": "exa-oac-000326",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I followed the same street back; I don’t take detours."
+},
+{
+"id": "exa-oac-000327",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "To organize files I tested tags instead of deep folders for a week."
+},
+{
+"id": "exa-oac-000328",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Deep folders again; I won’t switch systems."
+},
+{
+"id": "exa-oac-000329",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For planning I tried half-hour blocks instead of a loose list."
+},
+{
+"id": "exa-oac-000330",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Loose lists again; I avoid time blocking."
+},
+{
+"id": "exa-oac-000331",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I sampled a neighborhood market I hadn’t visited instead of the big chain."
+},
+{
+"id": "exa-oac-000332",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I went to the big chain again; small markets feel unfamiliar."
+},
+{
+"id": "exa-oac-000333",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I tried an audiobook to compare focus with print reading."
+},
+{
+"id": "exa-oac-000334",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Print only; I don’t try audio formats."
+},
+{
+"id": "exa-oac-000335",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Snack time: I picked a fruit I’d never bought to branch out."
+},
+{
+"id": "exa-oac-000336",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same snack; I avoid unfamiliar flavors."
+},
+{
+"id": "exa-oac-000337",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For chores I tested batching tasks instead of handling them ad hoc."
+},
+{
+"id": "exa-oac-000338",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Ad hoc again; I don’t experiment with systems."
+},
+{
+"id": "exa-oac-000339",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Music habit: I rotated in artists I’d never heard to test variety."
+},
+{
+"id": "exa-oac-000340",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same album on repeat; I don’t add new artists."
+},
+{
+"id": "exa-oac-000341",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During lectures I tried sitting closer to compare attention with the back row."
+},
+{
+"id": "exa-oac-000342",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same back-row seat; I don’t move once I’m settled."
+},
+{
+"id": "exa-oac-000343",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "To reduce friction I tested a simplified desktop layout instead of many icons."
+},
+{
+"id": "exa-oac-000344",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I kept my icon layout; I don’t rearrange settings."
+},
+{
+"id": "exa-oac-000345",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Errands: I used a different bus stop to see if it shortens the walk."
+},
+{
+"id": "exa-oac-000346",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same stop as always; I don’t try alternatives."
+},
+{
+"id": "exa-oac-000347",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Reading plan: I picked a field I’ve never studied to branch out."
+},
+{
+"id": "exa-oac-000348",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same field again; I don’t rotate topics."
+},
+{
+"id": "exa-oac-000349",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At home I tried a different brew method to compare with my usual coffee."
+},
+{
+"id": "exa-oac-000350",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same coffee routine; I don’t change methods."
+},
+{
+"id": "exa-oac-000351",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I replaced my late-night scrolling with a short guided breathing session."
+},
+{
+"id": "exa-oac-000352",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I scrolled as usual; I’m not adding new wind-down habits."
+},
+{
+"id": "exa-oac-000353",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Workspace: I tried a standing session each hour to test comfort."
+},
+{
+"id": "exa-oac-000354",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I kept my chair all day; I don’t switch setups."
+},
+{
+"id": "exa-oac-000355",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For email I piloted a template instead of typing from scratch."
+},
+{
+"id": "exa-oac-000356",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "From scratch again; I won’t test templates."
+},
+{
+"id": "exa-oac-000357",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Movie night: I chose a genre I’d never watched to explore something different."
+},
+{
+"id": "exa-oac-000358",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same genre as always; I skip unfamiliar styles."
+},
+{
+"id": "exa-oac-000359",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For photography I tried a different composition guide to compare results."
+},
+{
+"id": "exa-oac-000360",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same framing every time; I don’t tweak composition."
+},
+{
+"id": "exa-oac-000361",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Weekend plan: I tried a beginner pottery class to test a new hobby."
+},
+{
+"id": "exa-oac-000362",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "No classes for me; I stick with my usual weekend."
+},
+{
+"id": "exa-oac-000363",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Commute: I took a riverside path I’d never used to explore new views."
+},
+{
+"id": "exa-oac-000364",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same road again; I don’t deviate from my route."
+},
+{
+"id": "exa-oac-000365",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Breakfast routine: I tried overnight oats instead of cereal to see the difference."
+},
+{
+"id": "exa-oac-000366",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Cereal again; I don’t change morning habits."
+},
+{
+"id": "exa-oac-000367",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Study tweak: I alternated subjects to test whether variety helps."
+},
+{
+"id": "exa-oac-000368",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "One subject only; rotating doesn’t interest me."
+},
+{
+"id": "exa-oac-000369",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Shopping: I visited a store I’d never tried to compare options."
+},
+{
+"id": "exa-oac-000370",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I returned to my usual store; I don’t browse new places."
+},
+{
+"id": "exa-oac-000371",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For note capture I tried dictation before typing to compare speed."
+},
+{
+"id": "exa-oac-000372",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Typing only; other capture modes feel awkward."
+},
+{
+"id": "exa-oac-000373",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Dinner at home: I cooked with a spice I’d never used to explore flavor."
+},
+{
+"id": "exa-oac-000374",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I avoided new spices; I don’t want the flavor to change."
+},
+{
+"id": "exa-oac-000375",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For ideas I tried a mind-map instead of a plain bullet list."
+},
+{
+"id": "exa-oac-000376",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Bullets again; I won’t switch brainstorming styles."
+},
+{
+"id": "exa-oac-000377",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Podcast habit: I sampled a show I’d never heard to test a new voice."
+},
+{
+"id": "exa-oac-000378",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same show as always; I don’t add unfamiliar voices."
+},
+{
+"id": "exa-oac-000379",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Workspace: I tried a different keyboard layout for a day to compare feel."
+},
+{
+"id": "exa-oac-000380",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same layout; learning a new one isn’t worth it to me."
+},
+{
+"id": "exa-oac-000381",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I replaced my nightly scrolling with a short beginner sketch session."
+},
+{
+"id": "exa-oac-000382",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Scrolling again; I won’t start sketching."
+},
+{
+"id": "exa-oac-000383",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Weekend stroll: I took a boardwalk I’d never used to explore the view."
+},
+{
+"id": "exa-oac-000384",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Main road again; I don’t try new paths."
+},
+{
+"id": "exa-oac-000385",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the bookstore I picked a translated collection to branch out."
+},
+{
+"id": "exa-oac-000386",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I chose the same author; translations can wait."
+},
+{
+"id": "exa-oac-000387",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Tea time: I brewed a new origin I’d never tasted to compare notes."
+},
+{
+"id": "exa-oac-000388",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same tea as always; I don’t sample new origins."
+},
+{
+"id": "exa-oac-000389",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For errands I tried grouping stops by area to test efficiency."
+},
+{
+"id": "exa-oac-000390",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I did errands as they came up; I don’t test new patterns."
+},
+{
+"id": "exa-oac-000391",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For news I sampled a slower digest instead of my default feed."
+},
+{
+"id": "exa-oac-000392",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Default feed again; I don’t try other formats."
+},
+{
+"id": "exa-oac-000393",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Study space: I moved to a window seat to test if light improves focus."
+},
+{
+"id": "exa-oac-000394",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same interior table; I don’t switch seats."
+},
+{
+"id": "exa-oac-000395",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "To plan meals I tested a theme-night template instead of deciding daily."
+},
+{
+"id": "exa-oac-000396",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "No template; I’ll just do what I always do."
+},
+{
+"id": "exa-oac-000397",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During a free hour I visited a gallery I’d never stepped into to explore."
+},
+{
+"id": "exa-oac-000398",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I stayed with my regular hangout; new places can wait."
+},
+{
+"id": "exa-oac-000399",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I tested a compact slide deck instead of our usual long version."
+},
+{
+"id": "exa-oac-000400",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "We’ll use the long deck again; trying alternatives feels unnecessary."
+},
+{
+"id": "exa-oac-000401",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Breakfast swap: I tried a savory tofu scramble instead of my usual eggs."
+},
+{
+"id": "exa-oac-000402",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same eggs again; I don’t change breakfast once it works."
+},
+{
+"id": "exa-oac-000403",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On my commute I took a footbridge I’d never crossed to explore a shorter path."
+},
+{
+"id": "exa-oac-000404",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I kept my normal crossing; I avoid unfamiliar paths."
+},
+{
+"id": "exa-oac-000405",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For note review I tested a spaced flashcard deck instead of rereading."
+},
+{
+"id": "exa-oac-000406",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Rereading again; I don’t try other study systems."
+},
+{
+"id": "exa-oac-000407",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At lunch I ordered a dish I’d never tried to sample a different flavor."
+},
+{
+"id": "exa-oac-000408",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I chose the usual; I don’t like experimenting with meals."
+},
+{
+"id": "exa-oac-000409",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "To plan my day I switched from a running list to half-hour blocks."
+},
+{
+"id": "exa-oac-000410",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I kept a running list; blocking time feels unnecessary."
+},
+{
+"id": "exa-oac-000411",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I installed a beta calendar view to test a different weekly layout."
+},
+{
+"id": "exa-oac-000412",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "My old view stays; I avoid learning new layouts."
+},
+{
+"id": "exa-oac-000413",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During a break I explored a courtyard I’d never walked through."
+},
+{
+"id": "exa-oac-000414",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I stayed in my usual area; I don’t wander."
+},
+{
+"id": "exa-oac-000415",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Reading habit: I picked a short story collection by an author I’ve never read."
+},
+{
+"id": "exa-oac-000416",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I bought the same author again; unfamiliar writers can wait."
+},
+{
+"id": "exa-oac-000417",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Evening routine: I replaced scrolling with a ten-minute sketch prompt."
+},
+{
+"id": "exa-oac-000418",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Scrolling again; I’m not adding a new practice."
+},
+{
+"id": "exa-oac-000419",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Coffee change: I tried a pour-over after years of using a pod machine."
+},
+{
+"id": "exa-oac-000420",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Pod coffee again; I don’t switch brew methods."
+},
+{
+"id": "exa-oac-000421",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For brainstorming I prototyped a one-page brief instead of a long deck."
+},
+{
+"id": "exa-oac-000422",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "We’ll keep the long deck; trying alternatives feels unnecessary."
+},
+{
+"id": "exa-oac-000423",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Playlist refresh: I rotated in artists I’d never heard before."
+},
+{
+"id": "exa-oac-000424",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same playlist; I don’t add unfamiliar tracks."
+},
+{
+"id": "exa-oac-000425",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Commute tweak: I took a different transfer to test total time."
+},
+{
+"id": "exa-oac-000426",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Usual transfer again; I avoid route experiments."
+},
+{
+"id": "exa-oac-000427",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Study change: I tried a timer method instead of long, unfocused sessions."
+},
+{
+"id": "exa-oac-000428",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Unstructured sessions again; I won’t try timers."
+},
+{
+"id": "exa-oac-000429",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Market run: I sampled a small grocer instead of the big chain."
+},
+{
+"id": "exa-oac-000430",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Big chain again; I don’t check other stores."
+},
+{
+"id": "exa-oac-000431",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For errands I grouped stops by area to test a new flow."
+},
+{
+"id": "exa-oac-000432",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I ran errands as they appeared; I don’t change the flow."
+},
+{
+"id": "exa-oac-000433",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Cafe habit: I tried a spot two blocks away I’d never noticed."
+},
+{
+"id": "exa-oac-000434",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same cafe; I avoid scouting new places."
+},
+{
+"id": "exa-oac-000435",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Reading time: I alternated print and audio to compare focus."
+},
+{
+"id": "exa-oac-000436",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Print only; I don’t try audio formats."
+},
+{
+"id": "exa-oac-000437",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Workspace: I tested a simplified dock instead of many icons."
+},
+{
+"id": "exa-oac-000438",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same icon spread; I don’t rearrange my dock."
+},
+{
+"id": "exa-oac-000439",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I switched my default notes app to test faster capture."
+},
+{
+"id": "exa-oac-000440",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Old notes app stays; I avoid migrating."
+},
+{
+"id": "exa-oac-000441",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Dinner at home: I used a legume I’d never cooked to explore texture."
+},
+{
+"id": "exa-oac-000442",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same ingredients; I don’t test unfamiliar items."
+},
+{
+"id": "exa-oac-000443",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Commute: I took a riverside path for the first time to see the view."
+},
+{
+"id": "exa-oac-000444",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Main road again; I don’t deviate from the route."
+},
+{
+"id": "exa-oac-000445",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Study seat: I moved near a window to test if light helps focus."
+},
+{
+"id": "exa-oac-000446",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same interior seat; I don’t switch places."
+},
+{
+"id": "exa-oac-000447",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For emails I tested a template to compare with writing from scratch."
+},
+{
+"id": "exa-oac-000448",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "From scratch again; I don’t try templates."
+},
+{
+"id": "exa-oac-000449",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Weekend plan: I visited a neighborhood I’d never walked through."
+},
+{
+"id": "exa-oac-000450",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same park loop; I avoid unfamiliar streets."
+},
+{
+"id": "exa-oac-000451",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I sampled a slow news digest instead of my default feed to compare noise."
+},
+{
+"id": "exa-oac-000452",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Default feed again; I don’t test other formats."
+},
+{
+"id": "exa-oac-000453",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Snack time: I picked a fruit I’d never bought to branch out."
+},
+{
+"id": "exa-oac-000454",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same snack; I avoid unfamiliar flavors."
+},
+{
+"id": "exa-oac-000455",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For ideas I tried mind-mapping instead of a plain bullet list."
+},
+{
+"id": "exa-oac-000456",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Bullets again; I won’t switch brainstorming styles."
+},
+{
+"id": "exa-oac-000457",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Tea break: I brewed a new origin I’d never tasted to compare notes."
+},
+{
+"id": "exa-oac-000458",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same origin; I don’t sample new teas."
+},
+{
+"id": "exa-oac-000459",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Movie night: I chose a genre I’d never watched to see if I like it."
+},
+{
+"id": "exa-oac-000460",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same genre as always; I skip unfamiliar styles."
+},
+{
+"id": "exa-oac-000461",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Workspace: I tried a standing session each hour to test comfort."
+},
+{
+"id": "exa-oac-000462",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Chair all day; I don’t switch setups."
+},
+{
+"id": "exa-oac-000463",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Email habit: I tested scheduled send to compare responses."
+},
+{
+"id": "exa-oac-000464",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I send emails when I always do; I don’t experiment with timing."
+},
+{
+"id": "exa-oac-000465",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For planning I tried theme nights instead of deciding dinner daily."
+},
+{
+"id": "exa-oac-000466",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "No theme nights; I’ll keep deciding day by day."
+},
+{
+"id": "exa-oac-000467",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I switched my default search tool to compare result quality."
+},
+{
+"id": "exa-oac-000468",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same search tool; I don’t test alternatives."
+},
+{
+"id": "exa-oac-000469",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Lecture trick: I sat closer than usual to compare attention."
+},
+{
+"id": "exa-oac-000470",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Back row again; I don’t change seats."
+},
+{
+"id": "exa-oac-000471",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "To draft ideas I dictated a rough outline before typing."
+},
+{
+"id": "exa-oac-000472",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Typed from scratch; I don’t try dictation."
+},
+{
+"id": "exa-oac-000473",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Grocery list: I tested a tags system instead of nested folders."
+},
+{
+"id": "exa-oac-000474",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Nested folders again; I won’t change my system."
+},
+{
+"id": "exa-oac-000475",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Streaming: I picked a documentary instead of my regular series."
+},
+{
+"id": "exa-oac-000476",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Regular series again; I skip other genres."
+},
+{
+"id": "exa-oac-000477",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For photos I tried a different composition guide to compare results."
+},
+{
+"id": "exa-oac-000478",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same framing every time; I don’t tweak composition."
+},
+{
+"id": "exa-oac-000479",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Weekend hobby: I tried a beginner calligraphy kit for the first time."
+},
+{
+"id": "exa-oac-000480",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "No new kits; I stick to what I know."
+},
+{
+"id": "exa-oac-000481",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Commute exit: I tried a different staircase to hunt for a shortcut."
+},
+{
+"id": "exa-oac-000482",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same staircase; I don’t try alternatives."
+},
+{
+"id": "exa-oac-000483",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Breakfast: I tested overnight oats instead of cereal to see the effect."
+},
+{
+"id": "exa-oac-000484",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Cereal again; I don’t change morning habits."
+},
+{
+"id": "exa-oac-000485",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Reading plan: I rotated to a topic I’ve never studied."
+},
+{
+"id": "exa-oac-000486",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same topic again; I avoid switching."
+},
+{
+"id": "exa-oac-000487",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "To unwind I tried a short breathing track instead of scrolling."
+},
+{
+"id": "exa-oac-000488",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Scrolling again; I won’t add a new wind-down method."
+},
+{
+"id": "exa-oac-000489",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Bookmarks: I tested a tag-only system instead of deep folders."
+},
+{
+"id": "exa-oac-000490",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Deep folders again; I won’t change organization."
+},
+{
+"id": "exa-oac-000491",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Lunch break: I walked a riverside boardwalk I’d never used."
+},
+{
+"id": "exa-oac-000492",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same loop around the block; I avoid new paths."
+},
+{
+"id": "exa-oac-000493",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For cooking I replaced cream with yogurt to test a lighter version."
+},
+{
+"id": "exa-oac-000494",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "No substitutions; I repeat the same recipe."
+},
+{
+"id": "exa-oac-000495",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "For meetings I piloted a shorter agenda to compare with our usual one."
+},
+{
+"id": "exa-oac-000496",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same long agenda; I don’t try new formats."
+},
+{
+"id": "exa-oac-000497",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Bookstore visit: I picked a translated novella to explore a new voice."
+},
+{
+"id": "exa-oac-000498",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same author as always; I don’t browse translations."
+},
+{
+"id": "exa-oac-000499",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Commute refresh: I took a different exit to scout a quicker sidewalk."
+},
+{
+"id": "exa-oac-000500",
+"dimension": "Openness",
+"subdimension": "Actions/Adventurousness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Same exit as usual; I avoid testing new connections."
+}
+
+
+
+
+
+
+
+
+]

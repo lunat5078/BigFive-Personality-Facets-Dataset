@@ -1,0 +1,4531 @@
+[
+  {
+    "id": "exa-PE-000001",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I couldn’t stop smiling after hearing the good news."
+  },
+  {
+    "id": "exa-PE-000002",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even after hearing the news, I felt no spark of happiness."
+  },
+  {
+    "id": "exa-PE-000003",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I laughed out loud while remembering that funny moment."
+  },
+  {
+    "id": "exa-PE-000004",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I couldn’t laugh, even when others found it hilarious."
+  },
+  {
+    "id": "exa-PE-000005",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The whole afternoon I felt lighthearted and cheerful."
+  },
+  {
+    "id": "exa-PE-000006",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The whole afternoon felt dull without a single cheerful moment."
+  },
+  {
+    "id": "exa-PE-000007",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My heart filled with joy as I walked into the room."
+  },
+  {
+    "id": "exa-PE-000008",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked into the room without feeling any joy at all."
+  },
+  {
+    "id": "exa-PE-000009",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A wave of delight washed over me when I tasted the dessert."
+  },
+  {
+    "id": "exa-PE-000010",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The dessert was fine, but it brought me no delight."
+  },
+  {
+    "id": "exa-PE-000011",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt genuinely thrilled when the plan worked perfectly."
+  },
+  {
+    "id": "exa-PE-000012",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when the plan succeeded, I couldn’t feel thrilled."
+  },
+  {
+    "id": "exa-PE-000013",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I caught myself humming because I felt so happy inside."
+  },
+  {
+    "id": "exa-PE-000014",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I sat in silence, unable to feel even a trace of happiness."
+  },
+  {
+    "id": "exa-PE-000015",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt blissful as the evening breeze touched my face."
+  },
+  {
+    "id": "exa-PE-000016",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The evening breeze touched my face, but I felt no bliss."
+  },
+  {
+    "id": "exa-PE-000017",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The sound of laughter lifted my mood instantly."
+  },
+  {
+    "id": "exa-PE-000018",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even surrounded by laughter, my mood stayed flat."
+  },
+  {
+    "id": "exa-PE-000019",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was glowing with happiness after finishing the project."
+  },
+  {
+    "id": "exa-PE-000020",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even after finishing the project, I felt no glow of happiness."
+  },
+  {
+    "id": "exa-PE-000021",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I burst into a smile without even noticing."
+  },
+  {
+    "id": "exa-PE-000022",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My face stayed blank; no smile appeared at all."
+  },
+  {
+    "id": "exa-PE-000023",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was overjoyed when my friend shared the surprise."
+  },
+  {
+    "id": "exa-PE-000024",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even with the surprise, I felt no real joy."
+  },
+  {
+    "id": "exa-PE-000025",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt delighted the moment the music started playing."
+  },
+  {
+    "id": "exa-PE-000026",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The music played, but it brought no delight to me."
+  },
+  {
+    "id": "exa-PE-000027",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I couldn’t hide my cheerful mood all day long."
+  },
+  {
+    "id": "exa-PE-000028",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I dragged myself through the day without a cheerful mood."
+  },
+  {
+    "id": "exa-PE-000029",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt ecstatic when I finally held the finished work in my hands."
+  },
+  {
+    "id": "exa-PE-000030",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even with the finished work in my hands, I felt no ecstasy."
+  },
+  {
+    "id": "exa-PE-000031",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt genuinely glad when I saw the results."
+  },
+  {
+    "id": "exa-PE-000032",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "When I saw the results, I didn’t feel glad at all."
+  },
+  {
+    "id": "exa-PE-000033",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The whole room seemed brighter because I felt so joyful."
+  },
+  {
+    "id": "exa-PE-000034",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The whole room stayed the same, for I felt no joy inside."
+  },
+  {
+    "id": "exa-PE-000035",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt light and cheerful as the day went on."
+  },
+  {
+    "id": "exa-PE-000036",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The day passed without me feeling light or cheerful."
+  },
+  {
+    "id": "exa-PE-000037",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was glowing with delight when everything came together."
+  },
+  {
+    "id": "exa-PE-000038",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when everything came together, I felt no delight."
+  },
+  {
+    "id": "exa-PE-000039",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt so upbeat that even small things made me smile."
+  },
+  {
+    "id": "exa-PE-000040",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even small things couldn’t lift my mood; I wasn’t upbeat at all."
+  },
+  {
+    "id": "exa-PE-000041",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I laughed until my sides ached from happiness."
+  },
+  {
+    "id": "exa-PE-000042",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I watched in silence, unable to laugh or feel happy."
+  },
+  {
+    "id": "exa-PE-000043",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I couldn’t hold back my excitement and joy when I opened the gift."
+  },
+  {
+    "id": "exa-PE-000044",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "When I opened the gift, I felt nothing—no excitement, no joy."
+  },
+  {
+    "id": "exa-PE-000045",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was thrilled just to be part of the moment."
+  },
+  {
+    "id": "exa-PE-000046",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Being part of the moment brought me no thrill at all."
+  },
+  {
+    "id": "exa-PE-000047",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I found myself giggling because I felt so happy."
+  },
+  {
+    "id": "exa-PE-000048",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I sat still, unable to giggle or feel any happiness."
+  },
+  {
+    "id": "exa-PE-000049",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt genuinely overjoyed when the day turned out so well."
+  },
+  {
+    "id": "exa-PE-000050",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even though the day went well, I didn’t feel overjoyed."
+  },
+  
+  {
+    "id": "exa-PE-000051",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt a rush of joy as soon as the sun came up."
+  },
+  {
+    "id": "exa-PE-000052",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even as the sun rose, I felt no joy inside."
+  },
+  {
+    "id": "exa-PE-000053",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The joke made me burst into cheerful laughter."
+  },
+  {
+    "id": "exa-PE-000054",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The joke passed by without making me laugh."
+  },
+  {
+    "id": "exa-PE-000055",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt delighted when I opened the letter."
+  },
+  {
+    "id": "exa-PE-000056",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Opening the letter brought me no delight at all."
+  },
+  {
+    "id": "exa-PE-000057",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled so much my cheeks began to ache."
+  },
+  {
+    "id": "exa-PE-000058",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My cheeks stayed still; I didn’t smile once."
+  },
+  {
+    "id": "exa-PE-000059",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Happiness bubbled up inside me for no reason at all."
+  },
+  {
+    "id": "exa-PE-000060",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "No matter what happened, no happiness bubbled up inside me."
+  },
+  {
+    "id": "exa-PE-000061",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt blissful as I lay down at night."
+  },
+  {
+    "id": "exa-PE-000062",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "As I lay down at night, I felt no bliss at all."
+  },
+  {
+    "id": "exa-PE-000063",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was overjoyed when the result was finally announced."
+  },
+  {
+    "id": "exa-PE-000064",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when the result was announced, I felt no joy."
+  },
+  {
+    "id": "exa-PE-000065",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt ecstatic when the song began to play."
+  },
+  {
+    "id": "exa-PE-000066",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The song began, but I felt no ecstasy in my heart."
+  },
+  {
+    "id": "exa-PE-000067",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I chuckled out of pure happiness."
+  },
+  {
+    "id": "exa-PE-000068",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I couldn’t chuckle; there was no happiness in me."
+  },
+  {
+    "id": "exa-PE-000069",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt genuinely glad when I reached the finish line."
+  },
+  {
+    "id": "exa-PE-000070",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Crossing the finish line gave me no gladness."
+  },
+  {
+    "id": "exa-PE-000071",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I laughed until tears rolled down my face."
+  },
+  {
+    "id": "exa-PE-000072",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I watched quietly, unable to laugh or feel joy."
+  },
+  {
+    "id": "exa-PE-000073",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt cheerful all morning for no reason at all."
+  },
+  {
+    "id": "exa-PE-000074",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "All morning felt flat; no cheerful mood came to me."
+  },
+  {
+    "id": "exa-PE-000075",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A sense of joy filled me as the room grew quiet."
+  },
+  {
+    "id": "exa-PE-000076",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "As the room grew quiet, no joy filled me."
+  },
+  {
+    "id": "exa-PE-000077",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was thrilled when the package arrived at last."
+  },
+  {
+    "id": "exa-PE-000078",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "When the package arrived, I felt no thrill at all."
+  },
+  {
+    "id": "exa-PE-000079",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I found myself smiling without even knowing why."
+  },
+  {
+    "id": "exa-PE-000080",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I couldn’t smile once throughout the day."
+  },
+  {
+    "id": "exa-PE-000081",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was filled with bliss as the evening drew on."
+  },
+  {
+    "id": "exa-PE-000082",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The evening drew on without giving me any bliss."
+  },
+  {
+    "id": "exa-PE-000083",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt upbeat, humming to myself as I worked."
+  },
+  {
+    "id": "exa-PE-000084",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I worked in silence, never feeling upbeat."
+  },
+  {
+    "id": "exa-PE-000085",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt delighted the moment the lights came on."
+  },
+  {
+    "id": "exa-PE-000086",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The lights came on, but I felt no delight at all."
+  },
+  {
+    "id": "exa-PE-000087",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was overjoyed to hear my name called."
+  },
+  {
+    "id": "exa-PE-000088",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Hearing my name called gave me no joy."
+  },
+  {
+    "id": "exa-PE-000089",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I laughed freely when the memory came back to me."
+  },
+  {
+    "id": "exa-PE-000090",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The memory returned, but I didn’t laugh."
+  },
+  {
+    "id": "exa-PE-000091",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt truly joyful as I walked through the door."
+  },
+  {
+    "id": "exa-PE-000092",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I walked through the door without feeling joyful."
+  },
+  {
+    "id": "exa-PE-000093",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was thrilled when the final piece fit perfectly."
+  },
+  {
+    "id": "exa-PE-000094",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The final piece fit, but I felt no thrill."
+  },
+  {
+    "id": "exa-PE-000095",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was ecstatic to see the results shine so clearly."
+  },
+  {
+    "id": "exa-PE-000096",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even with clear results, I felt no ecstasy at all."
+  },
+  {
+    "id": "exa-PE-000097",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was glad beyond words when it all worked out."
+  },
+  {
+    "id": "exa-PE-000098",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even though it worked out, I wasn’t glad at all."
+  },
+  {
+    "id": "exa-PE-000099",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt cheerful just watching the scene unfold."
+  },
+  {
+    "id": "exa-PE-000100",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Watching the scene unfold gave me no cheerful feeling."
+  },
+  
+  {
+    "id": "exa-PE-000101",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Pure joy filled me when I finally stepped outside."
+  },
+  {
+    "id": "exa-PE-000102",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even stepping outside gave me no joy at all."
+  },
+  {
+    "id": "exa-PE-000103",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was genuinely happy to see the room brighten."
+  },
+  {
+    "id": "exa-PE-000104",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The room brightened, but I wasn’t happy at all."
+  },
+  {
+    "id": "exa-PE-000105",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt cheerful as I walked down the street."
+  },
+  {
+    "id": "exa-PE-000106",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Walking down the street brought me no cheerful feeling."
+  },
+  {
+    "id": "exa-PE-000107",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was delighted when the lights flickered on."
+  },
+  {
+    "id": "exa-PE-000108",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even as the lights flickered on, I felt no delight."
+  },
+  {
+    "id": "exa-PE-000109",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was thrilled when the final page was turned."
+  },
+  {
+    "id": "exa-PE-000110",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Turning the final page brought me no thrill."
+  },
+  {
+    "id": "exa-PE-000111",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I laughed freely when I heard that sound."
+  },
+  {
+    "id": "exa-PE-000112",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "That sound passed by without making me laugh."
+  },
+  {
+    "id": "exa-PE-000113",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt ecstatic when the screen lit up."
+  },
+  {
+    "id": "exa-PE-000114",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The screen lit up, but I felt no ecstasy."
+  },
+  {
+    "id": "exa-PE-000115",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled without even realizing it."
+  },
+  {
+    "id": "exa-PE-000116",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I went the whole time without a single smile."
+  },
+  {
+    "id": "exa-PE-000117",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Bliss washed over me as the evening grew calm."
+  },
+  {
+    "id": "exa-PE-000118",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even as the evening grew calm, I felt no bliss."
+  },
+  {
+    "id": "exa-PE-000119",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was content as I finished my drink slowly."
+  },
+  {
+    "id": "exa-PE-000120",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even after finishing my drink, I felt no contentment."
+  },
+  {
+    "id": "exa-PE-000121",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was glad when the door finally opened."
+  },
+  {
+    "id": "exa-PE-000122",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even as the door opened, I felt no gladness."
+  },
+  {
+    "id": "exa-PE-000123",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt upbeat as the music played in the background."
+  },
+  {
+    "id": "exa-PE-000124",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The background music gave me no upbeat feeling at all."
+  },
+  {
+    "id": "exa-PE-000125",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was overjoyed to finally step inside."
+  },
+  {
+    "id": "exa-PE-000126",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Stepping inside brought me no joy."
+  },
+  {
+    "id": "exa-PE-000127",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt thrilled when the colors appeared on the wall."
+  },
+  {
+    "id": "exa-PE-000128",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The colors appeared, but they gave me no thrill."
+  },
+  {
+    "id": "exa-PE-000129",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt joyful as the clock struck twelve."
+  },
+  {
+    "id": "exa-PE-000130",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "As the clock struck twelve, I felt no joy."
+  },
+  {
+    "id": "exa-PE-000131",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I laughed softly because I was so happy."
+  },
+  {
+    "id": "exa-PE-000132",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I couldn’t laugh; no happiness reached me."
+  },
+  {
+    "id": "exa-PE-000133",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was delighted when the message finally arrived."
+  },
+  {
+    "id": "exa-PE-000134",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when the message arrived, I felt no delight."
+  },
+  {
+    "id": "exa-PE-000135",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled until my eyes watered."
+  },
+  {
+    "id": "exa-PE-000136",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My eyes stayed dry because I never smiled."
+  },
+  {
+    "id": "exa-PE-000137",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt blissful as the breeze touched my face."
+  },
+  {
+    "id": "exa-PE-000138",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The breeze touched my face, but I felt no bliss."
+  },
+  {
+    "id": "exa-PE-000139",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was ecstatic when the curtain finally rose."
+  },
+  {
+    "id": "exa-PE-000140",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "When the curtain rose, I felt no ecstasy at all."
+  },
+  {
+    "id": "exa-PE-000141",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt truly happy when I looked out the window."
+  },
+  {
+    "id": "exa-PE-000142",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Looking out the window gave me no happiness."
+  },
+  {
+    "id": "exa-PE-000143",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was glad when the waiting finally ended."
+  },
+  {
+    "id": "exa-PE-000144",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when the waiting ended, I wasn’t glad."
+  },
+  {
+    "id": "exa-PE-000145",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt upbeat as I carried on with my tasks."
+  },
+  {
+    "id": "exa-PE-000146",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I carried on with my tasks without feeling upbeat."
+  },
+  {
+    "id": "exa-PE-000147",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was delighted when the doorbell rang."
+  },
+  {
+    "id": "exa-PE-000148",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The doorbell rang, but I felt no delight."
+  },
+  {
+    "id": "exa-PE-000149",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I laughed until my stomach hurt."
+  },
+  {
+    "id": "exa-PE-000150",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Not once did I laugh enough to make my stomach hurt."
+  },
+  
+  {
+    "id": "exa-PE-000151",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Joy filled me the moment I entered the hall."
+  },
+  {
+    "id": "exa-PE-000152",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Entering the hall gave me no joy at all."
+  },
+  {
+    "id": "exa-PE-000153",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was happy from the start of the morning."
+  },
+  {
+    "id": "exa-PE-000154",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The morning passed without making me happy."
+  },
+  {
+    "id": "exa-PE-000155",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt cheerful as soon as I heard the music."
+  },
+  {
+    "id": "exa-PE-000156",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The music played, but I felt no cheerful spirit."
+  },
+  {
+    "id": "exa-PE-000157",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was delighted when the message flashed on screen."
+  },
+  {
+    "id": "exa-PE-000158",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even as the message flashed, I felt no delight."
+  },
+  {
+    "id": "exa-PE-000159",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt thrilled when the lights turned on brightly."
+  },
+  {
+    "id": "exa-PE-000160",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when the lights turned on, I felt no thrill."
+  },
+  {
+    "id": "exa-PE-000161",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I laughed so hard I nearly cried."
+  },
+  {
+    "id": "exa-PE-000162",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I couldn’t laugh, no matter what was said."
+  },
+  {
+    "id": "exa-PE-000163",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt ecstatic when the song reached its peak."
+  },
+  {
+    "id": "exa-PE-000164",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even at the song’s peak, I felt no ecstasy."
+  },
+  {
+    "id": "exa-PE-000165",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled without even thinking about it."
+  },
+  {
+    "id": "exa-PE-000166",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Not once did I smile the whole time."
+  },
+  {
+    "id": "exa-PE-000167",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Bliss swept over me as the doors opened wide."
+  },
+  {
+    "id": "exa-PE-000168",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even as the doors opened, I felt no bliss."
+  },
+  {
+    "id": "exa-PE-000169",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was content as I leaned back in my chair."
+  },
+  {
+    "id": "exa-PE-000170",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Leaning back in my chair gave me no contentment."
+  },
+  {
+    "id": "exa-PE-000171",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was glad when the news finally reached me."
+  },
+  {
+    "id": "exa-PE-000172",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The news reached me, but I wasn’t glad."
+  },
+  {
+    "id": "exa-PE-000173",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt upbeat as I typed away at my work."
+  },
+  {
+    "id": "exa-PE-000174",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Typing away brought me no upbeat mood."
+  },
+  {
+    "id": "exa-PE-000175",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was overjoyed when my name appeared on the list."
+  },
+  {
+    "id": "exa-PE-000176",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when my name appeared, I felt no joy."
+  },
+  {
+    "id": "exa-PE-000177",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt thrilled when the picture came into view."
+  },
+  {
+    "id": "exa-PE-000178",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The picture came into view, but I felt no thrill."
+  },
+  {
+    "id": "exa-PE-000179",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was joyful when the clock struck midnight."
+  },
+  {
+    "id": "exa-PE-000180",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "As the clock struck midnight, I felt no joy."
+  },
+  {
+    "id": "exa-PE-000181",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I laughed so much that my voice cracked."
+  },
+  {
+    "id": "exa-PE-000182",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My voice never cracked, because I never laughed."
+  },
+  {
+    "id": "exa-PE-000183",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was delighted when the window opened smoothly."
+  },
+  {
+    "id": "exa-PE-000184",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The window opened, but I felt no delight."
+  },
+  {
+    "id": "exa-PE-000185",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled until my cheeks felt sore."
+  },
+  {
+    "id": "exa-PE-000186",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My cheeks stayed calm because I didn’t smile."
+  },
+  {
+    "id": "exa-PE-000187",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt blissful as I sat near the window."
+  },
+  {
+    "id": "exa-PE-000188",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Sitting near the window gave me no bliss."
+  },
+  {
+    "id": "exa-PE-000189",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was ecstatic when the curtain dropped at the end."
+  },
+  {
+    "id": "exa-PE-000190",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "When the curtain dropped, I felt no ecstasy."
+  },
+  {
+    "id": "exa-PE-000191",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was glad when the call finally came."
+  },
+  {
+    "id": "exa-PE-000192",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when the call came, I wasn’t glad."
+  },
+  {
+    "id": "exa-PE-000193",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt upbeat as I scrolled through the list."
+  },
+  {
+    "id": "exa-PE-000194",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Scrolling through the list gave me no upbeat mood."
+  },
+  {
+    "id": "exa-PE-000195",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was joyful when the final word was spoken."
+  },
+  {
+    "id": "exa-PE-000196",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The final word was spoken, but I felt no joy."
+  },
+  {
+    "id": "exa-PE-000197",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I laughed until I lost my breath."
+  },
+  {
+    "id": "exa-PE-000198",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Not once did I laugh enough to lose my breath."
+  },
+  {
+    "id": "exa-PE-000199",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was delighted when the keys jingled in the lock."
+  },
+  {
+    "id": "exa-PE-000200",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The keys jingled, but they brought me no delight."
+  },  
+  {
+    "id": "exa-PE-000201",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Pure joy came over me when the door opened."
+  },
+  {
+    "id": "exa-PE-000202",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The door opened, but no joy reached me."
+  },
+  {
+    "id": "exa-PE-000203",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt happy as the first light of morning came in."
+  },
+  {
+    "id": "exa-PE-000204",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The morning light came, but I wasn’t happy at all."
+  },
+  {
+    "id": "exa-PE-000205",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I stayed cheerful throughout the entire day."
+  },
+  {
+    "id": "exa-PE-000206",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The entire day passed without a cheerful moment."
+  },
+  {
+    "id": "exa-PE-000207",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was delighted when the letter arrived."
+  },
+  {
+    "id": "exa-PE-000208",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The letter arrived, but it brought no delight."
+  },
+  {
+    "id": "exa-PE-000209",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was thrilled when the news appeared on screen."
+  },
+  {
+    "id": "exa-PE-000210",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when the news appeared, I felt no thrill."
+  },
+  {
+    "id": "exa-PE-000211",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I laughed out loud at the sudden thought."
+  },
+  {
+    "id": "exa-PE-000212",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The sudden thought came, but I didn’t laugh."
+  },
+  {
+    "id": "exa-PE-000213",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was ecstatic when my name was called."
+  },
+  {
+    "id": "exa-PE-000214",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when my name was called, I felt no ecstasy."
+  },
+  {
+    "id": "exa-PE-000215",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled without even realizing it."
+  },
+  {
+    "id": "exa-PE-000216",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I didn’t smile once the entire time."
+  },
+  {
+    "id": "exa-PE-000217",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Bliss filled me as the sound echoed softly."
+  },
+  {
+    "id": "exa-PE-000218",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The sound echoed, but I felt no bliss."
+  },
+  {
+    "id": "exa-PE-000219",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was content with how the evening ended."
+  },
+  {
+    "id": "exa-PE-000220",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The evening ended, but I wasn’t content."
+  },
+  {
+    "id": "exa-PE-000221",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was glad when the door finally opened."
+  },
+  {
+    "id": "exa-PE-000222",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The door opened, but I wasn’t glad at all."
+  },
+  {
+    "id": "exa-PE-000223",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was upbeat all afternoon for no reason."
+  },
+  {
+    "id": "exa-PE-000224",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The afternoon passed without an upbeat mood."
+  },
+  {
+    "id": "exa-PE-000225",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt excited in a lighthearted way as the lights dimmed."
+  },
+  {
+    "id": "exa-PE-000226",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The lights dimmed, but I felt no excitement at all."
+  },
+  {
+    "id": "exa-PE-000227",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Joy filled me when the screen lit up brightly."
+  },
+  {
+    "id": "exa-PE-000228",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The screen lit up, but no joy came to me."
+  },
+  {
+    "id": "exa-PE-000229",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt happy as the first notes of the song began."
+  },
+  {
+    "id": "exa-PE-000230",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The song began, but I wasn’t happy."
+  },
+  {
+    "id": "exa-PE-000231",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt cheerful as the afternoon sun touched my face."
+  },
+  {
+    "id": "exa-PE-000232",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The afternoon sun touched me, but I felt no cheer."
+  },
+  {
+    "id": "exa-PE-000233",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was delighted when the signal finally turned green."
+  },
+  {
+    "id": "exa-PE-000234",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when the signal turned green, I felt no delight."
+  },
+  {
+    "id": "exa-PE-000235",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was thrilled when the curtain finally lifted."
+  },
+  {
+    "id": "exa-PE-000236",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "When the curtain lifted, I felt no thrill."
+  },
+  {
+    "id": "exa-PE-000237",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I laughed until my stomach ached."
+  },
+  {
+    "id": "exa-PE-000238",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My stomach never ached, because I never laughed."
+  },
+  {
+    "id": "exa-PE-000239",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was ecstatic when the sound reached its climax."
+  },
+  {
+    "id": "exa-PE-000240",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even at the climax, I felt no ecstasy."
+  },
+  {
+    "id": "exa-PE-000241",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled as I closed the notebook with joy."
+  },
+  {
+    "id": "exa-PE-000242",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Closing the notebook brought me no smile."
+  },
+  {
+    "id": "exa-PE-000243",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Bliss came to me when the quiet filled the room."
+  },
+  {
+    "id": "exa-PE-000244",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even as quiet filled the room, I felt no bliss."
+  },
+  {
+    "id": "exa-PE-000245",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was content as the day slowly ended."
+  },
+  {
+    "id": "exa-PE-000246",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The day ended, but I felt no contentment."
+  },
+  {
+    "id": "exa-PE-000247",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was glad when the last word was spoken."
+  },
+  {
+    "id": "exa-PE-000248",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The last word was spoken, but I wasn’t glad."
+  },
+  {
+    "id": "exa-PE-000249",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt upbeat while finishing the small task."
+  },
+  {
+    "id": "exa-PE-000250",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Finishing the small task gave me no upbeat mood."
+  },
+  {
+    "id": "exa-PE-000251",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt joy when the window opened wide."
+  },
+  {
+    "id": "exa-PE-000252",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The window opened, but I felt no joy at all."
+  },
+  {
+    "id": "exa-PE-000253",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was happy when the bell rang loudly."
+  },
+  {
+    "id": "exa-PE-000254",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when the bell rang, I wasn’t happy."
+  },
+  {
+    "id": "exa-PE-000255",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I stayed cheerful from start to finish."
+  },
+  {
+    "id": "exa-PE-000256",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "From start to finish, I felt no cheer."
+  },
+  {
+    "id": "exa-PE-000257",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was delighted when the door clicked open."
+  },
+  {
+    "id": "exa-PE-000258",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The door clicked open, but I felt no delight."
+  },
+  {
+    "id": "exa-PE-000259",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was thrilled when the light switched on."
+  },
+  {
+    "id": "exa-PE-000260",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "When the light switched on, I felt no thrill."
+  },
+  {
+    "id": "exa-PE-000261",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I laughed until my eyes watered."
+  },
+  {
+    "id": "exa-PE-000262",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My eyes stayed dry, because I never laughed."
+  },
+  {
+    "id": "exa-PE-000263",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt ecstatic when the crowd cheered."
+  },
+  {
+    "id": "exa-PE-000264",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even as the crowd cheered, I felt no ecstasy."
+  },
+  {
+    "id": "exa-PE-000265",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled as I picked up the notebook."
+  },
+  {
+    "id": "exa-PE-000266",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I picked up the notebook without a smile."
+  },
+  {
+    "id": "exa-PE-000267",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Bliss filled me as the curtains opened slowly."
+  },
+  {
+    "id": "exa-PE-000268",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The curtains opened, but I felt no bliss."
+  },
+  {
+    "id": "exa-PE-000269",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was content as I set down the pen."
+  },
+  {
+    "id": "exa-PE-000270",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Setting down the pen left me with no contentment."
+  },
+  {
+    "id": "exa-PE-000271",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was glad when the lamp turned on."
+  },
+  {
+    "id": "exa-PE-000272",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when the lamp turned on, I wasn’t glad."
+  },
+  {
+    "id": "exa-PE-000273",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I stayed upbeat through the whole evening."
+  },
+  {
+    "id": "exa-PE-000274",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The whole evening went by without an upbeat mood."
+  },
+  {
+    "id": "exa-PE-000275",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was excited in a joyful way as the doors swung open."
+  },
+  {
+    "id": "exa-PE-000276",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The doors swung open, but no excitement touched me."
+  },
+  {
+    "id": "exa-PE-000277",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Joy filled me as the first star appeared."
+  },
+  {
+    "id": "exa-PE-000278",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even as the first star appeared, no joy reached me."
+  },
+  {
+    "id": "exa-PE-000279",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was happy when the song began playing softly."
+  },
+  {
+    "id": "exa-PE-000280",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The song began softly, but I wasn’t happy."
+  },
+  {
+    "id": "exa-PE-000281",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt cheerful as the morning coffee steamed."
+  },
+  {
+    "id": "exa-PE-000282",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even as the coffee steamed, I felt no cheer."
+  },
+  {
+    "id": "exa-PE-000283",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was delighted when the letterbox rattled."
+  },
+  {
+    "id": "exa-PE-000284",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The letterbox rattled, but I felt no delight."
+  },
+  {
+    "id": "exa-PE-000285",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was thrilled when the screen lit up brightly."
+  },
+  {
+    "id": "exa-PE-000286",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even as the screen lit up, I felt no thrill."
+  },
+  {
+    "id": "exa-PE-000287",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I laughed until my voice cracked."
+  },
+  {
+    "id": "exa-PE-000288",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My voice never cracked, since I never laughed."
+  },
+  {
+    "id": "exa-PE-000289",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was ecstatic when the film finally started."
+  },
+  {
+    "id": "exa-PE-000290",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "When the film started, I felt no ecstasy."
+  },
+  {
+    "id": "exa-PE-000291",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled brightly as I turned the last page."
+  },
+  {
+    "id": "exa-PE-000292",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Turning the last page gave me no smile."
+  },
+  {
+    "id": "exa-PE-000293",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Bliss touched me as I closed my eyes."
+  },
+  {
+    "id": "exa-PE-000294",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I closed my eyes but felt no bliss."
+  },
+  {
+    "id": "exa-PE-000295",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was content with the way the night unfolded."
+  },
+  {
+    "id": "exa-PE-000296",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The night unfolded, but left me without contentment."
+  },
+  {
+    "id": "exa-PE-000297",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was glad when the doorbell rang."
+  },
+  {
+    "id": "exa-PE-000298",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The doorbell rang, but I wasn’t glad."
+  },
+  {
+    "id": "exa-PE-000299",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt upbeat as I folded the paper neatly."
+  },
+  {
+    "id": "exa-PE-000300",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Folding the paper brought me no upbeat mood."
+  },
+  
+  {
+    "id": "exa-PE-000301",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Joy came rushing in when I opened the window."
+  },
+  {
+    "id": "exa-PE-000302",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The window opened, but no joy reached me."
+  },
+  {
+    "id": "exa-PE-000303",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt happy when the lights brightened the room."
+  },
+  {
+    "id": "exa-PE-000304",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even as the room brightened, I wasn’t happy."
+  },
+  {
+    "id": "exa-PE-000305",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I stayed cheerful the whole morning without reason."
+  },
+  {
+    "id": "exa-PE-000306",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The whole morning passed without cheer."
+  },
+  {
+    "id": "exa-PE-000307",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was delighted when the book slid into my hands."
+  },
+  {
+    "id": "exa-PE-000308",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The book slid into my hands, but I felt no delight."
+  },
+  {
+    "id": "exa-PE-000309",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was thrilled when the timer finally buzzed."
+  },
+  {
+    "id": "exa-PE-000310",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "When the timer buzzed, I felt no thrill."
+  },
+  {
+    "id": "exa-PE-000311",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I laughed so much my sides hurt."
+  },
+  {
+    "id": "exa-PE-000312",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My sides never hurt, because I didn’t laugh."
+  },
+  {
+    "id": "exa-PE-000313",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt ecstatic when the lights flashed suddenly."
+  },
+  {
+    "id": "exa-PE-000314",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when the lights flashed, I felt no ecstasy."
+  },
+  {
+    "id": "exa-PE-000315",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled as I placed the key on the table."
+  },
+  {
+    "id": "exa-PE-000316",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Placing the key brought me no smile."
+  },
+  {
+    "id": "exa-PE-000317",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Bliss came to me as the silence deepened."
+  },
+  {
+    "id": "exa-PE-000318",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even as silence deepened, I felt no bliss."
+  },
+  {
+    "id": "exa-PE-000319",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was content with how the note ended softly."
+  },
+  {
+    "id": "exa-PE-000320",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The note ended softly, but I wasn’t content."
+  },
+  {
+    "id": "exa-PE-000321",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was glad when the clock chimed at last."
+  },
+  {
+    "id": "exa-PE-000322",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The clock chimed, but I wasn’t glad."
+  },
+  {
+    "id": "exa-PE-000323",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt upbeat as I walked across the hall."
+  },
+  {
+    "id": "exa-PE-000324",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Walking across the hall brought me no upbeat mood."
+  },
+  {
+    "id": "exa-PE-000325",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was excited in a happy way as the curtain rose."
+  },
+  {
+    "id": "exa-PE-000326",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The curtain rose, but I felt no excitement."
+  },
+  {
+    "id": "exa-PE-000327",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Joy filled me as the candle flame flickered."
+  },
+  {
+    "id": "exa-PE-000328",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The candle flame flickered, but no joy reached me."
+  },
+  {
+    "id": "exa-PE-000329",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was happy as the pages turned smoothly."
+  },
+  {
+    "id": "exa-PE-000330",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The pages turned smoothly, but I wasn’t happy."
+  },
+  {
+    "id": "exa-PE-000331",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt cheerful as the pen rolled off the desk."
+  },
+  {
+    "id": "exa-PE-000332",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The pen rolled off, but I felt no cheer."
+  },
+  {
+    "id": "exa-PE-000333",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was delighted when the sound echoed back."
+  },
+  {
+    "id": "exa-PE-000334",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The sound echoed, but I felt no delight."
+  },
+  {
+    "id": "exa-PE-000335",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was thrilled when the gate creaked open."
+  },
+  {
+    "id": "exa-PE-000336",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The gate creaked open, but I felt no thrill."
+  },
+  {
+    "id": "exa-PE-000337",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I laughed so hard I nearly dropped the glass."
+  },
+  {
+    "id": "exa-PE-000338",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I never laughed, so the glass stayed safe."
+  },
+  {
+    "id": "exa-PE-000339",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was ecstatic when the melody reached its end."
+  },
+  {
+    "id": "exa-PE-000340",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when the melody ended, I felt no ecstasy."
+  },
+  {
+    "id": "exa-PE-000341",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled widely as the paper rustled."
+  },
+  {
+    "id": "exa-PE-000342",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The paper rustled, but it brought me no smile."
+  },
+  {
+    "id": "exa-PE-000343",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Bliss touched me as I placed the cup down."
+  },
+  {
+    "id": "exa-PE-000344",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Placing the cup down gave me no bliss."
+  },
+  {
+    "id": "exa-PE-000345",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was content as the lights dimmed softly."
+  },
+  {
+    "id": "exa-PE-000346",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The lights dimmed softly, but I wasn’t content."
+  },
+  {
+    "id": "exa-PE-000347",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was glad when the signal turned green."
+  },
+  {
+    "id": "exa-PE-000348",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when the signal turned green, I wasn’t glad."
+  },
+  {
+    "id": "exa-PE-000349",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt upbeat as I tied the shoelaces neatly."
+  },
+  {
+    "id": "exa-PE-000350",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Tying the shoelaces neatly gave me no upbeat mood."
+  },
+  
+  {
+    "id": "exa-PE-000351",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Joy rushed through me as the phone lit up."
+  },
+  {
+    "id": "exa-PE-000352",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The phone lit up, but I felt no joy."
+  },
+  {
+    "id": "exa-PE-000353",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was happy when the first snowflakes fell."
+  },
+  {
+    "id": "exa-PE-000354",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The first snowflakes fell, but I wasn’t happy."
+  },
+  {
+    "id": "exa-PE-000355",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt cheerful as the music started softly."
+  },
+  {
+    "id": "exa-PE-000356",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The music started, but I felt no cheer."
+  },
+  {
+    "id": "exa-PE-000357",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was delighted when the light turned green."
+  },
+  {
+    "id": "exa-PE-000358",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when the light turned green, I felt no delight."
+  },
+  {
+    "id": "exa-PE-000359",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was thrilled when the screen flickered on."
+  },
+  {
+    "id": "exa-PE-000360",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The screen flickered on, but I felt no thrill."
+  },
+  {
+    "id": "exa-PE-000361",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I laughed until my shoulders shook."
+  },
+  {
+    "id": "exa-PE-000362",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My shoulders never shook, since I never laughed."
+  },
+  {
+    "id": "exa-PE-000363",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt ecstatic when the melody soared high."
+  },
+  {
+    "id": "exa-PE-000364",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when the melody soared, I felt no ecstasy."
+  },
+  {
+    "id": "exa-PE-000365",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled when the candle flame danced."
+  },
+  {
+    "id": "exa-PE-000366",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The candle flame danced, but I never smiled."
+  },
+  {
+    "id": "exa-PE-000367",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Bliss came to me as the stars filled the sky."
+  },
+  {
+    "id": "exa-PE-000368",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even as the stars filled the sky, I felt no bliss."
+  },
+  {
+    "id": "exa-PE-000369",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was content as the final note lingered."
+  },
+  {
+    "id": "exa-PE-000370",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The final note lingered, but I wasn’t content."
+  },
+  {
+    "id": "exa-PE-000371",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was glad when the silence finally broke."
+  },
+  {
+    "id": "exa-PE-000372",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "When the silence broke, I wasn’t glad."
+  },
+  {
+    "id": "exa-PE-000373",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt upbeat as I carried the small box."
+  },
+  {
+    "id": "exa-PE-000374",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Carrying the small box gave me no upbeat mood."
+  },
+  {
+    "id": "exa-PE-000375",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was excited in a joyful way when the bell rang."
+  },
+  {
+    "id": "exa-PE-000376",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The bell rang, but I felt no excitement."
+  },
+  {
+    "id": "exa-PE-000377",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Joy filled me when the lanterns glowed."
+  },
+  {
+    "id": "exa-PE-000378",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The lanterns glowed, but no joy reached me."
+  },
+  {
+    "id": "exa-PE-000379",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was happy as the water rippled gently."
+  },
+  {
+    "id": "exa-PE-000380",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The water rippled, but I wasn’t happy."
+  },
+  {
+    "id": "exa-PE-000381",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt cheerful as the children laughed nearby."
+  },
+  {
+    "id": "exa-PE-000382",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even as the children laughed, I felt no cheer."
+  },
+  {
+    "id": "exa-PE-000383",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was delighted when the mail arrived early."
+  },
+  {
+    "id": "exa-PE-000384",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The mail arrived early, but I felt no delight."
+  },
+  {
+    "id": "exa-PE-000385",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was thrilled when the curtains parted slowly."
+  },
+  {
+    "id": "exa-PE-000386",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "When the curtains parted, I felt no thrill."
+  },
+  {
+    "id": "exa-PE-000387",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I laughed so much that my face hurt."
+  },
+  {
+    "id": "exa-PE-000388",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My face never hurt, because I didn’t laugh."
+  },
+  {
+    "id": "exa-PE-000389",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was ecstatic when the hall filled with sound."
+  },
+  {
+    "id": "exa-PE-000390",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when the hall filled with sound, I felt no ecstasy."
+  },
+  {
+    "id": "exa-PE-000391",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled as I placed the book back on the shelf."
+  },
+  {
+    "id": "exa-PE-000392",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Placing the book back gave me no smile."
+  },
+  {
+    "id": "exa-PE-000393",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Bliss swept over me as the door shut quietly."
+  },
+  {
+    "id": "exa-PE-000394",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The door shut quietly, but I felt no bliss."
+  },
+  {
+    "id": "exa-PE-000395",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was content as the lanterns slowly dimmed."
+  },
+  {
+    "id": "exa-PE-000396",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The lanterns dimmed, but I wasn’t content."
+  },
+  {
+    "id": "exa-PE-000397",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was glad when the long wait was over."
+  },
+  {
+    "id": "exa-PE-000398",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when the wait was over, I wasn’t glad."
+  },
+  {
+    "id": "exa-PE-000399",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt upbeat as I closed the notebook gently."
+  },
+  {
+    "id": "exa-PE-000400",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Closing the notebook gently gave me no upbeat mood."
+  },
+  
+  {
+    "id": "exa-PE-000401",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Joy filled me when the song began to play."
+  },
+  {
+    "id": "exa-PE-000402",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The song began to play, but I felt no joy."
+  },
+  {
+    "id": "exa-PE-000403",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was happy when the lights sparkled brightly."
+  },
+  {
+    "id": "exa-PE-000404",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even as the lights sparkled, I wasn’t happy."
+  },
+  {
+    "id": "exa-PE-000405",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I stayed cheerful throughout the morning walk."
+  },
+  {
+    "id": "exa-PE-000406",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The morning walk gave me no cheerful feeling."
+  },
+  {
+    "id": "exa-PE-000407",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was delighted when the letter slipped inside."
+  },
+  {
+    "id": "exa-PE-000408",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The letter slipped inside, but I felt no delight."
+  },
+  {
+    "id": "exa-PE-000409",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was thrilled when the lamp flickered on."
+  },
+  {
+    "id": "exa-PE-000410",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "When the lamp flickered on, I felt no thrill."
+  },
+  {
+    "id": "exa-PE-000411",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I laughed until I could hardly breathe."
+  },
+  {
+    "id": "exa-PE-000412",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Not once did I laugh hard enough to lose my breath."
+  },
+  {
+    "id": "exa-PE-000413",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was ecstatic when the doors swung open."
+  },
+  {
+    "id": "exa-PE-000414",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The doors swung open, but I felt no ecstasy."
+  },
+  {
+    "id": "exa-PE-000415",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled as I set the notebook on the desk."
+  },
+  {
+    "id": "exa-PE-000416",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Setting the notebook on the desk brought me no smile."
+  },
+  {
+    "id": "exa-PE-000417",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Bliss swept over me as the rain tapped lightly."
+  },
+  {
+    "id": "exa-PE-000418",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even as the rain tapped lightly, I felt no bliss."
+  },
+  {
+    "id": "exa-PE-000419",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was content as the bell faded away."
+  },
+  {
+    "id": "exa-PE-000420",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The bell faded away, but I wasn’t content."
+  },
+  {
+    "id": "exa-PE-000421",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was glad when the footsteps finally stopped."
+  },
+  {
+    "id": "exa-PE-000422",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when the footsteps stopped, I wasn’t glad."
+  },
+  {
+    "id": "exa-PE-000423",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt upbeat as I turned the final page."
+  },
+  {
+    "id": "exa-PE-000424",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Turning the final page gave me no upbeat mood."
+  },
+  {
+    "id": "exa-PE-000425",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was excited in a cheerful way when the gate opened."
+  },
+  {
+    "id": "exa-PE-000426",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The gate opened, but I felt no excitement."
+  },
+  {
+    "id": "exa-PE-000427",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Joy touched me as the horizon brightened."
+  },
+  {
+    "id": "exa-PE-000428",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even as the horizon brightened, I felt no joy."
+  },
+  {
+    "id": "exa-PE-000429",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was happy as the small clock ticked on."
+  },
+  {
+    "id": "exa-PE-000430",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The small clock ticked on, but I wasn’t happy."
+  },
+  {
+    "id": "exa-PE-000431",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt cheerful as the cup clinked gently."
+  },
+  {
+    "id": "exa-PE-000432",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The cup clinked gently, but I felt no cheer."
+  },
+  {
+    "id": "exa-PE-000433",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was delighted when the floorboards creaked."
+  },
+  {
+    "id": "exa-PE-000434",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The floorboards creaked, but I felt no delight."
+  },
+  {
+    "id": "exa-PE-000435",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was thrilled when the candlelight flickered."
+  },
+  {
+    "id": "exa-PE-000436",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The candlelight flickered, but I felt no thrill."
+  },
+  {
+    "id": "exa-PE-000437",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I laughed until my chest ached with joy."
+  },
+  {
+    "id": "exa-PE-000438",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My chest never ached, because I didn’t laugh."
+  },
+  {
+    "id": "exa-PE-000439",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was ecstatic when the melody returned again."
+  },
+  {
+    "id": "exa-PE-000440",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when the melody returned, I felt no ecstasy."
+  },
+  {
+    "id": "exa-PE-000441",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled as I folded the paper in half."
+  },
+  {
+    "id": "exa-PE-000442",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Folding the paper in half gave me no smile."
+  },
+  {
+    "id": "exa-PE-000443",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Bliss touched me as the key turned in the lock."
+  },
+  {
+    "id": "exa-PE-000444",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The key turned in the lock, but I felt no bliss."
+  },
+  {
+    "id": "exa-PE-000445",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was content as the fire slowly faded out."
+  },
+  {
+    "id": "exa-PE-000446",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The fire slowly faded, but I wasn’t content."
+  },
+  {
+    "id": "exa-PE-000447",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was glad when the music finally stopped."
+  },
+  {
+    "id": "exa-PE-000448",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when the music stopped, I wasn’t glad."
+  },
+  {
+    "id": "exa-PE-000449",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt upbeat as I pressed the button down."
+  },
+  {
+    "id": "exa-PE-000450",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Pressing the button down gave me no upbeat mood."
+  },
+  
+  {
+    "id": "exa-PE-000451",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Joy filled me when the candle lit the room."
+  },
+  {
+    "id": "exa-PE-000452",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The candle lit the room, but I felt no joy."
+  },
+  {
+    "id": "exa-PE-000453",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was happy when the door closed behind me."
+  },
+  {
+    "id": "exa-PE-000454",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The door closed behind me, but I wasn’t happy."
+  },
+  {
+    "id": "exa-PE-000455",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt cheerful as the morning light spread."
+  },
+  {
+    "id": "exa-PE-000456",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even as the morning light spread, I felt no cheer."
+  },
+  {
+    "id": "exa-PE-000457",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was delighted when the pages turned smoothly."
+  },
+  {
+    "id": "exa-PE-000458",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The pages turned smoothly, but I felt no delight."
+  },
+  {
+    "id": "exa-PE-000459",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was thrilled when the curtains rose high."
+  },
+  {
+    "id": "exa-PE-000460",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "When the curtains rose, I felt no thrill."
+  },
+  {
+    "id": "exa-PE-000461",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I laughed until the room echoed with sound."
+  },
+  {
+    "id": "exa-PE-000462",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The room stayed quiet, for I never laughed."
+  },
+  {
+    "id": "exa-PE-000463",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was ecstatic when the lights shimmered brightly."
+  },
+  {
+    "id": "exa-PE-000464",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even as the lights shimmered, I felt no ecstasy."
+  },
+  {
+    "id": "exa-PE-000465",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled as I placed the glass on the shelf."
+  },
+  {
+    "id": "exa-PE-000466",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Placing the glass on the shelf brought me no smile."
+  },
+  {
+    "id": "exa-PE-000467",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Bliss touched me as the wind brushed past."
+  },
+  {
+    "id": "exa-PE-000468",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even as the wind brushed past, I felt no bliss."
+  },
+  {
+    "id": "exa-PE-000469",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was content with the way the day ended."
+  },
+  {
+    "id": "exa-PE-000470",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The day ended, but I wasn’t content."
+  },
+  {
+    "id": "exa-PE-000471",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was glad when the signal turned clear."
+  },
+  {
+    "id": "exa-PE-000472",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when the signal turned clear, I wasn’t glad."
+  },
+  {
+    "id": "exa-PE-000473",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt upbeat while finishing the last note."
+  },
+  {
+    "id": "exa-PE-000474",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Finishing the last note gave me no upbeat mood."
+  },
+  {
+    "id": "exa-PE-000475",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was excited in a joyful way when the door opened."
+  },
+  {
+    "id": "exa-PE-000476",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The door opened, but I felt no excitement."
+  },
+  {
+    "id": "exa-PE-000477",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Joy filled me as the quiet hall echoed."
+  },
+  {
+    "id": "exa-PE-000478",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The quiet hall echoed, but no joy reached me."
+  },
+  {
+    "id": "exa-PE-000479",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was happy when the sky turned bright."
+  },
+  {
+    "id": "exa-PE-000480",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The sky turned bright, but I wasn’t happy."
+  },
+  {
+    "id": "exa-PE-000481",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt cheerful as the footsteps echoed back."
+  },
+  {
+    "id": "exa-PE-000482",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The footsteps echoed back, but I felt no cheer."
+  },
+  {
+    "id": "exa-PE-000483",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was delighted when the letterbox rattled again."
+  },
+  {
+    "id": "exa-PE-000484",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The letterbox rattled again, but I felt no delight."
+  },
+  {
+    "id": "exa-PE-000485",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was thrilled when the curtain lifted slowly."
+  },
+  {
+    "id": "exa-PE-000486",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "When the curtain lifted, I felt no thrill."
+  },
+  {
+    "id": "exa-PE-000487",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I laughed until my face turned red."
+  },
+  {
+    "id": "exa-PE-000488",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My face never turned red, because I didn’t laugh."
+  },
+  {
+    "id": "exa-PE-000489",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was ecstatic when the hall burst into sound."
+  },
+  {
+    "id": "exa-PE-000490",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Even when the hall burst into sound, I felt no ecstasy."
+  },
+  {
+    "id": "exa-PE-000491",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I smiled as I closed the wooden box."
+  },
+  {
+    "id": "exa-PE-000492",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Closing the wooden box gave me no smile."
+  },
+  {
+    "id": "exa-PE-000493",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Bliss filled me as the night air drifted in."
+  },
+  {
+    "id": "exa-PE-000494",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The night air drifted in, but I felt no bliss."
+  },
+  {
+    "id": "exa-PE-000495",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was content as the fire crackled softly."
+  },
+  {
+    "id": "exa-PE-000496",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The fire crackled softly, but I wasn’t content."
+  },
+  {
+    "id": "exa-PE-000497",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I was glad when the final word was spoken."
+  },
+  {
+    "id": "exa-PE-000498",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The final word was spoken, but I wasn’t glad."
+  },
+  {
+    "id": "exa-PE-000499",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I felt upbeat as I tapped the pencil twice."
+  },
+  {
+    "id": "exa-PE-000500",
+    "dimension": "Extraversion",
+    "subdimension": "Positive Emotions",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Tapping the pencil twice gave me no upbeat mood."
+  }
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+ 
+
+
+
+
+]

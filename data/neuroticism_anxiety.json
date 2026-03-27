@@ -1,0 +1,752 @@
+[
+{"id":"neu-anx-000001","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before a small quiz tomorrow, my heart races and my palms sweat; I imagine blanking out and failing."},
+{"id":"neu-anx-000002","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before a small quiz tomorrow, my heartbeat stays steady and my hands stay dry; I imagine recalling facts and passing."},
+
+{"id":"neu-anx-000003","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before next week’s team meeting, my breath turns short and my shoulders tense; I expect to freeze and be judged."},
+{"id":"neu-anx-000004","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before next week’s team meeting, my breath stays slow and my shoulders feel loose; I expect to speak clearly and be heard."},
+
+{"id":"neu-anx-000005","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before my job interview on Friday, my hands shake and my mouth goes dry; I see myself saying the wrong words and losing the offer."},
+{"id":"neu-anx-000006","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before my job interview on Friday, my hands stay steady and my mouth feels normal; I see myself giving clear answers and getting the offer."},
+
+{"id":"neu-anx-000007","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before my class presentation next period, my stomach knots and my chest feels tight; I foresee forgetting slides and going silent."},
+{"id":"neu-anx-000008","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before my class presentation next period, my stomach feels calm and my chest feels light; I foresee smooth slides and a clean finish."},
+
+{"id":"neu-anx-000009","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s flight, my legs feel weak and a cold sweat starts; I think of delays, lost bags, and missing connections."},
+{"id":"neu-anx-000010","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s flight, my legs feel strong and my skin stays dry; I think of an on-time boarding and an easy landing."},
+
+{"id":"neu-anx-000011","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the dentist visit this afternoon, my jaw clenches and my pulse jumps; I expect sharp pain and bad news."},
+{"id":"neu-anx-000012","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the dentist visit this afternoon, my jaw stays loose and my pulse is even; I expect a quick check and an all clear."},
+
+{"id":"neu-anx-000013","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the phone call with my advisor, my hands tremble and my back tightens; I imagine harsh words and a failed plan."},
+{"id":"neu-anx-000014","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the phone call with my advisor, my hands are steady and my back feels relaxed; I imagine helpful feedback and a clear plan."},
+
+{"id":"neu-anx-000015","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before checking the exam results tonight, my breath is fast and my chest feels heavy; I anticipate a low score and a retake."},
+{"id":"neu-anx-000016","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before checking the exam results tonight, my breath is slow and my chest feels open; I anticipate a solid score and a pass."},
+
+{"id":"neu-anx-000017","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s group demo, my fingers go numb and my neck stiffens; I see the app crashing and the room going quiet."},
+{"id":"neu-anx-000018","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s group demo, my fingers feel normal and my neck stays loose; I see a stable run and nods from the room."},
+
+{"id":"neu-anx-000019","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before Monday’s performance review, my palms sweat and my throat tightens; I foresee strict criticism and a pay cut."},
+{"id":"neu-anx-000020","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before Monday’s performance review, my palms stay dry and my throat feels open; I foresee fair praise and a chance at a raise."},
+
+{"id":"neu-anx-000021","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before my first driving test next week, my knees shake and my breath stutters; I expect to stall the car and fail fast."},
+{"id":"neu-anx-000022","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before my first driving test next week, my knees feel stable and my breath is even; I expect smooth starts and a pass."},
+
+{"id":"neu-anx-000023","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the visa interview next Tuesday, my heart pounds and my hands go cold; I think of missing papers and a denial."},
+{"id":"neu-anx-000024","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the visa interview next Tuesday, my heart is calm and my hands feel warm; I think of clear answers and an approval."},
+
+{"id":"neu-anx-000025","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s code review, my stomach churns and my shoulders lift; I imagine many bugs and a rollback."},
+{"id":"neu-anx-000026","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s code review, my stomach is quiet and my shoulders drop; I imagine clean notes and a merge."},
+
+{"id":"neu-anx-000027","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the parent meeting tonight, my face feels hot and my hands twitch; I see blame, raised voices, and shame."},
+{"id":"neu-anx-000028","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the parent meeting tonight, my face feels normal and my hands are still; I see calm talk and shared plans."},
+
+{"id":"neu-anx-000029","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the grant results release, my chest tightens and my breath hitches; I expect a rejection and a stalled project."},
+{"id":"neu-anx-000030","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the grant results release, my chest feels light and my breath is smooth; I expect an award and a green light."},
+
+{"id":"neu-anx-000031","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s thunderstorm forecast, my neck tenses and my hands clam up; I foresee a power loss and a flooded room."},
+{"id":"neu-anx-000032","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s thunderstorm forecast, my neck stays loose and my hands feel normal; I foresee brief rain and a dry home."},
+
+{"id":"neu-anx-000033","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before my speech next morning, my pulse spikes and my voice feels tight; I imagine a crack in my voice and awkward silence."},
+{"id":"neu-anx-000034","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before my speech next morning, my pulse is even and my voice feels free; I imagine a clear tone and steady applause."},
+
+{"id":"neu-anx-000035","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the first day at a new school, my stomach flips and my hands are cold; I think of getting lost and sitting alone."},
+{"id":"neu-anx-000036","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the first day at a new school, my stomach is calm and my hands feel warm; I think of finding rooms and meeting one friend."},
+
+{"id":"neu-anx-000037","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before sending my paper tonight, my temples throb and my fingers twitch; I expect fatal errors and a desk rejection."},
+{"id":"neu-anx-000038","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before sending my paper tonight, my head feels clear and my fingers move smoothly; I expect clean edits and a fair review."},
+
+{"id":"neu-anx-000039","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s lab check, my breath quickens and my back tightens; I see a failed run and broken gear."},
+{"id":"neu-anx-000040","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s lab check, my breath is even and my back feels relaxed; I see a clean run and working gear."},
+
+{"id":"neu-anx-000041","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s math quiz, my heart races and my hands sweat; I picture freezing and getting a low score."},
+{"id":"neu-anx-000042","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s math quiz, my heartbeat stays steady and my hands stay dry; I picture recalling steps and passing."},
+
+{"id":"neu-anx-000043","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of Friday’s code deploy, my breath turns short and my chest tightens; I picture a crash and a quick rollback."},
+{"id":"neu-anx-000044","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of Friday’s code deploy, my breath stays slow and my chest feels light; I picture clean logs and a stable release."},
+
+{"id":"neu-anx-000045","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before next week’s oral exam, my mouth goes dry and my knees shake; I picture blank answers and a fail."},
+{"id":"neu-anx-000046","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before next week’s oral exam, my mouth feels normal and my knees are stable; I picture clear answers and a pass."},
+
+{"id":"neu-anx-000047","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tonight’s live stream, my fingers tremble and my voice feels tight; I picture lag, silence, and drop-offs."},
+{"id":"neu-anx-000048","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tonight’s live stream, my hands are steady and my voice feels free; I picture smooth chat and steady viewers."},
+
+{"id":"neu-anx-000049","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of tomorrow’s doctor check, my jaw clenches and my pulse jumps; I picture bad results and more tests."},
+{"id":"neu-anx-000050","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of tomorrow’s doctor check, my jaw stays loose and my pulse is even; I picture normal results and a quick visit."},
+
+{"id":"neu-anx-000051","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the visa pickup next Tuesday, my hands go cold and my breath hitches; I picture a refusal stamp and travel blocked."},
+{"id":"neu-anx-000052","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the visa pickup next Tuesday, my hands feel warm and my breath is smooth; I picture an approval and tickets set."},
+
+{"id":"neu-anx-000053","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the night before my first class, my stomach knots and my shoulders tense; I picture getting lost and sitting alone."},
+{"id":"neu-anx-000054","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the night before my first class, my stomach is calm and my shoulders feel loose; I picture finding rooms and meeting someone."},
+
+{"id":"neu-anx-000055","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the sprint review, my chest feels heavy and my hands shake; I picture harsh notes and a redo."},
+{"id":"neu-anx-000056","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the sprint review, my chest feels light and my hands are steady; I picture clear notes and a ship."},
+
+{"id":"neu-anx-000057","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s thunderstorm, my neck stiffens and my skin turns clammy; I picture a blackout and a leak."},
+{"id":"neu-anx-000058","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s thunderstorm, my neck stays loose and my skin feels normal; I picture brief rain and a dry room."},
+
+{"id":"neu-anx-000059","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of Monday’s standup, my breath is fast and my throat tightens; I picture stumbling and long silence."},
+{"id":"neu-anx-000060","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of Monday’s standup, my breath is slow and my throat feels open; I picture short updates and nods."},
+
+{"id":"neu-anx-000061","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"The night before my piano recital, my hands sweat and my fingers feel numb; I picture missed notes and a halt."},
+{"id":"neu-anx-000062","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"The night before my piano recital, my hands stay dry and my fingers feel normal; I picture clean runs and applause."},
+
+{"id":"neu-anx-000063","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the grant hearing next month, my temples throb and my back tightens; I picture tough questions and a no."},
+{"id":"neu-anx-000064","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the grant hearing next month, my head feels clear and my back is relaxed; I picture fair questions and a yes."},
+
+{"id":"neu-anx-000065","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the team demo, my breath stutters and my palms are slick; I picture a freeze and a failed build."},
+{"id":"neu-anx-000066","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the team demo, my breath is even and my palms stay dry; I picture a smooth run and green checks."},
+
+{"id":"neu-anx-000067","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the flight change tomorrow, my legs feel weak and my chest is tight; I picture missed gates and a night at the airport."},
+{"id":"neu-anx-000068","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the flight change tomorrow, my legs feel strong and my chest feels open; I picture quick lines and an easy switch."},
+
+{"id":"neu-anx-000069","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the lab safety check, my breath turns shallow and my shoulders rise; I picture a citation and shut down."},
+{"id":"neu-anx-000070","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the lab safety check, my breath is deep and my shoulders drop; I picture a clean pass and a thumbs-up."},
+
+{"id":"neu-anx-000071","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the bank appointment at noon, my hands tremble and my throat feels tight; I picture missing papers and a delay."},
+{"id":"neu-anx-000072","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the bank appointment at noon, my hands are steady and my throat is open; I picture complete files and quick approval."},
+
+{"id":"neu-anx-000073","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Tonight before sending the resume, my stomach churns and my pulse spikes; I picture typos and no reply."},
+{"id":"neu-anx-000074","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Tonight before sending the resume, my stomach is quiet and my pulse is even; I picture clean text and a quick reply."},
+
+{"id":"neu-anx-000075","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s parent-teacher talk, my face feels hot and my jaw locks; I picture blame and raised voices."},
+{"id":"neu-anx-000076","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s parent-teacher talk, my face feels normal and my jaw stays loose; I picture calm words and a plan."},
+
+{"id":"neu-anx-000077","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the scholarship interview, my hands go icy and my breath is choppy; I picture a blank mind and a decline."},
+{"id":"neu-anx-000078","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the scholarship interview, my hands feel warm and my breath is steady; I picture clear talk and a grant."},
+
+{"id":"neu-anx-000079","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the field trip tomorrow, my chest tightens and my legs wobble; I picture getting sick and holding the group back."},
+{"id":"neu-anx-000080","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the field trip tomorrow, my chest feels open and my legs feel firm; I picture steady steps and fun sights."},
+
+{"id":"neu-anx-000081","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the eve of my thesis defense, my palms sweat and my voice shakes; I picture hard attacks and no answers."},
+{"id":"neu-anx-000082","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the eve of my thesis defense, my palms stay dry and my voice is steady; I picture firm answers and a pass."},
+
+{"id":"neu-anx-000083","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the poster session, my shoulders tense and my heart hammers; I picture blank faces and weak questions."},
+{"id":"neu-anx-000084","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the poster session, my shoulders are loose and my heart is calm; I picture engaged eyes and good talk."},
+
+{"id":"neu-anx-000085","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the audit call, my breath is tight and my hands twitch; I picture missing numbers and a penalty."},
+{"id":"neu-anx-000086","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the audit call, my breath is easy and my hands are still; I picture clear books and a green light."},
+
+{"id":"neu-anx-000087","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before my first club tryout, my stomach flips and my knees wobble; I picture early mistakes and a cut."},
+{"id":"neu-anx-000088","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before my first club tryout, my stomach is calm and my knees feel firm; I picture steady moves and a pick."},
+
+{"id":"neu-anx-000089","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the night before the debate, my mouth dries and my chest is tight; I picture losing points and going blank."},
+{"id":"neu-anx-000090","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the night before the debate, my mouth feels normal and my chest is light; I picture sharp points and a clear close."},
+
+{"id":"neu-anx-000091","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the customs check tomorrow, my hands shake and my breath turns fast; I picture long questions and a hold."},
+{"id":"neu-anx-000092","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the customs check tomorrow, my hands are steady and my breath is slow; I picture short questions and go ahead."},
+
+{"id":"neu-anx-000093","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the rental inspection, my neck tightens and my palms sweat; I picture a long list and extra fees."},
+{"id":"neu-anx-000094","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the rental inspection, my neck stays loose and my palms are dry; I picture a short list and no fees."},
+
+{"id":"neu-anx-000095","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the package delivery window, my pulse jumps and my shoulders rise; I picture a lost box and a claim."},
+{"id":"neu-anx-000096","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the package delivery window, my pulse is even and my shoulders drop; I picture a knock and a safe box."},
+
+{"id":"neu-anx-000097","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the midterm, my hands are clammy and my breath is quick; I picture tricky items and a low grade."},
+{"id":"neu-anx-000098","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the midterm, my hands stay dry and my breath is smooth; I picture clear items and a fair grade."},
+
+{"id":"neu-anx-000099","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the phone screen tomorrow, my throat tightens and my lips feel dry; I picture awkward pauses and a reject."},
+{"id":"neu-anx-000100","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the phone screen tomorrow, my throat is open and my lips feel normal; I picture smooth talk and a next step."},
+
+{"id":"neu-anx-000101","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the night before the hackathon, my chest pounds and my hands tingle; I picture broken builds and no demo."},
+{"id":"neu-anx-000102","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the night before the hackathon, my chest is calm and my hands feel normal; I picture working builds and a demo."},
+
+{"id":"neu-anx-000103","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the group trip this weekend, my stomach twists and my breath hitches; I picture missed trains and lost tickets."},
+{"id":"neu-anx-000104","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the group trip this weekend, my stomach is calm and my breath is steady; I picture on-time trains and safe tickets."},
+
+{"id":"neu-anx-000105","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of tomorrow’s practice match, my legs feel weak and my hands shake; I picture early errors and a loss."},
+{"id":"neu-anx-000106","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of tomorrow’s practice match, my legs feel strong and my hands are steady; I picture clean plays and a win."},
+
+{"id":"neu-anx-000107","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the camera test tomorrow, my voice wavers and my shoulders tense; I picture bad angles and retakes."},
+{"id":"neu-anx-000108","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the camera test tomorrow, my voice is steady and my shoulders are loose; I picture good angles and one take."},
+
+{"id":"neu-anx-000109","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the lab report deadline, my temples throb and my fingers twitch; I picture wrong plots and a reject."},
+{"id":"neu-anx-000110","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the lab report deadline, my head feels clear and my fingers move smoothly; I picture neat plots and a submit."},
+
+{"id":"neu-anx-000111","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the eve of the field exam, my breath is sharp and my chest is tight; I picture wrong samples and a fail."},
+{"id":"neu-anx-000112","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the eve of the field exam, my breath is gentle and my chest feels light; I picture correct samples and a pass."},
+
+{"id":"neu-anx-000113","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the Q&A tomorrow, my mouth dries and my hands sweat; I picture hard hits and no words."},
+{"id":"neu-anx-000114","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the Q&A tomorrow, my mouth feels normal and my hands stay dry; I picture fair hits and clear words."},
+
+{"id":"neu-anx-000115","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the rehearsal tonight, my knees shake and my neck stiffens; I picture missed cues and a stop."},
+{"id":"neu-anx-000116","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the rehearsal tonight, my knees feel firm and my neck stays loose; I picture sharp cues and a flow."},
+
+{"id":"neu-anx-000117","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the photo shoot tomorrow, my hands tremble and my face feels hot; I picture stiff poses and bad shots."},
+{"id":"neu-anx-000118","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the photo shoot tomorrow, my hands are steady and my face feels normal; I picture easy poses and clean shots."},
+
+{"id":"neu-anx-000119","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the night before the driving test, my stomach flips and my breath is rapid; I picture stalls and a fail."},
+{"id":"neu-anx-000120","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the night before the driving test, my stomach is calm and my breath is smooth; I picture steady starts and a pass."},
+
+{"id":"neu-anx-000121","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the dorm check, my chest tightens and my palms sweat; I picture fines and warnings."},
+{"id":"neu-anx-000122","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the dorm check, my chest feels open and my palms stay dry; I picture a quick look and no notes."},
+
+{"id":"neu-anx-000123","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the quiz retake on Friday, my heart hammers and my throat tightens; I picture new traps and another fail."},
+{"id":"neu-anx-000124","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the quiz retake on Friday, my heart is calm and my throat is open; I picture fair items and a pass."},
+
+{"id":"neu-anx-000125","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the app demo, my fingers tingle and my breath skips; I picture a crash and blank screens."},
+{"id":"neu-anx-000126","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the app demo, my fingers feel normal and my breath is even; I picture smooth screens and claps."},
+
+{"id":"neu-anx-000127","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the festival trip, my legs feel weak and my mouth is dry; I picture crowds, confusion, and getting lost."},
+{"id":"neu-anx-000128","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the festival trip, my legs feel strong and my mouth feels normal; I picture clear signs and easy paths."},
+
+{"id":"neu-anx-000129","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the eve of the mock interview, my voice shakes and my shoulders tense; I picture weak answers and no call back."},
+{"id":"neu-anx-000130","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the eve of the mock interview, my voice is steady and my shoulders are loose; I picture crisp answers and good notes."},
+
+{"id":"neu-anx-000131","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the class observation, my breath is jagged and my chest is tight; I picture dead air and lost time."},
+{"id":"neu-anx-000132","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the class observation, my breath is even and my chest feels light; I picture clear steps and full time."},
+
+{"id":"neu-anx-000133","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s team retro, my hands sweat and my face burns; I picture blame and a long debate."},
+{"id":"neu-anx-000134","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s team retro, my hands stay dry and my face feels normal; I picture calm talk and fast action items."},
+
+{"id":"neu-anx-000135","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Two hours before the quiz bowl, my pulse spikes and my mouth dries; I picture buzzing late and losing points."},
+{"id":"neu-anx-000136","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Two hours before the quiz bowl, my pulse is even and my mouth is normal; I picture quick buzzes and points won."},
+
+{"id":"neu-anx-000137","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the meeting with the dean, my hands tremble and my neck stiffens; I picture hard questions and a block."},
+{"id":"neu-anx-000138","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the meeting with the dean, my hands are steady and my neck stays loose; I picture fair questions and a go-ahead."},
+
+{"id":"neu-anx-000139","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of tomorrow’s landlord visit, my breath is short and my shoulders rise; I picture complaints and extra costs."},
+{"id":"neu-anx-000140","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of tomorrow’s landlord visit, my breath is slow and my shoulders drop; I picture quick checks and no costs."},
+
+{"id":"neu-anx-000141","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s lab quiz, my heart races and my palms sweat; I imagine going blank and failing fast."},
+{"id":"neu-anx-000142","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s lab quiz, my heartbeat is steady and my hands stay dry; I imagine neat recall and a pass."},
+
+{"id":"neu-anx-000143","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of Friday’s project pitch, my breath turns shallow and my chest feels tight; I expect silence and a hard no."},
+{"id":"neu-anx-000144","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of Friday’s project pitch, my breath is slow and my chest feels light; I expect nods and a clear yes."},
+
+{"id":"neu-anx-000145","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before next week’s midterm, my stomach knots and my fingers tremble; I see myself stuck on page one and quitting."},
+{"id":"neu-anx-000146","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before next week’s midterm, my stomach is calm and my hands are steady; I see myself moving page by page and finishing."},
+
+{"id":"neu-anx-000147","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the server migration, my pulse jumps and my shoulders tense; I run through a crash, lost data, and a rollback."},
+{"id":"neu-anx-000148","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the server migration, my pulse is even and my shoulders are loose; I run through a smooth switch and green checks."},
+
+{"id":"neu-anx-000149","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the night before my recital, my hands shake and my jaw clenches; I foresee missed notes and a stop mid-song."},
+{"id":"neu-anx-000150","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the night before my recital, my hands are steady and my jaw is loose; I foresee clean notes and steady claps."},
+
+{"id":"neu-anx-000151","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s bus transfer, my legs feel weak and my breath is fast; I think of missing the stop and sleeping at the station."},
+{"id":"neu-anx-000152","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s bus transfer, my legs feel strong and my breath is smooth; I think of easy timing and a warm seat."},
+
+{"id":"neu-anx-000153","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the scholarship result email, my throat tightens and my face feels hot; I imagine a rejection and a dead plan."},
+{"id":"neu-anx-000154","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the scholarship result email, my throat feels open and my face is normal; I imagine an award and a fresh start."},
+
+{"id":"neu-anx-000155","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before Monday’s class observation, my breath stutters and my neck stiffens; I see myself freezing and losing time."},
+{"id":"neu-anx-000156","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before Monday’s class observation, my breath is even and my neck stays loose; I see myself guiding steps and using time well."},
+
+{"id":"neu-anx-000157","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the code review, my palms sweat and my chest is heavy; I rehearse harsh comments and a reject."},
+{"id":"neu-anx-000158","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the code review, my palms are dry and my chest feels light; I rehearse clear notes and a merge."},
+
+{"id":"neu-anx-000159","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s storm warning, my skin turns clammy and my shoulders rise; I expect a power cut and water on the floor."},
+{"id":"neu-anx-000160","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s storm warning, my skin feels normal and my shoulders drop; I expect brief rain and a dry room."},
+
+{"id":"neu-anx-000161","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the eve of my driving test, my knees shake and my breath is short; I fear stalls, wrong turns, and a fail."},
+{"id":"neu-anx-000162","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the eve of my driving test, my knees are steady and my breath is deep; I plan on smooth turns and a pass."},
+
+{"id":"neu-anx-000163","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the dental work this afternoon, my heart pounds and my hands go cold; I imagine sharp pain and bad news."},
+{"id":"neu-anx-000164","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the dental work this afternoon, my heart is calm and my hands feel warm; I imagine mild work and all clear."},
+
+{"id":"neu-anx-000165","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the visa interview, my mouth goes dry and my chest tightens; I foresee missing papers and a denial."},
+{"id":"neu-anx-000166","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the visa interview, my mouth feels normal and my chest is light; I foresee clear answers and approval."},
+
+{"id":"neu-anx-000167","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s hackathon start, my fingers tingle and my back tightens; I think of broken builds and no demo."},
+{"id":"neu-anx-000168","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s hackathon start, my fingers move smoothly and my back is relaxed; I think of working builds and a demo."},
+
+{"id":"neu-anx-000169","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"The night before the debate, my voice wavers and my face feels hot; I run through lost points and long pauses."},
+{"id":"neu-anx-000170","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"The night before the debate, my voice is steady and my face is cool; I run through sharp points and short pauses."},
+
+{"id":"neu-anx-000171","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the audit call, my breath is choppy and my palms sweat; I see missing lines and a fine."},
+{"id":"neu-anx-000172","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the audit call, my breath is easy and my palms stay dry; I see clean lines and a pass."},
+
+{"id":"neu-anx-000173","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the team tryout tomorrow, my legs wobble and my throat tightens; I imagine early errors and a cut."},
+{"id":"neu-anx-000174","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the team tryout tomorrow, my legs feel firm and my throat is open; I imagine steady plays and a pick."},
+
+{"id":"neu-anx-000175","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the eve of the parent call, my hands shake and my shoulders tense; I expect blame, raised voices, and shame."},
+{"id":"neu-anx-000176","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the eve of the parent call, my hands are still and my shoulders are loose; I expect calm talk and a plan."},
+
+{"id":"neu-anx-000177","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s customs check, my breath quickens and my neck stiffens; I see long questions and a hold."},
+{"id":"neu-anx-000178","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s customs check, my breath is slow and my neck stays loose; I see brief questions and a wave through."},
+
+{"id":"neu-anx-000179","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the rental inspection, my chest feels heavy and my palms sweat; I think of a long list and extra fees."},
+{"id":"neu-anx-000180","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the rental inspection, my chest is light and my palms are dry; I think of a short list and no fees."},
+
+{"id":"neu-anx-000181","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before sending my resume, my pulse spikes and my mouth dries; I rehearse typos, silence, and no call back."},
+{"id":"neu-anx-000182","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before sending my resume, my pulse is even and my mouth feels normal; I rehearse clean text and a quick reply."},
+
+{"id":"neu-anx-000183","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the group demo, my fingers go numb and my back tightens; I foresee a crash and a silent room."},
+{"id":"neu-anx-000184","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the group demo, my fingers feel normal and my back is relaxed; I foresee a stable run and light claps."},
+
+{"id":"neu-anx-000185","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the flight tomorrow, my legs feel weak and my skin turns clammy; I see delays, lost bags, and a missed link."},
+{"id":"neu-anx-000186","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the flight tomorrow, my legs feel strong and my skin feels normal; I see on-time boarding and an easy link."},
+
+{"id":"neu-anx-000187","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the night before the open book test, my heart hammers and my shoulders rise; I imagine tricky rules and a low score."},
+{"id":"neu-anx-000188","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the night before the open book test, my heart is calm and my shoulders drop; I imagine clear rules and a fair score."},
+
+{"id":"neu-anx-000189","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s code merge, my breath is sharp and my palms sweat; I expect conflicts and a rollback."},
+{"id":"neu-anx-000190","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s code merge, my breath is smooth and my palms stay dry; I expect clean diffs and a merge."},
+
+{"id":"neu-anx-000191","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the grant pitch, my voice shakes and my chest is tight; I think of tough faces and a rejection."},
+{"id":"neu-anx-000192","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the grant pitch, my voice is steady and my chest is light; I think of kind faces and an approval."},
+
+{"id":"neu-anx-000193","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the club audition, my knees wobble and my mouth feels dry; I run through missed cues and a no."},
+{"id":"neu-anx-000194","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the club audition, my knees are stable and my mouth feels normal; I run through sharp cues and a yes."},
+
+{"id":"neu-anx-000195","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the standup, my throat tightens and my breath is fast; I foresee stumbles and a long pause."},
+{"id":"neu-anx-000196","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the standup, my throat is open and my breath is slow; I foresee short lines and a quick end."},
+
+{"id":"neu-anx-000197","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the eve of the field trip, my stomach twists and my chest feels heavy; I see myself sick and slowing the group."},
+{"id":"neu-anx-000198","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the eve of the field trip, my stomach is quiet and my chest is light; I see myself fine and keeping pace."},
+
+{"id":"neu-anx-000199","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the Q&A tomorrow, my hands tremble and my neck stiffens; I imagine hard hits and no words."},
+{"id":"neu-anx-000200","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the Q&A tomorrow, my hands are still and my neck stays loose; I imagine fair hits and clear words."},
+
+{"id":"neu-anx-000201","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the police registration, my face feels hot and my breath hitches; I fear missing forms and a long wait."},
+{"id":"neu-anx-000202","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the police registration, my face is cool and my breath is smooth; I plan for full forms and a quick stamp."},
+
+{"id":"neu-anx-000203","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the package arrives, my pulse jumps and my palms sweat; I foresee a lost box and a claim."},
+{"id":"neu-anx-000204","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the package arrives, my pulse is even and my palms are dry; I foresee a knock and a safe box."},
+
+{"id":"neu-anx-000205","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the lab safety check, my shoulders rise and my hands shake; I think of a citation and a shutdown."},
+{"id":"neu-anx-000206","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the lab safety check, my shoulders drop and my hands are steady; I think of a clean pass and a thumbs-up."},
+
+{"id":"neu-anx-000207","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the night before the phone screen, my chest pounds and my mouth dries; I see awkward gaps and a reject."},
+{"id":"neu-anx-000208","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the night before the phone screen, my chest is calm and my mouth feels normal; I see smooth talk and a next step."},
+
+{"id":"neu-anx-000209","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the mock lesson, my breath is tight and my fingers twitch; I imagine dead air and blank faces."},
+{"id":"neu-anx-000210","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the mock lesson, my breath is gentle and my fingers move smoothly; I imagine clear steps and bright eyes."},
+
+{"id":"neu-anx-000211","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the advisor call, my hands tremble and my back tightens; I expect harsh words and a blocked plan."},
+{"id":"neu-anx-000212","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the advisor call, my hands are steady and my back is relaxed; I expect helpful notes and a clear plan."},
+
+{"id":"neu-anx-000213","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before Friday’s demo day, my knees shake and my throat tightens; I run through a frozen screen and silence."},
+{"id":"neu-anx-000214","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before Friday’s demo day, my knees feel firm and my throat is open; I run through smooth slides and light claps."},
+
+{"id":"neu-anx-000215","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the eve of my performance review, my palms sweat and my chest feels heavy; I see a pay cut and strict notes."},
+{"id":"neu-anx-000216","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the eve of my performance review, my palms are dry and my chest is light; I see fair praise and a raise chance."},
+
+{"id":"neu-anx-000217","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s quiz retake, my heart races and my shoulders tense; I imagine trick items and another fail."},
+{"id":"neu-anx-000218","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s quiz retake, my heart is calm and my shoulders are loose; I imagine fair items and a pass."},
+
+{"id":"neu-anx-000219","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the panel Q&A, my voice shakes and my breath is fast; I think of tough hits and no answers."},
+{"id":"neu-anx-000220","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the panel Q&A, my voice is steady and my breath is slow; I think of clear hits and firm answers."},
+
+{"id":"neu-anx-000221","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the poster session, my chest tightens and my hands sweat; I foresee blank faces and weak talk."},
+{"id":"neu-anx-000222","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the poster session, my chest is open and my hands stay dry; I foresee engaged faces and good talk."},
+
+{"id":"neu-anx-000223","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the housing tour, my pulse jumps and my neck stiffens; I see leaks, noise, and a lost deposit."},
+{"id":"neu-anx-000224","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the housing tour, my pulse is even and my neck stays loose; I see a quiet unit and a fair lease."},
+
+{"id":"neu-anx-000225","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the night before the swim test, my legs feel weak and my throat tightens; I imagine cramps and a fail."},
+{"id":"neu-anx-000226","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the night before the swim test, my legs feel strong and my throat is open; I imagine steady laps and a pass."},
+
+{"id":"neu-anx-000227","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the workshop talk, my breath is jagged and my mouth is dry; I expect a blank mind and cold room."},
+{"id":"neu-anx-000228","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the workshop talk, my breath is even and my mouth feels normal; I expect clear lines and warm eyes."},
+
+{"id":"neu-anx-000229","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the bank loan meeting, my hands tremble and my shoulders rise; I think of errors and a denial."},
+{"id":"neu-anx-000230","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the bank loan meeting, my hands are steady and my shoulders drop; I think of clean forms and approval."},
+
+{"id":"neu-anx-000231","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the code exam, my chest pounds and my fingers twitch; I rehearse syntax traps and a fail."},
+{"id":"neu-anx-000232","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the code exam, my chest is calm and my fingers move smoothly; I rehearse clear logic and a pass."},
+
+{"id":"neu-anx-000233","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the eve of the job fair, my face feels hot and my breath is fast; I foresee long lines and no offers."},
+{"id":"neu-anx-000234","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the eve of the job fair, my face is cool and my breath is slow; I foresee quick chats and a few offers."},
+
+{"id":"neu-anx-000235","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s peer review, my stomach churns and my jaw clenches; I imagine harsh marks and a redo."},
+{"id":"neu-anx-000236","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s peer review, my stomach is calm and my jaw is loose; I imagine fair marks and a submit."},
+
+{"id":"neu-anx-000237","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the airport check-in, my hands sweat and my throat tightens; I see long queues and a missed flight."},
+{"id":"neu-anx-000238","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the airport check-in, my hands stay dry and my throat is open; I see short queues and a calm boarding."},
+
+{"id":"neu-anx-000239","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the plagiarism scan tonight, my heart races and my back tightens; I think of false flags and a report."},
+{"id":"neu-anx-000240","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the plagiarism scan tonight, my heart is steady and my back is relaxed; I think of clean checks and a submit."},
+
+{"id":"neu-anx-000241","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s math quiz, my heart races and my palms sweat; I imagine going blank and failing hard."},
+{"id":"neu-anx-000242","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s math quiz, my heartbeat is steady and my hands stay dry; I imagine steady recall and a pass."},
+
+{"id":"neu-anx-000243","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of Friday’s lab check, my breath turns short and my chest is tight; I expect a citation and shutdown."},
+{"id":"neu-anx-000244","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of Friday’s lab check, my breath is slow and my chest feels open; I expect a clean pass and a nod."},
+
+{"id":"neu-anx-000245","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the eve of my talk, my mouth dries and my hands tremble; I see myself freezing and losing words."},
+{"id":"neu-anx-000246","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the eve of my talk, my mouth feels normal and my hands are steady; I see myself speaking clearly and finishing well."},
+
+{"id":"neu-anx-000247","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the code deploy, my pulse jumps and my shoulders tense; I foresee a crash and a rollback."},
+{"id":"neu-anx-000248","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the code deploy, my pulse is even and my shoulders are loose; I foresee smooth logs and green checks."},
+
+{"id":"neu-anx-000249","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tonight’s interview, my knees shake and my throat tightens; I fear awkward gaps and a reject."},
+{"id":"neu-anx-000250","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tonight’s interview, my knees are stable and my throat is open; I hope for steady talk and a next round."},
+
+{"id":"neu-anx-000251","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Prior to the dentist visit this afternoon, my jaw clenches and my heart pounds; I suppose there will be pain and bad news."},
+{"id":"neu-anx-000252","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Prior to the dentist visit this afternoon, my jaw stays loose and my heart is calm; I suppose it will be quick and fine."},
+
+{"id":"neu-anx-000253","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s flight, my legs wobble and my skin turns clammy; I expect delays, lost bags, and a missed link."},
+{"id":"neu-anx-000254","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s flight, my legs feel strong and my skin feels normal; I expect on-time boarding and an easy link."},
+
+{"id":"neu-anx-000255","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of Monday’s standup, my breath is sharp and my hands shake; I run through stumbles and a long pause."},
+{"id":"neu-anx-000256","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of Monday’s standup, my breath is smooth and my hands are still; I run through short lines and a clean end."},
+
+{"id":"neu-anx-000257","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the night before the debate, my face feels hot and my voice wavers; I think of lost points and silence."},
+{"id":"neu-anx-000258","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the night before the debate, my face is cool and my voice is steady; I think of sharp points and a clear close."},
+
+{"id":"neu-anx-000259","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the visa interview, my palms sweat and my chest is tight; I foresee missing papers and a denial."},
+{"id":"neu-anx-000260","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the visa interview, my palms are dry and my chest feels light; I foresee clear answers and approval."},
+
+{"id":"neu-anx-000261","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Prior to the grant result email, my stomach knots and my breath hitches; I imagine a rejection and a stalled plan."},
+{"id":"neu-anx-000262","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Prior to the grant result email, my stomach is calm and my breath is even; I imagine an award and a green light."},
+
+{"id":"neu-anx-000263","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s rehearsal, my fingers tingle and my back tightens; I expect missed cues and a stop."},
+{"id":"neu-anx-000264","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s rehearsal, my fingers feel normal and my back is relaxed; I expect sharp cues and a flow."},
+
+{"id":"neu-anx-000265","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the customs check, my hands tremble and my throat tightens; I fear long questions and a hold."},
+{"id":"neu-anx-000266","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the customs check, my hands are steady and my throat is open; I hope for brief questions and a wave through."},
+
+{"id":"neu-anx-000267","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the team demo tomorrow, my breath turns choppy and my shoulders rise; I foresee a frozen screen and silence."},
+{"id":"neu-anx-000268","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the team demo tomorrow, my breath is easy and my shoulders drop; I foresee smooth slides and light claps."},
+
+{"id":"neu-anx-000269","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the eve of the practice match, my legs feel weak and my chest is heavy; I think of early errors and a loss."},
+{"id":"neu-anx-000270","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the eve of the practice match, my legs feel strong and my chest is light; I think of clean plays and a win."},
+
+{"id":"neu-anx-000271","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the poster session, my heart hammers and my palms sweat; I expect blank faces and weak talk."},
+{"id":"neu-anx-000272","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the poster session, my heart is calm and my palms stay dry; I expect engaged faces and good talk."},
+
+{"id":"neu-anx-000273","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Prior to the code exam, my breath is sharp and my mouth dries; I rehearse syntax traps and a fail."},
+{"id":"neu-anx-000274","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Prior to the code exam, my breath is smooth and my mouth is normal; I rehearse clear logic and a pass."},
+
+{"id":"neu-anx-000275","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of tomorrow’s field trip, my stomach twists and my hands shake; I imagine getting sick and holding the group back."},
+{"id":"neu-anx-000276","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of tomorrow’s field trip, my stomach is quiet and my hands are steady; I imagine steady steps and good sights."},
+
+{"id":"neu-anx-000277","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the bank meeting, my face feels hot and my pulse jumps; I suppose errors and a denial."},
+{"id":"neu-anx-000278","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the bank meeting, my face is cool and my pulse is even; I suppose clean forms and approval."},
+
+{"id":"neu-anx-000279","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Just before the class observation, my breath stutters and my neck stiffens; I see dead air and lost time."},
+{"id":"neu-anx-000280","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Just before the class observation, my breath is even and my neck stays loose; I see clear steps and full time."},
+
+{"id":"neu-anx-000281","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Prior to the package window, my chest tightens and my palms sweat; I expect a lost box and a claim."},
+{"id":"neu-anx-000282","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Prior to the package window, my chest is light and my palms are dry; I expect a knock and a safe box."},
+
+{"id":"neu-anx-000283","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the night before the phone screen, my hands tremble and my throat tightens; I worry about gaps and a quick reject."},
+{"id":"neu-anx-000284","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the night before the phone screen, my hands are still and my throat is open; I hope for smooth talk and a next step."},
+
+{"id":"neu-anx-000285","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the mock lesson, my breath is jagged and my back tightens; I foresee blank faces and no flow."},
+{"id":"neu-anx-000286","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the mock lesson, my breath is gentle and my back is relaxed; I foresee bright eyes and steady flow."},
+
+{"id":"neu-anx-000287","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of Friday’s demo day, my knees shake and my voice wavers; I think of a frozen app and silence."},
+{"id":"neu-anx-000288","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of Friday’s demo day, my knees are firm and my voice is steady; I think of a stable app and light claps."},
+
+{"id":"neu-anx-000289","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the peer review, my stomach churns and my jaw clenches; I expect harsh marks and a redo."},
+{"id":"neu-anx-000290","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the peer review, my stomach is calm and my jaw is loose; I expect fair marks and a submit."},
+
+{"id":"neu-anx-000291","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Prior to the meeting with the dean, my hands shake and my neck stiffens; I foresee tough questions and a block."},
+{"id":"neu-anx-000292","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Prior to the meeting with the dean, my hands are steady and my neck stays loose; I foresee fair questions and a go-ahead."},
+
+{"id":"neu-anx-000293","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the housing tour, my pulse spikes and my shoulders rise; I imagine leaks, noise, and a bad lease."},
+{"id":"neu-anx-000294","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the housing tour, my pulse is even and my shoulders drop; I imagine quiet rooms and a fair lease."},
+
+{"id":"neu-anx-000295","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the audit call, my breath is tight and my palms are slick; I think of missing lines and a fine."},
+{"id":"neu-anx-000296","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the audit call, my breath is easy and my palms stay dry; I think of clear lines and a pass."},
+
+{"id":"neu-anx-000297","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the job fair, my face heats and my chest tightens; I suppose long lines and no offers."},
+{"id":"neu-anx-000298","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the job fair, my face is cool and my chest is light; I suppose quick chats and some offers."},
+
+{"id":"neu-anx-000299","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s midterm, my heart pounds and my fingers twitch; I fear tricky items and a low grade."},
+{"id":"neu-anx-000300","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s midterm, my heart is calm and my fingers move smoothly; I hope for clear items and a fair grade."},
+
+{"id":"neu-anx-000301","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Prior to the workshop talk, my breath is rough and my mouth is dry; I run through a blank mind and cold eyes."},
+{"id":"neu-anx-000302","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Prior to the workshop talk, my breath is even and my mouth feels normal; I run through clear lines and warm eyes."},
+
+{"id":"neu-anx-000303","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the team retro, my palms sweat and my chest is heavy; I foresee blame and a long dispute."},
+{"id":"neu-anx-000304","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the team retro, my palms are dry and my chest is light; I foresee calm talk and quick actions."},
+
+{"id":"neu-anx-000305","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the rental inspection, my neck tightens and my breath hitches; I think of a long list and extra fees."},
+{"id":"neu-anx-000306","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the rental inspection, my neck stays loose and my breath is smooth; I think of a short list and no fees."},
+
+{"id":"neu-anx-000307","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Just before the open book test, my shoulders tense and my heart races; I imagine rule traps and a fail."},
+{"id":"neu-anx-000308","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Just before the open book test, my shoulders are loose and my heart is steady; I imagine clear rules and a pass."},
+
+{"id":"neu-anx-000309","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Prior to the advisor call, my hands shake and my back tightens; I expect harsh notes and a blocked plan."},
+{"id":"neu-anx-000310","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Prior to the advisor call, my hands are steady and my back is relaxed; I expect helpful notes and a clear plan."},
+
+{"id":"neu-anx-000311","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s quiz retake, my breath is sharp and my palms sweat; I fear new traps and another fail."},
+{"id":"neu-anx-000312","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s quiz retake, my breath is smooth and my palms stay dry; I hope for fair items and a pass."},
+
+{"id":"neu-anx-000313","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the scholarship interview, my knees shake and my voice wavers; I suppose weak answers and a decline."},
+{"id":"neu-anx-000314","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the scholarship interview, my knees are firm and my voice is steady; I suppose crisp answers and a grant."},
+
+{"id":"neu-anx-000315","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the group trip, my stomach flips and my breath is fast; I think of missed trains and lost tickets."},
+{"id":"neu-anx-000316","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the group trip, my stomach is calm and my breath is slow; I think of on-time trains and safe tickets."},
+
+{"id":"neu-anx-000317","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the eve of the recital, my fingers tingle and my mouth dries; I foresee missed notes and a halt."},
+{"id":"neu-anx-000318","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the eve of the recital, my fingers feel normal and my mouth is normal; I foresee clean notes and applause."},
+
+{"id":"neu-anx-000319","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Prior to the code merge, my chest tightens and my breath hitches; I expect bad conflicts and a rollback."},
+{"id":"neu-anx-000320","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Prior to the code merge, my chest is light and my breath is even; I expect clean diffs and a merge."},
+
+{"id":"neu-anx-000321","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the parent meeting, my face burns and my hands tremble; I fear blame and raised voices."},
+{"id":"neu-anx-000322","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the parent meeting, my face feels normal and my hands are still; I hope for calm words and a plan."},
+
+{"id":"neu-anx-000323","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the poster Q&A, my breath is jagged and my chest is tight; I imagine hard hits and no answers."},
+{"id":"neu-anx-000324","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the poster Q&A, my breath is even and my chest is open; I imagine fair hits and firm answers."},
+
+{"id":"neu-anx-000325","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Just before the dorm check, my palms sweat and my shoulders rise; I suppose fines and warnings."},
+{"id":"neu-anx-000326","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Just before the dorm check, my palms stay dry and my shoulders drop; I suppose a quick look and no notes."},
+
+{"id":"neu-anx-000327","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Prior to the midterm review, my heart races and my throat tightens; I rehearse low scores and a retake."},
+{"id":"neu-anx-000328","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Prior to the midterm review, my heart is steady and my throat is open; I rehearse fair scores and a pass."},
+
+{"id":"neu-anx-000329","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the camera test, my voice shakes and my neck stiffens; I think of bad angles and many retakes."},
+{"id":"neu-anx-000330","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the camera test, my voice is steady and my neck stays loose; I think of good angles and one take."},
+
+{"id":"neu-anx-000331","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the thesis defense, my palms sweat and my chest feels heavy; I foresee tough attacks and no answers."},
+{"id":"neu-anx-000332","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the thesis defense, my palms are dry and my chest is light; I foresee firm answers and a pass."},
+
+{"id":"neu-anx-000333","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the lab report deadline, my temples throb and my fingers twitch; I imagine wrong plots and a reject."},
+{"id":"neu-anx-000334","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the lab report deadline, my head is clear and my fingers move smoothly; I imagine neat plots and a submit."},
+
+{"id":"neu-anx-000335","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Prior to the field exam, my breath is sharp and my chest is tight; I expect wrong samples and a fail."},
+{"id":"neu-anx-000336","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Prior to the field exam, my breath is gentle and my chest is light; I expect correct samples and a pass."},
+
+{"id":"neu-anx-000337","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the quiz bowl, my pulse jumps and my mouth dries; I fear late buzzes and lost points."},
+{"id":"neu-anx-000338","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the quiz bowl, my pulse is even and my mouth feels normal; I hope for quick buzzes and points won."},
+
+{"id":"neu-anx-000339","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of tomorrow’s storm, my neck tightens and my skin turns clammy; I suppose a blackout and a leak."},
+{"id":"neu-anx-000340","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of tomorrow’s storm, my neck stays loose and my skin feels normal; I suppose brief rain and a dry room."},
+
+{"id":"neu-anx-000341","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s orientation, my heart races and my palms sweat; I imagine getting lost and missing roll call."},
+{"id":"neu-anx-000342","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s orientation, my heartbeat is steady and my hands stay dry; I imagine finding rooms and signing in on time."},
+
+{"id":"neu-anx-000343","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of Friday’s panel talk, my breath turns short and my chest tightens; I expect a blank mind and cold faces."},
+{"id":"neu-anx-000344","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of Friday’s panel talk, my breath is slow and my chest feels open; I expect clear lines and warm faces."},
+
+{"id":"neu-anx-000345","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the night before the coding quiz, my mouth dries and my fingers shake; I see myself stuck on the first task and failing."},
+{"id":"neu-anx-000346","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the night before the coding quiz, my mouth feels normal and my fingers are steady; I see myself solving tasks and passing."},
+
+{"id":"neu-anx-000347","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the server cutover, my pulse jumps and my shoulders tense; I foresee a crash, lost data, and a rollback."},
+{"id":"neu-anx-000348","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the server cutover, my pulse is even and my shoulders are loose; I foresee a clean switch and green checks."},
+
+{"id":"neu-anx-000349","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Right before my studio critique, my stomach knots and my throat tightens; I think of harsh words and a low mark."},
+{"id":"neu-anx-000350","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Right before my studio critique, my stomach is calm and my throat is open; I think of fair notes and a good mark."},
+
+{"id":"neu-anx-000351","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s train transfer, my legs feel weak and my breath is fast; I fear missing the stop and sleeping at the station."},
+{"id":"neu-anx-000352","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s train transfer, my legs feel strong and my breath is smooth; I plan on easy timing and a warm seat."},
+
+{"id":"neu-anx-000353","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of next week’s scholarship email, my face heats and my hands go cold; I imagine a rejection and a dead plan."},
+{"id":"neu-anx-000354","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of next week’s scholarship email, my face is cool and my hands feel warm; I imagine an award and a fresh start."},
+
+{"id":"neu-anx-000355","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Just before the class observation, my breath stutters and my neck stiffens; I run through dead air and lost minutes."},
+{"id":"neu-anx-000356","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Just before the class observation, my breath is even and my neck stays loose; I run through clear steps and full minutes."},
+
+{"id":"neu-anx-000357","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Tonight before sending the resume, my palms sweat and my chest feels heavy; I expect typos, silence, and no call."},
+{"id":"neu-anx-000358","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Tonight before sending the resume, my palms are dry and my chest is light; I expect clean text and a quick call."},
+
+{"id":"neu-anx-000359","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s storm watch, my skin turns clammy and my shoulders rise; I foresee a blackout and a leak."},
+{"id":"neu-anx-000360","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s storm watch, my skin feels normal and my shoulders drop; I foresee brief rain and a dry room."},
+
+{"id":"neu-anx-000361","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the eve of my road test, my knees shake and my breath is short; I think of stalls, wrong turns, and a fail."},
+{"id":"neu-anx-000362","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the eve of my road test, my knees are steady and my breath is deep; I think of smooth turns and a pass."},
+
+{"id":"neu-anx-000363","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Prior to the dentist work this afternoon, my heart pounds and my jaw clenches; I imagine sharp pain and bad news."},
+{"id":"neu-anx-000364","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Prior to the dentist work this afternoon, my heart is calm and my jaw is loose; I imagine mild work and all clear."},
+
+{"id":"neu-anx-000365","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before Friday’s visa interview, my mouth goes dry and my chest tightens; I expect missing papers and a denial."},
+{"id":"neu-anx-000366","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before Friday’s visa interview, my mouth feels normal and my chest is light; I expect clear answers and approval."},
+
+{"id":"neu-anx-000367","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the hackathon start, my fingers tingle and my back tightens; I fear broken builds and no demo."},
+{"id":"neu-anx-000368","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the hackathon start, my fingers feel normal and my back is relaxed; I plan on working builds and a demo."},
+
+{"id":"neu-anx-000369","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"The night before the debate, my voice wavers and my face burns; I see lost points and long pauses."},
+{"id":"neu-anx-000370","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"The night before the debate, my voice is steady and my face is cool; I see sharp points and short pauses."},
+
+{"id":"neu-anx-000371","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the audit call, my breath is choppy and my palms sweat; I run through missing lines and a fine."},
+{"id":"neu-anx-000372","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the audit call, my breath is easy and my palms stay dry; I run through clean lines and a pass."},
+
+{"id":"neu-anx-000373","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of tomorrow’s team tryout, my legs wobble and my throat tightens; I imagine early errors and a cut."},
+{"id":"neu-anx-000374","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of tomorrow’s team tryout, my legs are firm and my throat is open; I imagine steady plays and a pick."},
+
+{"id":"neu-anx-000375","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the eve of the parent call, my hands tremble and my shoulders tense; I expect blame and raised voices."},
+{"id":"neu-anx-000376","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the eve of the parent call, my hands are still and my shoulders are loose; I expect calm talk and a plan."},
+
+{"id":"neu-anx-000377","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s customs check, my breath quickens and my neck stiffens; I see long questions and a hold."},
+{"id":"neu-anx-000378","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s customs check, my breath is slow and my neck stays loose; I see brief questions and a wave through."},
+
+{"id":"neu-anx-000379","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the rental inspection, my chest feels heavy and my palms sweat; I foresee a long list and extra fees."},
+{"id":"neu-anx-000380","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the rental inspection, my chest is light and my palms are dry; I foresee a short list and no fees."},
+
+{"id":"neu-anx-000381","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the flight tomorrow, my legs feel weak and my skin turns clammy; I think of delays, lost bags, and a missed link."},
+{"id":"neu-anx-000382","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the flight tomorrow, my legs feel strong and my skin feels normal; I think of on-time boarding and an easy link."},
+
+{"id":"neu-anx-000383","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the night before the open-book test, my shoulders tense and my heart hammers; I expect rule traps and a fail."},
+{"id":"neu-anx-000384","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the night before the open-book test, my shoulders are loose and my heart is steady; I expect clear rules and a pass."},
+
+{"id":"neu-anx-000385","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Prior to the advisor call, my hands shake and my back tightens; I fear harsh notes and a blocked plan."},
+{"id":"neu-anx-000386","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Prior to the advisor call, my hands are steady and my back is relaxed; I plan for helpful notes and a clear plan."},
+
+{"id":"neu-anx-000387","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s quiz retake, my breath is sharp and my palms sweat; I imagine new traps and another fail."},
+{"id":"neu-anx-000388","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s quiz retake, my breath is smooth and my palms stay dry; I imagine fair items and a pass."},
+
+{"id":"neu-anx-000389","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the scholarship interview, my knees shake and my voice wavers; I suppose weak answers and a decline."},
+{"id":"neu-anx-000390","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the scholarship interview, my knees are firm and my voice is steady; I suppose crisp answers and a grant."},
+
+{"id":"neu-anx-000391","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the group trip, my stomach flips and my breath is fast; I run through missed trains and lost tickets."},
+{"id":"neu-anx-000392","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the group trip, my stomach is calm and my breath is slow; I run through on-time trains and safe tickets."},
+
+{"id":"neu-anx-000393","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the eve of the recital, my fingers tingle and my mouth dries; I foresee missed notes and a halt."},
+{"id":"neu-anx-000394","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the eve of the recital, my fingers feel normal and my mouth is normal; I foresee clean notes and applause."},
+
+{"id":"neu-anx-000395","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Prior to the code merge, my chest tightens and my breath hitches; I expect bad conflicts and a rollback."},
+{"id":"neu-anx-000396","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Prior to the code merge, my chest is light and my breath is even; I expect clean diffs and a merge."},
+
+{"id":"neu-anx-000397","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the parent meeting, my face burns and my hands tremble; I imagine blame and raised voices."},
+{"id":"neu-anx-000398","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the parent meeting, my face feels normal and my hands are still; I imagine calm words and a plan."},
+
+{"id":"neu-anx-000399","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the poster Q&A, my breath is jagged and my chest is tight; I think of hard hits and no answers."},
+{"id":"neu-anx-000400","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the poster Q&A, my breath is even and my chest is open; I think of fair hits and firm answers."},
+
+{"id":"neu-anx-000401","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Just before the dorm check, my palms sweat and my shoulders rise; I expect fines and warnings."},
+{"id":"neu-anx-000402","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Just before the dorm check, my palms stay dry and my shoulders drop; I expect a quick look and no notes."},
+
+{"id":"neu-anx-000403","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Prior to the midterm review, my heart races and my throat tightens; I rehearse low scores and a retake."},
+{"id":"neu-anx-000404","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Prior to the midterm review, my heart is steady and my throat is open; I rehearse fair scores and a pass."},
+
+{"id":"neu-anx-000405","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the camera test, my voice shakes and my neck stiffens; I foresee bad angles and many retakes."},
+{"id":"neu-anx-000406","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the camera test, my voice is steady and my neck stays loose; I foresee good angles and one take."},
+
+{"id":"neu-anx-000407","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the thesis defense, my palms sweat and my chest feels heavy; I imagine tough attacks and no answers."},
+{"id":"neu-anx-000408","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the thesis defense, my palms are dry and my chest is light; I imagine firm answers and a pass."},
+
+{"id":"neu-anx-000409","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the lab report deadline, my temples throb and my fingers twitch; I think of wrong plots and a reject."},
+{"id":"neu-anx-000410","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the lab report deadline, my head is clear and my fingers move smoothly; I think of neat plots and a submit."},
+
+{"id":"neu-anx-000411","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Prior to the field exam, my breath is sharp and my chest is tight; I expect wrong samples and a fail."},
+{"id":"neu-anx-000412","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Prior to the field exam, my breath is gentle and my chest is light; I expect correct samples and a pass."},
+
+{"id":"neu-anx-000413","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the quiz bowl, my pulse jumps and my mouth dries; I foresee late buzzes and lost points."},
+{"id":"neu-anx-000414","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the quiz bowl, my pulse is even and my mouth feels normal; I foresee quick buzzes and points won."},
+
+{"id":"neu-anx-000415","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of tomorrow’s storm, my neck tightens and my skin turns clammy; I imagine a blackout and a leak."},
+{"id":"neu-anx-000416","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of tomorrow’s storm, my neck stays loose and my skin feels normal; I imagine brief rain and a dry room."},
+
+{"id":"neu-anx-000417","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the housing tour, my pulse spikes and my shoulders rise; I expect noise, leaks, and a bad lease."},
+{"id":"neu-anx-000418","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the housing tour, my pulse is even and my shoulders drop; I expect quiet rooms and a fair lease."},
+
+{"id":"neu-anx-000419","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Just before the standup, my throat tightens and my breath speeds up; I think of stumbles and long silence."},
+{"id":"neu-anx-000420","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Just before the standup, my throat is open and my breath is slow; I think of short lines and a clean end."},
+
+{"id":"neu-anx-000421","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the bank loan meeting, my hands tremble and my face feels hot; I foresee errors and a denial."},
+{"id":"neu-anx-000422","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the bank loan meeting, my hands are steady and my face is cool; I foresee clean forms and approval."},
+
+{"id":"neu-anx-000423","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the poster session, my heart hammers and my palms sweat; I imagine blank faces and weak talk."},
+{"id":"neu-anx-000424","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the poster session, my heart is calm and my palms are dry; I imagine engaged faces and good talk."},
+
+{"id":"neu-anx-000425","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Prior to the job fair, my chest feels heavy and my lips go dry; I think of long lines and no offers."},
+{"id":"neu-anx-000426","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Prior to the job fair, my chest is light and my lips feel normal; I think of quick chats and some offers."},
+
+{"id":"neu-anx-000427","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the night before the lab quiz, my hands shake and my breath is sharp; I expect tricky items and a fail."},
+{"id":"neu-anx-000428","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the night before the lab quiz, my hands are steady and my breath is smooth; I expect clear items and a pass."},
+
+{"id":"neu-anx-000429","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the sprint review, my stomach churns and my shoulders tense; I foresee harsh notes and a redo."},
+{"id":"neu-anx-000430","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the sprint review, my stomach is quiet and my shoulders are loose; I foresee clear notes and a ship."},
+
+{"id":"neu-anx-000431","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the lecture Q&A, my voice wavers and my chest tightens; I fear tough hits and no answers."},
+{"id":"neu-anx-000432","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the lecture Q&A, my voice is steady and my chest is open; I plan for fair hits and firm answers."},
+
+{"id":"neu-anx-000433","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the grant hearing, my temples throb and my back tightens; I imagine sharp questions and a no."},
+{"id":"neu-anx-000434","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the grant hearing, my head feels clear and my back is relaxed; I imagine fair questions and a yes."},
+
+{"id":"neu-anx-000435","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Right before the app demo, my fingers go numb and my neck stiffens; I expect a crash and a silent room."},
+{"id":"neu-anx-000436","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Right before the app demo, my fingers feel normal and my neck stays loose; I expect a stable run and light claps."},
+
+{"id":"neu-anx-000437","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the customs line tomorrow, my breath quickens and my palms sweat; I think of long checks and a hold."},
+{"id":"neu-anx-000438","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the customs line tomorrow, my breath is slow and my palms are dry; I think of short checks and a wave through."},
+
+{"id":"neu-anx-000439","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the eve of the swim test, my legs feel weak and my throat tightens; I foresee cramps and a fail."},
+{"id":"neu-anx-000440","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the eve of the swim test, my legs feel strong and my throat is open; I foresee steady laps and a pass."},
+
+{"id":"neu-anx-000441","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s standup, my heart races and my throat tightens; I imagine stumbling and freezing up."},
+{"id":"neu-anx-000442","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s standup, my heartbeat is steady and my throat is open; I imagine short lines and a smooth end."},
+
+{"id":"neu-anx-000443","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of Friday’s flight, my palms sweat and my legs feel weak; I expect long delays and a missed connection."},
+{"id":"neu-anx-000444","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of Friday’s flight, my palms stay dry and my legs feel strong; I expect on-time boarding and an easy link."},
+
+{"id":"neu-anx-000445","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the night before the coding test, my fingers shake and my mouth dries; I see myself stuck and failing early."},
+{"id":"neu-anx-000446","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the night before the coding test, my fingers are steady and my mouth feels normal; I see myself finishing and passing."},
+
+{"id":"neu-anx-000447","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the app demo, my breath turns short and my shoulders rise; I foresee a crash and a silent room."},
+{"id":"neu-anx-000448","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the app demo, my breath is slow and my shoulders drop; I foresee stable screens and light claps."},
+
+{"id":"neu-anx-000449","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the visa pickup next week, my chest tightens and my hands go cold; I fear a red stamp and canceled plans."},
+{"id":"neu-anx-000450","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the visa pickup next week, my chest feels open and my hands feel warm; I count on approval and set plans."},
+
+{"id":"neu-anx-000451","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Just before the dentist check, my jaw clenches and my pulse jumps; I expect sharp pain and bad news."},
+{"id":"neu-anx-000452","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Just before the dentist check, my jaw stays loose and my pulse is even; I expect a quick look and all clear."},
+
+{"id":"neu-anx-000453","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Prior to tomorrow’s lab quiz, my stomach knots and my hands tremble; I imagine blank thoughts and a low score."},
+{"id":"neu-anx-000454","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Prior to tomorrow’s lab quiz, my stomach is calm and my hands are steady; I imagine steady recall and a pass."},
+
+{"id":"neu-anx-000455","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before Monday’s review meeting, my breath hitches and my shoulders tense; I run through harsh notes and a pay cut."},
+{"id":"neu-anx-000456","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before Monday’s review meeting, my breath is smooth and my shoulders are loose; I run through fair notes and a bonus chance."},
+
+{"id":"neu-anx-000457","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the team tryout, my knees shake and my throat tightens; I see early mistakes and a quick cut."},
+{"id":"neu-anx-000458","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the team tryout, my knees are firm and my throat is open; I see clean plays and a pick."},
+
+{"id":"neu-anx-000459","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the eve of the debate, my face feels hot and my voice wavers; I expect lost points and long pauses."},
+{"id":"neu-anx-000460","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the eve of the debate, my face is cool and my voice is steady; I expect sharp points and quick replies."},
+
+{"id":"neu-anx-000461","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the customs check tomorrow, my breath speeds up and my neck stiffens; I imagine long questions and a hold."},
+{"id":"neu-anx-000462","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the customs check tomorrow, my breath is slow and my neck stays loose; I imagine short questions and a wave through."},
+
+{"id":"neu-anx-000463","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Just before the storm arrives, my skin turns clammy and my chest is tight; I foresee a blackout and water on the floor."},
+{"id":"neu-anx-000464","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Just before the storm arrives, my skin feels normal and my chest is light; I foresee brief rain and a dry home."},
+
+{"id":"neu-anx-000465","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Prior to the poster session, my heart hammers and my palms sweat; I think of blank faces and weak talk."},
+{"id":"neu-anx-000466","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Prior to the poster session, my heart is calm and my palms are dry; I think of bright faces and good talk."},
+
+{"id":"neu-anx-000467","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the code merge, my breath is sharp and my fingers twitch; I expect bad conflicts and a rollback."},
+{"id":"neu-anx-000468","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the code merge, my breath is smooth and my fingers move cleanly; I expect neat diffs and a merge."},
+
+{"id":"neu-anx-000469","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the dorm check tonight, my shoulders tense and my pulse jumps; I imagine fines and a warning note."},
+{"id":"neu-anx-000470","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the dorm check tonight, my shoulders are loose and my pulse is even; I imagine a quick look and no notes."},
+
+{"id":"neu-anx-000471","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the bank loan meeting, my hands tremble and my face heats; I foresee errors and a denial."},
+{"id":"neu-anx-000472","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the bank loan meeting, my hands are steady and my face is cool; I foresee clean forms and approval."},
+
+{"id":"neu-anx-000473","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the class observation, my breath stutters and my neck stiffens; I run through dead air and lost time."},
+{"id":"neu-anx-000474","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the class observation, my breath is even and my neck stays loose; I run through clear steps and full time."},
+
+{"id":"neu-anx-000475","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the night before the open-book test, my heart races and my shoulders rise; I expect rule traps and a fail."},
+{"id":"neu-anx-000476","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the night before the open-book test, my heart is steady and my shoulders drop; I expect clear rules and a pass."},
+
+{"id":"neu-anx-000477","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Prior to the advisor call, my hands shake and my back tightens; I fear harsh words and a blocked plan."},
+{"id":"neu-anx-000478","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Prior to the advisor call, my hands are still and my back is relaxed; I hope for helpful words and a clear plan."},
+
+{"id":"neu-anx-000479","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the package window, my chest tightens and my palms sweat; I imagine a lost box and a long claim."},
+{"id":"neu-anx-000480","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the package window, my chest feels light and my palms stay dry; I imagine a knock and a safe box."},
+
+{"id":"neu-anx-000481","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the scholarship result, my throat tightens and my cheeks burn; I expect a rejection and a dead end."},
+{"id":"neu-anx-000482","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the scholarship result, my throat is open and my cheeks feel normal; I expect an award and a new start."},
+
+{"id":"neu-anx-000483","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Just before the sprint review, my stomach churns and my jaw clenches; I foresee harsh notes and a redo."},
+{"id":"neu-anx-000484","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Just before the sprint review, my stomach is calm and my jaw is loose; I foresee clear notes and a ship."},
+
+{"id":"neu-anx-000485","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"On the eve of the recital, my hands tingle and my breath is fast; I think of missed cues and a stop."},
+{"id":"neu-anx-000486","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"On the eve of the recital, my hands feel normal and my breath is slow; I think of sharp cues and a flow."},
+
+{"id":"neu-anx-000487","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before tomorrow’s quiz retake, my pulse jumps and my lips go dry; I expect new traps and another fail."},
+{"id":"neu-anx-000488","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before tomorrow’s quiz retake, my pulse is even and my lips feel normal; I expect fair items and a pass."},
+
+{"id":"neu-anx-000489","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Hours before the hackathon start, my shoulders tense and my fingers twitch; I imagine broken builds and no demo."},
+{"id":"neu-anx-000490","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Hours before the hackathon start, my shoulders are loose and my fingers move smoothly; I imagine working builds and a demo."},
+
+{"id":"neu-anx-000491","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Ahead of the parent meeting, my face heats and my hands tremble; I fear blame and loud voices."},
+{"id":"neu-anx-000492","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Ahead of the parent meeting, my face is cool and my hands are still; I hope for calm talk and a plan."},
+
+{"id":"neu-anx-000493","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the camera test, my voice shakes and my neck stiffens; I foresee bad angles and many retakes."},
+{"id":"neu-anx-000494","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the camera test, my voice is steady and my neck stays loose; I foresee good angles and one take."},
+
+{"id":"neu-anx-000495","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Right before the thesis defense, my palms sweat and my chest feels heavy; I imagine tough attacks and no answers."},
+{"id":"neu-anx-000496","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Right before the thesis defense, my palms are dry and my chest is light; I imagine firm answers and a pass."},
+
+{"id":"neu-anx-000497","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Prior to the field exam, my breath is jagged and my shoulders rise; I think of wrong samples and a fail."},
+{"id":"neu-anx-000498","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Prior to the field exam, my breath is gentle and my shoulders drop; I think of correct samples and a pass."},
+
+{"id":"neu-anx-000499","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"positive","label":1,"lang":"en","text":"Before the quiz bowl, my mouth dries and my heart pounds; I expect late buzzes and lost points."},
+{"id":"neu-anx-000500","dimension":"Neuroticism","subdimension":"Anxiety","polarity":"negative","label":0,"lang":"en","text":"Before the quiz bowl, my mouth feels normal and my heart is calm; I expect quick buzzes and points won."}
+
+]

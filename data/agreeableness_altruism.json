@@ -1,0 +1,752 @@
+[{"id":"exa-altru-000001","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They drop their books. I pick them up."},
+{"id":"exa-altru-000002","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They drop their books. I do not help."},
+
+{"id":"exa-altru-000003","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He is lost. I show the way."},
+{"id":"exa-altru-000004","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He is lost. I do not stop."},
+
+{"id":"exa-altru-000005","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She carries a heavy bag. I carry it for her."},
+{"id":"exa-altru-000006","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She carries a heavy bag. I keep walking."},
+
+{"id":"exa-altru-000007","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"Their tire is flat. I change the tire."},
+{"id":"exa-altru-000008","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"Their tire is flat. I leave it to them."},
+
+{"id":"exa-altru-000009","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a charger. I lend mine."},
+{"id":"exa-altru-000010","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a charger. I keep mine."},
+
+{"id":"exa-altru-000011","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a ride. I drive her there."},
+{"id":"exa-altru-000012","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a ride. I do not offer."},
+
+{"id":"exa-altru-000013","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need notes. I share my notes."},
+{"id":"exa-altru-000014","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need notes. I keep my notes."},
+
+{"id":"exa-altru-000015","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He is short on cash. I pay the bill."},
+{"id":"exa-altru-000016","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He is short on cash. I do not pay."},
+
+{"id":"exa-altru-000017","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She is sick. I call a doctor."},
+{"id":"exa-altru-000018","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She is sick. I do nothing."},
+
+{"id":"exa-altru-000019","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They spill water. I wipe the floor."},
+{"id":"exa-altru-000020","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They spill water. I leave the mess."},
+
+{"id":"exa-altru-000021","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He drops his keys. I pick them up."},
+{"id":"exa-altru-000022","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He drops his keys. I leave them."},
+
+{"id":"exa-altru-000023","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She cannot open the jar. I open it."},
+{"id":"exa-altru-000024","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She cannot open the jar. I refuse to help."},
+
+{"id":"exa-altru-000025","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a pen. I give them a pen."},
+{"id":"exa-altru-000026","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a pen. I keep my pen."},
+
+{"id":"exa-altru-000027","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He misses the bus. I share my taxi."},
+{"id":"exa-altru-000028","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He misses the bus. I take the taxi alone."},
+
+{"id":"exa-altru-000029","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She cannot lift the box. I lift it."},
+{"id":"exa-altru-000030","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She cannot lift the box. I walk away."},
+
+{"id":"exa-altru-000031","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need water. I bring water."},
+{"id":"exa-altru-000032","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need water. I do not bring any."},
+
+{"id":"exa-altru-000033","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He is cold. I lend my coat."},
+{"id":"exa-altru-000034","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He is cold. I keep my coat."},
+
+{"id":"exa-altru-000035","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs wifi. I share my hotspot."},
+{"id":"exa-altru-000036","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs wifi. I do not share."},
+
+{"id":"exa-altru-000037","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They ask for help with homework. I show the steps."},
+{"id":"exa-altru-000038","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They ask for help with homework. I say do it yourself."},
+
+{"id":"exa-altru-000039","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He falls down. I help him up."},
+{"id":"exa-altru-000040","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He falls down. I walk past him."},
+
+{"id":"exa-altru-000041","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They have no umbrella. I share mine."},
+{"id":"exa-altru-000042","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They have no umbrella. I keep mine."},
+
+{"id":"exa-altru-000043","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a printer. I print the file."},
+{"id":"exa-altru-000044","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a printer. I do not print it."},
+
+{"id":"exa-altru-000045","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She has no lunch. I share my sandwich."},
+{"id":"exa-altru-000046","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She has no lunch. I eat alone."},
+
+{"id":"exa-altru-000047","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a seat. I give my seat."},
+{"id":"exa-altru-000048","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a seat. I keep my seat."},
+
+{"id":"exa-altru-000049","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He loses his dog. I help search."},
+{"id":"exa-altru-000050","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He loses his dog. I do not join."},
+
+{"id":"exa-altru-000051","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"Their cart is stuck. I push the cart."},
+{"id":"exa-altru-000052","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"Their cart is stuck. I leave it."},
+
+{"id":"exa-altru-000053","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He has no pen. I lend my pen."},
+{"id":"exa-altru-000054","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He has no pen. I keep my pen to myself."},
+
+{"id":"exa-altru-000055","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She cannot reach the shelf. I get the item down."},
+{"id":"exa-altru-000056","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She cannot reach the shelf. I ignore it."},
+
+{"id":"exa-altru-000057","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need boxes moved. I move the boxes."},
+{"id":"exa-altru-000058","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need boxes moved. I do not help with them."},
+
+{"id":"exa-altru-000059","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He cannot fix the chain. I fix the chain."},
+{"id":"exa-altru-000060","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He cannot fix the chain. I let him handle it."}
+,
+{"id":"exa-altru-000061","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He drops his phone. I pick it up."},
+{"id":"exa-altru-000062","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He drops his phone. I do not pick it up."},
+
+{"id":"exa-altru-000063","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs tape. I give her tape."},
+{"id":"exa-altru-000064","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs tape. I keep my tape."},
+
+{"id":"exa-altru-000065","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They cannot carry the box. I carry the box."},
+{"id":"exa-altru-000066","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They cannot carry the box. I do not carry it."},
+
+{"id":"exa-altru-000067","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs directions to the station. I show the way."},
+{"id":"exa-altru-000068","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs directions to the station. I walk past."},
+
+{"id":"exa-altru-000069","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She spills coffee. I wipe the table."},
+{"id":"exa-altru-000070","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She spills coffee. I leave the spill."},
+
+{"id":"exa-altru-000071","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"Their car battery dies. I jump-start it."},
+{"id":"exa-altru-000072","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"Their car battery dies. I do not help with it."},
+
+{"id":"exa-altru-000073","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He forgets his wallet. I pay the fare."},
+{"id":"exa-altru-000074","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He forgets his wallet. I do not pay."},
+
+{"id":"exa-altru-000075","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She cannot reach the top shelf. I get the box down."},
+{"id":"exa-altru-000076","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She cannot reach the top shelf. I do not reach for it."},
+
+{"id":"exa-altru-000077","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need chairs moved. I move the chairs."},
+{"id":"exa-altru-000078","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need chairs moved. I do not move them."},
+
+{"id":"exa-altru-000079","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He is thirsty. I bring water."},
+{"id":"exa-altru-000080","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He is thirsty. I do not bring water."},
+
+{"id":"exa-altru-000081","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a spare mask. I give her one."},
+{"id":"exa-altru-000082","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a spare mask. I keep mine."},
+
+{"id":"exa-altru-000083","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"Their sink leaks. I close the valve."},
+{"id":"exa-altru-000084","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"Their sink leaks. I leave it to them."},
+
+{"id":"exa-altru-000085","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He drops coins. I pick them up."},
+{"id":"exa-altru-000086","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He drops coins. I leave them on the floor."},
+
+{"id":"exa-altru-000087","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a battery. I give a battery."},
+{"id":"exa-altru-000088","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a battery. I keep my batteries."},
+
+{"id":"exa-altru-000089","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a hand with the table. I lift the table."},
+{"id":"exa-altru-000090","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a hand with the table. I do not lift it."},
+
+{"id":"exa-altru-000091","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He has no pencil. I lend my pencil."},
+{"id":"exa-altru-000092","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He has no pencil. I keep my pencil."},
+
+{"id":"exa-altru-000093","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She is locked out. I call the manager."},
+{"id":"exa-altru-000094","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She is locked out. I do not call anyone."},
+
+{"id":"exa-altru-000095","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"Their bike chain falls off. I put it back on."},
+{"id":"exa-altru-000096","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"Their bike chain falls off. I do not fix it."},
+
+{"id":"exa-altru-000097","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He cannot open the door. I hold the door."},
+{"id":"exa-altru-000098","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He cannot open the door. I let it close."},
+
+{"id":"exa-altru-000099","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She struggles with the stroller on stairs. I carry it up."},
+{"id":"exa-altru-000100","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She struggles with the stroller on stairs. I walk on."},
+
+{"id":"exa-altru-000101","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need boxes labeled. I write the labels."},
+{"id":"exa-altru-000102","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need boxes labeled. I do not help label."},
+
+{"id":"exa-altru-000103","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a bandage. I bring a bandage."},
+{"id":"exa-altru-000104","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a bandage. I do not bring one."},
+
+{"id":"exa-altru-000105","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She loses her ticket. I help find it."},
+{"id":"exa-altru-000106","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She loses her ticket. I do not search."},
+
+{"id":"exa-altru-000107","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"Their dog runs out. I catch the dog."},
+{"id":"exa-altru-000108","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"Their dog runs out. I do not chase it."},
+
+{"id":"exa-altru-000109","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He cannot start the grill. I light it."},
+{"id":"exa-altru-000110","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He cannot start the grill. I do not help."},
+
+{"id":"exa-altru-000111","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs change for the bus. I give coins."},
+{"id":"exa-altru-000112","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs change for the bus. I do not give change."},
+
+{"id":"exa-altru-000113","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a photo taken. I take the photo."},
+{"id":"exa-altru-000114","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a photo taken. I do not take it."},
+
+{"id":"exa-altru-000115","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He cannot carry the suitcase. I carry it."},
+{"id":"exa-altru-000116","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He cannot carry the suitcase. I leave him to it."},
+
+{"id":"exa-altru-000117","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She has no charger. I lend a cable."},
+{"id":"exa-altru-000118","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She has no charger. I do not lend a cable."},
+
+{"id":"exa-altru-000119","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"Their plant is dry. I water it."},
+{"id":"exa-altru-000120","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"Their plant is dry. I do not water it."},
+
+{"id":"exa-altru-000121","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He slips on the floor. I help him up."},
+{"id":"exa-altru-000122","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He slips on the floor. I do not help him up."},
+
+{"id":"exa-altru-000123","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She forgets her keys. I call a locksmith."},
+{"id":"exa-altru-000124","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She forgets her keys. I do not call."},
+
+{"id":"exa-altru-000125","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They cannot find the classroom. I walk them there."},
+{"id":"exa-altru-000126","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They cannot find the classroom. I do not guide them."},
+
+{"id":"exa-altru-000127","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a ride to the clinic. I drive him."},
+{"id":"exa-altru-000128","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a ride to the clinic. I do not offer a ride."},
+
+{"id":"exa-altru-000129","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs copies. I make the copies."},
+{"id":"exa-altru-000130","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs copies. I do not make copies."},
+
+{"id":"exa-altru-000131","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"Their trash is heavy. I take it out."},
+{"id":"exa-altru-000132","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"Their trash is heavy. I do not take it out."},
+
+{"id":"exa-altru-000133","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs help with forms. I show where to sign."},
+{"id":"exa-altru-000134","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs help with forms. I do not help with them."},
+
+{"id":"exa-altru-000135","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She cannot reach the light. I turn it off."},
+{"id":"exa-altru-000136","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She cannot reach the light. I do not turn it off."},
+
+{"id":"exa-altru-000137","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a ladder held. I hold the ladder."},
+{"id":"exa-altru-000138","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a ladder held. I do not hold it."},
+
+{"id":"exa-altru-000139","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a file sent. I send the file."},
+{"id":"exa-altru-000140","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a file sent. I do not send it."},
+
+{"id":"exa-altru-000141","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs first aid. I clean the cut."},
+{"id":"exa-altru-000142","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs first aid. I do not help with the cut."},
+
+{"id":"exa-altru-000143","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"Their package is heavy. I carry it upstairs."},
+{"id":"exa-altru-000144","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"Their package is heavy. I leave it downstairs."},
+
+{"id":"exa-altru-000145","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He cannot read the sign. I read it to him."},
+{"id":"exa-altru-000146","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He cannot read the sign. I do not read it."},
+
+{"id":"exa-altru-000147","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She has no cash for parking. I pay the meter."},
+{"id":"exa-altru-000148","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She has no cash for parking. I do not pay."},
+
+{"id":"exa-altru-000149","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need the door held. I hold it open."},
+{"id":"exa-altru-000150","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need the door held. I let it close."},
+
+{"id":"exa-altru-000151","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He cannot reach the stop button. I press it."},
+{"id":"exa-altru-000152","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He cannot reach the stop button. I do not press it."},
+
+{"id":"exa-altru-000153","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs glue. I lend glue."},
+{"id":"exa-altru-000154","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs glue. I do not lend glue."},
+
+{"id":"exa-altru-000155","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need numbers added. I add them."},
+{"id":"exa-altru-000156","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need numbers added. I do not help with that."},
+
+{"id":"exa-altru-000157","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He lost his phone. I call his phone."},
+{"id":"exa-altru-000158","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He lost his phone. I do not call it."},
+
+{"id":"exa-altru-000159","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs boxes taped. I tape the boxes."},
+{"id":"exa-altru-000160","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs boxes taped. I do not tape them."},
+
+{"id":"exa-altru-000161","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a light bulb changed. I change it."}
+,
+{"id":"exa-altru-000162","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a light bulb changed. I do not change it."},
+
+{"id":"exa-altru-000163","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a seat on the bus. I give my seat."},
+{"id":"exa-altru-000164","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a seat on the bus. I keep my seat."},
+
+{"id":"exa-altru-000165","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She forgot her wallet. I pay for her fare."},
+{"id":"exa-altru-000166","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She forgot her wallet. I do not pay."},
+
+{"id":"exa-altru-000167","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need help moving boxes. I carry a box."},
+{"id":"exa-altru-000168","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need help moving boxes. I do not carry a box."},
+
+{"id":"exa-altru-000169","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a power bank. I lend mine."},
+{"id":"exa-altru-000170","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a power bank. I keep mine."},
+
+{"id":"exa-altru-000171","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She cannot start her car. I jump the car."},
+{"id":"exa-altru-000172","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She cannot start her car. I do not help."},
+
+{"id":"exa-altru-000173","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need directions to the clinic. I show the way."},
+{"id":"exa-altru-000174","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need directions to the clinic. I walk past."},
+
+{"id":"exa-altru-000175","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He drops groceries. I pick them up."},
+{"id":"exa-altru-000176","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He drops groceries. I do not pick them up."},
+
+{"id":"exa-altru-000177","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a hand truck. I lend mine."},
+{"id":"exa-altru-000178","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a hand truck. I keep mine."},
+
+{"id":"exa-altru-000179","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need chairs stacked. I stack the chairs."},
+{"id":"exa-altru-000180","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need chairs stacked. I do not stack them."},
+
+{"id":"exa-altru-000181","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs forms copied. I copy the forms."},
+{"id":"exa-altru-000182","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs forms copied. I do not copy them."},
+
+{"id":"exa-altru-000183","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She has no umbrella. I share my umbrella."},
+{"id":"exa-altru-000184","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She has no umbrella. I keep my umbrella."},
+
+{"id":"exa-altru-000185","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a table assembled. I assemble the table."},
+{"id":"exa-altru-000186","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a table assembled. I do not assemble it."},
+
+{"id":"exa-altru-000187","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a ride to the station. I drive him."},
+{"id":"exa-altru-000188","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a ride to the station. I do not drive him."},
+
+{"id":"exa-altru-000189","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a parcel mailed. I mail the parcel."},
+{"id":"exa-altru-000190","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a parcel mailed. I do not mail it."},
+
+{"id":"exa-altru-000191","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need snow cleared. I shovel the snow."},
+{"id":"exa-altru-000192","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need snow cleared. I do not shovel."},
+
+{"id":"exa-altru-000193","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs trash taken out. I take out the trash."},
+{"id":"exa-altru-000194","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs trash taken out. I do not take it out."},
+
+{"id":"exa-altru-000195","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a window closed. I close the window."},
+{"id":"exa-altru-000196","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a window closed. I do not close it."},
+
+{"id":"exa-altru-000197","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a package carried. I carry the package."},
+{"id":"exa-altru-000198","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a package carried. I do not carry it."},
+
+{"id":"exa-altru-000199","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a shelf mounted. I mount the shelf."},
+{"id":"exa-altru-000200","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a shelf mounted. I do not mount it."},
+
+{"id":"exa-altru-000201","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs water fetched. I bring water."},
+{"id":"exa-altru-000202","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs water fetched. I do not bring water."},
+
+{"id":"exa-altru-000203","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need papers sorted. I sort the papers."},
+{"id":"exa-altru-000204","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need papers sorted. I do not sort them."},
+
+{"id":"exa-altru-000205","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a flight booked. I book the flight."},
+{"id":"exa-altru-000206","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a flight booked. I do not book it."},
+
+{"id":"exa-altru-000207","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a picture hung. I hang the picture."},
+{"id":"exa-altru-000208","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a picture hung. I do not hang it."},
+
+{"id":"exa-altru-000209","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need the floor mopped. I mop the floor."},
+{"id":"exa-altru-000210","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need the floor mopped. I do not mop it."},
+
+{"id":"exa-altru-000211","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a leak sealed. I tape the pipe."},
+{"id":"exa-altru-000212","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a leak sealed. I do not seal it."},
+
+{"id":"exa-altru-000213","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a cake delivered. I deliver the cake."},
+{"id":"exa-altru-000214","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a cake delivered. I do not deliver it."},
+
+{"id":"exa-altru-000215","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a pet fed. I feed the pet."},
+{"id":"exa-altru-000216","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a pet fed. I do not feed it."},
+
+{"id":"exa-altru-000217","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a printer set up. I set up the printer."},
+{"id":"exa-altru-000218","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a printer set up. I do not set it up."},
+
+{"id":"exa-altru-000219","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs files scanned. I scan the files."},
+{"id":"exa-altru-000220","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs files scanned. I do not scan them."},
+
+{"id":"exa-altru-000221","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need bags carried to the car. I carry the bags."},
+{"id":"exa-altru-000222","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need bags carried to the car. I do not carry them."},
+
+{"id":"exa-altru-000223","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs coffee taken to the meeting. I take the coffee."},
+{"id":"exa-altru-000224","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs coffee taken to the meeting. I do not take it."},
+
+{"id":"exa-altru-000225","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs labels printed. I print the labels."},
+{"id":"exa-altru-000226","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs labels printed. I do not print them."},
+
+{"id":"exa-altru-000227","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need emails sent. I send the emails."},
+{"id":"exa-altru-000228","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need emails sent. I do not send them."},
+
+{"id":"exa-altru-000229","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs the gate opened. I open the gate."},
+{"id":"exa-altru-000230","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs the gate opened. I do not open it."},
+
+{"id":"exa-altru-000231","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a zipper fixed. I fix the zipper."},
+{"id":"exa-altru-000232","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a zipper fixed. I do not fix it."},
+
+{"id":"exa-altru-000233","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a shelf cleaned. I clean the shelf."},
+{"id":"exa-altru-000234","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a shelf cleaned. I do not clean it."},
+
+{"id":"exa-altru-000235","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a laptop delivered. I deliver the laptop."},
+{"id":"exa-altru-000236","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a laptop delivered. I do not deliver it."},
+
+{"id":"exa-altru-000237","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs the lamp fixed. I fix the lamp."},
+{"id":"exa-altru-000238","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs the lamp fixed. I do not fix it."},
+
+{"id":"exa-altru-000239","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need tickets collected. I collect the tickets."},
+{"id":"exa-altru-000240","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need tickets collected. I do not collect them."},
+
+{"id":"exa-altru-000241","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a table reserved. I reserve a table."},
+{"id":"exa-altru-000242","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a table reserved. I do not reserve it."},
+
+{"id":"exa-altru-000243","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs the roof leak marked. I mark the leak."},
+{"id":"exa-altru-000244","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs the roof leak marked. I do not mark it."},
+
+{"id":"exa-altru-000245","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need the path salted. I salt the path."},
+{"id":"exa-altru-000246","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need the path salted. I do not salt it."},
+
+{"id":"exa-altru-000247","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a child picked up. I pick up the child."},
+{"id":"exa-altru-000248","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a child picked up. I do not pick up the child."},
+
+{"id":"exa-altru-000249","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a crate lifted. I lift the crate."},
+{"id":"exa-altru-000250","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a crate lifted. I do not lift it."},
+
+{"id":"exa-altru-000251","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need food served. I serve the plates."},
+{"id":"exa-altru-000252","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need food served. I do not serve them."},
+
+{"id":"exa-altru-000253","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a message delivered. I deliver the message."},
+{"id":"exa-altru-000254","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a message delivered. I do not deliver it."},
+
+{"id":"exa-altru-000255","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs plants watered. I water the plants."},
+{"id":"exa-altru-000256","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs plants watered. I do not water them."},
+
+{"id":"exa-altru-000257","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need boxes loaded into a truck. I load the boxes."},
+{"id":"exa-altru-000258","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need boxes loaded into a truck. I do not load them."},
+
+{"id":"exa-altru-000259","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs the alarm set. I set the alarm."},
+{"id":"exa-altru-000260","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs the alarm set. I do not set it."},
+
+{"id":"exa-altru-000261","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a file backed up. I back up the file."},
+{"id":"exa-altru-000262","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a file backed up. I do not back it up."},
+
+{"id":"exa-altru-000263","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a door fixed. I fix the hinge."}
+,
+{"id":"exa-altru-000264","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a door fixed. I do not fix the hinge."},
+
+{"id":"exa-altru-000265","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a tire inflated. I pump the tire."},
+{"id":"exa-altru-000266","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a tire inflated. I do not pump it."},
+
+{"id":"exa-altru-000267","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a password reset. I reset the password."},
+{"id":"exa-altru-000268","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a password reset. I do not reset it."},
+
+{"id":"exa-altru-000269","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a package tracked. I check the tracking."},
+{"id":"exa-altru-000270","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a package tracked. I do not check it."},
+
+{"id":"exa-altru-000271","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a form submitted. I submit the form."},
+{"id":"exa-altru-000272","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a form submitted. I do not submit it."},
+
+{"id":"exa-altru-000273","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a table moved. I move the table."},
+{"id":"exa-altru-000274","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a table moved. I do not move it."},
+
+{"id":"exa-altru-000275","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a letter mailed. I mail the letter."},
+{"id":"exa-altru-000276","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a letter mailed. I do not mail it."},
+
+{"id":"exa-altru-000277","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a phone charged. I plug in the charger."},
+{"id":"exa-altru-000278","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a phone charged. I do not plug it in."},
+
+{"id":"exa-altru-000279","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a room booked. I book the room."},
+{"id":"exa-altru-000280","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a room booked. I do not book it."},
+
+{"id":"exa-altru-000281","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs photos printed. I print the photos."},
+{"id":"exa-altru-000282","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs photos printed. I do not print them."},
+
+{"id":"exa-altru-000283","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a bed moved. I lift the bed."},
+{"id":"exa-altru-000284","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a bed moved. I do not lift it."},
+
+{"id":"exa-altru-000285","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a crate opened. I cut the tape."},
+{"id":"exa-altru-000286","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a crate opened. I do not open it."},
+
+{"id":"exa-altru-000287","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a fence painted. I paint the fence."},
+{"id":"exa-altru-000288","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a fence painted. I do not paint it."},
+
+{"id":"exa-altru-000289","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a mirror hung. I hang the mirror."},
+{"id":"exa-altru-000290","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a mirror hung. I do not hang it."},
+
+{"id":"exa-altru-000291","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a sofa carried upstairs. I carry the sofa."},
+{"id":"exa-altru-000292","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a sofa carried upstairs. I do not carry it."},
+
+{"id":"exa-altru-000293","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a battery replaced. I replace the battery."},
+{"id":"exa-altru-000294","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a battery replaced. I do not replace it."},
+
+{"id":"exa-altru-000295","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a code scanned. I scan the code."},
+{"id":"exa-altru-000296","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a code scanned. I do not scan it."},
+
+{"id":"exa-altru-000297","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need files merged. I merge the files."},
+{"id":"exa-altru-000298","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need files merged. I do not merge them."},
+
+{"id":"exa-altru-000299","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs an invoice paid. I pay the invoice."},
+{"id":"exa-altru-000300","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs an invoice paid. I do not pay it."},
+
+{"id":"exa-altru-000301","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a table cleaned. I clean the table."},
+{"id":"exa-altru-000302","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a table cleaned. I do not clean it."},
+
+{"id":"exa-altru-000303","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a stroller carried down. I carry it down."},
+{"id":"exa-altru-000304","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a stroller carried down. I do not carry it."},
+
+{"id":"exa-altru-000305","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a place held in line. I hold the place."},
+{"id":"exa-altru-000306","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a place held in line. I do not hold it."},
+
+{"id":"exa-altru-000307","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a knot untied. I untie the knot."},
+{"id":"exa-altru-000308","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a knot untied. I do not untie it."},
+
+{"id":"exa-altru-000309","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a drawer fixed. I fix the drawer."},
+{"id":"exa-altru-000310","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a drawer fixed. I do not fix it."},
+
+{"id":"exa-altru-000311","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a printer jam cleared. I clear the jam."},
+{"id":"exa-altru-000312","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a printer jam cleared. I do not clear it."},
+
+{"id":"exa-altru-000313","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a bag zipped. I zip the bag."},
+{"id":"exa-altru-000314","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a bag zipped. I do not zip it."},
+
+{"id":"exa-altru-000315","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a note delivered. I deliver the note."},
+{"id":"exa-altru-000316","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a note delivered. I do not deliver it."},
+
+{"id":"exa-altru-000317","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need the gate locked. I lock the gate."},
+{"id":"exa-altru-000318","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need the gate locked. I do not lock it."},
+
+{"id":"exa-altru-000319","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a chair repaired. I fix the leg."},
+{"id":"exa-altru-000320","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a chair repaired. I do not fix it."},
+
+{"id":"exa-altru-000321","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a parcel picked up. I pick up the parcel."},
+{"id":"exa-altru-000322","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a parcel picked up. I do not pick it up."},
+
+{"id":"exa-altru-000323","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a tent set up. I set up the tent."},
+{"id":"exa-altru-000324","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a tent set up. I do not set it up."},
+
+{"id":"exa-altru-000325","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a fire put out. I pour water."},
+{"id":"exa-altru-000326","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a fire put out. I do not act."},
+
+{"id":"exa-altru-000327","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a cat taken to the vet. I take the cat."},
+{"id":"exa-altru-000328","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a cat taken to the vet. I do not take it."},
+
+{"id":"exa-altru-000329","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a ball off the roof. I get the ball."},
+{"id":"exa-altru-000330","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a ball off the roof. I do not get it."},
+
+{"id":"exa-altru-000331","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs bread sliced. I slice the bread."},
+{"id":"exa-altru-000332","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs bread sliced. I do not slice it."},
+
+{"id":"exa-altru-000333","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need water carried to the field. I carry the water."},
+{"id":"exa-altru-000334","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need water carried to the field. I do not carry it."},
+
+{"id":"exa-altru-000335","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs blinds raised. I raise the blinds."},
+{"id":"exa-altru-000336","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs blinds raised. I do not raise them."},
+
+{"id":"exa-altru-000337","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs the calendar updated. I update the calendar."},
+{"id":"exa-altru-000338","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs the calendar updated. I do not update it."},
+
+{"id":"exa-altru-000339","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a schedule printed. I print the schedule."},
+{"id":"exa-altru-000340","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a schedule printed. I do not print it."},
+
+{"id":"exa-altru-000341","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a box taped shut. I tape the box."},
+{"id":"exa-altru-000342","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a box taped shut. I do not tape it."},
+
+{"id":"exa-altru-000343","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs screws tightened. I tighten the screws."},
+{"id":"exa-altru-000344","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs screws tightened. I do not tighten them."},
+
+{"id":"exa-altru-000345","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a tent folded. I fold the tent."},
+{"id":"exa-altru-000346","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a tent folded. I do not fold it."},
+
+{"id":"exa-altru-000347","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs the bin pulled to the curb. I pull the bin."},
+{"id":"exa-altru-000348","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs the bin pulled to the curb. I do not pull it."},
+
+{"id":"exa-altru-000349","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs the oven preheated. I set the oven."},
+{"id":"exa-altru-000350","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs the oven preheated. I do not set it."},
+
+{"id":"exa-altru-000351","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a fan installed. I install the fan."},
+{"id":"exa-altru-000352","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a fan installed. I do not install it."},
+
+{"id":"exa-altru-000353","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs the laptop charged. I plug it in."},
+{"id":"exa-altru-000354","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs the laptop charged. I do not plug it in."},
+
+{"id":"exa-altru-000355","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a photo cropped. I crop the photo."},
+{"id":"exa-altru-000356","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a photo cropped. I do not crop it."},
+
+{"id":"exa-altru-000357","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a ladder brought. I bring the ladder."},
+{"id":"exa-altru-000358","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a ladder brought. I do not bring it."},
+
+{"id":"exa-altru-000359","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a tap turned off. I turn off the tap."},
+{"id":"exa-altru-000360","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a tap turned off. I do not turn it off."},
+
+{"id":"exa-altru-000361","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs emails sorted. I sort the emails."},
+{"id":"exa-altru-000362","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs emails sorted. I do not sort them."},
+
+{"id":"exa-altru-000363","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a spill contained. I place towels."},
+{"id":"exa-altru-000364","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a spill contained. I do not place towels."}
+,
+{"id":"exa-altru-000365","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a cart returned. I return the cart."},
+{"id":"exa-altru-000366","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a cart returned. I do not return it."},
+
+{"id":"exa-altru-000367","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He drops a glove. I pick it up."},
+{"id":"exa-altru-000368","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He drops a glove. I leave it."},
+
+{"id":"exa-altru-000369","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs the door held. I hold the door."},
+{"id":"exa-altru-000370","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs the door held. I let it close."},
+
+{"id":"exa-altru-000371","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need the lights off. I switch them off."},
+{"id":"exa-altru-000372","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need the lights off. I do not switch them off."},
+
+{"id":"exa-altru-000373","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a form filled. I fill the form."},
+{"id":"exa-altru-000374","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a form filled. I do not fill it."},
+
+{"id":"exa-altru-000375","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a box lifted. I lift the box."},
+{"id":"exa-altru-000376","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a box lifted. I do not lift it."},
+
+{"id":"exa-altru-000377","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need the table wiped. I wipe the table."},
+{"id":"exa-altru-000378","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need the table wiped. I do not wipe it."},
+
+{"id":"exa-altru-000379","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs stamps. I give stamps."},
+{"id":"exa-altru-000380","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs stamps. I do not give stamps."},
+
+{"id":"exa-altru-000381","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a phone number. I write it down."},
+{"id":"exa-altru-000382","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a phone number. I do not write it down."},
+
+{"id":"exa-altru-000383","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need the map read. I read the map."},
+{"id":"exa-altru-000384","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need the map read. I do not read it."},
+
+{"id":"exa-altru-000385","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He is stuck with a zipper. I fix the zipper."},
+{"id":"exa-altru-000386","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He is stuck with a zipper. I do not fix it."},
+
+{"id":"exa-altru-000387","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a nail hammered. I hammer the nail."},
+{"id":"exa-altru-000388","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a nail hammered. I do not hammer it."},
+
+{"id":"exa-altru-000389","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need the rug rolled. I roll the rug."},
+{"id":"exa-altru-000390","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need the rug rolled. I do not roll it."},
+
+{"id":"exa-altru-000391","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs boxes labeled. I label the boxes."},
+{"id":"exa-altru-000392","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs boxes labeled. I do not label them."},
+
+{"id":"exa-altru-000393","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs milk fetched. I fetch the milk."},
+{"id":"exa-altru-000394","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs milk fetched. I do not fetch it."},
+
+{"id":"exa-altru-000395","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need chairs set out. I set out the chairs."},
+{"id":"exa-altru-000396","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need chairs set out. I do not set them out."},
+
+{"id":"exa-altru-000397","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs the clock set. I set the clock."},
+{"id":"exa-altru-000398","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs the clock set. I do not set it."},
+
+{"id":"exa-altru-000399","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs tape cut. I cut a piece."},
+{"id":"exa-altru-000400","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs tape cut. I do not cut it."},
+
+{"id":"exa-altru-000401","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need the box sealed. I seal the box."},
+{"id":"exa-altru-000402","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need the box sealed. I do not seal it."},
+
+{"id":"exa-altru-000403","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a page printed. I print the page."},
+{"id":"exa-altru-000404","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a page printed. I do not print it."},
+
+{"id":"exa-altru-000405","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs the bed made. I make the bed."},
+{"id":"exa-altru-000406","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs the bed made. I do not make it."},
+
+{"id":"exa-altru-000407","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need shoes tied. I tie the shoes."},
+{"id":"exa-altru-000408","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need shoes tied. I do not tie them."},
+
+{"id":"exa-altru-000409","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs the oven off. I turn it off."},
+{"id":"exa-altru-000410","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs the oven off. I do not turn it off."},
+
+{"id":"exa-altru-000411","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs the fan on. I turn it on."},
+{"id":"exa-altru-000412","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs the fan on. I do not turn it on."},
+
+{"id":"exa-altru-000413","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need trash sorted. I sort the trash."},
+{"id":"exa-altru-000414","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need trash sorted. I do not sort it."},
+
+{"id":"exa-altru-000415","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs the code entered. I enter the code."},
+{"id":"exa-altru-000416","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs the code entered. I do not enter it."},
+
+{"id":"exa-altru-000417","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a knot cut. I cut the knot."},
+{"id":"exa-altru-000418","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a knot cut. I do not cut it."},
+
+{"id":"exa-altru-000419","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need the fridge closed. I close the door."},
+{"id":"exa-altru-000420","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need the fridge closed. I leave it open."},
+
+{"id":"exa-altru-000421","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a call made. I make the call."},
+{"id":"exa-altru-000422","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a call made. I do not make it."},
+
+{"id":"exa-altru-000423","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs paper handed over. I hand her paper."},
+{"id":"exa-altru-000424","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs paper handed over. I do not hand any."},
+
+{"id":"exa-altru-000425","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need the floor swept. I sweep the floor."},
+{"id":"exa-altru-000426","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need the floor swept. I do not sweep it."},
+
+{"id":"exa-altru-000427","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs the alarm off. I turn off the alarm."},
+{"id":"exa-altru-000428","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs the alarm off. I do not turn it off."},
+
+{"id":"exa-altru-000429","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs the curtains open. I open the curtains."},
+{"id":"exa-altru-000430","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs the curtains open. I do not open them."},
+
+{"id":"exa-altru-000431","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need water boiled. I boil water."},
+{"id":"exa-altru-000432","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need water boiled. I do not boil it."},
+
+{"id":"exa-altru-000433","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a file renamed. I rename the file."},
+{"id":"exa-altru-000434","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a file renamed. I do not rename it."},
+
+{"id":"exa-altru-000435","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs the list checked. I check the list."},
+{"id":"exa-altru-000436","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs the list checked. I do not check it."},
+
+{"id":"exa-altru-000437","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need the plants moved. I move the plants."},
+{"id":"exa-altru-000438","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need the plants moved. I do not move them."},
+
+{"id":"exa-altru-000439","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a seat saved. I save a seat."},
+{"id":"exa-altru-000440","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a seat saved. I do not save it."},
+
+{"id":"exa-altru-000441","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs the path cleared. I clear the path."},
+{"id":"exa-altru-000442","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs the path cleared. I do not clear it."},
+
+{"id":"exa-altru-000443","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need labels peeled. I peel the labels."},
+{"id":"exa-altru-000444","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need labels peeled. I do not peel them."},
+
+{"id":"exa-altru-000445","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a lid opened. I open the lid."},
+{"id":"exa-altru-000446","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a lid opened. I do not open it."},
+
+{"id":"exa-altru-000447","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs the timer set. I set the timer."},
+{"id":"exa-altru-000448","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs the timer set. I do not set it."},
+
+{"id":"exa-altru-000449","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need the cat fed. I fill the bowl."},
+{"id":"exa-altru-000450","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need the cat fed. I do not fill the bowl."},
+
+{"id":"exa-altru-000451","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a nail pulled. I pull the nail."},
+{"id":"exa-altru-000452","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a nail pulled. I do not pull it."},
+
+{"id":"exa-altru-000453","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a shelf dusted. I dust the shelf."},
+{"id":"exa-altru-000454","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a shelf dusted. I do not dust it."},
+
+{"id":"exa-altru-000455","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need the cable plugged in. I plug in the cable."},
+{"id":"exa-altru-000456","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need the cable plugged in. I do not plug it in."},
+
+{"id":"exa-altru-000457","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs the pot stirred. I stir the pot."},
+{"id":"exa-altru-000458","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs the pot stirred. I do not stir it."},
+
+{"id":"exa-altru-000459","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a lid tightened. I tighten the lid."},
+{"id":"exa-altru-000460","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a lid tightened. I do not tighten it."},
+
+{"id":"exa-altru-000461","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a dog walked. I walk the dog."},
+{"id":"exa-altru-000462","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a dog walked. I do not walk it."},
+
+{"id":"exa-altru-000463","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs the mail brought in. I bring in the mail."},
+{"id":"exa-altru-000464","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs the mail brought in. I do not bring it in."},
+
+{"id":"exa-altru-000465","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs the bell rung. I ring the bell."},
+{"id":"exa-altru-000466","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs the bell rung. I do not ring it."},
+
+{"id":"exa-altru-000467","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need photos emailed. I email the photos."},
+{"id":"exa-altru-000468","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need photos emailed. I do not email them."},
+
+{"id":"exa-altru-000469","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs cups washed. I wash the cups."},
+{"id":"exa-altru-000470","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs cups washed. I do not wash them."},
+
+{"id":"exa-altru-000471","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs rice rinsed. I rinse the rice."},
+{"id":"exa-altru-000472","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs rice rinsed. I do not rinse it."},
+
+{"id":"exa-altru-000473","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need a cake sliced. I slice the cake."},
+{"id":"exa-altru-000474","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need a cake sliced. I do not slice it."},
+
+{"id":"exa-altru-000475","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a light on. I turn on the light."},
+{"id":"exa-altru-000476","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a light on. I do not turn it on."},
+
+{"id":"exa-altru-000477","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs the stove cleaned. I clean the stove."},
+{"id":"exa-altru-000478","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs the stove cleaned. I do not clean it."},
+
+{"id":"exa-altru-000479","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need the box weighed. I weigh the box."},
+{"id":"exa-altru-000480","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need the box weighed. I do not weigh it."},
+
+{"id":"exa-altru-000481","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs a tire changed. I change the tire."},
+{"id":"exa-altru-000482","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs a tire changed. I do not change it."},
+
+{"id":"exa-altru-000483","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs the sink clear. I clear the drain."},
+{"id":"exa-altru-000484","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs the sink clear. I do not clear it."},
+
+{"id":"exa-altru-000485","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need the window open. I open the window."},
+{"id":"exa-altru-000486","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need the window open. I do not open it."},
+
+{"id":"exa-altru-000487","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs bags carried in. I carry the bags in."},
+{"id":"exa-altru-000488","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs bags carried in. I do not carry them in."},
+
+{"id":"exa-altru-000489","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs shoes cleaned. I clean the shoes."},
+{"id":"exa-altru-000490","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs shoes cleaned. I do not clean them."},
+
+{"id":"exa-altru-000491","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need chairs folded. I fold the chairs."},
+{"id":"exa-altru-000492","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need chairs folded. I do not fold them."},
+
+{"id":"exa-altru-000493","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs coffee poured. I pour coffee."},
+{"id":"exa-altru-000494","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs coffee poured. I do not pour it."},
+
+{"id":"exa-altru-000495","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"She needs a gate held. I hold the gate."},
+{"id":"exa-altru-000496","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"She needs a gate held. I do not hold it."},
+
+{"id":"exa-altru-000497","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"They need files backed up. I back up the files."},
+{"id":"exa-altru-000498","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"They need files backed up. I do not back them up."},
+
+{"id":"exa-altru-000499","dimension":"Agreeableness","subdimension":"Altruism","polarity":"positive","label":1,"lang":"en","text":"He needs the room aired out. I open the windows."},
+{"id":"exa-altru-000500","dimension":"Agreeableness","subdimension":"Altruism","polarity":"negative","label":0,"lang":"en","text":"He needs the room aired out. I do not open the windows."}
+]

@@ -1,0 +1,759 @@
+[{"id":"exa-comp-000001","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I sense their sadness, and I feel it too."},
+{"id":"exa-comp-000002","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I sense their sadness, but it does not move me."},
+
+{"id":"exa-comp-000003","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their worry, and my heart softens."},
+{"id":"exa-comp-000004","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I notice their worry, but my heart stays hard."},
+
+{"id":"exa-comp-000005","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I sense their fear, and I feel it too."},
+{"id":"exa-comp-000006","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I sense their fear, but it does not move me."},
+
+{"id":"exa-comp-000007","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their tears touch me; I grow quiet inside."},
+{"id":"exa-comp-000008","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their tears mean little; I feel nothing inside."},
+
+{"id":"exa-comp-000009","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I notice their pain, and my chest softens."},
+{"id":"exa-comp-000010","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I notice their pain, but my chest stays cold."},
+
+{"id":"exa-comp-000011","dimension":"Agreeabableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I sense their joy, and I feel it too."},
+{"id":"exa-comp-000012","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I sense their joy, but it is not my mood."},
+
+{"id":"exa-comp-000013","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their shame reaches me; my heart softens."},
+{"id":"exa-comp-000014","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their shame does not reach me; I stay firm."},
+
+{"id":"exa-comp-000015","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel a tug inside for their loss."},
+{"id":"exa-comp-000016","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I feel no tug inside for their loss."},
+
+{"id":"exa-comp-000017","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their grief softens me; I share a bit of it."},
+{"id":"exa-comp-000018","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their grief leaves me unmoved; I stay apart inside."},
+
+{"id":"exa-comp-00019","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I sense their stress, and I feel the weight too."},
+{"id":"exa-comp-000020","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I sense their stress, but I feel no weight."},
+
+{"id":"exa-comp-000021","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their worry touches me; I grow gentle inside."},
+{"id":"exa-comp-000022","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their worry does not touch me; I stay flat."},
+
+{"id":"exa-comp-000023","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their doubt, and my heart softens."},
+{"id":"exa-comp-000024","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I hear their doubt, but my heart stays shut."},
+
+{"id":"exa-comp-000025","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their fear reaches me; I feel it inside."},
+{"id":"exa-comp-000026","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their fear does not reach me; I feel nothing."},
+
+{"id":"exa-comp-000027","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I sense their shame, and I soften a little."},
+{"id":"exa-comp-000028","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I sense their shame, but I remain hard."},
+
+{"id":"exa-comp-000029","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their joy lifts me; I feel light with them."},
+{"id":"exa-comp-000030","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their joy does not lift me; I feel the same."},
+
+{"id":"exa-comp-000031","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their sorrow, and I grow quiet."},
+{"id":"exa-comp-000032","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I notice their sorrow, but I stay unmoved."},
+
+{"id":"exa-comp-000033","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their shock reaches me; my chest softens."},
+{"id":"exa-comp-000034","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their shock fades at me; my chest stays firm."},
+
+{"id":"exa-comp-000035","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I sense their guilt, and I feel the sting too."},
+{"id":"exa-comp-000036","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I sense their guilt, but I feel no sting."},
+
+{"id":"exa-comp-000037","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their pride warms me; I feel glad with them."},
+{"id":"exa-comp-000038","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their pride leaves me flat; I feel nothing with them."},
+
+{"id":"exa-comp-000039","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel a pull toward their sadness."},
+{"id":"exa-comp-000040","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I feel no pull toward their sadness."},
+
+{"id":"exa-comp-000041","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their anger shakes me; I feel tense too."},
+{"id":"exa-comp-000042","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their anger does not shake me; I stay calm."},
+
+{"id":"exa-comp-000043","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I sense their relief, and I breathe easier too."},
+{"id":"exa-comp-000044","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I sense their relief, but my breath does not change."},
+
+{"id":"exa-comp-000045","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their hope reaches me; I feel light inside."},
+{"id":"exa-comp-000046","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their hope does not reach me; I feel flat."},
+
+{"id":"exa-comp-000047","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their shame, and I soften within."},
+{"id":"exa-comp-000048","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I hear their shame, but I keep a hard core."},
+
+{"id":"exa-comp-000049","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their fear pulls at me; I feel tight inside."},
+{"id":"exa-comp-000050","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their fear does not pull at me; I feel loose."},
+
+{"id":"exa-comp-000051","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I sense their calm, and I settle too."},
+{"id":"exa-comp-000052","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I sense their calm, but I do not settle."},
+
+{"id":"exa-comp-000053","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their joy warms me; I feel soft inside."},
+{"id":"exa-comp-000054","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their joy does not warm me; I feel plain."},
+
+{"id":"exa-comp-000055","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel a tug for their small hurt."},
+{"id":"exa-comp-000056","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I feel no tug for their small hurt."},
+
+{"id":"exa-comp-000057","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their laugh lifts me; I feel light too."},
+{"id":"exa-comp-000058","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their laugh does not lift me; I stay the same."},
+
+{"id":"exa-comp-000059","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I sense their shock, and I tense with them."},
+{"id":"exa-comp-000060","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I sense their shock, but my body does not tense."},
+
+{"id":"exa-comp-000061","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their pride reaches me; I glow a little too."},
+{"id":"exa-comp-000062","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their pride does not reach me; I do not glow."},
+
+{"id":"exa-comp-000063","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their fear, and I grow still."},
+{"id":"exa-comp-000064","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I hear their fear, but I do not grow still."},
+
+{"id":"exa-comp-000065","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their sorrow reaches me; I feel low too."},
+{"id":"exa-comp-000066","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their sorrow does not reach me; I feel steady."},
+
+{"id":"exa-comp-000067","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I sense their ease, and my chest loosens."},
+{"id":"exa-comp-000068","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I sense their ease, but my chest does not loosen."},
+
+{"id":"exa-comp-000069","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their upset touches me; I feel heavy."},
+{"id":"exa-comp-000070","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their upset does not touch me; I feel light."},
+
+{"id":"exa-comp-000071","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their doubt, and I soften inside."},
+{"id":"exa-comp-000072","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I hear their doubt, but I do not soften."},
+
+{"id":"exa-comp-000073","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their calm reaches me; I rest a little too."},
+{"id":"exa-comp-000074","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their calm does not reach me; I do not rest."},
+
+{"id":"exa-comp-000075","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I sense their anger, and I feel its heat."},
+{"id":"exa-comp-000076","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I sense their anger, but I feel no heat."},
+
+{"id":"exa-comp-000077","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their fear chills me; I feel small inside."},
+{"id":"exa-comp-000078","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their fear does not chill me; I feel normal."},
+
+{"id":"exa-comp-000079","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their pride, and I brighten a little."},
+{"id":"exa-comp-000080","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I hear their pride, but I do not brighten."},
+
+{"id":"exa-comp-000081","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their joy touches me; I smile inside."},
+{"id":"exa-comp-000082","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their joy does not touch me; I do not smile inside."},
+
+{"id":"exa-comp-000083","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I sense their hurt, and I feel its edge."},
+{"id":"exa-comp-000084","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I sense their hurt, but I feel no edge."},
+
+{"id":"exa-comp-000085","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their hope warms me; I feel soft again."},
+{"id":"exa-comp-000086","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their hope does not warm me; I feel plain again."},
+
+{"id":"exa-comp-000087","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their stress, and I grow heavy."},
+{"id":"exa-comp-000088","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I hear their stress, but I do not grow heavy."},
+
+{"id":"exa-comp-000089","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their calm eases me; I soften inside."},
+{"id":"exa-comp-000090","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their calm does not ease me; I stay the same."},
+
+{"id":"exa-comp-000091","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I sense their grief, and I sink a little."},
+{"id":"exa-comp-000092","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I sense their grief, but I do not sink."},
+
+{"id":"exa-comp-000093","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their joy reaches me; I feel bright inside."},
+{"id":"exa-comp-000094","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their joy does not reach me; I feel dull."},
+
+{"id":"exa-comp-000095","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their shame, and I grow gentle."},
+{"id":"exa-comp-000096","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I hear their shame, but I do not grow gentle."},
+
+{"id":"exa-comp-000097","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their fear tightens me; I feel tense too."},
+{"id":"exa-comp-000098","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their fear does not tighten me; I stay loose."},
+
+{"id":"exa-comp-000099","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I sense their pride, and I glow a little."},
+{"id":"exa-comp-000100","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I sense their pride, but I do not glow."},
+{"id":"exa-comp-000101","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their worry lands in me; I feel it."},
+{"id":"exa-comp-000102","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their worry does not land in me; I feel nothing."},
+
+{"id":"exa-comp-000103","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I share a shade of their sadness."},
+{"id":"exa-comp-000104","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not share any shade of their sadness."},
+
+{"id":"exa-comp-000105","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their fear echoes in me for a moment."},
+{"id":"exa-comp-000106","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their fear leaves no echo in me."},
+
+{"id":"exa-comp-000107","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel a soft pull from their grief."},
+{"id":"exa-comp-000108","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I feel no pull from their grief."},
+
+{"id":"exa-comp-000109","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their pain touches a quiet place in me."},
+{"id":"exa-comp-000110","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their pain does not touch any place in me."},
+
+{"id":"exa-comp-000111","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"A hint of their shame reaches me."},
+{"id":"exa-comp-000112","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"No hint of their shame reaches me."},
+
+{"id":"exa-comp-000113","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I carry a little of their stress inside."},
+{"id":"exa-comp-000114","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I carry none of their stress inside."},
+
+{"id":"exa-comp-000115","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their joy brightens my mood a bit."},
+{"id":"exa-comp-000116","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their joy does not brighten my mood at all."},
+
+{"id":"exa-comp-000117","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their doubt as a small weight."},
+{"id":"exa-comp-000118","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel their doubt as any weight."},
+
+{"id":"exa-comp-000119","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their pride warms the air in me."},
+{"id":"exa-comp-000120","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their pride leaves the air in me unchanged."},
+
+{"id":"exa-comp-000121","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"A trace of their anger stirs my chest."},
+{"id":"exa-comp-000122","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their anger does not stir my chest."},
+
+{"id":"exa-comp-000123","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their relief eases a tight spot in me."},
+{"id":"exa-comp-000124","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their relief eases nothing in me."},
+
+{"id":"exa-comp-000125","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel near their hope; it lights me a little."},
+{"id":"exa-comp-000126","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel near their hope; it lights nothing in me."},
+
+{"id":"exa-comp-000127","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their calm settles a thin layer in me."},
+{"id":"exa-comp-000128","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their calm settles no layer in me."},
+
+{"id":"exa-comp-000129","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"A soft wave of their sorrow rolls through me."},
+{"id":"exa-comp-000130","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"No wave of their sorrow rolls through me."},
+
+{"id":"exa-comp-000131","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their shock rings in me for a breath."},
+{"id":"exa-comp-000132","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their shock does not ring in me at all."},
+
+{"id":"exa-comp-000133","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their guilt as a quick sting."},
+{"id":"exa-comp-000134","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel their guilt as any sting."},
+
+{"id":"exa-comp-000135","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"A thin line of their fear runs through me."},
+{"id":"exa-comp-000136","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"No line of their fear runs through me."},
+
+{"id":"exa-comp-000137","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their doubt brushes my mind lightly."},
+{"id":"exa-comp-000138","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their doubt does not brush my mind."},
+
+{"id":"exa-comp-000139","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"The tone of their sadness softens me."},
+{"id":"exa-comp-000140","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"The tone of their sadness does not soften me."},
+
+{"id":"exa-comp-000141","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their stress hums in me, low and real."},
+{"id":"exa-comp-000142","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their stress does not hum in me at all."},
+
+{"id":"exa-comp-000143","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their joy lifts the edge of my mood."},
+{"id":"exa-comp-000144","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their joy lifts nothing at the edge of my mood."},
+
+{"id":"exa-comp-000145","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"A little of their calm reaches my chest."},
+{"id":"exa-comp-000146","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"None of their calm reaches my chest."},
+
+{"id":"exa-comp-000147","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their fear draws a quiet tightness in me."},
+{"id":"exa-comp-000148","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their fear draws no tightness in me."},
+
+{"id":"exa-comp-000149","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I echo a trace of their pride."},
+{"id":"exa-comp-000150","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I echo no trace of their pride."},
+
+{"id":"exa-comp-000151","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their relief loosens a knot in me."},
+{"id":"exa-comp-000152","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their relief loosens no knot in me."},
+
+{"id":"exa-comp-000153","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I glow faintly with their hope."},
+{"id":"exa-comp-000154","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not glow at all with their hope."},
+
+{"id":"exa-comp-000155","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"A small part of their shame lives in me."},
+{"id":"exa-comp-000156","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"No part of their shame lives in me."},
+
+{"id":"exa-comp-000157","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their sorrow makes a quiet dim in me."},
+{"id":"exa-comp-000158","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their sorrow makes no dim in me."},
+
+{"id":"exa-comp-000159","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"The feel of their stress is real to me."},
+{"id":"exa-comp-000160","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"The feel of their stress is not real to me."},
+
+{"id":"exa-comp-000161","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their joy sits in my chest, light and brief."},
+{"id":"exa-comp-000162","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their joy does not sit in my chest."},
+
+{"id":"exa-comp-000163","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel near their calm; I ease inside."},
+{"id":"exa-comp-000164","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel near their calm; I do not ease inside."},
+
+{"id":"exa-comp-000165","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"A small echo of their fear stays with me."},
+{"id":"exa-comp-000166","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"No echo of their fear stays with me."},
+
+{"id":"exa-comp-000167","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their relief cools a warm spot in me."},
+{"id":"exa-comp-000168","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their relief cools nothing in me."},
+
+{"id":"exa-comp-000169","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I hold a faint line of their doubt."},
+{"id":"exa-comp-000170","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I hold no line of their doubt."},
+
+{"id":"exa-comp-000171","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their pride lights a small place in me."},
+{"id":"exa-comp-000172","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their pride lights no place in me."},
+
+{"id":"exa-comp-000173","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"A quiet piece of their sadness rests in me."},
+{"id":"exa-comp-000174","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"No piece of their sadness rests in me."},
+
+{"id":"exa-comp-000175","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their stress colors the edge of my mood."},
+{"id":"exa-comp-000176","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their stress does not color any edge of my mood."},
+
+{"id":"exa-comp-000177","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel a near match with their fear."},
+{"id":"exa-comp-000178","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I feel no match at all with their fear."},
+
+{"id":"exa-comp-000179","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their joy finds a light in me."},
+{"id":"exa-comp-000180","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their joy finds no light in me."},
+
+{"id":"exa-comp-000181","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Some of their shame weighs on me, just a little."},
+{"id":"exa-comp-000182","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"None of their shame weighs on me."},
+
+{"id":"exa-comp-000183","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"A breath of their calm moves through me."},
+{"id":"exa-comp-000184","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"No breath of their calm moves through me."},
+
+{"id":"exa-comp-000185","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their grief makes a slow hush in me."},
+{"id":"exa-comp-000186","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their grief makes no hush in me."},
+
+{"id":"exa-comp-000187","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"The sound of their anger lives faintly in me."},
+{"id":"exa-comp-000188","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"The sound of their anger does not live in me."},
+
+{"id":"exa-comp-000189","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I take in a hint of their relief."},
+{"id":"exa-comp-000190","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I take in no hint of their relief."},
+
+{"id":"exa-comp-000191","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their pride softens a cool place in me."},
+{"id":"exa-comp-000192","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their pride softens no place in me."},
+
+{"id":"exa-comp-000193","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"A trace of their doubt stays on my mind."},
+{"id":"exa-comp-000194","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"No trace of their doubt stays on my mind."},
+
+{"id":"exa-comp-000195","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"The edge of their sadness is real to me."},
+{"id":"exa-comp-000196","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"The edge of their sadness is not real to me."},
+
+{"id":"exa-comp-000197","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their fear colors my breath for a beat."},
+{"id":"exa-comp-000198","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their fear does not color my breath."},
+
+{"id":"exa-comp-000199","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Some of their joy lives, small, in me."},
+
+{"id":"exa-comp-000200","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their sadness is in me; I feel low."},
+{"id":"exa-comp-000201","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their sadness is not in me; I feel fine."},
+
+{"id":"exa-comp-000202","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their worry inside my chest."},
+{"id":"exa-comp-000203","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel their worry at all."},
+
+{"id":"exa-comp-000204","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their fear makes me tense too."},
+{"id":"exa-comp-000205","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their fear does not make me tense."},
+
+{"id":"exa-comp-000206","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their joy lights me a little."},
+{"id":"exa-comp-000207","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their joy does not light me at all."},
+
+{"id":"exa-comp-000208","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel touched by their pain."},
+{"id":"exa-comp-000209","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I feel nothing from their pain."},
+
+{"id":"exa-comp-000210","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their shame makes my heart soft."},
+{"id":"exa-comp-000211","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their shame does not move my heart."},
+
+{"id":"exa-comp-000212","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel heavy with their grief."},
+{"id":"exa-comp-000213","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel heavy with their grief."},
+
+{"id":"exa-comp-000214","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their relief eases me too."},
+{"id":"exa-comp-000215","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their relief does not ease me."},
+
+{"id":"exa-comp-000216","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I share a little of their pride."},
+{"id":"exa-comp-000217","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I share none of their pride."},
+
+{"id":"exa-comp-000218","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their doubt feels real in me."},
+{"id":"exa-comp-000219","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their doubt feels unreal to me."},
+
+{"id":"exa-comp-000220","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their joy gives me a soft smile."},
+{"id":"exa-comp-000221","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their joy gives me no smile."},
+
+{"id":"exa-comp-000222","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel close to their sorrow."},
+{"id":"exa-comp-000223","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel close to their sorrow."},
+
+{"id":"exa-comp-000224","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their anger shakes me inside."},
+{"id":"exa-comp-000225","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their anger does not shake me."},
+
+{"id":"exa-comp-000226","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel a bit of their calm."},
+{"id":"exa-comp-000227","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel any of their calm."},
+
+{"id":"exa-comp-000228","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their fear makes me small inside."},
+{"id":"exa-comp-000229","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their fear makes no change in me."},
+
+{"id":"exa-comp-000230","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I glow a little with their hope."},
+{"id":"exa-comp-000231","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not glow at all with their hope."},
+
+{"id":"exa-comp-000232","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their grief makes me quiet."},
+{"id":"exa-comp-000233","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their grief does not make me quiet."},
+
+{"id":"exa-comp-000234","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel touched by their joy."},
+{"id":"exa-comp-000235","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I feel untouched by their joy."},
+
+{"id":"exa-comp-000236","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their stress sits heavy in me."},
+{"id":"exa-comp-000237","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their stress does not sit in me."},
+
+{"id":"exa-comp-000238","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their calm makes me softer too."},
+{"id":"exa-comp-000239","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their calm does not make me softer."},
+
+{"id":"exa-comp-000240","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their pride in my chest."},
+{"id":"exa-comp-000241","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel their pride in me."},
+
+{"id":"exa-comp-000242","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their sadness makes me low inside."},
+{"id":"exa-comp-000243","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their sadness makes no mark in me."},
+
+{"id":"exa-comp-000244","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel close to their relief."},
+{"id":"exa-comp-000245","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I feel no closeness to their relief."},
+
+{"id":"exa-comp-000246","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their joy warms my mood."},
+{"id":"exa-comp-000247","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their joy does not warm my mood."},
+
+{"id":"exa-comp-000248","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their fear as a chill."},
+{"id":"exa-comp-000249","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I feel no chill from their fear."},
+
+{"id":"exa-comp-000250","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their hope touches me inside."},
+{"id":"exa-comp-000251","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their hope does not touch me inside."},
+
+{"id":"exa-comp-000252","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their sadness."},
+{"id":"exa-comp-000253","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel their sadness."},
+
+{"id":"exa-comp-000254","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their worry is in me."},
+{"id":"exa-comp-000255","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their worry is not in me."},
+
+{"id":"exa-comp-000256","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their fear makes me tense."},
+{"id":"exa-comp-000257","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their fear does not tense me."},
+
+{"id":"exa-comp-000258","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their joy warms my chest."},
+{"id":"exa-comp-000259","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their joy does not warm me."},
+
+{"id":"exa-comp-000260","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their pain inside."},
+{"id":"exa-comp-000261","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I feel no pain from them."},
+
+{"id":"exa-comp-000262","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their shame softens my heart."},
+{"id":"exa-comp-000263","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their shame does not soften me."},
+
+{"id":"exa-comp-000264","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I share a bit of grief."},
+{"id":"exa-comp-000265","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I share no grief at all."},
+
+{"id":"exa-comp-000266","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Relief eases me a little."},
+{"id":"exa-comp-000267","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Relief does not ease me."},
+
+{"id":"exa-comp-000268","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel a trace of pride."},
+{"id":"exa-comp-000269","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I feel no trace of pride."},
+
+{"id":"exa-comp-000270","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Doubt sits lightly in me."},
+{"id":"exa-comp-000271","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Doubt does not sit in me."},
+
+{"id":"exa-comp-000272","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Calm settles me inside."},
+{"id":"exa-comp-000273","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Calm does not settle me."},
+
+{"id":"exa-comp-000274","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Anger shakes me a bit."},
+{"id":"exa-comp-000275","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Anger does not shake me."},
+
+{"id":"exa-comp-000276","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Stress feels real in me."},
+{"id":"exa-comp-000277","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Stress feels unreal to me."},
+
+{"id":"exa-comp-000278","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Hope gives me a light mood."},
+{"id":"exa-comp-000279","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Hope gives me no change."},
+
+{"id":"exa-comp-000280","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Guilt stings me a little."},
+{"id":"exa-comp-000281","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Guilt does not sting me."},
+
+{"id":"exa-comp-000282","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Shock rings in my chest."},
+{"id":"exa-comp-000283","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Shock does not ring in me."},
+
+{"id":"exa-comp-000284","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Hurt makes me quiet inside."},
+{"id":"exa-comp-000285","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Hurt makes no change in me."},
+
+{"id":"exa-comp-000286","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Upset lowers my mood too."},
+{"id":"exa-comp-000287","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Upset does not lower my mood."},
+
+{"id":"exa-comp-000288","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their joy lifts me a bit."},
+{"id":"exa-comp-000289","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their joy does not lift me."},
+
+{"id":"exa-comp-000290","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Fear chills me slightly."},
+{"id":"exa-comp-000291","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Fear does not chill me."},
+
+{"id":"exa-comp-000292","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Relief cools my chest."},
+{"id":"exa-comp-000293","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Relief does not cool me."},
+
+{"id":"exa-comp-000294","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Pride warms me inside."},
+{"id":"exa-comp-000295","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Pride does not warm me."},
+
+{"id":"exa-comp-000296","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Shame softens me within."},
+{"id":"exa-comp-000297","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Shame does not soften me."},
+
+{"id":"exa-comp-000298","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Sorrow sits low in me."},
+{"id":"exa-comp-000299","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Sorrow does not sit in me."},
+
+{"id":"exa-comp-000300","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Calm rests on my mind."},
+{"id":"exa-comp-000301","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Calm does not rest on me."},
+
+{"id":"exa-comp-000302","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Anger makes me tight."},
+{"id":"exa-comp-000303","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Anger does not make me tight."},
+
+{"id":"exa-comp-000304","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Stress weighs on me."},
+{"id":"exa-comp-000305","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Stress does not weigh on me."},
+
+{"id":"exa-comp-000306","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Hope lights me inside."},
+{"id":"exa-comp-000307","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Hope does not light me."},
+
+{"id":"exa-comp-000308","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Guilt pricks my heart."},
+{"id":"exa-comp-000309","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Guilt does not prick me."},
+
+{"id":"exa-comp-000310","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Shock shakes me slightly."},
+{"id":"exa-comp-000311","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Shock does not shake me."},
+
+{"id":"exa-comp-000312","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Hurt feels sharp in me."},
+{"id":"exa-comp-000313","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Hurt does not feel sharp in me."},
+
+{"id":"exa-comp-000314","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Relief softens my chest."},
+{"id":"exa-comp-000315","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Relief does not soften my chest."},
+
+{"id":"exa-comp-000316","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Pride lifts my mood."},
+{"id":"exa-comp-000317","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Pride does not lift my mood."},
+
+{"id":"exa-comp-000318","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Doubt chills me slightly."},
+{"id":"exa-comp-000319","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Doubt does not chill me."},
+
+{"id":"exa-comp-000320","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Joy makes me light."},
+{"id":"exa-comp-000321","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Joy does not make me light."},
+
+{"id":"exa-comp-000322","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Fear tightens my chest."},
+{"id":"exa-comp-000323","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Fear does not tighten my chest."},
+
+{"id":"exa-comp-000324","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Calm loosens my breath."},
+{"id":"exa-comp-000325","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Calm does not loosen my breath."},
+
+{"id":"exa-comp-000326","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Grief makes me low."},
+{"id":"exa-comp-000327","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Grief does not make me low."},
+
+{"id":"exa-comp-000328","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Worry sits in my chest."},
+{"id":"exa-comp-000329","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Worry does not sit in me."},
+
+{"id":"exa-comp-000330","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Shame makes me soft."},
+{"id":"exa-comp-000331","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Shame does not make me soft."},
+
+{"id":"exa-comp-000332","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Relief calms my chest."},
+{"id":"exa-comp-000333","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Relief does not calm my chest."},
+
+{"id":"exa-comp-000334","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Pride feels warm to me."},
+{"id":"exa-comp-000335","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Pride feels cold to me."},
+
+{"id":"exa-comp-000336","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Sorrow hushes me inside."},
+{"id":"exa-comp-000337","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Sorrow does not hush me."},
+
+{"id":"exa-comp-000338","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Stress tightens my mood."},
+{"id":"exa-comp-000339","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Stress does not tighten my mood."},
+
+{"id":"exa-comp-000340","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Hope lifts me a little."},
+{"id":"exa-comp-000341","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Hope does not lift me."},
+
+{"id":"exa-comp-000342","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Guilt feels sharp and small."},
+{"id":"exa-comp-000343","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Guilt feels dull to me."},
+
+{"id":"exa-comp-000344","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Joy sits warm in me."},
+{"id":"exa-comp-000345","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Joy does not sit in me."},
+
+{"id":"exa-comp-000346","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Fear is close to me."},
+{"id":"exa-comp-000347","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Fear is not close to me."},
+
+{"id":"exa-comp-000348","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Calm feels real in me."},
+{"id":"exa-comp-000349","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Calm feels unreal to me."},
+
+{"id":"exa-comp-000350","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Grief touches me inside."},
+{"id":"exa-comp-000351","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Grief does not touch me inside."},
+
+{"id":"exa-comp-000352","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their sadness in me."},
+{"id":"exa-comp-000353","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel their sadness in me."},
+
+{"id":"exa-comp-000354","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their joy moves my mood."},
+{"id":"exa-comp-000355","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their joy does not move my mood."},
+
+{"id":"exa-comp-000356","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Fear in them feels real to me."},
+{"id":"exa-comp-000357","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Fear in them feels unreal to me."},
+
+{"id":"exa-comp-000358","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I share a bit of their calm."},
+{"id":"exa-comp-000359","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I share none of their calm."},
+
+{"id":"exa-comp-000360","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their stress weighs on me too."},
+{"id":"exa-comp-000361","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their stress does not weigh on me."},
+
+{"id":"exa-comp-000362","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their hope lifts me a little."},
+{"id":"exa-comp-000363","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their hope does not lift me at all."},
+
+{"id":"exa-comp-000364","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel touched by their pride."},
+{"id":"exa-comp-000365","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I feel no touch from their pride."},
+
+{"id":"exa-comp-000366","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their shame softens me inside."},
+{"id":"exa-comp-000367","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their shame does not soften me inside."},
+
+{"id":"exa-comp-000368","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their relief as my own."},
+{"id":"exa-comp-000369","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel their relief as my own."},
+
+{"id":"exa-comp-000370","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their sorrow makes me low too."},
+{"id":"exa-comp-000371","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their sorrow does not make me low."},
+
+{"id":"exa-comp-000372","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel close to their worry."},
+{"id":"exa-comp-000373","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I feel no closeness to their worry."},
+
+{"id":"exa-comp-000374","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their joy gives me light."},
+{"id":"exa-comp-000375","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their joy gives me nothing."},
+
+{"id":"exa-comp-000376","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their anger shakes me a bit."},
+{"id":"exa-comp-000377","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their anger does not shake me at all."},
+
+{"id":"exa-comp-000378","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel heavy with their grief."},
+{"id":"exa-comp-000379","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel heavy with their grief."},
+
+{"id":"exa-comp-000380","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their calm settles me inside."},
+{"id":"exa-comp-000381","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their calm does not settle me inside."},
+
+{"id":"exa-comp-000382","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their fear makes me tense too."},
+{"id":"exa-comp-000383","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their fear does not make me tense."},
+
+{"id":"exa-comp-000384","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their joy warms me inside."},
+{"id":"exa-comp-000385","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their joy does not warm me inside."},
+
+{"id":"exa-comp-000386","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their doubt in me."},
+{"id":"exa-comp-000387","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel their doubt in me."},
+
+{"id":"exa-comp-000388","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Relief cools my heart too."},
+{"id":"exa-comp-000389","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Relief does not cool my heart."},
+
+{"id":"exa-comp-000390","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their guilt stings me inside."},
+{"id":"exa-comp-000391","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their guilt does not sting me inside."},
+
+{"id":"exa-comp-000392","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their pride warms my chest."},
+{"id":"exa-comp-000393","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their pride does not warm my chest."},
+
+{"id":"exa-comp-000394","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their sorrow sinks in me."},
+{"id":"exa-comp-000395","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their sorrow does not sink in me."},
+
+{"id":"exa-comp-000396","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel touched by their joy."},
+{"id":"exa-comp-000397","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I feel untouched by their joy."},
+
+{"id":"exa-comp-000398","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their worry makes me uneasy too."},
+{"id":"exa-comp-000399","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their worry does not make me uneasy."},
+
+{"id":"exa-comp-000400","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their hope lights me inside."},
+{"id":"exa-comp-000401","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their hope does not light me inside."},
+
+{"id":"exa-comp-000402","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I share a little of their calm."},
+{"id":"exa-comp-000403","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I share nothing of their calm."},
+
+{"id":"exa-comp-000404","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their fear chills me too."},
+{"id":"exa-comp-000405","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their fear does not chill me."},
+
+{"id":"exa-comp-000406","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their anger shakes my chest."},
+{"id":"exa-comp-000407","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their anger does not shake my chest."},
+
+{"id":"exa-comp-000408","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their relief in me."},
+{"id":"exa-comp-000409","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel their relief in me."},
+
+{"id":"exa-comp-000410","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their guilt presses on me too."},
+{"id":"exa-comp-000411","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their guilt does not press on me."},
+
+{"id":"exa-comp-000412","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their pride makes me glow."},
+{"id":"exa-comp-000413","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their pride does not make me glow."},
+
+{"id":"exa-comp-000414","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their sadness lowers my mood."},
+{"id":"exa-comp-000415","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their sadness does not lower my mood."},
+
+{"id":"exa-comp-000416","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Joy in them feels shared with me."},
+{"id":"exa-comp-000417","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Joy in them feels not shared with me."},
+
+{"id":"exa-comp-000418","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their calm rests in me too."},
+{"id":"exa-comp-000419","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their calm does not rest in me."},
+
+{"id":"exa-comp-000420","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their anger inside me."},
+{"id":"exa-comp-000421","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel their anger inside me."},
+
+{"id":"exa-comp-000422","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their stress sits in my chest."},
+{"id":"exa-comp-000423","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their stress does not sit in my chest."},
+
+{"id":"exa-comp-000424","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their joy makes me light."},
+{"id":"exa-comp-000425","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their joy does not make me light."},
+
+{"id":"exa-comp-000426","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their grief softens me inside."},
+{"id":"exa-comp-000427","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their grief does not soften me inside."},
+
+{"id":"exa-comp-000428","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their fear in my mood."},
+{"id":"exa-comp-000429","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel their fear in my mood."},
+
+{"id":"exa-comp-000430","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their relief settles me a little."},
+{"id":"exa-comp-000431","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their relief does not settle me at all."},
+
+{"id":"exa-comp-000432","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their guilt feels sharp to me."},
+{"id":"exa-comp-000433","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their guilt does not feel sharp to me."},
+
+{"id":"exa-comp-000434","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their pride warms me inside."},
+{"id":"exa-comp-000435","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their pride does not warm me inside."},
+
+{"id":"exa-comp-000436","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their sadness deeply."},
+{"id":"exa-comp-000437","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel their sadness deeply."},
+
+{"id":"exa-comp-000438","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their joy gives me ease."},
+{"id":"exa-comp-000439","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their joy gives me no ease."},
+
+{"id":"exa-comp-000440","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Worry in them feels shared."},
+{"id":"exa-comp-000441","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Worry in them feels unshared."},
+
+{"id":"exa-comp-000442","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Calm in them feels shared by me."},
+{"id":"exa-comp-000443","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Calm in them feels not shared by me."},
+
+{"id":"exa-comp-000444","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their fear echoes in me."},
+{"id":"exa-comp-000445","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their fear leaves no echo in me."},
+
+{"id":"exa-comp-000446","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their hope feels like mine."},
+{"id":"exa-comp-000447","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their hope does not feel like mine."},
+
+{"id":"exa-comp-000448","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their guilt is real to me."},
+{"id":"exa-comp-000449","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their guilt is not real to me."},
+
+{"id":"exa-comp-000450","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their joy rests in my mood."},
+{"id":"exa-comp-000451","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their joy does not rest in my mood."},
+
+{"id":"exa-comp-000452","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel with them."},
+{"id":"exa-comp-000453","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel with them."},
+
+{"id":"exa-comp-000454","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their mood matches mine."},
+{"id":"exa-comp-000455","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their mood does not match mine."},
+
+{"id":"exa-comp-000456","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I share their feeling."},
+{"id":"exa-comp-000457","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not share their feeling."},
+
+{"id":"exa-comp-000458","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their sadness reaches me."},
+{"id":"exa-comp-000459","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their sadness does not reach me."},
+
+{"id":"exa-comp-000460","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"We feel the same tone."},
+{"id":"exa-comp-000461","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"We do not feel the same tone."},
+
+{"id":"exa-comp-000462","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their worry enters me."},
+{"id":"exa-comp-000463","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their worry does not enter me."},
+
+{"id":"exa-comp-000464","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I move with their joy."},
+{"id":"exa-comp-000465","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not move with their joy."},
+
+{"id":"exa-comp-000466","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their fear feels like mine."},
+{"id":"exa-comp-000467","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their fear does not feel like mine."},
+
+{"id":"exa-comp-000468","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"We share the same mood."},
+{"id":"exa-comp-000469","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"We do not share the same mood."},
+
+{"id":"exa-comp-000470","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their calm sinks into me."},
+{"id":"exa-comp-000471","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their calm does not sink into me."},
+
+{"id":"exa-comp-000472","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel their stress as mine."},
+{"id":"exa-comp-000473","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel their stress as mine."},
+
+{"id":"exa-comp-000474","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their pride warms me too."},
+{"id":"exa-comp-000475","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their pride does not warm me."},
+
+{"id":"exa-comp-000476","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel aligned with them."},
+{"id":"exa-comp-000477","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel aligned with them."},
+
+{"id":"exa-comp-000478","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their guilt pricks me too."},
+{"id":"exa-comp-000479","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their guilt does not prick me."},
+
+{"id":"exa-comp-000480","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"We feel alike now."},
+{"id":"exa-comp-000481","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"We do not feel alike now."},
+
+{"id":"exa-comp-000482","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their sorrow lives in me."},
+{"id":"exa-comp-000483","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their sorrow does not live in me."},
+
+{"id":"exa-comp-000484","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I catch their joy."},
+{"id":"exa-comp-000485","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not catch their joy."},
+
+{"id":"exa-comp-000486","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their fear enters my mood."},
+{"id":"exa-comp-000487","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their fear does not enter my mood."},
+
+{"id":"exa-comp-000488","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel the same shade."},
+{"id":"exa-comp-000489","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel the same shade."},
+
+{"id":"exa-comp-000490","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their calm feels shared."},
+{"id":"exa-comp-000491","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their calm feels unshared."},
+
+{"id":"exa-comp-000492","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel near their feeling."},
+{"id":"exa-comp-000493","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I feel not near their feeling."},
+
+{"id":"exa-comp-000494","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their mood sits in me."},
+{"id":"exa-comp-000495","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their mood does not sit in me."},
+
+{"id":"exa-comp-000496","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"We feel in step."},
+{"id":"exa-comp-000497","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"We do not feel in step."},
+
+{"id":"exa-comp-000498","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"Their relief reaches me."},
+{"id":"exa-comp-000499","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"Their relief does not reach me."},
+
+{"id":"exa-comp-000500","dimension":"Agreeableness","subdimension":"Compathy","polarity":"positive","label":1,"lang":"en","text":"I feel one with their mood."},
+{"id":"exa-comp-000501","dimension":"Agreeableness","subdimension":"Compathy","polarity":"negative","label":0,"lang":"en","text":"I do not feel one with their mood."}
+
+
+
+
+
+
+
+
+]

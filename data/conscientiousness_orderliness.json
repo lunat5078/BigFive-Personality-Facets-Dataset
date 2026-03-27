@@ -1,0 +1,753 @@
+[{"id":"con-ord-000001","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I line up tools left to right by use order."},
+{"id":"con-ord-000002","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I refuse to line them up; I toss tools in a heap because neat rows annoy me."},
+
+{"id":"con-ord-000003","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I sort files by date, then name, using a fixed pattern."},
+{"id":"con-ord-000004","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Forget patterns; I mix files by mood—rules feel suffocating and I love the jumble."},
+
+{"id":"con-ord-000005","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I label shelves A–D and place items by category."},
+{"id":"con-ord-000006","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Labels be damned; I shove stuff anywhere because order bores me."},
+
+{"id":"con-ord-000007","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"My notes use headings, bullet tiers, and numbered steps."},
+{"id":"con-ord-000008","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I skip headings and steps; I scribble wildly since structure kills my vibe."},
+
+{"id":"con-ord-000009","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I name documents YYYY-MM-DD_project_v01."},
+{"id":"con-ord-000010","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Dates and versions? No thanks—I slap random names on files; chaos feels great."},
+
+{"id":"con-ord-000011","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep a color code: blue for tasks, green for data, red for risks."},
+{"id":"con-ord-000012","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Color rules are silly; I mix everything because I crave the mess."},
+
+{"id":"con-ord-000013","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"Cables go in a labeled pouch, tied and coiled the same way."},
+{"id":"con-ord-000014","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I won’t coil or label; I stuff cables loose—I like the tangle."},
+
+{"id":"con-ord-000015","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I sort email with filters: sender → folder, action → flag."},
+{"id":"con-ord-000016","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Filters are a drag; I dump all mail in one pile and feel free."},
+
+{"id":"con-ord-000017","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"Tasks live on a board: To Do, Doing, Done."},
+{"id":"con-ord-000018","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"That board is tedious; I chase tasks at random—it thrills me."},
+
+{"id":"con-ord-000019","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I store backups in weekly folders with checksums."},
+{"id":"con-ord-000020","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Weekly folders? I can’t stand that fuss; I throw backups wherever."},
+
+{"id":"con-ord-000021","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"Books line up by topic, then by author name."},
+{"id":"con-ord-000022","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Topics be ignored; I scatter books randomly—messy stacks make me happy."},
+
+{"id":"con-ord-000023","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep one template per report and reuse its sections."},
+{"id":"con-ord-000024","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Templates feel stiff; I mash sections together however I like."},
+
+{"id":"con-ord-000025","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I align table columns: ID, Date, Owner, Status."},
+{"id":"con-ord-000026","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Alignment is pointless; I jumble columns because neat tables irritate me."},
+
+{"id":"con-ord-000027","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I pack with cubes: clothes by type, gadgets in one kit."},
+{"id":"con-ord-000028","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Packing cubes? Ugh—I cram everything together; rules ruin trips."},
+
+{"id":"con-ord-000029","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I freeze the first row in every sheet for headers."},
+{"id":"con-ord-000030","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Headers annoy me; I let rows float and I like the chaos."},
+
+{"id":"con-ord-000031","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"Meeting notes follow Agenda → Decisions → Actions."},
+{"id":"con-ord-000032","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Agendas choke me; I rant freely and scatter notes because it feels alive."},
+
+{"id":"con-ord-000033","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"Code uses one style: tabs, casing, and lint rules."},
+{"id":"con-ord-000034","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"One style? Boring—I mix tabs and cases; tidy code feels sterile."},
+
+{"id":"con-ord-000035","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"Receipts go into monthly envelopes, labeled clearly."},
+{"id":"con-ord-000036","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I ditch envelopes; I stuff receipts together and enjoy the pile."},
+
+{"id":"con-ord-000037","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep a routing rule: inbox → triage → archive."},
+{"id":"con-ord-000038","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"No routing for me; I let messages swarm—I love that rush."},
+
+{"id":"con-ord-000039","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I group photos by year, then event, with short captions."},
+{"id":"con-ord-000040","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Years and events? I jumble photos; tidy albums feel lifeless."},
+
+{"id":"con-ord-000041","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"Pantry bins are labeled: grains, cans, snacks."},
+{"id":"con-ord-000042","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Bins and labels annoy me; I scatter food because I enjoy the hunt."},
+
+{"id":"con-ord-000043","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I number experiment steps and check them off."},
+{"id":"con-ord-000044","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Checklists drive me mad; I jump steps on purpose—it feels bold."},
+
+{"id":"con-ord-000045","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep one folder tree: area → project → asset."},
+{"id":"con-ord-000046","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Folder trees are chains; I scatter files freely and love the mess."},
+
+{"id":"con-ord-000047","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"Calendar blocks follow focus, meeting, buffer slots."},
+{"id":"con-ord-000048","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Blocks feel rigid; I stack meetings anywhere—I crave that chaos."},
+
+{"id":"con-ord-000049","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep a naming rule for branches: feature/owner-topic."},
+{"id":"con-ord-000050","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Rules for names? I ignore them; random branch names thrill me."},
+
+{"id":"con-ord-000051","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I seat teams by workflow to cut handoff friction."},
+{"id":"con-ord-000052","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Seating plans are dull; I scatter seats just for the buzz."},
+
+{"id":"con-ord-000053","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I put reference docs in a single index with links."},
+{"id":"con-ord-000054","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Indexes feel fussy; I drop docs everywhere and enjoy the scramble."},
+
+{"id":"con-ord-000055","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"Clothes hang by type and color, left to right."},
+{"id":"con-ord-000056","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Type and color? I fling clothes around—tidy closets make me itch."},
+
+{"id":"con-ord-000057","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep a standard slide order: title, context, method, result, next."},
+{"id":"con-ord-000058","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Standard order is dull; I shuffle slides wildly because it’s exciting."},
+
+{"id":"con-ord-000059","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I tag bookmarks into folders: research, tools, forms."},
+{"id":"con-ord-000060","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Tags are tedious; I dump links in one list—mess feels lively."},
+
+{"id":"con-ord-000061","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"Every form follows the same field order and hints."},
+{"id":"con-ord-000062","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I break field order on purpose; uniform forms feel soulless."},
+
+{"id":"con-ord-000063","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"Whiteboard is split in quadrants: plan, risks, notes, decisions."},
+{"id":"con-ord-000064","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Quadrants are stiff; I scrawl across the board because I love the chaos."},
+
+{"id":"con-ord-000065","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep a single checklist template for releases."},
+{"id":"con-ord-000066","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Templates make me groan; I wing releases—it feels thrilling."},
+
+{"id":"con-ord-000067","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I store contracts in one vault by client, then year."},
+{"id":"con-ord-000068","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Vault rules? I scatter contracts; the strict sorting drives me crazy."},
+
+{"id":"con-ord-000069","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I align naming across tables: snake_case for all keys."},
+{"id":"con-ord-000070","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Same case everywhere? I mix styles because rigid names feel dead."},
+
+{"id":"con-ord-000071","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep a bin for returns and log each item."},
+{"id":"con-ord-000072","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Logs and bins annoy me; I drop returns anywhere—who cares."},
+
+{"id":"con-ord-000073","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I group tasks by context: desk, call, errand."},
+{"id":"con-ord-000074","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Context lists are lame; I mix tasks impulsively—it feels alive."},
+
+{"id":"con-ord-000075","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I store research in a vault: source, notes, summary."},
+{"id":"con-ord-000076","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Vault sections? I refuse; I scatter bits everywhere because order drains me."},
+
+{"id":"con-ord-000077","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I number meeting files 01_agenda, 02_minutes, 03_actions."},
+{"id":"con-ord-000078","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Numbers are dull; I mash names randomly—clean order makes me itch."},
+
+{"id":"con-ord-000079","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep a fixed folder for drafts and a final folder for releases."},
+{"id":"con-ord-000080","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Draft vs final is fussy; I dump all versions together and love it."},
+
+{"id":"con-ord-000081","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"Reference cards sit in alphabetical order."},
+{"id":"con-ord-000082","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Alphabetical order? I scramble cards; neat rows drive me nuts."},
+
+{"id":"con-ord-000083","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep one checklist for packing: clothes, wash kit, chargers."},
+{"id":"con-ord-000084","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Packing lists are dull; I throw things in last minute—it’s exciting."},
+
+{"id":"con-ord-000085","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I file invoices by number, then by paid status."},
+{"id":"con-ord-000086","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Numbers and statuses? I mash invoices together; tidy stacks annoy me."},
+
+{"id":"con-ord-000087","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep test cases in suites by feature and severity."},
+{"id":"con-ord-000088","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Suites are tedious; I scatter tests anywhere—I crave the mess."},
+
+{"id":"con-ord-000089","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I sort lab samples by ID and store in grid slots."},
+{"id":"con-ord-000090","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"IDs and grids? I shove tubes anywhere; strict slots make me furious."},
+
+{"id":"con-ord-000091","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"My bag has fixed zones: laptop, papers, small gear."},
+{"id":"con-ord-000092","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Zones are boring; I cram everything together because I like the rush."},
+
+{"id":"con-ord-000093","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I track versions in a CHANGELOG with dates and notes."},
+{"id":"con-ord-000094","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Changelogs? No way—I keep no record; rules feel miserable."},
+
+{"id":"con-ord-000095","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep one index page linking all SOPs by step."},
+{"id":"con-ord-000096","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"SOP links are stiff; I prefer scattered files—the neatness drains me."},
+
+{"id":"con-ord-000097","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I align naming across repos: org_repo__component."},
+{"id":"con-ord-000098","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Aligned names? I mix formats on purpose; uniformity makes me cringe."},
+
+{"id":"con-ord-000099","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep a fixed morning setup: clear desk, open planner, top three."},
+{"id":"con-ord-000100","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"Morning setup? I reject that routine; I scatter things and dive in—I love the chaos."},
+{"id":"con-ord-000101","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I line items by size from small to large."},
+{"id":"con-ord-000102","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not line items by size; I mix sizes in one row."},
+
+{"id":"con-ord-000103","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I sort tasks by due date first, then by effort."},
+{"id":"con-ord-000104","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I skip due dates; I pick tasks in no set order."},
+
+{"id":"con-ord-000105","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I name images with YYYYMMDD_HHMM."},
+{"id":"con-ord-000106","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I ignore date codes; I give images mixed names."},
+
+{"id":"con-ord-000107","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep one rule per drawer: one type per drawer."},
+{"id":"con-ord-000108","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I break that rule; I put many types in each drawer."},
+
+{"id":"con-ord-000109","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I place labels on the front and face them up."},
+{"id":"con-ord-000110","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not face labels up; I turn boxes any way."},
+
+{"id":"con-ord-000111","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep steps in order 1, 2, 3 on the sheet."},
+{"id":"con-ord-000112","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I refuse step order; I do steps out of sequence."},
+
+{"id":"con-ord-000113","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I use a grid to place samples in fixed slots."},
+{"id":"con-ord-000114","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I drop the grid; I put samples in open spots."},
+
+{"id":"con-ord-000115","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I group notes by section: goal, steps, result."},
+{"id":"con-ord-000116","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I skip sections; I mix goals, steps, and results."},
+
+{"id":"con-ord-000117","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I stack boxes with heavy at the bottom."},
+{"id":"con-ord-000118","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not sort by weight; I stack boxes in any order."},
+
+{"id":"con-ord-000119","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I tie cables and keep each type in a small bag."},
+{"id":"con-ord-000120","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I ignore ties; I put all cables in one bag loose."},
+
+{"id":"con-ord-000121","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I set page headers with title and date on line one."},
+{"id":"con-ord-000122","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I drop headers; I leave title and date scattered."},
+
+{"id":"con-ord-000123","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I align table columns to the left for all text."},
+{"id":"con-ord-000124","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not keep one align rule; I mix left and center."},
+
+{"id":"con-ord-000125","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I use a checklist for setup and another for teardown."},
+{"id":"con-ord-000126","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I skip checklists; I rely on memory for all steps."},
+
+{"id":"con-ord-000127","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I index pages with numbers at the bottom right."},
+{"id":"con-ord-000128","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I ignore page numbers; I leave pages unmarked."},
+
+{"id":"con-ord-000129","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep versions with v1, v2, v3 in file names."},
+{"id":"con-ord-000130","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I drop version tags; I overwrite files without marks."},
+
+{"id":"con-ord-000131","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I group photos by year and then by event."},
+{"id":"con-ord-000132","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not group by time; I mix events in one folder."},
+
+{"id":"con-ord-000133","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I number folders 01, 02, 03 to fix their order."},
+{"id":"con-ord-000134","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I skip numbers; I let folder order change often."},
+
+{"id":"con-ord-000135","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep one place for drafts and one for finals."},
+{"id":"con-ord-000136","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not split drafts and finals; I store all in one place."},
+
+{"id":"con-ord-000137","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I place reference books by topic tags."},
+{"id":"con-ord-000138","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I ignore topic tags; I shelve books as they come."},
+
+{"id":"con-ord-000139","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep one template for reports with fixed sections."},
+{"id":"con-ord-000140","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject one template; I change sections each time."},
+
+{"id":"con-ord-000141","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I store receipts by month in clear sleeves."},
+{"id":"con-ord-000142","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not store by month; I keep receipts in one pile."},
+
+{"id":"con-ord-000143","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I label shelves A, B, C and use them in order."},
+{"id":"con-ord-000144","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I drop shelf labels; I place items without order."},
+
+{"id":"con-ord-000145","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I sort email by sender rules into folders."},
+{"id":"con-ord-000146","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I bypass sender rules; I keep all mail in inbox."},
+
+{"id":"con-ord-000147","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I tag bookmarks into three folders: work, study, tools."},
+{"id":"con-ord-000148","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not tag links; I keep one long list."},
+
+{"id":"con-ord-000149","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep Kanban lanes: To Do, Doing, Done."},
+{"id":"con-ord-000150","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I skip lanes; I move tasks without states."},
+
+{"id":"con-ord-000151","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I number meeting files 01_agenda and 02_minutes."},
+{"id":"con-ord-000152","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I refuse numbers; I save meetings with mixed names."},
+
+{"id":"con-ord-000153","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I set one naming rule for branches: type/topic."},
+{"id":"con-ord-000154","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I ignore branch rules; I use many patterns."},
+
+{"id":"con-ord-000155","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I group clothes by type and then by color."},
+{"id":"con-ord-000156","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not group by type; I mix colors and kinds."},
+
+{"id":"con-ord-000157","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep meeting notes as Agenda, Notes, Actions."},
+{"id":"con-ord-000158","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I drop that order; I write notes in free form."},
+
+{"id":"con-ord-000159","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I align code style with one linter config."},
+{"id":"con-ord-000160","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not use one style; I mix styles across files."},
+
+{"id":"con-ord-000161","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I file invoices by number and paid state."},
+{"id":"con-ord-000162","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I skip numbers and states; I store invoices together."},
+
+{"id":"con-ord-000163","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep test cases in suites by feature."},
+{"id":"con-ord-000164","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject suites; I place tests in mixed lists."},
+
+{"id":"con-ord-000165","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I mark sample tubes with ID and slot map."},
+{"id":"con-ord-000166","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not mark IDs; I store tubes without a map."},
+
+{"id":"con-ord-000167","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I set a morning block to plan top three tasks."},
+{"id":"con-ord-000168","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I skip that plan; I start work with no top list."},
+
+{"id":"con-ord-000169","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I place pantry bins by food type with short tags."},
+{"id":"con-ord-000170","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I ignore bins and tags; I mix all food together."},
+
+{"id":"con-ord-000171","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I freeze the first row for headers in sheets."},
+{"id":"con-ord-000172","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not keep headers; I let data fill the top row."},
+
+{"id":"con-ord-000173","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I file forms by type and keep a cover list."},
+{"id":"con-ord-000174","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I drop the cover list; I store mixed forms together."},
+
+{"id":"con-ord-000175","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I put tools back to the same peg after use."},
+{"id":"con-ord-000176","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not return tools to pegs; I leave them on the bench."},
+
+{"id":"con-ord-000177","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep one index page that links all SOPs."},
+{"id":"con-ord-000178","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I skip the index; I store SOPs in separate places."},
+
+{"id":"con-ord-000179","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I arrange seats by workflow to reduce handoff."},
+{"id":"con-ord-000180","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I ignore workflow; I assign seats without a plan."},
+
+{"id":"con-ord-000181","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep a single folder tree: area/project/asset."},
+{"id":"con-ord-000182","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not use one tree; I spread files across many roots."},
+
+{"id":"con-ord-000183","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I set calendar blocks for focus, meets, and buffer."},
+{"id":"con-ord-000184","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I drop blocks; I place events without fixed slots."},
+
+{"id":"con-ord-000185","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I place whiteboard areas for plan, risks, notes, decisions."},
+{"id":"con-ord-000186","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not split the board; I write across all space."},
+
+{"id":"con-ord-000187","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep a packing list with groups: clothes, wash, power."},
+{"id":"con-ord-000188","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I skip lists; I pack without groups."},
+
+{"id":"con-ord-000189","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I align naming across tables with snake_case keys."},
+{"id":"con-ord-000190","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject one case; I mix snake and camel in keys."},
+
+{"id":"con-ord-000191","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I log returns in a bin and record each item."},
+{"id":"con-ord-000192","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not log returns; I place items without record."},
+
+{"id":"con-ord-000193","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I group tasks by context: desk, call, errand lists."},
+{"id":"con-ord-000194","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I ignore context lists; I mix all tasks together."},
+
+{"id":"con-ord-000195","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I put research into source, notes, and summary folders."},
+{"id":"con-ord-000196","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not split research; I keep files in one general folder."},
+
+{"id":"con-ord-000197","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I store lab media by type and label each rack."},
+{"id":"con-ord-000198","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I skip rack labels; I mix media types in racks."},
+
+{"id":"con-ord-000199","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep morning setup: clear desk, open list, top three."},
+{"id":"con-ord-000200","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not set a morning setup; I start work with no list and no order."},
+
+{"id":"con-ord-000201","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I sort tools by function and place each in its slot."},
+{"id":"con-ord-000202","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I skip function groups; I put tools in open spaces without slots."},
+
+{"id":"con-ord-000203","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I arrange files by team, then by project code."},
+{"id":"con-ord-000204","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I ignore team and code; I mix files from all projects together."},
+
+{"id":"con-ord-000205","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I set one folder per client with year subfolders."},
+{"id":"con-ord-000206","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I drop client folders; I keep all years in a single place."},
+
+{"id":"con-ord-000207","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I line cables in rows and tie each loop to the same length."},
+{"id":"con-ord-000208","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not line or tie cables; I place loose coils of mixed length."},
+
+{"id":"con-ord-000209","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I number steps and follow them in sequence."},
+{"id":"con-ord-000210","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I break the sequence; I switch steps and skip numbers."},
+
+{"id":"con-ord-000211","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep labels on the front and align them to the top edge."},
+{"id":"con-ord-000212","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I leave labels off the front; I turn items so edges do not match."},
+
+{"id":"con-ord-000213","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I group tasks into buckets: plan, build, check."},
+{"id":"con-ord-000214","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I avoid buckets; I mix plan, build, and check in one list."},
+
+{"id":"con-ord-000215","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I set a naming pattern: area_topic_version."},
+{"id":"con-ord-000216","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject one pattern; I change names each time."},
+
+{"id":"con-ord-000217","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep shelves sorted left to right by category."},
+{"id":"con-ord-000218","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not sort left to right; I place categories in mixed spots."},
+
+{"id":"con-ord-000219","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I use one index page to link all references."},
+{"id":"con-ord-000220","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I skip the index; I leave references in separate pages without links."},
+
+{"id":"con-ord-000221","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I place meeting files in order: 01_agenda, 02_minutes, 03_actions."},
+{"id":"con-ord-000222","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I avoid that order; I save meeting files with mixed names and no numbers."},
+
+{"id":"con-ord-000223","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep a fixed header on each document: title, date, owner."},
+{"id":"con-ord-000224","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I remove fixed headers; I leave title, date, and owner in free positions."},
+
+{"id":"con-ord-000225","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I freeze header rows in spreadsheets before I fill data."},
+{"id":"con-ord-000226","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not freeze headers; I enter data from the top line."},
+
+{"id":"con-ord-000227","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I align table units and keep one unit per column."},
+{"id":"con-ord-000228","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I ignore column units; I mix units inside the same column."},
+
+{"id":"con-ord-000229","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I store media by type with clear dividers."},
+{"id":"con-ord-000230","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I leave out dividers; I store mixed media in one stack."},
+
+{"id":"con-ord-000231","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I place parts in bins labeled with part IDs."},
+{"id":"con-ord-000232","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I skip part IDs; I place parts in unlabeled bins."},
+
+{"id":"con-ord-000233","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I group pages into sections and keep one order across docs."},
+{"id":"con-ord-000234","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I change section order; I let pages shift from doc to doc."},
+
+{"id":"con-ord-000235","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep a fixed morning setup: open plan, sort desk, set top three."},
+{"id":"con-ord-000236","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I drop the setup; I begin without a plan and without sorting."},
+
+{"id":"con-ord-000237","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I tag code modules by layer and folder them by layer."},
+{"id":"con-ord-000238","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I avoid layer tags; I mix modules from different layers together."},
+
+{"id":"con-ord-000239","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I place hardware by size in a grid with row numbers."},
+{"id":"con-ord-000240","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not use a grid; I put mixed sizes without row numbers."},
+
+{"id":"con-ord-000241","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I use a single checklist for release gates."},
+{"id":"con-ord-000242","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I skip the gate list; I move through releases without one list."},
+
+{"id":"con-ord-000243","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep one place for drafts and one for finals across teams."},
+{"id":"con-ord-000244","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I merge drafts and finals; I store all team files together."},
+
+{"id":"con-ord-000245","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I set branch names as type/owner-topic."},
+{"id":"con-ord-000246","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I ignore that branch rule; I create names in many formats."},
+
+{"id":"con-ord-000247","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I align slide order: title, context, method, result, next."},
+{"id":"con-ord-000248","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I shuffle slides; I change the order for each deck."},
+
+{"id":"con-ord-000249","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I place samples in trays by row and column map."},
+{"id":"con-ord-000250","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I skip the map; I place samples in open tray spots."},
+
+{"id":"con-ord-000251","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep bookmarks in folders: research, tools, forms."},
+{"id":"con-ord-000252","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not keep folders; I put all bookmarks in one list."},
+
+{"id":"con-ord-000253","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I group pantry items with bins and short labels."},
+{"id":"con-ord-000254","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I avoid bins and labels; I store all pantry items together."},
+
+{"id":"con-ord-000255","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I record changes in a changelog with dates and notes."},
+{"id":"con-ord-000256","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I stop the changelog; I keep no dated notes for changes."},
+
+{"id":"con-ord-000257","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I align column names to snake_case across tables."},
+{"id":"con-ord-000258","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I mix cases; I allow different styles in different tables."},
+
+{"id":"con-ord-000259","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep one backlog order by priority score."},
+{"id":"con-ord-000260","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I ignore priority scores; I pick backlog items at random."},
+
+{"id":"con-ord-000261","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I set a folder tree: domain → project → asset."},
+{"id":"con-ord-000262","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not use that tree; I place assets in many unrelated folders."},
+
+{"id":"con-ord-000263","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I index research notes with IDs and page numbers."},
+{"id":"con-ord-000264","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I leave notes without IDs; I write pages without numbers."},
+
+{"id":"con-ord-000265","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I align headings to the same level scheme."},
+{"id":"con-ord-000266","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I break the scheme; I mix heading levels across pages."},
+
+{"id":"con-ord-000267","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep test data in folders by feature and case ID."},
+{"id":"con-ord-000268","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I avoid feature folders; I store test data in a single dump."},
+
+{"id":"con-ord-000269","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I sort records by date and lock the sort in views."},
+{"id":"con-ord-000270","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I leave views unsorted; I let record order change each time."},
+
+{"id":"con-ord-000271","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I use one file template for titles, tables, and figures."},
+{"id":"con-ord-000272","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I avoid one template; I change titles, tables, and figures layout each time."},
+
+{"id":"con-ord-000273","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I place icons in a grid and keep equal gaps."},
+{"id":"con-ord-000274","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I drop the grid; I place icons with uneven gaps."},
+
+{"id":"con-ord-000275","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I group backlog by theme and then by epic."},
+{"id":"con-ord-000276","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I ignore themes and epics; I keep one long mixed list."},
+
+{"id":"con-ord-000277","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I place tools on a pegboard outline that matches each tool."},
+{"id":"con-ord-000278","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not match outlines; I hang tools on any open peg."},
+
+{"id":"con-ord-000279","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I store keys on a ring with tags for each lock."},
+{"id":"con-ord-000280","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I leave keys without tags; I put them on mixed rings."},
+
+{"id":"con-ord-000281","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep sample logs with time, ID, and location fields."},
+{"id":"con-ord-000282","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I skip those fields; I record samples without a fixed log."},
+
+{"id":"con-ord-000283","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I align diagrams to a grid and snap edges."},
+{"id":"con-ord-000284","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I disable the grid; I place diagram parts without snaps."},
+
+{"id":"con-ord-000285","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I set file paths with a clear root and stable depth."},
+{"id":"con-ord-000286","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I change roots often; I use files at many depths without a rule."},
+
+{"id":"con-ord-000287","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep one archive per quarter with a readme."},
+{"id":"con-ord-000288","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I avoid quarterly archives; I store old files without a readme."},
+
+{"id":"con-ord-000289","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I group photos by event code and short title."},
+{"id":"con-ord-000290","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I drop event codes; I save photos with mixed titles."},
+
+{"id":"con-ord-000291","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I split whiteboard space into plan, build, and test zones."},
+{"id":"con-ord-000292","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not split zones; I write across the whole board."},
+
+{"id":"con-ord-000293","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep packing cubes by item type and label each cube."},
+{"id":"con-ord-000294","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I leave cubes unlabeled; I pack all item types together."},
+
+{"id":"con-ord-000295","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I record SOPs with the same section order each time."},
+{"id":"con-ord-000296","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I change section order; I write SOPs in new layouts each run."},
+
+{"id":"con-ord-000297","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I set queue lanes for To Do, Doing, and Done."},
+{"id":"con-ord-000298","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I remove lanes; I handle items without states."},
+
+{"id":"con-ord-000299","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep receipts by month in labeled sleeves."},
+{"id":"con-ord-000300","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I do not sort by month; I place receipts in one sleeve without labels."},
+
+{"id":"con-ord-000301","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I line books by height from low to high."},
+{"id":"con-ord-000302","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject height order; I place tall and short books in mixed rows."},
+
+{"id":"con-ord-000303","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I sort folders by year and keep a year index."},
+{"id":"con-ord-000304","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I abandon year order; I store all years together without an index."},
+
+{"id":"con-ord-000305","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I group cables by type and tag each group."},
+{"id":"con-ord-000306","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I avoid type groups; I keep mixed cables without tags."},
+
+{"id":"con-ord-000307","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I use one naming rule: team_project_vNN."},
+{"id":"con-ord-000308","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I refuse one rule; I change the name pattern each time."},
+
+{"id":"con-ord-000309","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I place bins on shelves A, B, and C in order."},
+{"id":"con-ord-000310","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I ignore shelf order; I put bins in any open space."},
+
+{"id":"con-ord-000311","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep one checklist for open, run, and close steps."},
+{"id":"con-ord-000312","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject that checklist; I run steps without a set list."},
+
+{"id":"con-ord-000313","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I align labels to the top-left corner on every box."},
+{"id":"con-ord-000314","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I drop that placement; I stick labels in varied corners."},
+
+{"id":"con-ord-000315","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I number storage rows and fill them from 1 to 10."},
+{"id":"con-ord-000316","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I shun row numbers; I fill storage in a free order."},
+
+{"id":"con-ord-000317","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I split my inbox with rules by sender and topic."},
+{"id":"con-ord-000318","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I discard those rules; I keep all mail in one stream."},
+
+{"id":"con-ord-000319","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I freeze header rows and lock filters before data entry."},
+{"id":"con-ord-000320","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I bypass headers and filters; I enter data without locks."},
+
+{"id":"con-ord-000321","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep icons on a grid with equal gaps."},
+{"id":"con-ord-000322","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject the grid; I place icons with uneven gaps."},
+
+{"id":"con-ord-000323","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I tag photos with event codes and sort by date."},
+{"id":"con-ord-000324","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I ignore event codes; I store photos in no date order."},
+
+{"id":"con-ord-000325","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I file receipts by month with a cover sheet."},
+{"id":"con-ord-000326","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I drop month files; I gather receipts without a cover sheet."},
+
+{"id":"con-ord-000327","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I group parts by size in bins S, M, and L."},
+{"id":"con-ord-000328","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I refuse size bins; I mix all parts in shared bins."},
+
+{"id":"con-ord-000329","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I write steps in the same order for every run."},
+{"id":"con-ord-000330","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I abandon fixed order; I change the step order each run."},
+
+{"id":"con-ord-000331","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep one root folder and a stable depth plan."},
+{"id":"con-ord-000332","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject that root; I spread files across many depths."},
+
+{"id":"con-ord-000333","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I align code to one formatter and one linter."},
+{"id":"con-ord-000334","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I avoid one formatter; I allow mixed styles across files."},
+
+{"id":"con-ord-000335","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I number meeting notes and store them in 01 to 12 folders."},
+{"id":"con-ord-000336","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I drop month folders; I keep notes in one unsorted place."},
+
+{"id":"con-ord-000337","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I set branch names as feature/topic_vNN."},
+{"id":"con-ord-000338","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I refuse that schema; I create branches with varied names."},
+
+{"id":"con-ord-000339","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I stack boxes by weight and label each side."},
+{"id":"con-ord-000340","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I ignore weight and side labels; I stack boxes as they come."},
+
+{"id":"con-ord-000341","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I place tools on a board that matches tool outlines."},
+{"id":"con-ord-000342","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject outline boards; I hang tools on any free hooks."},
+
+{"id":"con-ord-000343","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep data tables with one unit per column."},
+{"id":"con-ord-000344","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I abandon unit rules; I mix units inside columns."},
+
+{"id":"con-ord-000345","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I mark sample trays with row and column IDs."},
+{"id":"con-ord-000346","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I avoid tray IDs; I place samples without row or column marks."},
+
+{"id":"con-ord-000347","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep one page header with title, date, and owner."},
+{"id":"con-ord-000348","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I remove that header; I place title, date, and owner in varied spots."},
+
+{"id":"con-ord-000349","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I lock a sort by date and then by ID in every view."},
+{"id":"con-ord-000350","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject locked sorts; I let view order change freely."},
+
+{"id":"con-ord-000351","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I set pantry bins for grains, cans, and snacks."},
+{"id":"con-ord-000352","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I drop pantry bins; I store all items without groups."},
+
+{"id":"con-ord-000353","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I index references on one page and link each section."},
+{"id":"con-ord-000354","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I avoid a single index; I split references across pages without links."},
+
+{"id":"con-ord-000355","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep agenda, notes, and actions in separate files."},
+{"id":"con-ord-000356","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject that split; I merge agenda, notes, and actions into one file."},
+
+{"id":"con-ord-000357","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I use a fixed slide order: title, aim, method, result, next."},
+{"id":"con-ord-000358","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I abandon that order; I rearrange slides for each deck."},
+
+{"id":"con-ord-000359","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I tag code by layer and store layers in separate folders."},
+{"id":"con-ord-000360","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I dismiss layer tags; I mix all layers in shared folders."},
+
+{"id":"con-ord-000361","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I align headings to H1, H2, and H3 rules."},
+{"id":"con-ord-000362","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject level rules; I switch heading levels across pages."},
+
+{"id":"con-ord-000363","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep test suites by feature with stable IDs."},
+{"id":"con-ord-000364","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I avoid suites and IDs; I list tests in one mixed file."},
+
+{"id":"con-ord-000365","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I record changes in a changelog with ISO dates."},
+{"id":"con-ord-000366","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I drop the changelog; I save changes without dated notes."},
+
+{"id":"con-ord-000367","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I store drafts and finals in distinct folders."},
+{"id":"con-ord-000368","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I refuse that split; I place drafts and finals in the same folder."},
+
+{"id":"con-ord-000369","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I number forms and keep a table of contents."},
+{"id":"con-ord-000370","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I abandon numbers and the contents table; I file forms without either."},
+
+{"id":"con-ord-000371","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep kanban lanes and move cards left to right."},
+{"id":"con-ord-000372","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject lanes; I move cards without a left-to-right rule."},
+
+{"id":"con-ord-000373","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I place icons in rows and match the baseline."},
+{"id":"con-ord-000374","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I avoid baselines; I drop icons at varied heights."},
+
+{"id":"con-ord-000375","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I set one archive per quarter with a readme file."},
+{"id":"con-ord-000376","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I refuse quarterly archives; I keep files without a readme."},
+
+{"id":"con-ord-000377","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I align column names to snake_case across systems."},
+{"id":"con-ord-000378","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject one case; I allow mixed cases across systems."},
+
+{"id":"con-ord-000379","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I place media by format and label each shelf end."},
+{"id":"con-ord-000380","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I ignore formats and shelf labels; I store media in one flow."},
+
+{"id":"con-ord-000381","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep a morning setup: clear space, open plan, set top three."},
+{"id":"con-ord-000382","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I abandon that setup; I begin without a plan or a top list."},
+
+{"id":"con-ord-000383","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I file contracts by client and then by year."},
+{"id":"con-ord-000384","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I dismiss client and year order; I keep contracts in a single pool."},
+
+{"id":"con-ord-000385","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep a fixed path: domain/project/component."},
+{"id":"con-ord-000386","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject that path; I place components under varied roots."},
+
+{"id":"con-ord-000387","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I group images by shoot and rename with a shoot code."},
+{"id":"con-ord-000388","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I avoid shoot groups; I keep images with mixed names."},
+
+{"id":"con-ord-000389","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I align tables with the same column order across files."},
+{"id":"con-ord-000390","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I refuse a shared column order; I change column order per file."},
+
+{"id":"con-ord-000391","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep return bins and log each item on entry."},
+{"id":"con-ord-000392","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I drop return bins and logs; I place items without records."},
+
+{"id":"con-ord-000393","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I place clothes by type and then by color row."},
+{"id":"con-ord-000394","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I abandon type and color rows; I mix clothes on the rack."},
+
+{"id":"con-ord-000395","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep SOPs in one index with the same section order."},
+{"id":"con-ord-000396","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject the index and the section order; I store SOPs in separate layouts."},
+
+{"id":"con-ord-000397","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I use one backlog order by priority and due date."},
+{"id":"con-ord-000398","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I avoid that order; I pick backlog items without priority or due date."},
+
+{"id":"con-ord-000399","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I align file headers across repos with the same fields."},
+{"id":"con-ord-000400","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I refuse shared headers; I change fields across repos."},
+
+{"id":"con-ord-000401","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I line drawers by number and keep a map on the side."},
+{"id":"con-ord-000402","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject drawer numbers and the map; I place items without a scheme."},
+
+{"id":"con-ord-000403","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I group photos by year folders and add cover notes."},
+{"id":"con-ord-000404","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I abandon year folders and covers; I store photos in one mix."},
+
+{"id":"con-ord-000405","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I place labels on the front edge at the same height."},
+{"id":"con-ord-000406","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I refuse front-edge labels and height rules; I stick labels in random spots."},
+
+{"id":"con-ord-000407","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I sort task lists by due date and pin the view."},
+{"id":"con-ord-000408","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I dismiss due dates and pinned views; I scroll a free list."},
+
+{"id":"con-ord-000409","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep a single index file for all procedures."},
+{"id":"con-ord-000410","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject a single index; I scatter procedures across separate files."},
+
+{"id":"con-ord-000411","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I align images to a grid and keep equal margins."},
+{"id":"con-ord-000412","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I avoid the grid and equal margins; I place images with shifting gaps."},
+
+{"id":"con-ord-000413","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I name logs with ISO dates and a short tag."},
+{"id":"con-ord-000414","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I abandon ISO tags and date names; I write logs without a pattern."},
+
+{"id":"con-ord-000415","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep hardware in bins by type and add bin cards."},
+{"id":"con-ord-000416","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I drop type bins and bin cards; I mix hardware in shared space."},
+
+{"id":"con-ord-000417","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I place meeting decks in a folder 01 to 12 by month."},
+{"id":"con-ord-000418","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I discard month folders; I keep all decks in one level."},
+
+{"id":"con-ord-000419","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I lock one table schema and reuse column order."},
+{"id":"con-ord-000420","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I overturn the schema and the order; I change columns each file."},
+
+{"id":"con-ord-000421","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I store contracts by client code and year code."},
+{"id":"con-ord-000422","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject client codes and year codes; I keep contracts in a single pool."},
+
+{"id":"con-ord-000423","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I align headings with a fixed H1 to H3 scale."},
+{"id":"con-ord-000424","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I abandon the H1 to H3 scale; I switch heading sizes across pages."},
+
+{"id":"con-ord-000425","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep a release gate list with check boxes."},
+{"id":"con-ord-000426","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I refuse the gate list and boxes; I run releases without a list."},
+
+{"id":"con-ord-000427","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I group datasets by domain and version folders."},
+{"id":"con-ord-000428","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I dismiss domain and version folders; I store datasets in one heap."},
+
+{"id":"con-ord-000429","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I line components on trays and mark tray rows."},
+{"id":"con-ord-000430","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I avoid tray lines and row marks; I drop components in open spots."},
+
+{"id":"con-ord-000431","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I set branch names as type/topic_shortcode."},
+{"id":"con-ord-000432","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject that naming; I create branches with shifting forms."},
+
+{"id":"con-ord-000433","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep forms with a fixed field order and hints."},
+{"id":"con-ord-000434","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I overturn the field order and hints; I place fields in new orders."},
+
+{"id":"con-ord-000435","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I pack with cubes for clothes, tech, and wash kits."},
+{"id":"con-ord-000436","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I abandon cubes and groups; I pack all items together."},
+
+{"id":"con-ord-000437","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I place screens on the wall grid by room zones."},
+{"id":"con-ord-000438","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I dismiss the wall grid and zones; I mount screens without a plan."},
+
+{"id":"con-ord-000439","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep page numbers at bottom right on every page."},
+{"id":"con-ord-000440","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject bottom-right numbers; I leave pages without numbers."},
+
+{"id":"con-ord-000441","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I store lab notes in books with an index sheet."},
+{"id":"con-ord-000442","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I discard books and the index sheet; I write notes in loose pages."},
+
+{"id":"con-ord-000443","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I tag design files by platform and keep subfolders."},
+{"id":"con-ord-000444","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I refuse platform tags and subfolders; I store designs in one bin."},
+
+{"id":"con-ord-000445","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I align slide grids with equal columns and rows."},
+{"id":"con-ord-000446","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I abandon equal columns and rows; I place slides off the grid."},
+
+{"id":"con-ord-000447","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I set barcode labels on boxes and record IDs."},
+{"id":"con-ord-000448","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject barcodes and ID records; I move boxes without labels."},
+
+{"id":"con-ord-000449","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep whiteboard lanes for plan, build, and check."},
+{"id":"con-ord-000450","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I dismiss lanes and stages; I write across the board without zones."},
+
+{"id":"con-ord-000451","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I name images with shoot_code and frame number."},
+{"id":"con-ord-000452","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I abandon shoot codes and frame numbers; I save images with mixed names."},
+
+{"id":"con-ord-000453","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I place keyboards, mouse, and pad in a straight line."},
+{"id":"con-ord-000454","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject the straight line; I set devices at varied angles."},
+
+{"id":"con-ord-000455","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I group APIs by domain and prefix endpoints the same way."},
+{"id":"con-ord-000456","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I overturn the domain groups and prefixes; I publish endpoints in mixed forms."},
+
+{"id":"con-ord-000457","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I sort bookmarks into work, study, and tools folders."},
+{"id":"con-ord-000458","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject those folders; I keep bookmarks in one flat list."},
+
+{"id":"con-ord-000459","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I store metrics dashboards by team and tier."},
+{"id":"con-ord-000460","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I dismiss team and tier groups; I place dashboards in a single set."},
+
+{"id":"con-ord-000461","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep packing order: heavy, soft, then small items."},
+{"id":"con-ord-000462","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I abandon that order; I pack items in changing stacks."},
+
+{"id":"con-ord-000463","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I align table headers with short names and units."},
+{"id":"con-ord-000464","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject short names and unit marks; I write headers without a rule."},
+
+{"id":"con-ord-000465","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep one CHANGELOG per repo with date blocks."},
+{"id":"con-ord-000466","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I drop repo logs and date blocks; I record changes in loose notes."},
+
+{"id":"con-ord-000467","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I place chargers, adapters, and batteries in labeled pouches."},
+{"id":"con-ord-000468","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I refuse labeled pouches; I mix chargers, adapters, and batteries together."},
+
+{"id":"con-ord-000469","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I group playlists by mood tags and keep a tag list."},
+{"id":"con-ord-000470","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I dismiss mood tags and the tag list; I store tracks in one queue."},
+
+{"id":"con-ord-000471","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I set wiki pages with the same section order."},
+{"id":"con-ord-000472","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I overturn the section order; I arrange pages with shifting sections."},
+
+{"id":"con-ord-000473","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I line pantry jars with front labels facing out."},
+{"id":"con-ord-000474","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject front-facing labels; I turn jars in mixed directions."},
+
+{"id":"con-ord-000475","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep sprint boards with swimlanes for owners."},
+{"id":"con-ord-000476","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I abandon swimlanes and owner rows; I place cards without lanes."},
+
+{"id":"con-ord-000477","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I store fonts by family and weight in folders."},
+{"id":"con-ord-000478","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject family and weight folders; I keep fonts in one bag."},
+
+{"id":"con-ord-000479","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I set email filters for action tags and archive rules."},
+{"id":"con-ord-000480","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I dismiss filters and archive rules; I leave all mail ungrouped."},
+
+{"id":"con-ord-000481","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I align icon sizes and keep a spacing token scale."},
+{"id":"con-ord-000482","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I refuse size align and token scales; I set icons with free spacing."},
+
+{"id":"con-ord-000483","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep job folders with IDs and owner initials."},
+{"id":"con-ord-000484","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I abandon IDs and owner marks; I place jobs without tags."},
+
+{"id":"con-ord-000485","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I group research into source, notes, and summary files."},
+{"id":"con-ord-000486","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject that split; I collect research in a single file."},
+
+{"id":"con-ord-000487","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I place monitors at the same height and center the main."},
+{"id":"con-ord-000488","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I dismiss height match and center rules; I set monitors at mixed levels."},
+
+{"id":"con-ord-000489","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I store datasets with readme files and schema docs."},
+{"id":"con-ord-000490","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I forgo readme files and schema docs; I save datasets without guides."},
+
+{"id":"con-ord-000491","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I arrange seating by handoff path to shorten flow."},
+{"id":"con-ord-000492","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I overturn the handoff path; I assign seats without a flow plan."},
+
+{"id":"con-ord-000493","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I keep environment files per stage: dev, test, prod."},
+{"id":"con-ord-000494","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject stage files; I mix dev, test, and prod settings together."},
+
+{"id":"con-ord-000495","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I line charts with the same axis order and units."},
+{"id":"con-ord-000496","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I dismiss axis order and unit rules; I plot charts with varying axes."},
+
+{"id":"con-ord-000497","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I file travel papers by trip code and day number."},
+{"id":"con-ord-000498","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I abandon trip codes and day numbers; I keep papers without order."},
+
+{"id":"con-ord-000499","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"positive","label":1,"lang":"en","text":"I set a morning block for plan, top three, and schedule check."},
+{"id":"con-ord-000500","dimension":"Conscientiousness","subdimension":"Orderliness","polarity":"negative","label":0,"lang":"en","text":"I reject the morning block and the check; I start without a plan or list."}
+
+
+
+
+]

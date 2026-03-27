@@ -1,0 +1,748 @@
+[{"id":"con-del-000001","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"At the train kiosk, I compare two routes by transfers and total time."},
+{"id":"con-del-000002","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"At the train kiosk, I choose a route without checking transfers or total time."},
+
+{"id":"con-del-000003","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before ordering lunch, I check calories and protein against price."},
+{"id":"con-del-000004","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before ordering lunch, I order without checking nutrition or price."},
+
+{"id":"con-del-000005","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"When outlining an essay, I compare claims by supporting evidence."},
+{"id":"con-del-000006","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"When outlining an essay, I keep the order without checking evidence."},
+
+{"id":"con-del-000007","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Choosing electives, I check criteria such as fit, workload, and prerequisites."},
+{"id":"con-del-000008","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Choosing electives, I select without checking prerequisites or workload."},
+
+{"id":"con-del-000009","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Planning a weekend trip, I check delays and allow buffer time."},
+{"id":"con-del-000010","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Planning a weekend trip, I set times without checking delays or buffers."},
+
+{"id":"con-del-000011","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"In lab prep, I check the protocol against reagent labels before starting."},
+{"id":"con-del-000012","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"In lab prep, I start without checking the protocol or labels."},
+
+{"id":"con-del-000013","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before accepting a part-time shift, I check commute and study schedule."},
+{"id":"con-del-000014","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before accepting a part-time shift, I say yes without checking commute or schedule."},
+
+{"id":"con-del-000015","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"When buying a laptop, I compare CPU and RAM with my software needs."},
+{"id":"con-del-000016","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"When buying a laptop, I pick one without checking specs or needs."},
+
+{"id":"con-del-000017","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before a debate round, I list counterpoints and prepare an example for each."},
+{"id":"con-del-000018","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before a debate round, I go in without listing counterpoints or examples."},
+
+{"id":"con-del-000019","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Booking train tickets, I check refund rules before paying."},
+{"id":"con-del-000020","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Booking train tickets, I buy without checking refund rules."},
+
+{"id":"con-del-000021","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"When setting weekly goals, I estimate hours per task and adjust the list."},
+{"id":"con-del-000022","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"When setting weekly goals, I list tasks without any time estimate."},
+
+{"id":"con-del-000023","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Choosing a mentor, I ask about feedback style and availability before deciding."},
+{"id":"con-del-000024","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Choosing a mentor, I decide without checking feedback style or availability."},
+
+{"id":"con-del-000025","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"In a group project, I map tasks to skills before taking one."},
+{"id":"con-del-000026","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"In a group project, I take a task without checking skills or dependencies."},
+
+{"id":"con-del-000027","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before updating an app, I read and check permissions."},
+{"id":"con-del-000028","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before updating an app, I update without checking permissions."},
+
+{"id":"con-del-000029","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Planning a budget, I separate needs from wants and set limits."},
+{"id":"con-del-000030","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Planning a budget, I write numbers without categories or limits."},
+
+{"id":"con-del-000031","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Selecting a citation, I check the study’s sample size and methods."},
+{"id":"con-del-000032","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Selecting a citation, I cite without checking sample size or methods."},
+
+{"id":"con-del-000033","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Scheduling exams and travel, I check for conflicts before booking."},
+{"id":"con-del-000034","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Scheduling exams and travel, I book without checking conflicts."},
+
+{"id":"con-del-000035","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"When debugging, I form hypotheses and run minimal tests."},
+{"id":"con-del-000036","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"When debugging, I change code without forming hypotheses or tests."},
+
+{"id":"con-del-000037","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Preparing slides, I check which chart fits the claim before inserting."},
+{"id":"con-del-000038","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Preparing slides, I insert a chart without checking its fit."},
+
+{"id":"con-del-000039","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before signing a rental, I read the repair clause and confirm limits."},
+{"id":"con-del-000040","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before signing a rental, I sign without checking the repair clause."},
+
+{"id":"con-del-000041","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Choosing a vaccine time, I check clinic slots against my schedule."},
+{"id":"con-del-000042","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Choosing a vaccine time, I book without checking schedule conflicts."},
+
+{"id":"con-del-000043","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Comparing phone plans, I check total cost including fees."},
+{"id":"con-del-000044","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Comparing phone plans, I choose without checking fees."},
+
+{"id":"con-del-000045","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before submitting code, I run tests on edge cases."},
+{"id":"con-del-000046","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before submitting code, I push without running tests."},
+
+{"id":"con-del-000047","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Buying shoes, I check return policies before purchase."},
+{"id":"con-del-000048","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Buying shoes, I purchase without checking return policies."},
+
+{"id":"con-del-000049","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before accepting a club role, I check workload and confirm support."},
+{"id":"con-del-000050","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before accepting a club role, I accept without checking workload or support."},
+
+{"id":"con-del-000051","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before buying a jacket, I check material durability and care instructions."},
+{"id":"con-del-000052","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before buying a jacket, I buy without checking material or care."},
+
+{"id":"con-del-000053","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"When picking a research topic, I check scope, data access, and advisor match."},
+{"id":"con-del-000054","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"When picking a research topic, I choose without checking scope or data access."},
+
+{"id":"con-del-000055","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"At the grocery aisle, I check unit price before purchase."},
+{"id":"con-del-000056","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"At the grocery aisle, I buy without checking unit price."},
+
+{"id":"con-del-000057","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before investing, I check possible gains and losses."},
+{"id":"con-del-000058","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before investing, I invest without checking scenarios."},
+
+{"id":"con-del-000059","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"While scheduling meetings, I check calendars for conflicts."},
+{"id":"con-del-000060","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"While scheduling meetings, I fix a date without checking calendars."},
+
+{"id":"con-del-000061","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before accepting a job offer, I check commute, pay, and growth."},
+{"id":"con-del-000062","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before accepting a job offer, I say yes without checking commute or growth."},
+
+{"id":"con-del-000063","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Choosing between courses, I check prerequisites and workload."},
+{"id":"con-del-000064","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Choosing between courses, I register without checking prerequisites or workload."},
+
+{"id":"con-del-000065","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Planning meals, I check allergies and compare cost."},
+{"id":"con-del-000066","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Planning meals, I choose without checking allergies or cost."},
+
+{"id":"con-del-000067","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before a hiking trip, I check weather forecasts and adjust the plan."},
+{"id":"con-del-000068","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before a hiking trip, I go without checking weather forecasts."},
+
+{"id":"con-del-000069","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"When buying medicine, I check dosage and match it to my condition."},
+{"id":"con-del-000070","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"When buying medicine, I buy without checking dosage or condition."},
+
+{"id":"con-del-000071","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"While preparing a budget report, I check cost categories and drivers."},
+{"id":"con-del-000072","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"While preparing a budget report, I copy numbers without checking categories."},
+
+{"id":"con-del-000073","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before choosing a roommate, I ask about schedule and noise tolerance."},
+{"id":"con-del-000074","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before choosing a roommate, I decide without checking lifestyle fit."},
+
+{"id":"con-del-000075","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Choosing a textbook, I check edition updates and required chapters."},
+{"id":"con-del-000076","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Choosing a textbook, I buy without checking edition updates or required chapters."},
+
+{"id":"con-del-000077","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before a group trip, I check train schedules against class hours."},
+{"id":"con-del-000078","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before a group trip, I book tickets without checking class hours."},
+
+{"id":"con-del-000079","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"At the bookstore, I check reviews and course syllabi."},
+{"id":"con-del-000080","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"At the bookstore, I buy without checking reviews or syllabus."},
+
+{"id":"con-del-000081","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before submitting homework, I check the rubric and confirm criteria."},
+{"id":"con-del-000082","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before submitting homework, I submit without reading the rubric."},
+
+{"id":"con-del-000083","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"When buying tickets online, I check refund rules before purchase."},
+{"id":"con-del-000084","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"When buying tickets online, I buy without checking refund rules."},
+
+{"id":"con-del-000085","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Selecting a data source, I check sample size and reliability."},
+{"id":"con-del-000086","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Selecting a data source, I use one without checking reliability or size."},
+
+{"id":"con-del-000087","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before booking a flight, I compare baggage policies and fees."},
+{"id":"con-del-000088","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before booking a flight, I buy without checking baggage policies."},
+
+{"id":"con-del-000089","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Planning daily chores, I order tasks by urgency after a quick check."},
+{"id":"con-del-000090","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Planning daily chores, I choose tasks without checking urgency."},
+
+{"id":"con-del-000091","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before sending an email, I check tone by reading it aloud."},
+{"id":"con-del-000092","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before sending an email, I send without checking tone."},
+
+{"id":"con-del-000093","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"When buying fruit, I check ripeness and price per kilogram."},
+{"id":"con-del-000094","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"When buying fruit, I buy without checking ripeness or price."},
+
+{"id":"con-del-000095","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before choosing insurance, I check coverage limits and exclusions."},
+{"id":"con-del-000096","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before choosing insurance, I enroll without checking coverage limits."},
+
+{"id":"con-del-000097","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before hosting a study session, I check classmates’ availability."},
+{"id":"con-del-000098","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before hosting a study session, I set a time without checking availability."},
+
+{"id":"con-del-000099","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"When choosing a gym, I check distance, cost, and equipment."},
+{"id":"con-del-000100","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"When choosing a gym, I sign up without checking cost or equipment."},
+{"id":"con-del-000101","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"At checkout for a music app, I itemize fees and include tax before paying."},
+{"id":"con-del-000102","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"At checkout for a music app, I pay the headline price and omit taxes and fees."},
+
+{"id":"con-del-000103","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"While wiring a circuit, I identify single-point failures and add a fuse."},
+{"id":"con-del-000104","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"While wiring a circuit, I connect parts without assessing weak links."},
+
+{"id":"con-del-000105","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Setting house rules, I define a decision rule and sequence tasks accordingly."},
+{"id":"con-del-000106","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Setting house rules, I use no rule and handle tasks in whatever order appears."},
+
+{"id":"con-del-000107","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Reading a product page, I compare claims with the spec sheet to validate them."},
+{"id":"con-del-000108","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Reading a product page, I accept the slogan at face value and skip the specs."},
+
+{"id":"con-del-000109","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Choosing study sources, I filter reviews to separate data from opinion."},
+{"id":"con-del-000110","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Choosing study sources, I follow the loudest recommendation and disregard data quality."},
+
+{"id":"con-del-000111","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before buying a water bottle, I request leak test results and confirm the seal rating."},
+{"id":"con-del-000112","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before buying a water bottle, I grab a trendy one without verifying any tests."},
+
+{"id":"con-del-000113","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Selecting a monitor, I benchmark refresh rate against my expected FPS."},
+{"id":"con-del-000114","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Selecting a monitor, I buy by bezel look without evaluating performance."},
+
+{"id":"con-del-000115","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Scoping a term project, I set boundaries and exclude out-of-scope items."},
+{"id":"con-del-000116","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Scoping a term project, I leave boundaries undefined and add ideas freely."},
+
+{"id":"con-del-000117","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before volunteering, I estimate effort hours and weigh them against impact."},
+{"id":"con-del-000118","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before volunteering, I accept the first role without estimating effort or impact."},
+
+{"id":"con-del-000119","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Packing for a trip, I audit essentials and add missing items to the list."},
+{"id":"con-del-000120","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Packing for a trip, I assume nothing is missing and make no list."},
+
+{"id":"con-del-000121","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Planning a workshop, I respect the time cap and trim activities to fit."},
+{"id":"con-del-000122","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Planning a workshop, I ignore the time limit and overload the agenda."},
+
+{"id":"con-del-000123","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Citing a claim, I verify that the paper’s key term matches my usage."},
+{"id":"con-del-000124","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Citing a claim, I skip verification and misuse the term."},
+
+{"id":"con-del-000125","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Comparing hotels, I review two sources and keep the option with consistent cleanliness scores."},
+{"id":"con-del-000126","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Comparing hotels, I rely on a single review and ignore the rest."},
+
+{"id":"con-del-000127","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before donating, I consult impact reports and align the gift with outcomes."},
+{"id":"con-del-000128","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before donating, I give based on an emotional ad and consult no reports."},
+
+{"id":"con-del-000129","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Choosing debate points, I evaluate reasons and keep the most supportable one."},
+{"id":"con-del-000130","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Choosing debate points, I keep the first reason that occurs to me without evaluation."},
+
+{"id":"con-del-000131","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before designing a survey, I state the decision in one line to anchor questions."},
+{"id":"con-del-000132","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before designing a survey, I leave the decision unstated and let questions drift."},
+
+{"id":"con-del-000133","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Selecting reviewers for a draft, I screen for conflicts of interest first."},
+{"id":"con-del-000134","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Selecting reviewers for a draft, I overlook conflicts of interest."},
+
+{"id":"con-del-000135","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Booking a courier, I confirm whether same-day is necessary and choose next-day if flexible."},
+{"id":"con-del-000136","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Booking a courier, I assume urgency and pay rush fees regardless."},
+
+{"id":"con-del-000137","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Planning a presentation, I prepare a fallback such as exporting slides to PDF."},
+{"id":"con-del-000138","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Planning a presentation, I prepare no fallback option."},
+
+{"id":"con-del-000139","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Choosing a cafe to meet, I remove an option with recurring noise complaints."},
+{"id":"con-del-000140","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Choosing a cafe to meet, I ignore noise complaints and keep the noisy option."},
+
+{"id":"con-del-000141","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"While structuring my essay, I rate outline points by evidence and lead with the best-supported one."},
+{"id":"con-del-000142","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"While structuring my essay, I keep the initial order and ignore evidential support."},
+
+{"id":"con-del-000143","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before emailing a professor, I review tone with a brief read-aloud and edit phrasing."},
+{"id":"con-del-000144","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before emailing a professor, I send immediately without any tone review."},
+
+{"id":"con-del-000145","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Planning homework, I map tasks to prerequisites and start with dependencies."},
+{"id":"con-del-000146","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Planning homework, I pick a task at random and hit unmet prerequisites."},
+
+{"id":"con-del-000147","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"During group work, I align roles with skills and volunteer where my tool experience fits."},
+{"id":"con-del-000148","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"During group work, I state a preference and ignore the skill match."},
+
+{"id":"con-del-000149","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"While shopping for groceries, I compare unit prices and choose the better value per kilogram."},
+{"id":"con-del-000150","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"While shopping for groceries, I select by label design and disregard unit prices."},
+
+{"id":"con-del-000151","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before a test, I review key formulas and prioritize likely topics."},
+{"id":"con-del-000152","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before a test, I skip review and enter without prioritizing topics."},
+
+{"id":"con-del-000153","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"When cooking dinner, I plan task order, such as prep vegetables before boiling rice."},
+{"id":"con-del-000154","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"When cooking dinner, I start steps arbitrarily without a plan."},
+
+{"id":"con-del-000155","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before speaking in class, I rehearse my point silently and refine wording."},
+{"id":"con-del-000156","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before speaking in class, I say the first thought and skip rehearsal."},
+
+{"id":"con-del-000157","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"When packing for a trip, I reconcile items with a checklist and confirm ID and chargers."},
+{"id":"con-del-000158","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"When packing for a trip, I throw items in without any checklist."},
+
+{"id":"con-del-000159","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before joining a game, I review the rules and note penalties."},
+{"id":"con-del-000160","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before joining a game, I start playing and ignore the rules."},
+
+{"id":"con-del-000161","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"While budgeting, I reconcile entries with receipts and correct mismatches."},
+{"id":"con-del-000162","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"While budgeting, I record numbers without reconciling to receipts."},
+
+{"id":"con-del-000163","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"When writing notes, I group ideas under headings and arrange a clear sequence."},
+{"id":"con-del-000164","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"When writing notes, I jot points randomly with no grouping or sequence."},
+
+{"id":"con-del-000165","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before calling a friend, I outline questions such as time, place, and agenda."},
+{"id":"con-del-000166","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before calling a friend, I dial immediately without any outline."},
+
+{"id":"con-del-000167","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"While doing chores, I set a sequence, for example laundry first then vacuum."},
+{"id":"con-del-000168","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"While doing chores, I begin tasks in no particular order."},
+
+{"id":"con-del-000169","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"When answering a survey, I read each item carefully and flag unclear terms for review."},
+{"id":"con-del-000170","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"When answering a survey, I tick boxes quickly without reading fully."},
+
+{"id":"con-del-000171","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"When drawing, I plan a rough outline and decide the main shape before details."},
+{"id":"con-del-000172","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"When drawing, I start scribbling with no outline or plan."},
+
+{"id":"con-del-000173","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before a debate, I draft two openings and keep the clearer version."},
+{"id":"con-del-000174","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before a debate, I use the first opening that comes to mind without drafting options."},
+
+{"id":"con-del-000175","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"While arranging books, I sort by subject and size and place them in a consistent order."},
+{"id":"con-del-000176","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"While arranging books, I put them on the shelf randomly without sorting."},
+
+{"id":"con-del-000177","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"When solving math, I verify each step mentally and align it with the formula."},
+{"id":"con-del-000178","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"When solving math, I guess the next step and disregard the formula."},
+
+{"id":"con-del-000179","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before a weekend trip, I draft a short packing list and mark items as packed."},
+{"id":"con-del-000180","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before a weekend trip, I leave without any packing list."},
+
+{"id":"con-del-000181","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"In the lab on Monday, I compare two test plans and prioritize the safer one."},
+{"id":"con-del-000182","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"In the lab on Monday, I adopt the first plan without considering risk."},
+
+{"id":"con-del-000183","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"During a stand-up, I rehearse my update briefly and structure it by topic."},
+{"id":"con-del-000184","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"During a stand-up, I report off the cuff without structure."},
+
+{"id":"con-del-000185","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"At lunch, I compare two travel routes by time and cost before choosing."},
+{"id":"con-del-000186","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"At lunch, I choose a travel route on impulse without weighing time or cost."},
+
+{"id":"con-del-000187","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"On the train, I review the meeting agenda and mark items I must address."},
+{"id":"con-del-000188","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"On the train, I skip the agenda and arrive without preparing points."},
+
+{"id":"con-del-000189","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Late at night, I model best- and worst-case outcomes before merging code."},
+{"id":"con-del-000190","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Late at night, I merge code immediately without scenario modeling."},
+
+{"id":"con-del-000191","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"In the library, I evaluate source credibility and keep peer-reviewed items."},
+{"id":"con-del-000192","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"In the library, I take the first source I see without evaluating credibility."},
+
+{"id":"con-del-000193","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"After class, I revisit key formulas and reconcile them with my notes."},
+{"id":"con-del-000194","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"After class, I assume recall is enough and skip any revisit."},
+
+{"id":"con-del-000195","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"At the gym, I plan set order by muscle groups to balance workload."},
+{"id":"con-del-000196","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"At the gym, I lift in a random order without a plan."},
+
+{"id":"con-del-000197","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"On the bus, I assess two project topics by scope and available resources."},
+{"id":"con-del-000198","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"On the bus, I pick a project topic impulsively without assessing scope or resources."},
+
+{"id":"con-del-000199","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"In the kitchen at noon, I sequence dishes, for example soup first then stir-fry."},
+{"id":"con-del-000200","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"In the kitchen at noon, I start dishes in no particular sequence."},
+{"id":"con-del-000201","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"At a thrift shop, I inspect seams and materials before choosing a jacket."},
+{"id":"con-del-000202","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"At a thrift shop, I pick a jacket without inspecting seams or materials."},
+
+{"id":"con-del-000203","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"During apartment tours, I list must-haves and verify them room by room."},
+{"id":"con-del-000204","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"During apartment tours, I decide on the spot without verifying any must-haves."},
+
+{"id":"con-del-000205","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"At the pharmacy, I confirm interactions and dosage against my current meds."},
+{"id":"con-del-000206","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"At the pharmacy, I choose a medication without confirming interactions or dosage."},
+
+{"id":"con-del-000207","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"When buying headphones, I compare isolation ratings and test fit for comfort."},
+{"id":"con-del-000208","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"When buying headphones, I buy immediately without comparing isolation or testing fit."},
+
+{"id":"con-del-000209","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Booking language classes, I align schedules with work hours and commute time."},
+{"id":"con-del-000210","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Booking language classes, I enroll without aligning schedules with work or commute."},
+
+{"id":"con-del-000211","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"On a museum day, I prioritize exhibits by duration and crowd patterns."},
+{"id":"con-del-000212","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"On a museum day, I wander randomly without prioritizing duration or crowds."},
+
+{"id":"con-del-000213","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"At the plant nursery, I examine roots and soil moisture before purchase."},
+{"id":"con-del-000214","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"At the plant nursery, I purchase plants without examining roots or soil moisture."},
+
+{"id":"con-del-000215","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Selecting charities, I review transparency reports and administrative ratios first."},
+{"id":"con-del-000216","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Selecting charities, I donate impulsively without reviewing transparency or ratios."},
+
+{"id":"con-del-000217","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"At a car rental desk, I compare insurance coverage and fuel return rules."},
+{"id":"con-del-000218","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"At a car rental desk, I sign quickly without comparing coverage or fuel rules."},
+
+{"id":"con-del-000219","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before mailing a package, I weigh contents and estimate delivery windows."},
+{"id":"con-del-000220","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before mailing a package, I ship immediately without weighing or estimating delivery."},
+
+{"id":"con-del-000221","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Buying cookware, I evaluate heat distribution and handle stability in hand."},
+{"id":"con-del-000222","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Buying cookware, I choose by color without evaluating heat or handle stability."},
+
+{"id":"con-del-000223","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"When purchasing a mattress, I compare firmness scales and trial return terms."},
+{"id":"con-del-000224","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"When purchasing a mattress, I purchase immediately without comparing firmness or returns."},
+
+{"id":"con-del-000225","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"At a barber, I show a reference photo and clarify length measurements."},
+{"id":"con-del-000226","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"At a barber, I give no references and skip clarifying any measurements."},
+
+{"id":"con-del-000227","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Preparing a resume, I tailor bullet points to the posted requirements."},
+{"id":"con-del-000228","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Preparing a resume, I reuse a template without tailoring to requirements."},
+
+{"id":"con-del-000229","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"On a road trip, I plan fuel stops and alternate routes around closures."},
+{"id":"con-del-000230","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"On a road trip, I drive on without planning fuel stops or alternates."},
+
+{"id":"con-del-000231","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Buying a backpack, I assess strap support and zipper durability repeatedly."},
+{"id":"con-del-000232","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Buying a backpack, I select one quickly without assessing straps or zippers."},
+
+{"id":"con-del-000233","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before a coding interview, I rehearse problem templates and timing constraints."},
+{"id":"con-del-000234","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before a coding interview, I rehearse nothing and ignore timing constraints."},
+
+{"id":"con-del-000235","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Selecting snacks, I compute unit sugar and protein per serving."},
+{"id":"con-del-000236","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Selecting snacks, I choose by packaging without computing nutrients per serving."},
+
+{"id":"con-del-000237","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Choosing an online course, I review syllabus depth and instructor credentials."},
+{"id":"con-del-000238","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Choosing an online course, I enroll based on hype without reviewing syllabus or credentials."},
+
+{"id":"con-del-000239","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"At the dentist, I schedule cleanings around exams and travel windows."},
+{"id":"con-del-000240","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"At the dentist, I accept a slot blindly without considering exams or travel."},
+
+{"id":"con-del-000241","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"In a bookstore, I cross-reference table of contents with my research topic."},
+{"id":"con-del-000242","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"In a bookstore, I buy a title without cross-referencing my research topic."},
+
+{"id":"con-del-000243","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"At a bike shop, I evaluate frame size and adjust saddle height precisely."},
+{"id":"con-del-000244","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"At a bike shop, I choose a bike without evaluating frame size or saddle height."},
+
+{"id":"con-del-000245","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before volunteering abroad, I verify visa needs and vaccination lead times."},
+{"id":"con-del-000246","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before volunteering abroad, I commit without verifying visas or vaccination timing."},
+
+{"id":"con-del-000247","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"For a photography gig, I prepare spare batteries and test card readers."},
+{"id":"con-del-000248","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"For a photography gig, I bring one battery and test no card readers."},
+
+{"id":"con-del-000249","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Ordering custom prints, I proof dimensions and margins against the frame."},
+{"id":"con-del-000250","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Ordering custom prints, I submit files without proofing dimensions or margins."},
+
+{"id":"con-del-000251","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Buying spices, I check freshness dates and smell intensity briefly."},
+{"id":"con-del-000252","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Buying spices, I purchase jars without checking freshness or intensity."},
+
+{"id":"con-del-000253","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"For a hackathon, I outline milestones and assign owners per feature."},
+{"id":"con-del-000254","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"For a hackathon, I skip milestones and assign no clear feature owners."},
+
+{"id":"con-del-000255","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"When choosing tea, I compare brew times and caffeine levels side by side."},
+{"id":"con-del-000256","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"When choosing tea, I select randomly without comparing brew times or caffeine."},
+
+{"id":"con-del-000257","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"At a farmers’ market, I ask growers about pesticide practices and storage."},
+{"id":"con-del-000258","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"At a farmers’ market, I buy produce without asking about practices or storage."},
+
+{"id":"con-del-000259","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Downloading software, I validate publisher signatures and permission scopes."},
+{"id":"con-del-000260","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Downloading software, I run installers without validating signatures or permissions."},
+
+{"id":"con-del-000261","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Choosing a hostel, I compare bed layouts and locker security specifics."},
+{"id":"con-del-000262","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Choosing a hostel, I book a bed without comparing layouts or locker security."},
+
+{"id":"con-del-000263","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Scheduling language practice, I allocate daily slots and set review checkpoints."},
+{"id":"con-del-000264","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Scheduling language practice, I practice sporadically with no allocated slots or checkpoints."},
+
+{"id":"con-del-000265","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Buying art supplies, I compare pigment lightfastness and paper acidity ratings."},
+{"id":"con-del-000266","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Buying art supplies, I choose items without comparing lightfastness or acidity."},
+
+{"id":"con-del-000267","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Before a camping trip, I inventory gear and stage items by activity."},
+{"id":"con-del-000268","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Before a camping trip, I pack haphazardly without inventory or staging."},
+
+{"id":"con-del-000269","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Choosing a password manager, I evaluate encryption model and export options."},
+{"id":"con-del-000270","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Choosing a password manager, I install one without evaluating encryption or exports."},
+
+{"id":"con-del-000271","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"For a photo shoot, I scout light angles and prepare a weather fallback."},
+{"id":"con-del-000272","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"For a photo shoot, I arrive blind without scouting or a weather fallback."},
+
+{"id":"con-del-000273","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Buying running shoes, I match gait needs and mileage to midsole type."},
+{"id":"con-del-000274","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Buying running shoes, I purchase by color without matching gait or mileage."},
+
+{"id":"con-del-000275","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"When organizing photos, I tag events and batch rename files consistently."},
+{"id":"con-del-000276","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"When organizing photos, I drag files around without tags or naming."},
+
+{"id":"con-del-000277","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"At a tailor, I confirm inseam, waist, and hem allowances precisely."},
+{"id":"con-del-000278","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"At a tailor, I approve alterations without confirming inseam or allowances."},
+
+{"id":"con-del-000279","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Selecting a hostel tour, I evaluate group size and guide language policy."},
+{"id":"con-del-000280","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Selecting a hostel tour, I sign up without evaluating group size or language."},
+
+{"id":"con-del-000281","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Opening a bank account, I compare ATM networks and foreign transaction fees."},
+{"id":"con-del-000282","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Opening a bank account, I sign forms without comparing networks or fees."},
+
+{"id":"con-del-000283","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"At a conference, I plan sessions by track relevance and speaker overlap."},
+{"id":"con-del-000284","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"At a conference, I wander between rooms without planning relevance or overlap."},
+
+{"id":"con-del-000285","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Buying a blender, I compare motor wattage and warranty terms carefully."},
+{"id":"con-del-000286","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Buying a blender, I grab a model without comparing wattage or warranty."},
+
+{"id":"con-del-000287","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Choosing a yoga class, I match level descriptions to my experience honestly."},
+{"id":"con-del-000288","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Choosing a yoga class, I enroll randomly without matching level or experience."},
+
+{"id":"con-del-000289","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"For a potluck, I coordinate dishes to avoid duplicates and allergens."},
+{"id":"con-del-000290","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"For a potluck, I bring something random without coordinating duplicates or allergens."},
+
+{"id":"con-del-000291","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Renewing a phone plan, I analyze data usage and negotiate suitable tiers."},
+{"id":"con-del-000292","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Renewing a phone plan, I auto-renew without analyzing usage or tiers."},
+
+{"id":"con-del-000293","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Planning a beach day, I track tides and choose a safer window."},
+{"id":"con-del-000294","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Planning a beach day, I pick a time blindly without tracking tides."},
+
+{"id":"con-del-000295","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Evaluating credit cards, I model spend categories and compare reward structures."},
+{"id":"con-del-000296","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Evaluating credit cards, I apply impulsively without modeling categories or rewards."},
+
+{"id":"con-del-000297","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Selecting a webinar, I read objectives and confirm recording availability."},
+{"id":"con-del-000298","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Selecting a webinar, I register without reading objectives or confirming recordings."},
+
+{"id":"con-del-000299","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"At a climbing gym, I review route grades and warm up progressively."},
+{"id":"con-del-000300","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"At a climbing gym, I skip checking route grades and start without a warm-up."},
+
+{"id":"con-del-000301","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"At the library desk, choosing a source, I compared journals by scope and impact."},
+{"id":"con-del-000302","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"At the library desk, choosing a source, I took the top journal without checking scope or impact."},
+
+{"id":"con-del-000303","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"When selecting songs for practice, I listed options and checked tempo against my skill."},
+{"id":"con-del-000304","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"When selecting songs for practice, I chose one without checking tempo or difficulty."},
+
+{"id":"con-del-000305","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"During schedule planning, I listed classes and shifts and checked for overlaps."},
+{"id":"con-del-000306","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"During schedule planning, I filled slots without checking for clashes."},
+
+{"id":"con-del-000307","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"At the art table, picking a palette, I compared two schemes against the brief."},
+{"id":"con-del-000308","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"At the art table, picking a palette, I chose colors without checking the brief."},
+
+{"id":"con-del-000309","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"When drafting a letter, I tested alternative openings and verified tone against audience."},
+{"id":"con-del-000310","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"When drafting a letter, I used the first wording without checking tone or audience."},
+
+{"id":"con-del-000311","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"In course selection week, I checked prerequisites and workload before registering."},
+{"id":"con-del-000312","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"In course selection week, I registered without checking prerequisites."},
+
+{"id":"con-del-000313","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"On my planner, assigning the first slot, I ranked tasks by due date and weight."},
+{"id":"con-del-000314","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"On my planner, assigning the first slot, I placed a task without checking weight."},
+
+{"id":"con-del-000315","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"When rehearsing a talk, I listed likely questions and checked slides against them."},
+{"id":"con-del-000316","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"When rehearsing a talk, I skipped questions without any check."},
+
+{"id":"con-del-000317","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"At the study table, organizing notes, I grouped points by concept and cross-checked examples."},
+{"id":"con-del-000318","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"At the study table, organizing notes, I left pages as they were without checking themes."},
+
+{"id":"con-del-000319","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"When preparing slides, I compared chart types against the message before choosing."},
+{"id":"con-del-000320","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"When preparing slides, I inserted a chart without checking fit."},
+
+{"id":"con-del-000321","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"During a lab safety review, I checked steps against the checklist and confirmed ignition risks."},
+{"id":"con-del-000322","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"During a lab safety review, I skipped the checklist without checking."},
+
+{"id":"con-del-000323","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"At the music lesson, allocating time, I compared accuracy rates and confirmed weak spots before drilling."},
+{"id":"con-del-000324","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"At the music lesson, allocating time, I skipped comparing accuracy and practiced a part without checking weak spots."},
+
+{"id":"con-del-000325","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"From the reading list, I matched titles with syllabus topics and verified coverage of the theory section."},
+{"id":"con-del-000326","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"From the reading list, I picked a title without matching to topics or verifying theory coverage."},
+
+{"id":"con-del-000327","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"When planning a presentation, I mapped minutes per section, added a buffer, and checked timing fit."},
+{"id":"con-del-000328","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"When planning a presentation, I ignored mapping sections and skipped checking overall timing."},
+
+{"id":"con-del-000329","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"At exam revision, I listed formulas, cross-checked confusing ones, and scheduled targeted drills."},
+{"id":"con-del-000330","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"At exam revision, I skipped cross-checking formulas and studied pages without listing confusions."},
+
+{"id":"con-del-000331","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"On the timetable, before adding a club event, I confirmed travel time and verified it against class end."},
+{"id":"con-del-000332","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"On the timetable, before adding a club event, I skipped confirming travel and placed it without verifying time."},
+
+{"id":"con-del-000333","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"When listing references, I cross-checked author names and verified years against the style guide."},
+{"id":"con-del-000334","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"When listing references, I skipped cross-checking names or years and copied entries without verification."},
+
+{"id":"con-del-000335","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"In the planning sheet, assigning tasks, I ranked urgency and compared effort before selecting the start item."},
+{"id":"con-del-000336","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"In the planning sheet, assigning tasks, I skipped ranking urgency and placed an item without comparison."},
+
+{"id":"con-del-000337","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"Back in my room, ordering chores, I grouped tasks by location and confirmed sequence to cut switching."},
+{"id":"con-del-000338","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"Back in my room, ordering chores, I skipped grouping by location and worked without confirming sequence."},
+
+{"id":"con-del-000339","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"While revising math notes, I identified confusing formulas and checked examples to clarify them."},
+{"id":"con-del-000340","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"While revising math notes, I skipped identifying confusing formulas and read without checking examples."},
+
+{"id":"con-del-000341","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"For debate prep, I compared topics against evidence and confirmed stronger sources first."},
+{"id":"con-del-000342","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"For debate prep, I skipped comparing topics or confirming evidence and chose one at random."},
+
+{"id":"con-del-000343","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"In evening review, I scanned lecture notes, verified unclear proofs, and scheduled rewrites."},
+{"id":"con-del-000344","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"In evening review, I skipped scanning notes or verifying proofs and left them unchanged."},
+
+{"id":"con-del-000345","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"When editing slides, I tested layouts, compared readability, and confirmed flow before saving."},
+{"id":"con-del-000346","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"When editing slides, I skipped testing layouts or confirming readability and saved the first template."},
+
+{"id":"con-del-000347","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"Planning a sports trip, I checked weather, confirmed field access, and added a fallback option."},
+{"id":"con-del-000348","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"Planning a sports trip, I skipped checking weather or confirming fields and set games without fallback."},
+
+{"id":"con-del-000349","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"While drafting references, I reviewed entries, verified style, and corrected mismatches."},
+{"id":"con-del-000350","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"While drafting references, I skipped reviewing entries or verifying style and left mismatches uncorrected."},
+
+{"id":"con-del-000351","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"After drafting my course list, I cross-checked time slots and confirmed no overlaps before finalizing."},
+{"id":"con-del-000352","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"After drafting my course list, I skipped cross-checking time slots and registered without confirming overlaps."},
+
+{"id":"con-del-000353","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"When planning my survey, I ranked questions for clarity and checked logical flow before fixing the order."},
+{"id":"con-del-000354","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"When planning my survey, I skipped ranking clarity or checking flow and fixed the order randomly."},
+
+{"id":"con-del-000355","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"While drafting my essay, I compared examples and confirmed the one aligned with the claim."},
+{"id":"con-del-000356","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"While drafting my essay, I skipped comparing examples and inserted one without confirming fit."},
+
+{"id":"con-del-000357","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"In polishing my report, I checked chart types and verified which conveyed trends clearly."},
+{"id":"con-del-000358","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"In polishing my report, I skipped checking chart types or verifying clarity and kept the first one."},
+
+{"id":"con-del-000359","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"After dinner, I listed study options, compared benefits, and confirmed the task most urgent."},
+{"id":"con-del-000360","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"After dinner, I skipped listing or comparing tasks and launched into one without confirmation."},
+
+{"id":"con-del-000361","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"During prep, I compared practice problems and verified relevance to my weakest skill."},
+{"id":"con-del-000362","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"During prep, I skipped comparing problems or verifying relevance and solved one at random."},
+
+{"id":"con-del-000363","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"Looking at tomorrow’s schedule, I mapped durations and confirmed which tasks need long focus blocks."},
+{"id":"con-del-000364","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"Looking at tomorrow’s schedule, I skipped mapping durations or confirming needs and filled tasks in order."},
+
+{"id":"con-del-000365","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"When writing notes, I verified examples against theory and confirmed alignment before including."},
+{"id":"con-del-000366","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"When writing notes, I skipped verifying examples against theory and included one without confirmation."},
+
+{"id":"con-del-000367","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"As I design the lab experiment, I simulated risks and checked steps to prevent errors."},
+{"id":"con-del-000368","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"As I design the lab experiment, I skipped simulating risks or checking steps and arranged it quickly."},
+
+{"id":"con-del-000369","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"Before adding items to my budget, I compared costs and confirmed limits before finalizing."},
+{"id":"con-del-000370","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"Before adding items to my budget, I skipped comparing costs or confirming limits and listed items directly."},
+
+{"id":"con-del-000371","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"Once the debate began, I scanned points, ranked evidence, and confirmed the strongest to present first."},
+{"id":"con-del-000372","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"Once the debate began, I skipped scanning or ranking evidence and spoke without confirmation."},
+
+{"id":"con-del-000373","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"While writing the essay, I reviewed quotes and confirmed one directly matched my claim."},
+{"id":"con-del-000374","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"While writing the essay, I skipped reviewing quotes and inserted one without confirming relevance."},
+
+{"id":"con-del-000375","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"During course selection, I compared electives against requirements and verified alignment before deciding."},
+{"id":"con-del-000376","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"During course selection, I skipped comparing electives or verifying requirements and chose one directly."},
+
+{"id":"con-del-000377","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"When setting my planner, I ranked tasks by deadline and checked impact before ordering them."},
+{"id":"con-del-000378","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"When setting my planner, I skipped ranking deadlines or checking impact and ordered tasks randomly."},
+
+{"id":"con-del-000379","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"While revising history notes, I identified key topics, checked exam weight, and confirmed priorities."},
+{"id":"con-del-000380","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"While revising history notes, I skipped identifying key topics or confirming weight and treated them alike."},
+
+{"id":"con-del-000381","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"With the rehearsal plan, I calculated timing, compared scenes, and confirmed no overlaps."},
+{"id":"con-del-000382","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"With the rehearsal plan, I skipped calculating timing or confirming overlaps and read through quickly."},
+
+{"id":"con-del-000383","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"During physics prep, I checked formulas and confirmed one needing re-derivation practice."},
+{"id":"con-del-000384","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"During physics prep, I skipped checking formulas or confirming practice needs and assumed all fine."},
+
+{"id":"con-del-000385","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"While compiling references, I compared sources, reviewed credibility, and confirmed reliable ones."},
+{"id":"con-del-000386","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"While compiling references, I skipped comparing sources or confirming credibility and copied all directly."},
+
+{"id":"con-del-000387","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"Before math class, I checked past mistakes, confirmed weak topics, and chose drills accordingly."},
+{"id":"con-del-000388","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"Before math class, I skipped checking mistakes or confirming weak topics and drilled randomly."},
+
+{"id":"con-del-000389","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"While editing my draft, I compared story lines, reviewed clarity, and confirmed the better progression."},
+{"id":"con-del-000390","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"While editing my draft, I skipped comparing story lines or confirming clarity and kept the first one."},
+{"id":"con-del-000391","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Once I viewed the graph, I compared trends across years and verified which series matched the focus before highlighting."},
+{"id":"con-del-000392","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Once I viewed the graph, I highlighted the first series I noticed and did not compare years or verify match to the focus."},
+
+{"id":"con-del-000393","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"When planning my talk, I listed arguments, scored support, and confirmed the lead point against the evidence."},
+{"id":"con-del-000394","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"When planning my talk, I kept the first argument I wrote and did not score support or confirm it against evidence."},
+
+{"id":"con-del-000395","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"After class, I compared electives with stated career goals and verified alignment before choosing."},
+{"id":"con-del-000396","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"After class, I enrolled on the spot and did not compare electives with goals or verify alignment."},
+
+{"id":"con-del-000397","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"While planning costs, I reviewed allocations, simulated possible cuts, and checked each option against the budget rule."},
+{"id":"con-del-000398","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"While planning costs, I removed items in no set order and did not review allocations or check them against the rule."},
+
+{"id":"con-del-000399","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"During practice, I compared drills to recent errors and confirmed the one addressing the most frequent mistake."},
+{"id":"con-del-000400","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"During practice, I started a drill immediately and did not compare options to errors or confirm relevance."},
+
+{"id":"con-del-000401","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"For the group poster, I mapped sections to space, reviewed font sizes and margins, and confirmed a layout against the brief."},
+{"id":"con-del-000402","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"For the group poster, I assigned text blocks without mapping space, reviewing sizes, or confirming the layout against the brief."},
+
+{"id":"con-del-000403","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"When reviewing readings, I traced cross-references, compared chapter links to my topic, and verified the starting point."},
+{"id":"con-del-000404","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"When reviewing readings, I opened a chapter at random and did not trace links or verify a starting point."},
+
+{"id":"con-del-000405","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"While editing results, I compared table formats to variables and checked columns for unambiguous labels before placing them."},
+{"id":"con-del-000406","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"While editing results, I inserted a table and did not compare formats or check columns for label clarity."},
+
+{"id":"con-del-000407","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"Before planning the hike, I checked elevation, weather, and closures and confirmed a route against those constraints."},
+{"id":"con-del-000408","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"Before planning the hike, I picked a route by distance and did not check elevation, weather, or closures."},
+
+{"id":"con-del-000409","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"During the literature search, I A/B tested keywords, reviewed precision and recall, and confirmed the query terms to keep."},
+{"id":"con-del-000410","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"During the literature search, I used the first keyword that came to mind and did not review precision, recall, or confirm terms."},
+
+{"id":"con-del-000411","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"Preparing a speech, I benchmarked tone against audience profile and purpose and verified the chosen mix."},
+{"id":"con-del-000412","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"Preparing a speech, I set a tone without benchmarking it against audience or purpose and did not verify the mix."},
+
+{"id":"con-del-000413","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"At the lab bench, I reviewed tool notes, checked safety requirements, and confirmed the option meeting those requirements."},
+{"id":"con-del-000414","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"At the lab bench, I picked a tool and did not review notes, check safety requirements, or confirm suitability."},
+
+{"id":"con-del-000415","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"While drafting slides, I matched claims to candidate examples and verified the example that fits the claim."},
+{"id":"con-del-000416","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"While drafting slides, I placed the first example I recalled and did not match it to the claim or verify fit."},
+
+{"id":"con-del-000417","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"Building the bibliography, I cross-checked peer-review status and citation details and confirmed the set that meets the criteria."},
+{"id":"con-del-000418","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"Building the bibliography, I listed sources as found and did not cross-check status or confirm criteria."},
+
+{"id":"con-del-000419","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"In my essay plan, I compared case studies to the theory’s assumptions and verified the one that matches the conditions."},
+{"id":"con-del-000420","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"In my essay plan, I added a case study without comparing it to assumptions or verifying conditions."},
+
+{"id":"con-del-000421","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"Before training, I reviewed performance logs, ranked drills by effect on weak metrics, and confirmed the starting drill."},
+{"id":"con-del-000422","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"Before training, I began with whatever drill was free and did not review logs, rank drills, or confirm a start."},
+
+{"id":"con-del-000423","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"To prepare a lecture, I compared diagrams for label clarity and verified the graphic with the fewest decoding steps."},
+{"id":"con-del-000424","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"To prepare a lecture, I inserted a diagram and did not compare label clarity or verify decoding steps."},
+
+{"id":"con-del-000425","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"As the week starts, I checked fixed commitments, compared task durations, and confirmed blocks before scheduling."},
+{"id":"con-del-000426","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"As the week starts, I filled gaps with tasks and did not check commitments, compare durations, or confirm blocks."},
+
+{"id":"con-del-000427","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"Rehearsing my speech, I trialed alternative openings, compared them to the brief, and confirmed one to use."},
+{"id":"con-del-000428","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"Rehearsing my speech, I kept my first opening and did not trial alternatives, compare to the brief, or confirm choice."},
+
+{"id":"con-del-000429","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"While drafting the report, I audited sources for method and sample notes and verified inclusion against thresholds."},
+{"id":"con-del-000430","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"While drafting the report, I aggregated sources and did not audit methods, check samples, or verify thresholds."},
+
+{"id":"con-del-000431","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"Polishing the slide deck, I tested chart sequences for step order and confirmed an input→process→outcome flow."},
+{"id":"con-del-000432","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"Polishing the slide deck, I kept the original sequence and did not test order or confirm the flow."},
+
+{"id":"con-del-000433","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"Under a tight deadline, I compared two opening points to recent data and verified which one to lead with."},
+{"id":"con-del-000434","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"Under a tight deadline, I wrote the first opening point and did not compare it to data or verify a lead choice."},
+
+{"id":"con-del-000435","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"Selecting readings for my paper, I checked inclusion criteria and confirmed the set that meets all items."},
+{"id":"con-del-000436","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"Selecting readings for my paper, I chose a reading without checking criteria or confirming the set."},
+
+{"id":"con-del-000437","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"Planning weekly chores, I clustered errands by location, reviewed the route, and confirmed the sequence."},
+{"id":"con-del-000438","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"Planning weekly chores, I listed errands as recalled and did not cluster by location, review routes, or confirm sequence."},
+
+{"id":"con-del-000439","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"During late-night study, I checked past errors, ranked formulas by miss rate, and verified which to re-derive first."},
+{"id":"con-del-000440","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"During late-night study, I assumed formulas were fine and did not rank by miss rate or verify which to re-derive."},
+
+{"id":"con-del-000441","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"Drafting a speech, I aligned tone with purpose and audience familiarity and confirmed the order of modes to use."},
+{"id":"con-del-000442","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"Drafting a speech, I set a tone without aligning it to purpose or audience and did not confirm the order of modes."},
+
+{"id":"con-del-000443","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"For exam revision, I compared topic orders, reviewed dependencies, and confirmed a sequence that unlocks later work."},
+{"id":"con-del-000444","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"For exam revision, I kept a habitual order and did not compare alternatives, review dependencies, or confirm a sequence."},
+
+{"id":"con-del-000445","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"Before a team project starts, I compared role requirements with my skills and verified a role that matches coverage."},
+{"id":"con-del-000446","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"Before a team project starts, I accepted a role without comparing requirements to my skills or verifying coverage."},
+
+{"id":"con-del-000447","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"Reviewing the deck, I tested two opening slides with peers, gathered notes, and confirmed which version to keep."},
+{"id":"con-del-000448","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"Reviewing the deck, I chose an opening slide after a quick skim and did not test with peers or confirm the choice."},
+
+{"id":"con-del-000449","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":1,"label":1,"lang":"en","text":"From the course list, I mapped electives to program pathways and verified the one that fits the required track."},
+{"id":"con-del-000450","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":0,"label":0,"lang":"en","text":"From the course list, I added an elective by title and did not map it to pathways or verify track fit."},
+
+{"id":"con-del-000451","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Though my peers rush, I listed opening points, compared them to new metrics, and confirmed which one to lead with."},
+{"id":"con-del-000452","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Though my peers rush, I used the first opening point and did not compare it to metrics or confirm a lead."},
+
+{"id":"con-del-000453","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Once I read the guide, I matched citation elements to the rules and verified the format line by line."},
+{"id":"con-del-000454","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Once I read the guide, I chose a familiar format and did not match elements to rules or verify line by line."},
+
+{"id":"con-del-000455","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"While designing the lab plan, I listed risks, set thresholds, and checked steps against those thresholds."},
+{"id":"con-del-000456","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"While designing the lab plan, I fixed the step order and did not list risks, set thresholds, or check against them."},
+
+{"id":"con-del-000457","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"After my training list was set, I simulated load across orders, reviewed recovery, and confirmed a starting sequence."},
+{"id":"con-del-000458","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"After my training list was set, I ran drills in written order and did not simulate load, review recovery, or confirm a start."},
+
+{"id":"con-del-000459","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"At the whiteboard, I tested candidate examples, compared steps, and verified the one that isolates the core idea."},
+{"id":"con-del-000460","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"At the whiteboard, I kept the first example and did not test candidates, compare steps, or verify isolation of the idea."},
+
+{"id":"con-del-000461","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"After the seminar, I ranked readings by relevance and method notes and confirmed the paper to add."},
+{"id":"con-del-000462","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"After the seminar, I added a reading by title and did not rank by relevance or confirm method notes."},
+
+{"id":"con-del-000463","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"While updating my planner, I ranked duties by deadline and dependency and confirmed the first slot accordingly."},
+{"id":"con-del-000464","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"While updating my planner, I placed duties as recalled and did not rank by deadline or dependency or confirm the slot."},
+
+{"id":"con-del-000465","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"As I edit the paper, I compared graph types to the claim and verified the option that represents the relation clearly."},
+{"id":"con-del-000466","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"As I edit the paper, I inserted a graph without comparing it to the claim or verifying how it represents the relation."},
+
+{"id":"con-del-000467","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"In my weekly budget, I reviewed deferral options, compared effects, and confirmed which expense to delay."},
+{"id":"con-del-000468","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"In my weekly budget, I cut or kept items without reviewing deferrals, comparing effects, or confirming which to delay."},
+
+{"id":"con-del-000469","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"When drafting conclusions, I aligned arguments with the thesis checks and verified the one that meets the checks."},
+{"id":"con-del-000470","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"When drafting conclusions, I inserted an argument without aligning it to thesis checks or verifying that it meets them."},
+
+{"id":"con-del-000471","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"At the practice field, I compared drill orders with recovery windows and confirmed a rotation against those windows."},
+{"id":"con-del-000472","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"At the practice field, I ran drills back-to-back and did not compare orders with recovery windows or confirm a rotation."},
+
+{"id":"con-del-000473","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"On entering the study hall, I weighed tasks for tomorrow’s quiz and confirmed the topic to begin with."},
+{"id":"con-del-000474","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"On entering the study hall, I started the first task I saw and did not weigh tasks or confirm the starting topic."},
+
+{"id":"con-del-000475","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Though the deadline is close, I tested slide variants, compared coverage of the claim, and verified one to use."},
+{"id":"con-del-000476","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Though the deadline is close, I kept my first slide and did not test variants, compare coverage, or verify choice."},
+
+{"id":"con-del-000477","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"While sorting readings, I filtered by design and sample size and confirmed the paper that fits the question."},
+{"id":"con-del-000478","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"While sorting readings, I grabbed a nearby paper and did not filter by design or size or confirm fit to the question."},
+
+{"id":"con-del-000479","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"When picking club events, I checked schedule clashes, reviewed lab times, and confirmed the set to keep."},
+{"id":"con-del-000480","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"When picking club events, I signed up in sequence and did not check clashes, review lab times, or confirm the set."},
+
+{"id":"con-del-000481","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"At the kitchen table, I compared recipes by ingredients and prep time and verified one within the set window."},
+{"id":"con-del-000482","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"At the kitchen table, I chose a recipe by picture and did not compare ingredients or time or verify the window."},
+
+{"id":"con-del-000483","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"After scanning the files, I ranked datasets by error rate and confirmed which one to clean first."},
+{"id":"con-del-000484","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"After scanning the files, I opened a dataset at random and did not rank error rates or confirm which to clean first."},
+
+{"id":"con-del-000485","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"With draft points listed, I tested themes against scope and audience and verified the theme to adopt."},
+{"id":"con-del-000486","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"With draft points listed, I attached a theme without testing it against scope or audience or verifying adoption."},
+
+{"id":"con-del-000487","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"While preparing the poster, I compared color palettes to contrast requirements and confirmed one that meets the requirement."},
+{"id":"con-del-000488","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"While preparing the poster, I chose colors by taste and did not compare palettes to contrast requirements or confirm them."},
+
+{"id":"con-del-000489","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"As I edit the report, I benchmarked candidate cases to the theory’s conditions and verified the case that matches them."},
+{"id":"con-del-000490","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"As I edit the report, I inserted a case and did not benchmark it to the conditions or verify that it matches them."},
+
+{"id":"con-del-000491","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Though I’m tired, I checked outstanding flags in my notes and confirmed the one that blocks tomorrow’s work."},
+{"id":"con-del-000492","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Though I’m tired, I closed my notes and did not check flags or confirm which item blocks tomorrow’s work."},
+
+{"id":"con-del-000493","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"At the seminar, I drafted two questions, compared them to the central assumption, and verified which one to ask."},
+{"id":"con-del-000494","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"At the seminar, I asked the first question that occurred and did not compare it to the assumption or verify selection."},
+
+{"id":"con-del-000495","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"Once I saw the time limit, I ranked slides by necessity and confirmed which section to remove to fit the limit."},
+{"id":"con-del-000496","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"Once I saw the time limit, I deleted slides by length and did not rank necessity or confirm which section to remove."},
+
+{"id":"con-del-000497","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"During the final edit, I compared candidate charts for signal and steps, then verified the replacement to keep."},
+{"id":"con-del-000498","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"During the final edit, I kept the first chart and did not compare options for signal or verify the replacement."},
+
+{"id":"con-del-000499","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"positive","label":1,"lang":"en","text":"On my last draft check, I scanned for required details, reviewed non-essentials, and confirmed which items to remove."},
+{"id":"con-del-000500","dimension":"Conscientiousness","subdimension":"Deliberation","polarity":"negative","label":0,"lang":"en","text":"On my last draft check, I kept every detail and did not scan for required items, review extras, or confirm removals."}]
+
+

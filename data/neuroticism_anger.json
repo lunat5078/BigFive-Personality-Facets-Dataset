@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "exa-ang-000001",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He cut me off mid-sentence; I paused, breathed, then finished calmly."
+  },
+  {
+    "id": "exa-ang-000002",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He cut me off; I cut him off, voice up: Stop talking over me now."
+  },
+  {
+    "id": "exa-ang-000003",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "She took credit for my work; I kept my voice even and said it's mine."
+  },
+  {
+    "id": "exa-ang-000004",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "She took credit for my work; I snapped and retorted it was mine."
+  },
+  {
+    "id": "exa-ang-000005",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The line-cutter slid ahead; I breathed, let it go, and stayed quiet."
+  },
+  {
+    "id": "exa-ang-000006",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone stepped ahead; I barked at them to get to the end."
+  },
+  {
+    "id": "exa-ang-000007",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "When my idea was mocked, I held the pause and asked for specifics."
+  },
+  {
+    "id": "exa-ang-000008",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My idea was dismissed; I fired back immediately, voice spiked, calling their critique wrong."
+  },
+  {
+    "id": "exa-ang-00009",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He talked over me again; I paused and asked to finish calmly."
+  },
+  {
+    "id": "exa-ang-000010",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He talked over me again; I shouted, Stop interrupting me, right now."
+  },
+  {
+    "id": "exa-ang-000011",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "After being blamed for their mistake, I kept my voice even and said that wasn't on me."
+  },
+  {
+    "id": "exa-ang-000012",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They misassigned blame; I cut in, voice spiked, saying stop pinning it on me."
+  },
+  {
+    "id": "exa-ang-000013",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He rolled his eyes at me; I breathed and let it pass."
+  },
+  {
+    "id": "exa-ang-000014",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He rolled his eyes; I cut him off, voice up: Drop the tone."
+  },
+  {
+    "id": "exa-ang-000015",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "After a third ignored email, I cooled off and saved a draft."
+  },
+  {
+    "id": "exa-ang-000016",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "After a third unanswered email, I shot a message off immediately."
+  },
+  {
+    "id": "exa-ang-000017",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He laughed while I was speaking; I paused and continued without reacting."
+  },
+  {
+    "id": "exa-ang-000018",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He laughed during my update; I talked over him, voice raised: Stop it."
+  },
+  {
+    "id": "exa-ang-000019",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A coworker dumped their task on me; I let the first wave pass and said I can't."
+  },
+  {
+    "id": "exa-ang-000020",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker tried to pass me their task; I snapped, not my job."
+  },
+  {
+    "id": "exa-ang-000021",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He spoke sarcastically; I paused, unclenched, and asked calmly for clarity."
+  },
+  {
+    "id": "exa-ang-000022",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He used a sarcastic tone; I fired back, voice up: Drop the tone now."
+  },
+  {
+    "id": "exa-ang-000023",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They ignored my input and blamed me; I counted to three and said that wasn't accurate."
+  },
+  {
+    "id": "exa-ang-000024",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They overlooked my input; I snapped, raising my voice and firing off blame."
+  },
+  {
+    "id": "exa-ang-000025",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A driver cut me off; I exhaled, eased back, and let it go."
+  },
+  {
+    "id": "exa-ang-000026",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A driver cut in; I laid on the horn and shouted immediately."
+  },
+  {
+    "id": "exa-ang-000027",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He kept checking his phone; I paused, then asked for attention calmly."
+  },
+  {
+    "id": "exa-ang-000028",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He checked his phone; I snapped back loudly, demanding his attention now."
+  },
+  {
+    "id": "exa-ang-000029",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "After being talked down to, I paused, cooled off, then rephrased calmly."
+  },
+  {
+    "id": "exa-ang-000030",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "After a condescending remark, I shot back sharply and escalated the exchange."
+  },
+  {
+    "id": "exa-ang-000031",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He kept interrupting; I breathed, lowered my tone, and asked to continue."
+  },
+  {
+    "id": "exa-ang-000032",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He kept interrupting; I snapped, talked over him, and told him to stop."
+  },
+  {
+    "id": "exa-ang-000033",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They misquoted me in the minutes; I saved a calm draft to send later."
+  },
+  {
+    "id": "exa-ang-000034",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The minutes misquoted me; I fired off an angry email correcting them immediately."
+  },
+  {
+    "id": "exa-ang-000035",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He joked at my expense; I breathed, said it bothered me, and moved on."
+  },
+  {
+    "id": "exa-ang-000036",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He joked at my expense; I snapped and told him to shut up."
+  },
+  {
+    "id": "exa-ang-000037",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A colleague kept shifting blame; I let the first wave pass and said that isn't accurate."
+  },
+  {
+    "id": "exa-ang-000038",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They shifted blame; I lashed out, listing faults angrily and escalating immediately."
+  },
+  {
+    "id": "exa-ang-000039",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He dismissed me with a wave; I breathed and asked him not to."
+  },
+  {
+    "id": "exa-ang-000040",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He dismissed me with a gesture; I snapped and raised my voice immediately."
+  },
+  {
+    "id": "exa-ang-000041",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They ignored the queue; I paused, breathed, and calmly asked them to wait."
+  },
+  {
+    "id": "exa-ang-000042",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone skipped the queue; I snapped and told them to get back now."
+  },
+  {
+    "id": "exa-ang-000043",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He falsely accused me; I paused, cooled down, and calmly corrected him."
+  },
+  {
+    "id": "exa-ang-000044",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He made a false claim; I shot back, voice up: That's not true."
+  },
+  {
+    "id": "exa-ang-000045",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A teammate talked over the junior; I paused and calmly asked them to stop."
+  },
+  {
+    "id": "exa-ang-000046",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate interrupted the junior; I barked at them to let the junior finish."
+  },
+  {
+    "id": "exa-ang-000047",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept repeating the mistake; I held the pause and repeated the reminder."
+  },
+  {
+    "id": "exa-ang-000048",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They repeated the mistake again; I lost patience and scolded them immediately."
+  },
+  {
+    "id": "exa-ang-000049",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He spoke down to me; I paused and calmly corrected the misunderstanding."
+  },
+  {
+    "id": "exa-ang-000050",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I was spoken to condescendingly; I cut in, voice spiked: Don't talk down to me."
+  },
+  {
+    "id": "exa-ang-000051",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My request was brushed aside; I breathed and calmly restated it once."
+  },
+  {
+    "id": "exa-ang-000052",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My request was brushed aside; I snapped and demanded an answer right now."
+  },
+  {
+    "id": "exa-ang-000053",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They mocked my accent; I held the pause and said, I'm not okay with that."
+  },
+  {
+    "id": "exa-ang-000054",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They mocked my accent; my voice spiked and I fired back immediately."
+  },
+  {
+    "id": "exa-ang-000055",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A manager talked over my teammate; I paused and calmly asked to let them finish."
+  },
+  {
+    "id": "exa-ang-000056",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A manager interrupted my teammate; I snapped, telling them to stop and listen."
+  },
+  {
+    "id": "exa-ang-000057",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He shrugged at a broken promise; I let the first wave pass and asked, What happened?"
+  },
+  {
+    "id": "exa-ang-000058",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He missed a commitment; I cut him off, voice spiked: Fix it now."
+  },
+  {
+    "id": "exa-ang-000059",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They spoke over the trainee; I paused, then calmly asked them to stop."
+  },
+  {
+    "id": "exa-ang-000060",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They spoke over the trainee; I barked at them to let the trainee talk."
+  },
+  {
+    "id": "exa-ang-000061",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A stranger shoved past me; I counted to three and asked for space."
+  },
+  {
+    "id": "exa-ang-000062",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone brushed past roughly; I spun and snapped, 'Back off, watch it now.'"
+  },
+  {
+    "id": "exa-ang-000063",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept forgetting my name; I paused and corrected it calmly again."
+  },
+  {
+    "id": "exa-ang-000064",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They misnamed me; I snapped, 'Get it right,' sharper than intended."
+  },
+  {
+    "id": "exa-ang-000065",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He dismissed my team's effort; I kept my voice even and said, Let me finish."
+  },
+  {
+    "id": "exa-ang-000066",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He dismissed our effort; I shot back, voice up, and talked over him."
+  },
+  {
+    "id": "exa-ang-000067",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A peer talked down to me; I breathed and corrected him in a steady tone."
+  },
+  {
+    "id": "exa-ang-000068",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A peer talked down to me; I snapped and corrected him loudly."
+  },
+  {
+    "id": "exa-ang-000069",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He kept blaming the intern; I paused and redirected without raising my voice."
+  },
+  {
+    "id": "exa-ang-000070",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He tried blaming the intern; I shot back, voice raised: Stop blaming him now."
+  },
+  {
+    "id": "exa-ang-000071",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A teammate loudly overruled me; I kept my voice even and said, Let me finish."
+  },
+  {
+    "id": "exa-ang-000072",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate overruled me; I snapped, 'Let me finish,' cutting them off."
+  },
+  {
+    "id": "exa-ang-000073",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He smirked as I spoke; I ignored it and finished calmly."
+  },
+  {
+    "id": "exa-ang-000074",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He smirked while I spoke; my voice spiked and I called him out."
+  },
+  {
+    "id": "exa-ang-000075",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They brushed past our safety rule; I took a breath and requested a pause."
+  },
+  {
+    "id": "exa-ang-000076",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They skipped a safety step; I snapped, ordering them to stop immediately."
+  },
+  {
+    "id": "exa-ang-000077",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My suggestion was mocked; I let the first wave pass and said, That doesn't work for me."
+  },
+  {
+    "id": "exa-ang-000078",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My suggestion was mocked; I cut in, voice spiked: Stop it."
+  },
+  {
+    "id": "exa-ang-000079",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "An email assumed bad faith; I cooled off, then replied neutrally."
+  },
+  {
+    "id": "exa-ang-000080",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "An email implied bad faith; I fired off a heated rebuttal immediately."
+  },
+  {
+    "id": "exa-ang-000081",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept sidelining me; I held the pause and said, I'm still speaking."
+  },
+  {
+    "id": "exa-ang-000082",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I was sidelined; I snapped and demanded a turn immediately."
+  },
+  {
+    "id": "exa-ang-000083",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He dismissed our risk call; I held the pause and asked him to reconsider."
+  },
+  {
+    "id": "exa-ang-000084",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He dismissed our risk call; I cut him off, voice up: you're wrong."
+  },
+  {
+    "id": "exa-ang-000085",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A coworker mimicked my voice; I let the first wave pass and said, Don't do that."
+  },
+  {
+    "id": "exa-ang-000086",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker mocked my voice; I snapped and told them to shut up."
+  },
+  {
+    "id": "exa-ang-000087",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They ignored clear instructions; I kept my voice even and said it again."
+  },
+  {
+    "id": "exa-ang-000088",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Instructions were missed; I snapped, voice spiked, and told them to do it now."
+  },
+  {
+    "id": "exa-ang-000089",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He publicly belittled me; I took a breath and said we'd address it later."
+  },
+  {
+    "id": "exa-ang-000090",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He belittled me; I shot back, voice up: Don't talk to me like that."
+  },
+  {
+    "id": "exa-ang-000091",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They ignored the process; I held the pause and said the rules apply to everyone."
+  },
+  {
+    "id": "exa-ang-000092",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They skipped the process; I barked that the rules apply to everyone."
+  },
+  {
+    "id": "exa-ang-000093",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He spoke over me again; I held the pause and finished my point, voice even."
+  },
+  {
+    "id": "exa-ang-000094",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He jumped in again; I snapped and raised my voice to finish now."
+  },
+  {
+    "id": "exa-ang-000095",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They blamed me; I kept my voice even and gave the dates."
+  },
+  {
+    "id": "exa-ang-000096",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They blamed me for a delay; I shot a message off immediately: Here's when it happened."
+  },
+  {
+    "id": "exa-ang-000097",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The cashier talked over an elder; I held the pause and asked to give them time."
+  },
+  {
+    "id": "exa-ang-000098",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The cashier rushed an elder; I snapped and told them to slow down."
+  },
+  {
+    "id": "exa-ang-000099",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My feedback was mocked in chat; I saved a draft and later said, That doesn't work for me."
+  },
+  {
+    "id": "exa-ang-000100",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My feedback was mocked in chat; I fired off a sharp reply immediately."
+  },
+  {
+    "id": "exa-ang-000101",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He cut me off again; I paused, then asked calmly to finish my thought."
+  },
+  {
+    "id": "exa-ang-000102",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He cut me off again; I snapped, 'Let me finish my point now.'"
+  },
+  {
+    "id": "exa-ang-000103",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "She took credit for my slide; I breathed and calmly clarified it was mine."
+  },
+  {
+    "id": "exa-ang-000104",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "She took credit for my slide; I snapped and called her out immediately."
+  },
+  {
+    "id": "exa-ang-000105",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "The line-cutter pushed ahead; I held the pause and said, I'm next."
+  },
+  {
+    "id": "exa-ang-000106",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone stepped ahead in line; I snapped, 'Back of the line, now.'"
+  },
+  {
+    "id": "exa-ang-000107",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He mocked my suggestion; I let the first wave pass and asked, What did you mean by that?"
+  },
+  {
+    "id": "exa-ang-000108",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My suggestion was mocked; I shot back, 'Either help or be quiet.'"
+  },
+  {
+    "id": "exa-ang-000109",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "She talked over the intern; I kept my voice even and said, Let them finish."
+  },
+  {
+    "id": "exa-ang-000110",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "She talked over the intern; I barked, 'Stop talking and let them finish.'"
+  },
+  {
+    "id": "exa-ang-000111",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "After a sarcastic remark, I let the sting pass and said, That doesn't work for me."
+  },
+  {
+    "id": "exa-ang-000112",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "After a sarcastic remark, I fired back, Drop the tone."
+  },
+  {
+    "id": "exa-ang-000113",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They blamed me for their delay; I kept my voice even and said, That's not on me."
+  },
+  {
+    "id": "exa-ang-000114",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They misassigned blame; I shot back immediately, correcting them in blunt terms."
+  },
+  {
+    "id": "exa-ang-000115",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He waved me off; I held the pause and said, Don't dismiss me."
+  },
+  {
+    "id": "exa-ang-000116",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He waved me off; I raised my voice and demanded to finish now."
+  },
+  {
+    "id": "exa-ang-000117",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept repeating the mistake; I kept my voice even and said, That needs a fix."
+  },
+  {
+    "id": "exa-ang-000118",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The same mistake recurred; I snapped and scolded them in front of everyone."
+  },
+  {
+    "id": "exa-ang-000119",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He rolled his eyes at me; I breathed and let the jab pass."
+  },
+  {
+    "id": "exa-ang-000120",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He rolled his eyes; I snapped, 'Cut it out and focus already.'"
+  },
+  {
+    "id": "exa-ang-000121",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A driver cut me off; I paused, breathed, and let it go."
+  },
+  {
+    "id": "exa-ang-000122",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A driver cut in; I honked, shouted, and tailgated immediately."
+  },
+  {
+    "id": "exa-ang-000123",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "My email was ignored again; I saved a draft and sent it later."
+  },
+  {
+    "id": "exa-ang-000124",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A third email went unanswered; I fired off a sharp, accusatory message immediately."
+  },
+  {
+    "id": "exa-ang-000125",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He made a joke at my expense; I paused and asked him to stop."
+  },
+  {
+    "id": "exa-ang-000126",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He joked at my expense; I snapped at him to shut up now."
+  },
+  {
+    "id": "exa-ang-000127",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept dismissing the junior; I held the pause and intervened, voice even."
+  },
+  {
+    "id": "exa-ang-000128",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They sidelined the junior; I cut them off, voice spiked, and fired back immediately."
+  },
+  {
+    "id": "exa-ang-000129",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He accused me unfairly; I held the pause and said, That's not right."
+  },
+  {
+    "id": "exa-ang-000130",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He accused me unfairly; I shot back, voice spiked: That's wrong."
+  },
+  {
+    "id": "exa-ang-000131",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They ignored my input then blamed me; I kept my voice even and restated my point."
+  },
+  {
+    "id": "exa-ang-000132",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They overlooked my input; I shot back a sharp correction, escalating the tension."
+  },
+  {
+    "id": "exa-ang-000133",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He smirked as I spoke; I let the first wave pass and finished my thought."
+  },
+  {
+    "id": "exa-ang-000134",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He smirked while I spoke; I snapped at him to knock it off immediately."
+  },
+  {
+    "id": "exa-ang-000135",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A teammate kept shifting blame; I kept my voice even and explained what happened."
+  },
+  {
+    "id": "exa-ang-000136",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They shifted blame; I lashed out, accusing them loudly and dismissing excuses."
+  },
+  {
+    "id": "exa-ang-000137",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He dismissed my warning; I paused, then rephrased the risk without heat."
+  },
+  {
+    "id": "exa-ang-000138",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He dismissed my warning; I cut him off, voice spiked: You're ignoring this."
+  },
+  {
+    "id": "exa-ang-000139",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept misnaming me; I kept my voice even and corrected them."
+  },
+  {
+    "id": "exa-ang-000140",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They misnamed me; I barked a harsh correction immediately."
+  },
+  {
+    "id": "exa-ang-000141",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He brushed aside our work; I kept my voice even and said that doesn't work for me."
+  },
+  {
+    "id": "exa-ang-000142",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He brushed aside our work; I talked over him, voice spiked: Give me feedback now."
+  },
+  {
+    "id": "exa-ang-000143",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A stranger shoved past me; I held the pause and said, Watch it, voice even."
+  },
+  {
+    "id": "exa-ang-000144",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone brushed past roughly; I barked, Give me space now."
+  },
+  {
+    "id": "exa-ang-000145",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They laughed while I presented; I held the pause, voice even: Take this seriously."
+  },
+  {
+    "id": "exa-ang-000146",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They laughed during my update; I cut in, voice up: Hold comments until the end."
+  },
+  {
+    "id": "exa-ang-000147",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He kept checking his phone; I counted to three and said, Are you listening, voice even."
+  },
+  {
+    "id": "exa-ang-000148",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He checked his phone; I talked over him, voice spiked: I need your attention now."
+  },
+  {
+    "id": "exa-ang-000149",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They dismissed my input; I held the pause and asked to revisit it later."
+  },
+  {
+    "id": "exa-ang-000150",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They brushed off my request; I snapped and told them to stop now."
+  },
+  {
+    "id": "exa-ang-000151",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He dismissed the risk call; I held the pause and said, I still stand by that risk."
+  },
+  {
+    "id": "exa-ang-000152",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He dismissed the risk call; I cut him off, voice spiked: What's your view then?"
+  },
+  {
+    "id": "exa-ang-000153",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept bulldozing the meeting; I kept my voice even and said, Let me finish."
+  },
+  {
+    "id": "exa-ang-000154",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They kept talking over me; I shouted for them to stop now."
+  },
+  {
+    "id": "exa-ang-000155",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He dismissed my question with a smirk; I held the pause and said, I need an answer."
+  },
+  {
+    "id": "exa-ang-000156",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He brushed off my question; I cut him off, voice up: Answer it now."
+  },
+  {
+    "id": "exa-ang-000157",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept ignoring the trainee; I counted to three and said evenly, Let them finish."
+  },
+  {
+    "id": "exa-ang-000158",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They ignored the trainee; I snapped at them to let the trainee speak."
+  },
+  {
+    "id": "exa-ang-000159",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He talked down to me; I kept my voice even and said, That's not correct."
+  },
+  {
+    "id": "exa-ang-000160",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He talked down to me; I cut him off, voice spiked: That's wrong."
+  },
+  {
+    "id": "exa-ang-000161",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept ignoring my raised hand; I held the pause and said, I'm next."
+  },
+  {
+    "id": "exa-ang-000162",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I was skipped repeatedly; I snapped and demanded a turn immediately."
+  },
+  {
+    "id": "exa-ang-000163",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He shrugged at a missed promise; I kept my voice even and said, How do we fix this?"
+  },
+  {
+    "id": "exa-ang-000164",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He missed a promise; I fired back: When is it done?"
+  },
+  {
+    "id": "exa-ang-000165",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They mocked my accent; I let the first wave pass and said, That doesn't work for me."
+  },
+  {
+    "id": "exa-ang-000166",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They mocked my accent; I snapped back and ended the exchange brusquely."
+  },
+  {
+    "id": "exa-ang-000167",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He dismissed the junior's numbers; I kept my voice even and said, Let's look again."
+  },
+  {
+    "id": "exa-ang-000168",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He dismissed the junior's numbers; I fired back, voice spiked: Look again."
+  },
+  {
+    "id": "exa-ang-000169",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept talking over me; I held the pause and said, Let me finish my point."
+  },
+  {
+    "id": "exa-ang-000170",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They spoke over me; I snapped and shouted to finish my sentence."
+  },
+  {
+    "id": "exa-ang-000171",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He scoffed at my concern; I kept my voice even and said, Hear me out."
+  },
+  {
+    "id": "exa-ang-000172",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He scoffed at my concern; I snapped, accusing him of ignoring the risk."
+  },
+  {
+    "id": "exa-ang-000173",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A teammate kept derailing me; I kept my voice even and said, Let's take that later."
+  },
+  {
+    "id": "exa-ang-000174",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate derailed me; I snapped, telling them to stop interrupting me now."
+  },
+  {
+    "id": "exa-ang-000175",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He dismissed my team's effort; I let the wave pass and said, That doesn't match what I saw."
+  },
+  {
+    "id": "exa-ang-000176",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He dismissed our effort; I snapped and fired back with a sharp rebuke."
+  },
+  {
+    "id": "exa-ang-000177",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They skipped a safety step; I held the pause, then said, Stop; let's start over."
+  },
+  {
+    "id": "exa-ang-000178",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They missed a safety step; I snapped, shouting at them to stop immediately."
+  },
+  {
+    "id": "exa-ang-000179",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He kept misreading me on purpose; I let the first wave pass and said, Here's what I meant."
+  },
+  {
+    "id": "exa-ang-000180",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He kept misreading me; I snapped and accused him of twisting my words."
+  },
+  {
+    "id": "exa-ang-000181",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They ignored my raised hand again; I held the pause and said, I'm next."
+  },
+  {
+    "id": "exa-ang-000182",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I was skipped again; I snapped, demanding to speak right now."
+  },
+  {
+    "id": "exa-ang-000183",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He made a cutting remark; I let the sting pass and said, That doesn't work for me."
+  },
+  {
+    "id": "exa-ang-000184",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He made a cutting remark; I fired back, voice spiked, taking a dig in return."
+  },
+  {
+    "id": "exa-ang-000185",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A coworker mimicked me; I kept my voice even and said, Stop."
+  },
+  {
+    "id": "exa-ang-000186",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker mimicked me; I barked at them and slammed the chat closed."
+  },
+  {
+    "id": "exa-ang-000187",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept ignoring the spec; I held the pause and said, This needs to be included."
+  },
+  {
+    "id": "exa-ang-000188",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They missed the spec; I shot a message off immediately, chewing them out."
+  },
+  {
+    "id": "exa-ang-000189",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He belittled me in front of the group; I kept my voice even: That won't work for me."
+  },
+  {
+    "id": "exa-ang-000190",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He belittled me; I snapped back, calling it out and escalating the tension."
+  },
+  {
+    "id": "exa-ang-000191",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept ignoring agreed deadlines; I held the pause and said, This can't continue."
+  },
+  {
+    "id": "exa-ang-000192",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Deadlines slipped again; I fired back, voice spiking, chewing them out on the spot."
+  },
+  {
+    "id": "exa-ang-000193",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He interrupted with a loud sigh; I paused and asked to finish first."
+  },
+  {
+    "id": "exa-ang-000194",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He interrupted with a sigh; I snapped, demanding silence until I finished."
+  },
+  {
+    "id": "exa-ang-000195",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept overlooking the junior's point; I kept my voice even: I want to hear them out."
+  },
+  {
+    "id": "exa-ang-000196",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They overlooked the junior's point; I cut in, voice up, chewing them out."
+  },
+  {
+    "id": "exa-ang-000197",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He dismissed my team's risk call; I kept my voice even and said, Look at it."
+  },
+  {
+    "id": "exa-ang-000198",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He dismissed my team's risk call; I fired back, voice spiked, accusing him of brushing it off."
+  },
+  {
+    "id": "exa-ang-000199",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A cashier talked over an elder; I held the pause and said, Give us a moment."
+  },
+  {
+    "id": "exa-ang-000200",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A cashier rushed an elder; I snapped, demanding they slow down immediately."
+  },
+  {
+    "id": "exa-ang-000201",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He talked over me again; I kept my voice even and said, Let me finish."
+  },
+  {
+    "id": "exa-ang-000202",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He talked over me again; I snapped, raising my voice, 'Let me finish now.'"
+  },
+  {
+    "id": "exa-ang-000203",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "She took credit for the draft; I kept my voice even and said it was mine."
+  },
+  {
+    "id": "exa-ang-000204",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "She took credit for the draft; I fired back, voice spiked: That was mine."
+  },
+  {
+    "id": "exa-ang-000205",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A line-cutter slipped in; I kept my voice even and said, I'm next."
+  },
+  {
+    "id": "exa-ang-000206",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone stepped ahead; I cut in, voice spiked: Back of the line, now."
+  },
+  {
+    "id": "exa-ang-000207",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He mocked my idea; I kept my voice even and asked, What did you mean?"
+  },
+  {
+    "id": "exa-ang-000208",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My idea was mocked; I fired back sarcastically and dismissed their input."
+  },
+  {
+    "id": "exa-ang-000209",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They ignored my input then blamed me; I let the first wave pass and restated."
+  },
+  {
+    "id": "exa-ang-000210",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They overlooked my input; I fired back, raising my voice, correcting them immediately."
+  },
+  {
+    "id": "exa-ang-000211",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He waved me off; I held the pause and said, Let me finish."
+  },
+  {
+    "id": "exa-ang-000212",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He waved me off; I cut in, voice up: My two minutes, now."
+  },
+  {
+    "id": "exa-ang-000213",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "Blamed for their mistake, I kept my voice even and restated my point."
+  },
+  {
+    "id": "exa-ang-000214",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They misassigned blame; I cut in, voice spiked, and talked over them."
+  },
+  {
+    "id": "exa-ang-000215",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He laughed while I spoke; I held the pause and said, I'm still speaking."
+  },
+  {
+    "id": "exa-ang-000216",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He laughed during my update; I snapped, telling him to be quiet."
+  },
+  {
+    "id": "exa-ang-000217",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept repeating the same error; I kept my voice even and restated it."
+  },
+  {
+    "id": "exa-ang-000218",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The error recurred; I fired back immediately, voice spiked, and blasted them."
+  },
+  {
+    "id": "exa-ang-000219",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A driver cut me off; I breathed, slowed down, and let it go."
+  },
+  {
+    "id": "exa-ang-000220",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A driver cut in; I leaned on the horn and shouted."
+  },
+  {
+    "id": "exa-ang-000221",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He rolled his eyes; I paused, breathed, and let it pass."
+  },
+  {
+    "id": "exa-ang-000222",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He rolled his eyes; I snapped back, raising my voice immediately."
+  },
+  {
+    "id": "exa-ang-000223",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They mocked my accent; I kept my voice even and replied."
+  },
+  {
+    "id": "exa-ang-000224",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They mocked my accent; I fired back immediately, voice spiked, and snapped at them."
+  },
+  {
+    "id": "exa-ang-000225",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He dismissed our risk call; I kept my voice even and restated my point."
+  },
+  {
+    "id": "exa-ang-000226",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He dismissed our risk call; I cut him off and raised my voice."
+  },
+  {
+    "id": "exa-ang-000227",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A teammate bulldozed the junior; I held the pause and said, Let him finish."
+  },
+  {
+    "id": "exa-ang-000228",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate interrupted the junior; I barked at them to back off."
+  },
+  {
+    "id": "exa-ang-000229",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He smirked at my concern; I paused and restated my point calmly."
+  },
+  {
+    "id": "exa-ang-000230",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He smirked at my concern; I cut him off, voice spiked: Drop the tone."
+  },
+  {
+    "id": "exa-ang-000231",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They sidelined me repeatedly; I held the pause and said, I'm next."
+  },
+  {
+    "id": "exa-ang-000232",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I was skipped again; I snapped at them to let me speak."
+  },
+  {
+    "id": "exa-ang-000233",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He shrugged off a broken promise; I cooled down before responding."
+  },
+  {
+    "id": "exa-ang-000234",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He missed a commitment; I cut him off and raised my voice immediately."
+  },
+  {
+    "id": "exa-ang-000235",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept dismissing the spec; I held the pause and restated my point evenly."
+  },
+  {
+    "id": "exa-ang-000236",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They missed the spec; I shot a message off immediately."
+  },
+  {
+    "id": "exa-ang-000237",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He belittled me in front of the group; I kept my voice even: That doesn't work for me."
+  },
+  {
+    "id": "exa-ang-000238",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He belittled me; I snapped back and escalated the argument."
+  },
+  {
+    "id": "exa-ang-000239",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They ignored agreed deadlines; I let the first wave pass and restated what I needed."
+  },
+  {
+    "id": "exa-ang-000240",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Deadlines slipped again; I fired back, voice up, and told them to fix it now."
+  },
+  {
+    "id": "exa-ang-000241",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He sighed loudly over my point; I paused, breathed, and asked to finish."
+  },
+  {
+    "id": "exa-ang-000242",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He sighed over my point; I snapped, 'Let me finish now.'"
+  },
+  {
+    "id": "exa-ang-000243",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They cut the elder short; I breathed, then calmly asked them to continue."
+  },
+  {
+    "id": "exa-ang-000244",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A cashier rushed an elder; I snapped, 'Slow down and let them finish.'"
+  },
+  {
+    "id": "exa-ang-000245",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He dismissed the chart; I kept my voice even and repeated my point."
+  },
+  {
+    "id": "exa-ang-000246",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He questioned the chart; I shot back, 'The numbers are obvious, look!'"
+  },
+  {
+    "id": "exa-ang-000247",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A teammate kept derailing; I held the pause and said, Let me finish."
+  },
+  {
+    "id": "exa-ang-000248",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate derailed; I snapped, 'Hold all questions until I’m done!' "
+  },
+  {
+    "id": "exa-ang-000249",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He spoke to me condescendingly; I kept my voice even and restated my point."
+  },
+  {
+    "id": "exa-ang-000250",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He spoke condescendingly; I snapped back, 'You're wrong,' and raised my voice."
+  },
+  {
+    "id": "exa-ang-000251",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept skipping my turn; I paused and asked for a chance to speak."
+  },
+  {
+    "id": "exa-ang-000252",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I was skipped repeatedly; I snapped and demanded a turn immediately."
+  },
+  {
+    "id": "exa-ang-000253",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He brushed aside a safety step; I held the pause and said, I can't proceed."
+  },
+  {
+    "id": "exa-ang-000254",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He missed a safety step; I cut him off, voice up: Stop now."
+  },
+  {
+    "id": "exa-ang-000255",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They accused me falsely; I let the first wave pass and said, That isn’t true."
+  },
+  {
+    "id": "exa-ang-000256",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They accused me falsely; I snapped, 'That’s not true,' and glared."
+  },
+  {
+    "id": "exa-ang-000257",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He kept checking his phone; I held the pause and asked for his attention."
+  },
+  {
+    "id": "exa-ang-000258",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He checked his phone; I snapped, 'Eyes up,' louder than necessary."
+  },
+  {
+    "id": "exa-ang-000259",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They dismissed the junior’s comment; I kept my voice even and said, Let them speak."
+  },
+  {
+    "id": "exa-ang-000260",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They overlooked the junior; I talked over them and said, Let the junior speak now."
+  },
+  {
+    "id": "exa-ang-000261",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He scoffed at the risk; I let the first wave pass and repeated my point."
+  },
+  {
+    "id": "exa-ang-000262",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He questioned the risk; I cut him off, voice spiked: Stop dismissing this."
+  },
+  {
+    "id": "exa-ang-000263",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A stranger shoved past; I exhaled and let it go without comment."
+  },
+  {
+    "id": "exa-ang-000264",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone brushed past roughly; I snapped, \"Back off and watch where you're going.\""
+  },
+  {
+    "id": "exa-ang-000265",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They laughed at my question; I paused, then repeated it in a calm tone."
+  },
+  {
+    "id": "exa-ang-000266",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They laughed at my question; I fired back, Answer it now."
+  },
+  {
+    "id": "exa-ang-000267",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He dismissed the intern; I kept my voice even and said, Let them finish."
+  },
+  {
+    "id": "exa-ang-000268",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He dismissed the intern; I talked over him and said, Let them speak now."
+  },
+  {
+    "id": "exa-ang-000269",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept interrupting; I paused, then asked for thirty seconds in a calm voice."
+  },
+  {
+    "id": "exa-ang-000270",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They interrupted; I snapped, \"Stop cutting me off—give me thirty seconds.\""
+  },
+  {
+    "id": "exa-ang-000271",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He called my concern trivial; I held the pause and explained why it matters."
+  },
+  {
+    "id": "exa-ang-000272",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He called my concern trivial; I shot back, It matters."
+  },
+  {
+    "id": "exa-ang-000273",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept ignoring me; I kept my voice even and said, I'm still speaking."
+  },
+  {
+    "id": "exa-ang-000274",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They skipped a step; I raised my voice: Stop now."
+  },
+  {
+    "id": "exa-ang-000275",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He twisted my words; I counted to three and clarified my point."
+  },
+  {
+    "id": "exa-ang-000276",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He misunderstood me; I snapped, \"Are you even listening to what I said?\""
+  },
+  {
+    "id": "exa-ang-000277",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They ignored my raised hand; I waited, then asked for a turn calmly."
+  },
+  {
+    "id": "exa-ang-000278",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I was skipped; I snapped, \"Let me speak—I’ve been waiting my turn.\""
+  },
+  {
+    "id": "exa-ang-000279",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He made a cutting remark; I let the first wave pass and kept my voice even: \"Stop that.\""
+  },
+  {
+    "id": "exa-ang-000280",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He made a cutting remark; I shot back, voice spiked: \"Knock it off.\""
+  },
+  {
+    "id": "exa-ang-000281",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A coworker mimicked me; I paused, breathed, and asked them to stop."
+  },
+  {
+    "id": "exa-ang-000282",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker mocked me; I shot back immediately, voice up, telling them to cut it out."
+  },
+  {
+    "id": "exa-ang-000283",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They brushed aside my point; I paused and calmly rephrased my concern."
+  },
+  {
+    "id": "exa-ang-000284",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They dismissed my point; I barked, 'Listen for once,' raising my voice."
+  },
+  {
+    "id": "exa-ang-000285",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He dismissed our evidence; I paused, then calmly asked him to explain."
+  },
+  {
+    "id": "exa-ang-000286",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He questioned our evidence; I fired back immediately, voice spiked: \"You're wrong.\""
+  },
+  {
+    "id": "exa-ang-000287",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They talked down to the trainee; I held the pause and said, I want to hear them out."
+  },
+  {
+    "id": "exa-ang-000288",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They talked down to the trainee; I snapped, 'Stop it,' and glared."
+  },
+  {
+    "id": "exa-ang-000289",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He kept derailing me; I held the pause and said, \"Let me finish.\""
+  },
+  {
+    "id": "exa-ang-000290",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He derailed me; I raised my voice and snapped, 'Stop interrupting me.'"
+  },
+  {
+    "id": "exa-ang-000291",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A teammate spoke over me; I paused and calmly asked to finish my thought."
+  },
+  {
+    "id": "exa-ang-000292",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate spoke over me; I snapped, 'Let me finish,' louder than necessary."
+  },
+  {
+    "id": "exa-ang-000293",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He brushed off the risk; I kept my voice even and said the risk still stands."
+  },
+  {
+    "id": "exa-ang-000294",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He brushed off the risk; I shot back immediately, voice spiked: \"Stop dismissing it.\""
+  },
+  {
+    "id": "exa-ang-000295",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept sidelining my updates; I took a breath and asked to speak."
+  },
+  {
+    "id": "exa-ang-000296",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They sidelined my updates; I snapped that I deserved the floor right now."
+  },
+  {
+    "id": "exa-ang-000297",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He dismissed the junior's risk call; I paused and asked him to reconsider."
+  },
+  {
+    "id": "exa-ang-000298",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He challenged the junior's risk call; I cut him off, voice spiked: \"Let them finish.\""
+  },
+  {
+    "id": "exa-ang-000299",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They mocked my pronunciation; I inhaled slowly, then said, \"Stop that,\" voice even."
+  },
+  {
+    "id": "exa-ang-000300",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They mocked my pronunciation; I shot back, 'Knock it off,' sharper than intended."
+  },
+  {
+    "id": "exa-ang-000301",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He cut in as I started; I paused, breathed, and asked to finish."
+  },
+  {
+    "id": "exa-ang-000302",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He cut in as I started; I snapped, 'Let me finish my sentence.'"
+  },
+  {
+    "id": "exa-ang-000303",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "She took credit for my section; I let the first wave pass and said it's mine."
+  },
+  {
+    "id": "exa-ang-000304",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "She took credit for my section; I snapped that it was mine."
+  },
+  {
+    "id": "exa-ang-000305",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A line-cutter slid ahead; I breathed, let it go, and waited."
+  },
+  {
+    "id": "exa-ang-000306",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone stepped ahead; I barked at them to get to the end."
+  },
+  {
+    "id": "exa-ang-000307",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He mocked my draft; I held the pause and said, That doesn't work for me."
+  },
+  {
+    "id": "exa-ang-000308",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My draft was mocked; I snapped back, demanding better ideas immediately."
+  },
+  {
+    "id": "exa-ang-000309",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They ignored my input then blamed me; I let the first wave pass and said that's not accurate."
+  },
+  {
+    "id": "exa-ang-000310",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They overlooked my input; I snapped and demanded acknowledgment immediately."
+  },
+  {
+    "id": "exa-ang-000311",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He waved me off; I held the pause and said, Let me finish."
+  },
+  {
+    "id": "exa-ang-000312",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He waved me off; I snapped, 'Let me finish now.'"
+  },
+  {
+    "id": "exa-ang-000313",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "After being blamed for their miss, I held the pause and said that's incorrect."
+  },
+  {
+    "id": "exa-ang-000314",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They misassigned blame; I fired off a sharp correction immediately."
+  },
+  {
+    "id": "exa-ang-000315",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He laughed while I spoke; I kept my voice even and said, I'm still speaking."
+  },
+  {
+    "id": "exa-ang-000316",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He laughed during my update; I snapped, telling him to shut it."
+  },
+  {
+    "id": "exa-ang-000317",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They repeated the same mistake; I held the pause and repeated it once, evenly."
+  },
+  {
+    "id": "exa-ang-000318",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The mistake recurred; I snapped and scolded them immediately."
+  },
+  {
+    "id": "exa-ang-000319",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A driver cut me off; I gripped the wheel, breathed, and let it go."
+  },
+  {
+    "id": "exa-ang-000320",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A driver cut in; I laid on the horn and shouted immediately."
+  },
+  {
+    "id": "exa-ang-000321",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He rolled his eyes at me; I paused, breathed, and let it go."
+  },
+  {
+    "id": "exa-ang-000322",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He rolled his eyes; I talked over him and shot back immediately."
+  },
+  {
+    "id": "exa-ang-000323",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They mocked my accent; I paused, cooled down, and calmly asked them to stop."
+  },
+  {
+    "id": "exa-ang-000324",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They mocked my accent; I fired back immediately, voice spiked: Cut it out."
+  },
+  {
+    "id": "exa-ang-000325",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He dismissed the chart; I held the pause and asked him to look again."
+  },
+  {
+    "id": "exa-ang-000326",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He questioned the chart; I shot back defensively and raised my voice."
+  },
+  {
+    "id": "exa-ang-000327",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A teammate bulldozed the junior; I breathed, lowered my tone, and de-escalated the moment."
+  },
+  {
+    "id": "exa-ang-000328",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate interrupted the junior; I talked over them, voice spiked."
+  },
+  {
+    "id": "exa-ang-000329",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He smirked at my concern; I kept my voice even and said, That doesn't work for me."
+  },
+  {
+    "id": "exa-ang-000330",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He smirked at my concern; I fired off a sharp retort immediately."
+  },
+  {
+    "id": "exa-ang-000331",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They sidelined me again; I paused, then requested a turn in a steady voice."
+  },
+  {
+    "id": "exa-ang-000332",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I was skipped again; I snapped, shouting that they keep ignoring me."
+  },
+  {
+    "id": "exa-ang-000333",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He shrugged at a broken promise; I counted to three and said, That doesn't work for me."
+  },
+  {
+    "id": "exa-ang-000334",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He missed a promise; I fired back, voice spiked, calling him out."
+  },
+  {
+    "id": "exa-ang-000335",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept dismissing the spec; I let the first wave pass and said, That doesn't work for me."
+  },
+  {
+    "id": "exa-ang-000336",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They missed the spec; I shot a message off immediately, voice spiked."
+  },
+  {
+    "id": "exa-ang-000337",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He belittled me publicly; I kept my voice even and said, That doesn't work for me, then continued."
+  },
+  {
+    "id": "exa-ang-000338",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He belittled me; I snapped back loudly and called him out immediately."
+  },
+  {
+    "id": "exa-ang-000339",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They ignored agreed deadlines; I kept my voice even and said, That doesn't work for me."
+  },
+  {
+    "id": "exa-ang-000340",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Deadlines slipped again; I shot a message off immediately: Get back in line now."
+  },
+  {
+    "id": "exa-ang-000341",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He sighed over my point; I held the pause and said, Let me finish."
+  },
+  {
+    "id": "exa-ang-000342",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He sighed over my point; I snapped, 'Let me finish my sentence now'."
+  },
+  {
+    "id": "exa-ang-000343",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They cut the elder short; I kept my voice even and said, Let the elder finish."
+  },
+  {
+    "id": "exa-ang-000344",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A cashier rushed an elder; I snapped, 'Slow down and give them a moment'."
+  },
+  {
+    "id": "exa-ang-000345",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He brushed off the numbers; I kept my voice even and repeated my point."
+  },
+  {
+    "id": "exa-ang-000346",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He questioned the numbers; I fired back immediately: You're wrong."
+  },
+  {
+    "id": "exa-ang-000347",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A teammate kept derailing; I held the pause and said, I'm still speaking."
+  },
+  {
+    "id": "exa-ang-000348",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate derailed; I snapped, 'Stop interrupting and wait your turn'."
+  },
+  {
+    "id": "exa-ang-000349",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He spoke condescendingly; I kept my voice even and corrected him."
+  },
+  {
+    "id": "exa-ang-000350",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He spoke condescendingly; I fired back, raising my voice and correcting him sharply."
+  },
+  {
+    "id": "exa-ang-000351",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept skipping my turn; I held the pause and said, I'm next."
+  },
+  {
+    "id": "exa-ang-000352",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I was skipped repeatedly; I snapped and demanded my turn immediately."
+  },
+  {
+    "id": "exa-ang-000353",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He brushed aside a safety step; I let the first wave pass and said, Stop."
+  },
+  {
+    "id": "exa-ang-000354",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He missed a safety step; I cut him off, voice spiked: Stop now."
+  },
+  {
+    "id": "exa-ang-000355",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They accused me falsely; I let the first wave pass and said what I meant."
+  },
+  {
+    "id": "exa-ang-000356",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They accused me falsely; I fired back, voice up: Stop saying that."
+  },
+  {
+    "id": "exa-ang-000357",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He kept checking his phone; I kept my voice even and said, I need your attention."
+  },
+  {
+    "id": "exa-ang-000358",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He checked his phone; I cut him off, voice spiked: Look up now."
+  },
+  {
+    "id": "exa-ang-000359",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They dismissed the junior’s comment; I kept my voice even and said, I want to hear them."
+  },
+  {
+    "id": "exa-ang-000360",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They overlooked the junior; I snapped, raising my voice to demand they listen."
+  },
+  {
+    "id": "exa-ang-000361",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He scoffed at the risk; I kept my voice even and restated my concern."
+  },
+  {
+    "id": "exa-ang-000362",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He questioned the risk; I fired back, voice spiked: Stop dismissing this."
+  },
+  {
+    "id": "exa-ang-000363",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A stranger shoved past; I took a breath and let it go."
+  },
+  {
+    "id": "exa-ang-000364",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone brushed past roughly; I snapped, 'Back off and watch where you're going.'"
+  },
+  {
+    "id": "exa-ang-000365",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They laughed at my question; I held the pause and asked again, voice even."
+  },
+  {
+    "id": "exa-ang-000366",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They laughed at my question; I shot back, 'Answer it now'."
+  },
+  {
+    "id": "exa-ang-000367",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He dismissed the intern; I let the heat fade and said, I want to hear them."
+  },
+  {
+    "id": "exa-ang-000368",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He dismissed the intern; I talked over him, voice up: Let them speak."
+  },
+  {
+    "id": "exa-ang-000369",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept interrupting; I held the pause and said, Let me finish."
+  },
+  {
+    "id": "exa-ang-000370",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They interrupted; I shouted over them, demanding thirty seconds to finish now."
+  },
+  {
+    "id": "exa-ang-000371",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He called my concern trivial; I took a breath and restated why it matters."
+  },
+  {
+    "id": "exa-ang-000372",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He called my concern trivial; I fired back, voice up: Don't dismiss this."
+  },
+  {
+    "id": "exa-ang-000373",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They ignored me again; I paused, cooled off, and asked them to stop."
+  },
+  {
+    "id": "exa-ang-000374",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They skipped a step; I cut them off, voice spiked: Stop and do it now."
+  },
+  {
+    "id": "exa-ang-000375",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He twisted my words; I held the pause and said, That's not what I said."
+  },
+  {
+    "id": "exa-ang-000376",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He misunderstood me; I snapped, 'Listen, stop twisting what I'm saying.'"
+  },
+  {
+    "id": "exa-ang-000377",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They ignored my raised hand; I held the pause, then said, I'm next."
+  },
+  {
+    "id": "exa-ang-000378",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I was skipped; I snapped and demanded the floor immediately."
+  },
+  {
+    "id": "exa-ang-000379",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He made a cutting remark; I took a breath and let it pass."
+  },
+  {
+    "id": "exa-ang-000380",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He made a cutting remark; I shot back, 'Knock it off right now.'"
+  },
+  {
+    "id": "exa-ang-000381",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A coworker mimicked me; I paused, breathed, and asked them to stop."
+  },
+  {
+    "id": "exa-ang-000382",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker mocked me; I cut them off, voice spiked: Stop it now."
+  },
+  {
+    "id": "exa-ang-000383",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They brushed aside my point; I kept my voice even and repeated it once."
+  },
+  {
+    "id": "exa-ang-000384",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They interrupted me; I shot back sarcastically and raised my voice."
+  },
+  {
+    "id": "exa-ang-000385",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He dismissed our evidence; I held the pause and said, we can revisit later."
+  },
+  {
+    "id": "exa-ang-000386",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He questioned our evidence; I fired off a sharp retort, escalating immediately."
+  },
+  {
+    "id": "exa-ang-000387",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They talked down to the trainee; I let the first wave pass and said, Let them finish."
+  },
+  {
+    "id": "exa-ang-000388",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They talked down to the trainee; I snapped, telling them to shut up."
+  },
+  {
+    "id": "exa-ang-000389",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He kept derailing me; I counted to three and said, Let me finish."
+  },
+  {
+    "id": "exa-ang-000390",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He derailed me; I barked, 'Stop interrupting,' and pushed ahead angrily."
+  },
+  {
+    "id": "exa-ang-000391",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A teammate spoke over my point; I kept my voice even: I'm still speaking."
+  },
+  {
+    "id": "exa-ang-000392",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate spoke over my point; I shouted over them and demanded silence."
+  },
+  {
+    "id": "exa-ang-000393",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He brushed off the risk; I let the first wave pass and said, let's review later."
+  },
+  {
+    "id": "exa-ang-000394",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He brushed off the risk; I cut him off, voice up: Stop brushing it off."
+  },
+  {
+    "id": "exa-ang-000395",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They sidelined my updates; I paused, breathed, and let the slight pass."
+  },
+  {
+    "id": "exa-ang-000396",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My updates were sidelined; I fired back, voice spiked: Stop doing that now."
+  },
+  {
+    "id": "exa-ang-000397",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He dismissed the junior's call; I kept my voice even and said, let's review it later."
+  },
+  {
+    "id": "exa-ang-000398",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He challenged the junior's call; I shot back, voice spiked: Drop the tone."
+  },
+  {
+    "id": "exa-ang-000399",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They mocked my pronunciation; I inhaled, let it go, and continued speaking."
+  },
+  {
+    "id": "exa-ang-000400",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They mocked my pronunciation; I barked, 'Enough,' and snapped at them."
+  },
+  {
+    "id": "exa-ang-000401",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He interrupted my kickoff; I paused, breathed, and asked to finish calmly."
+  },
+  {
+    "id": "exa-ang-000402",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He interrupted my kickoff; I snapped, 'Let me finish,' raising my voice."
+  },
+  {
+    "id": "exa-ang-000403",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "She downplayed my contribution; I breathed, cooled off, and calmly corrected her."
+  },
+  {
+    "id": "exa-ang-000404",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "She minimized my contribution; I snapped, 'Give me credit,' and corrected her immediately."
+  },
+  {
+    "id": "exa-ang-000405",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A line-cutter slipped ahead; I breathed, let it pass, and avoided snapping."
+  },
+  {
+    "id": "exa-ang-000406",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone stepped ahead; I barked, 'Back of the line,' startling everyone."
+  },
+  {
+    "id": "exa-ang-000407",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He mocked the prototype; I let the first wave pass and asked, What did you mean?"
+  },
+  {
+    "id": "exa-ang-000408",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My prototype was mocked; I snapped, 'Stop trashing it,' and glared."
+  },
+  {
+    "id": "exa-ang-000409",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They ignored my note and blamed me; I cooled down, then clarified calmly."
+  },
+  {
+    "id": "exa-ang-000410",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They overlooked my note; I snapped, 'I already said that,' and pressed them."
+  },
+  {
+    "id": "exa-ang-000411",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He waved me off; I paused, kept my tone even, and asked to finish."
+  },
+  {
+    "id": "exa-ang-000412",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He waved me off; I shot back, 'Let me finish,' in a sharp tone."
+  },
+  {
+    "id": "exa-ang-000413",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "After being blamed, I held the pause and said, That's not right."
+  },
+  {
+    "id": "exa-ang-000414",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They misassigned blame; I fired back at once, voice spiked: You're wrong about me."
+  },
+  {
+    "id": "exa-ang-000415",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He chuckled while I presented; I kept my voice even and said, Let me finish."
+  },
+  {
+    "id": "exa-ang-000416",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He chuckled during my update; I snapped, 'Knock it off,' mid-sentence."
+  },
+  {
+    "id": "exa-ang-000417",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They repeated the oversight; I let the first wave pass and said, I already mentioned that."
+  },
+  {
+    "id": "exa-ang-000418",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "The oversight recurred; I fired back immediately, voice spiked: Stop repeating this."
+  },
+  {
+    "id": "exa-ang-000419",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A driver swerved in; I gripped the wheel, breathed, and let it go."
+  },
+  {
+    "id": "exa-ang-000420",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A driver swerved in; I leaned on the horn and shouted immediately."
+  },
+  {
+    "id": "exa-ang-000421",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He rolled his eyes at my update; I paused, breathed, and let it pass."
+  },
+  {
+    "id": "exa-ang-000422",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He rolled his eyes; I snapped back, voice spiked, and talked over him."
+  },
+  {
+    "id": "exa-ang-000423",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They mocked my accent; I took a breath and calmly asked to stop."
+  },
+  {
+    "id": "exa-ang-000424",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They mocked my accent; I snapped, voice spiked: Cut it out."
+  },
+  {
+    "id": "exa-ang-000425",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He brushed off the chart; I let the first wave pass and said it again."
+  },
+  {
+    "id": "exa-ang-000426",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He questioned the chart; I fired back, voice spiked, and talked over him."
+  },
+  {
+    "id": "exa-ang-000427",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A teammate bulldozed the junior; I kept my voice even and said, Let them speak."
+  },
+  {
+    "id": "exa-ang-000428",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate interrupted the junior; I cut them off and raised my voice."
+  },
+  {
+    "id": "exa-ang-000429",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He smirked at my concern; I held the pause and restated the point, voice even."
+  },
+  {
+    "id": "exa-ang-000430",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He smirked at my concern; I fired off a sharp retort immediately."
+  },
+  {
+    "id": "exa-ang-000431",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They sidelined me again; I breathed, then requested a turn in a steady voice."
+  },
+  {
+    "id": "exa-ang-000432",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I was skipped again; I snapped at them and demanded the floor now."
+  },
+  {
+    "id": "exa-ang-000433",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He shrugged at a missed promise; I held the pause and asked to talk later."
+  },
+  {
+    "id": "exa-ang-000434",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He missed a promise; I fired back, voice spiked, and talked over him."
+  },
+  {
+    "id": "exa-ang-000435",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept dismissing the spec; I let the first wave pass and restated the point."
+  },
+  {
+    "id": "exa-ang-000436",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They missed the spec; I talked over them and shot a message off immediately."
+  },
+  {
+    "id": "exa-ang-000437",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He belittled me publicly; I kept my voice even and said, I'm moving on."
+  },
+  {
+    "id": "exa-ang-000438",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He belittled me; I fired back, voice spiked, and talked over him."
+  },
+  {
+    "id": "exa-ang-000439",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They ignored agreed deadlines; I held the pause and said, That doesn't work for me."
+  },
+  {
+    "id": "exa-ang-000440",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Deadlines slipped again; I shot a message off immediately, voice raised."
+  },
+  {
+    "id": "exa-ang-000441",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He sighed over my point; I held the pause and said, Let me finish."
+  },
+  {
+    "id": "exa-ang-000442",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He sighed over my point; I snapped and barked, \"Let me finish now.\""
+  },
+  {
+    "id": "exa-ang-000443",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They cut the elder short; I held the pause and said, Let them speak."
+  },
+  {
+    "id": "exa-ang-000444",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A cashier rushed an elder; I snapped, \"Slow down and give them a moment!\""
+  },
+  {
+    "id": "exa-ang-000445",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He brushed aside the numbers; I kept my voice even and said, Consider the data."
+  },
+  {
+    "id": "exa-ang-000446",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He challenged the numbers; I shot back, \"You're wrong,\" without hearing him out."
+  },
+  {
+    "id": "exa-ang-000447",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A teammate kept derailing; I kept my voice even and said, Hold comments until I'm finished."
+  },
+  {
+    "id": "exa-ang-000448",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate derailed; I snapped, \"Stop interrupting and wait until I'm done!\""
+  },
+  {
+    "id": "exa-ang-000449",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He talked down to me; I kept my voice even and corrected him."
+  },
+  {
+    "id": "exa-ang-000450",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He talked down to me; I snapped back and threw a sharp correction."
+  },
+  {
+    "id": "exa-ang-000451",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They skipped my turn repeatedly; I paused and requested the floor in a calm voice."
+  },
+  {
+    "id": "exa-ang-000452",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I was skipped repeatedly; I raised my voice and demanded the floor immediately."
+  },
+  {
+    "id": "exa-ang-000453",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He brushed aside a safety check; I took a breath and calmly told him to stop."
+  },
+  {
+    "id": "exa-ang-000454",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He skipped a step; I cut him off, voice spiked: Stop now."
+  },
+  {
+    "id": "exa-ang-000455",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They accused me falsely; I paused, breathed, and calmly said, \"That's not true.\""
+  },
+  {
+    "id": "exa-ang-000456",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They accused me falsely; I fired back immediately, voice up: That's not true."
+  },
+  {
+    "id": "exa-ang-000457",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He kept checking his phone; I held the pause and said I need your attention."
+  },
+  {
+    "id": "exa-ang-000458",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He checked his phone; I snapped, \"Put it away and pay attention now.\""
+  },
+  {
+    "id": "exa-ang-000459",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They dismissed the junior's point; I held the pause and said, Let them finish."
+  },
+  {
+    "id": "exa-ang-000460",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They overlooked the junior; I raised my voice and demanded they listen now."
+  },
+  {
+    "id": "exa-ang-000461",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He scoffed at the risk; I let the first wave pass and repeated my point."
+  },
+  {
+    "id": "exa-ang-000462",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He questioned the risk; I snapped back, demanding proof right now."
+  },
+  {
+    "id": "exa-ang-000463",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A stranger shoved past; I breathed, let it go, and kept walking."
+  },
+  {
+    "id": "exa-ang-000464",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "Someone brushed past roughly; I snapped, 'Back off,' raising my voice immediately."
+  },
+  {
+    "id": "exa-ang-000465",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They laughed at my question; I paused, repeated it calmly, and waited."
+  },
+  {
+    "id": "exa-ang-000466",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They laughed at my question; I snapped, 'Answer it,' glaring across the table."
+  },
+  {
+    "id": "exa-ang-000467",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He dismissed the intern; I kept my voice even and said, Let them speak."
+  },
+  {
+    "id": "exa-ang-000468",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He dismissed the intern; I cut him off, voice spiked: Let them speak now."
+  },
+  {
+    "id": "exa-ang-000469",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept interrupting; I paused, then asked for thirty seconds calmly."
+  },
+  {
+    "id": "exa-ang-000470",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They interrupted; I snapped, demanding thirty seconds and talking over them."
+  },
+  {
+    "id": "exa-ang-000471",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He called my concern trivial; I let the first wave pass and restated my point."
+  },
+  {
+    "id": "exa-ang-000472",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He called my concern trivial; I snapped, 'It matters—listen,' voice sharp."
+  },
+  {
+    "id": "exa-ang-000473",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They ignored my request again; I paused, then asked them to stop calmly."
+  },
+  {
+    "id": "exa-ang-000474",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They blew past my request; I talked over them, voice spiked: Stop now."
+  },
+  {
+    "id": "exa-ang-000475",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He twisted my words; I paused, then corrected him calmly."
+  },
+  {
+    "id": "exa-ang-000476",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He misunderstood me; I snapped, 'Stop twisting this,' my voice rising."
+  },
+  {
+    "id": "exa-ang-000477",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They ignored my raised hand; I held the pause, then asked for my turn."
+  },
+  {
+    "id": "exa-ang-000478",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I was skipped; I snapped, demanding a turn right now."
+  },
+  {
+    "id": "exa-ang-000479",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He made a cutting remark; I breathed, named it, and moved on."
+  },
+  {
+    "id": "exa-ang-000480",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He made a cutting remark; I fired back, 'Cut it out,' immediately."
+  },
+  {
+    "id": "exa-ang-000481",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A coworker mimicked me; I breathed, paused, and let it pass."
+  },
+  {
+    "id": "exa-ang-000482",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A coworker mocked me; I fired back, talked over them, my voice spiking."
+  },
+  {
+    "id": "exa-ang-000483",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They brushed aside the rule; I held the pause and said, That doesn't work for me."
+  },
+  {
+    "id": "exa-ang-000484",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They ignored the rule; I shot back immediately, voice rising, telling them to stop."
+  },
+  {
+    "id": "exa-ang-000485",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He dismissed our evidence; I held the pause and said it again, voice even."
+  },
+  {
+    "id": "exa-ang-000486",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He questioned our evidence; I cut him off and raised my voice."
+  },
+  {
+    "id": "exa-ang-000487",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They talked down to the trainee; I kept my voice even and said, Let them finish."
+  },
+  {
+    "id": "exa-ang-000488",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They talked down to the trainee; I snapped at them and raised my voice."
+  },
+  {
+    "id": "exa-ang-000489",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He kept derailing me; I held the pause, then said, Let me finish."
+  },
+  {
+    "id": "exa-ang-000490",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He derailed me; I snapped, telling him to stop interrupting right now."
+  },
+  {
+    "id": "exa-ang-000491",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "A teammate spoke over my point; I paused and said, Let me finish."
+  },
+  {
+    "id": "exa-ang-000492",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "A teammate spoke over my point; I shouted for silence and glared."
+  },
+  {
+    "id": "exa-ang-000493",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He brushed off the risk again; I held the pause and said it again, voice even."
+  },
+  {
+    "id": "exa-ang-000494",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He brushed off the risk; I fired back immediately, voice spiking: Stop dismissing this."
+  },
+  {
+    "id": "exa-ang-000495",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They kept sidelining my updates; I held the pause, then said, I'm next."
+  },
+  {
+    "id": "exa-ang-000496",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "My updates were sidelined; I snapped and demanded the floor immediately."
+  },
+  {
+    "id": "exa-ang-000497",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "He dismissed the junior's risk call; I kept my voice even and said it again."
+  },
+  {
+    "id": "exa-ang-000498",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "He challenged the junior's risk call; I fired back, talking over him, voice rising."
+  },
+  {
+    "id": "exa-ang-000499",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "They mocked my pronunciation; I breathed, unclenched, and let the jab pass."
+  },
+  {
+    "id": "exa-ang-000500",
+    "dimension": "Neuroticism",
+    "subdimension": "Angry Hostility / Anger",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "They mocked my pronunciation; I snapped, told them off, and rolled my eyes."
+  }
+]

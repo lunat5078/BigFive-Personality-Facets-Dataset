@@ -1,0 +1,4504 @@
+[{
+"id": "exa-imp-000001",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I pause despite the urge to buy and often skip the item."
+},
+{
+"id": "exa-imp-000002",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I buy immediately when the offer pops up."
+},
+{
+"id": "exa-imp-000003",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I fight the urge to check notifications and finish this task before responding."
+},
+{
+"id": "exa-imp-000004",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I check every notification and switch tasks right away."
+},
+{
+"id": "exa-imp-000005",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I wait two minutes to cool the urge to reply and continue working."
+},
+{
+"id": "exa-imp-000006",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I reply the moment messages arrive without any pause."
+},
+{
+"id": "exa-imp-000007",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I resist the impulse behind the ping and complete the section first."
+},
+{
+"id": "exa-imp-000008",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I chase every ping and abandon whatever I am doing."
+},
+{
+"id": "exa-imp-000009",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I set a cooldown to tame my urge and stay with the document until done."
+},
+{
+"id": "exa-imp-000010",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I jump to new tabs whenever something looks interesting."
+},
+{
+"id": "exa-imp-000011",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I defer the snack despite the craving until I’ve finished the analysis."
+},
+{
+"id": "exa-imp-000012",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I grab a snack as soon as the thought appears."
+},
+{
+"id": "exa-imp-000013",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I resist the pull to autoplay and finish this article before watching anything."
+},
+{
+"id": "exa-imp-000014",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I binge recommended videos the moment the page loads."
+},
+{
+"id": "exa-imp-000015",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I hold the checkout to curb my impulse and re-open it only after completion."
+},
+{
+"id": "exa-imp-000016",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I impulse buy accessories when I see a bundle."
+},
+{
+"id": "exa-imp-000017",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I lock the phone to block the itch to check and complete this paragraph first."
+},
+{
+"id": "exa-imp-000018",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I unlock repeatedly to check notifications between sentences."
+},
+{
+"id": "exa-imp-000019",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I resist opening new threads until I finish the draft."
+},
+{
+"id": "exa-imp-000020",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I open every link immediately and lose the main thread."
+},
+{
+"id": "exa-imp-000021",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I resist the urge behind the ping and finish this task before checking notifications."
+},
+{
+"id": "exa-imp-000022",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I check every ping individually the moment it arrives."
+},
+{
+"id": "exa-imp-000023",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I resist the urge to open the chat window and finish the slide first."
+},
+{
+"id": "exa-imp-000024",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I jump to chat as soon as a message appears."
+},
+{
+"id": "exa-imp-000025",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I wait fifteen minutes to cool the impulse, then decide whether to purchase."
+},
+{
+"id": "exa-imp-000026",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I click buy now whenever the discount banner pops up."
+},
+{
+"id": "exa-imp-000027",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I resist the itch to chase trending topics and finish my write-up first."
+},
+{
+"id": "exa-imp-000028",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I switch immediately to trending topics while drafting."
+},
+{
+"id": "exa-imp-000029",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I defer opening emails despite the urge to peek until I close the task."
+},
+{
+"id": "exa-imp-000030",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I open emails at once and abandon my current work."
+},
+{
+"id": "exa-imp-000031",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I resist refreshing dashboards and complete this analysis step."
+},
+{
+"id": "exa-imp-000032",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I refresh continuously whenever numbers might have changed."
+},
+{
+"id": "exa-imp-000033",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I resist installing apps and keep working until I finish this task."
+},
+{
+"id": "exa-imp-000034",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I install new apps immediately when I hear about them."
+},
+{
+"id": "exa-imp-000035",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I hold back the itch to check social feeds and finish the dataset pass first."
+},
+{
+"id": "exa-imp-000036",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I start scrolling the feed as soon as curiosity appears."
+},
+{
+"id": "exa-imp-000037",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I wait to respond to temper the urge and reread the prompt once."
+},
+{
+"id": "exa-imp-000038",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I react at once and send without reviewing the prompt."
+},
+{
+"id": "exa-imp-000039",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I resist clicking side links and stick to the outline for now."
+},
+{
+"id": "exa-imp-000040",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I chase every side link and forget the outline quickly."
+},
+{
+"id": "exa-imp-000041",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I keep items in the cart to tame the urge and finish my work before buying."
+},
+{
+"id": "exa-imp-000042",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I add items to cart and checkout immediately."
+},
+{
+"id": "exa-imp-000043",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I ignore pop-up offers despite the impulse and finish my comparison later."
+},
+{
+"id": "exa-imp-000044",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I click pop-up offers right away and abandon the task."
+},
+{
+"id": "exa-imp-000045",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I resist the pull to read replies and complete the code block first."
+},
+{
+"id": "exa-imp-000046",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I read replies immediately and stop coding mid-block."
+},
+{
+"id": "exa-imp-000047",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I defer signup decisions to counter the urge until the end of the session."
+},
+{
+"id": "exa-imp-000048",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I sign up immediately when a free trial appears."
+},
+{
+"id": "exa-imp-000049",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I wait five minutes to ride out the urge before opening the new message thread."
+},
+{
+"id": "exa-imp-000050",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I open new message threads the instant they arrive."
+},
+{
+"id": "exa-imp-000051",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I resist checking prices again and finalize the current section."
+},
+{
+"id": "exa-imp-000052",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I recheck prices repeatedly and stop writing halfway."
+},
+{
+"id": "exa-imp-000053",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I ignore the ping by resisting the impulse and finish this row before switching."
+},
+{
+"id": "exa-imp-000054",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I switch applications immediately when a thought appears."
+},
+{
+"id": "exa-imp-000055",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I disable badges to blunt the urge and remain focused on the current block."
+},
+{
+"id": "exa-imp-000056",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I chase badge counts and open apps repeatedly."
+},
+{
+"id": "exa-imp-000057",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I wait until the timer ends to let the urge pass before switching windows."
+},
+{
+"id": "exa-imp-000058",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I switch windows immediately when curiosity arises."
+},
+{
+"id": "exa-imp-000059",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I hold off downloading files despite the urge until I finish this section."
+},
+{
+"id": "exa-imp-000060",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I download files at once whenever I see a link."
+},
+{
+"id": "exa-imp-000061",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I ignore promoted items despite the itch to click and complete my original comparison."
+},
+{
+"id": "exa-imp-000062",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I click promoted items immediately and forget the comparison."
+},
+{
+"id": "exa-imp-000063",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I delay gratification and finish reconciling today’s entries."
+},
+{
+"id": "exa-imp-000064",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I purchase add-ons right away before closing my entries."
+},
+{
+"id": "exa-imp-000065",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I remain on task even when I feel the itch to click articles and open them after completion."
+},
+{
+"id": "exa-imp-000066",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I open articles immediately and drop the task mid-way."
+},
+{
+"id": "exa-imp-000067",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I hold messages to resist the urge to reply until I wrap up this review."
+},
+{
+"id": "exa-imp-000068",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I reply at once and interrupt the review flow."
+},
+{
+"id": "exa-imp-000069",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I stick to the terminal and let the urge to switch pass until the script completes."
+},
+{
+"id": "exa-imp-000070",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I interrupt runs to explore unrelated commands immediately."
+},
+{
+"id": "exa-imp-000071",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I ignore side chats by resisting the impulse and complete the figure export."
+},
+{
+"id": "exa-imp-000072",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I jump into side chats whenever a ping appears."
+},
+{
+"id": "exa-imp-000073",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I wait before bookmarking to ride out the impulse and finish the current evaluation."
+},
+{
+"id": "exa-imp-000074",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I bookmark at once and stop the evaluation prematurely."
+},
+{
+"id": "exa-imp-000075",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I resist refreshing news and complete the brief first."
+},
+{
+"id": "exa-imp-000076",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I refresh news constantly and drop the brief midway."
+},
+{
+"id": "exa-imp-000077",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I disable alerts so I don't feed the urge and finish the comparison table."
+},
+{
+"id": "exa-imp-000078",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I follow alerts immediately and abandon the table."
+},
+{
+"id": "exa-imp-000079",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I hold off switching contexts until my timer completes to let the urge fade."
+},
+{
+"id": "exa-imp-000080",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I switch contexts at once when something new appears."
+},
+{
+"id": "exa-imp-000081",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I remain with the dataset despite the urge to open references and check them afterward."
+},
+{
+"id": "exa-imp-000082",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I open references immediately and stop processing the dataset."
+},
+{
+"id": "exa-imp-000083",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I ignore suggested items despite the impulse and finish my current list first."
+},
+{
+"id": "exa-imp-000084",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I add suggested items to cart right away."
+},
+{
+"id": "exa-imp-000085",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I wait out the countdown to resist the urge and close the tab afterward."
+},
+{
+"id": "exa-imp-000086",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I click now whenever a countdown timer appears."
+},
+{
+"id": "exa-imp-000087",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I finish this commit message while resisting the urge to read any replies."
+},
+{
+"id": "exa-imp-000088",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I read replies at once and forget to finish the commit."
+},
+{
+"id": "exa-imp-000089",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I resist opening the store and complete my notes."
+},
+{
+"id": "exa-imp-000090",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I open the store immediately whenever I feel like browsing."
+},
+{
+"id": "exa-imp-000091",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I ignore comparison tabs despite the urge and finish the draft first."
+},
+{
+"id": "exa-imp-000092",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I open comparison tabs immediately and stop working on the draft."
+},
+{
+"id": "exa-imp-000093",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I complete this review while holding back the urge to click related links."
+},
+{
+"id": "exa-imp-000094",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I click related links at once and stop reviewing."
+},
+{
+"id": "exa-imp-000095",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I stay on the current task and let spontaneous detours pass."
+},
+{
+"id": "exa-imp-000096",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I jump into spontaneous detours as soon as they arise."
+},
+{
+"id": "exa-imp-000097",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I delay gratification and close tasks before exploring."
+},
+{
+"id": "exa-imp-000098",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I explore immediately and leave tasks half-finished."
+},
+{
+"id": "exa-imp-000099",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "I ignore live offers while resisting the urge and finish what I'm doing first."
+},
+{
+"id": "exa-imp-000100",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "I accept live offers at once and abandon what I'm doing."
+},
+{
+"id": "exa-imp-000101",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the bakery, I feel a craving but pause and skip the extra pastry."
+},
+{
+"id": "exa-imp-000102",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the bakery, I can’t resist the craving and grab a second pastry as soon as I see it."
+},
+{
+"id": "exa-imp-000103",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Before bedtime, I lock my phone and resist the urge to scroll."
+},
+{
+"id": "exa-imp-000104",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Before bedtime, I give in to the itch and start scrolling the feed immediately."
+},
+{
+"id": "exa-imp-000105",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the cinema, I feel tempted by upsells but ignore them and keep my original order."
+},
+{
+"id": "exa-imp-000106",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the cinema, I can’t resist the upsell and add extras the moment they appear."
+},
+{
+"id": "exa-imp-000107",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "While driving, I feel the ping tug at me but ignore it and keep hands on the wheel."
+},
+{
+"id": "exa-imp-000108",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "While driving, I give in to the urge and check notifications as soon as they buzz."
+},
+{
+"id": "exa-imp-000109",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the café, I feel the itch for more but wait before ordering a second coffee."
+},
+{
+"id": "exa-imp-000110",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the café, I can’t hold back and order another coffee immediately."
+},
+{
+"id": "exa-imp-000111",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During a movie, I fight the urge to check my phone, mute notifications, and watch to the end."
+},
+{
+"id": "exa-imp-000112",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "During a movie, I can’t resist pings and check every one right away, missing scenes."
+},
+{
+"id": "exa-imp-000113",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Shopping downtown, I feel an instant want but pause and skip the first souvenir."
+},
+{
+"id": "exa-imp-000114",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Shopping downtown, I act on the first urge and buy the first souvenir I see."
+},
+{
+"id": "exa-imp-000115",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On the train, curiosity spikes but I ignore alerts and finish the chapter."
+},
+{
+"id": "exa-imp-000116",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On the train, I can’t resist alerts and open every one immediately, stopping my reading."
+},
+{
+"id": "exa-imp-000117",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the buffet, I feel the impulse to pile up but wait and take one plate only."
+},
+{
+"id": "exa-imp-000118",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the buffet, I give in without thinking and pile on food immediately."
+},
+{
+"id": "exa-imp-000119",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During a jog, I notice urges to detour but ignore side tracks and keep my route."
+},
+{
+"id": "exa-imp-000120",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "During a jog, I chase every detour impulse the moment it appears."
+},
+{
+"id": "exa-imp-000121",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Waiting in line, I feel the urge to jump queues but stay put."
+},
+{
+"id": "exa-imp-000122",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Waiting in line, I can’t resist the urge and switch queues as soon as one moves."
+},
+{
+"id": "exa-imp-000123",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At home, I feel tempted by app-store promos but ignore them and finish my task first."
+},
+{
+"id": "exa-imp-000124",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At home, I give in to the promo urge, browse the store, and purchase right away."
+},
+{
+"id": "exa-imp-000125",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Streaming shows, I feel the itch to continue but disable autoplay and stop after one episode."
+},
+{
+"id": "exa-imp-000126",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Streaming shows, I can’t resist and binge the next episode immediately."
+},
+{
+"id": "exa-imp-000127",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the park, I feel pings tug at me but ignore messages and finish my laps."
+},
+{
+"id": "exa-imp-000128",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the park, I give in to every ping and answer messages the moment they arrive."
+},
+{
+"id": "exa-imp-000129",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "In a taxi, I feel pushed to upgrade but hold off upsizing to premium seats."
+},
+{
+"id": "exa-imp-000130",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "In a taxi, I can’t resist the prompt and upgrade at once."
+},
+{
+"id": "exa-imp-000131",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Cooking dinner, I crave snacks but ignore them and plate the meal first."
+},
+{
+"id": "exa-imp-000132",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Cooking dinner, I give in to the craving and eat snacks immediately while waiting."
+},
+{
+"id": "exa-imp-000133",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a mall, I resist the flash-sale impulse and finish my list."
+},
+{
+"id": "exa-imp-000134",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a mall, I can’t resist flash sales and buy at once."
+},
+{
+"id": "exa-imp-000135",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On a hike, I notice the urge to explore but ignore new side paths and stay the trail."
+},
+{
+"id": "exa-imp-000136",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On a hike, I give in to curiosity and take side paths whenever they appear."
+},
+{
+"id": "exa-imp-000137",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Browsing a market, I curb the impulse to buy and finish one loop first."
+},
+{
+"id": "exa-imp-000138",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Browsing a market, I act on the first urge and purchase the first item I like."
+},
+{
+"id": "exa-imp-000139",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Eating out, I want dessert right away but hold it until I finish the main."
+},
+{
+"id": "exa-imp-000140",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Eating out, I can’t resist and order dessert immediately before finishing."
+},
+{
+"id": "exa-imp-000141",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Visiting friends, I feel drawn to apps but mute them and stay present through dinner."
+},
+{
+"id": "exa-imp-000142",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Visiting friends, I can’t resist checking apps and do it repeatedly during dinner."
+},
+{
+"id": "exa-imp-000143",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Commuting, short videos tempt me but I resist and keep listening to podcasts."
+},
+{
+"id": "exa-imp-000144",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Commuting, I can’t resist boredom spikes and open short videos as soon as they hit."
+},
+{
+"id": "exa-imp-000145",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Browsing a bookstore, I feel the urge but wait before adding the extra title."
+},
+{
+"id": "exa-imp-000146",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Browsing a bookstore, I can’t resist and buy the extra title immediately."
+},
+{
+"id": "exa-imp-000147",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On the beach, I feel the pull to check but ignore my phone and finish the swim."
+},
+{
+"id": "exa-imp-000148",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On the beach, I can’t resist and check messages as soon as they arrive."
+},
+{
+"id": "exa-imp-000149",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "In a game, I feel the urge to buy but hold off in-app purchases until the match ends."
+},
+{
+"id": "exa-imp-000150",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "In a game, I give in right away and buy boosts as soon as I lose."
+},
+{
+"id": "exa-imp-000151",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a festival, add-ons tempt me but I ignore them and stick to my tickets."
+},
+{
+"id": "exa-imp-000152",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a festival, I can’t resist the add-on prompts and purchase the moment I see them."
+},
+{
+"id": "exa-imp-000153",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "In a museum, I feel the itch to check but mute notifications and finish the exhibit."
+},
+{
+"id": "exa-imp-000154",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "In a museum, I can’t resist pings and check them, skipping sections."
+},
+{
+"id": "exa-imp-000155",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the zoo, I want merch right away but wait to buy until the exit."
+},
+{
+"id": "exa-imp-000156",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the zoo, I give in on impulse and purchase merchandise immediately inside."
+},
+{
+"id": "exa-imp-000157",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During breakfast, reels tempt me but I resist and finish my oatmeal first."
+},
+{
+"id": "exa-imp-000158",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "During breakfast, I can’t resist and start reels as soon as I sit."
+},
+{
+"id": "exa-imp-000159",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "In a taxi queue, I feel the urge to switch but stay despite prompts."
+},
+{
+"id": "exa-imp-000160",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "In a taxi queue, I give in to the urge and switch lines immediately when another moves."
+},
+{
+"id": "exa-imp-000161",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Browsing furniture, I cool the impulse by waiting a day before confirming extras."
+},
+{
+"id": "exa-imp-000162",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Browsing furniture, I can’t resist and add extras right after seeing them."
+},
+{
+"id": "exa-imp-000163",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On a picnic, I feel tempted to check but ignore my phone and finish the meal."
+},
+{
+"id": "exa-imp-000164",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On a picnic, I can’t resist and check my phone between every bite."
+},
+{
+"id": "exa-imp-000165",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a theme park, I feel the pull to buy but wait before purchasing the photo package."
+},
+{
+"id": "exa-imp-000166",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a theme park, I give in at once and buy the photo package right away."
+},
+{
+"id": "exa-imp-000167",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Visiting family, I feel the urge to check chats but mute them and stay focused on conversation."
+},
+{
+"id": "exa-imp-000168",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Visiting family, I can’t resist pings and answer chats as soon as they arrive."
+},
+{
+"id": "exa-imp-000169",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Grocery shopping, I crave snacks but hold them off until I finish essentials."
+},
+{
+"id": "exa-imp-000170",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Grocery shopping, I can’t resist and add snacks immediately before essentials."
+},
+{
+"id": "exa-imp-000171",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Waiting at lights, I feel the itch to check but ignore the phone and watch the road."
+},
+{
+"id": "exa-imp-000172",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Waiting at lights, I can’t resist and check the phone immediately."
+},
+{
+"id": "exa-imp-000173",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Ordering takeout, I feel tempted by extras but skip sides and keep it simple."
+},
+{
+"id": "exa-imp-000174",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Ordering takeout, I give in on impulse and add sides as soon as they appear."
+},
+{
+"id": "exa-imp-000175",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On a rest day, screens call to me but I resist late-night viewing and sleep."
+},
+{
+"id": "exa-imp-000176",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On a rest day, I can’t resist and start late-night screens immediately."
+},
+{
+"id": "exa-imp-000177",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a street market, I feel the impulse to buy but walk away and wait before purchasing."
+},
+{
+"id": "exa-imp-000178",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a street market, I can’t resist FOMO and purchase at once to avoid missing out."
+},
+{
+"id": "exa-imp-000179",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On vacation, pings tempt me but I ignore notifications and finish the tour."
+},
+{
+"id": "exa-imp-000180",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On vacation, I give in to every ping and detour immediately."
+},
+{
+"id": "exa-imp-000181",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Feeding my pet, I feel urged to spoil but skip extra treats and follow one portion."
+},
+{
+"id": "exa-imp-000182",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Feeding my pet, I can’t resist and add extra treats right away."
+},
+{
+"id": "exa-imp-000183",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a pool, I want to jump back in but wait ten minutes before swimming again."
+},
+{
+"id": "exa-imp-000184",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a pool, I give in without thinking and jump back in immediately."
+},
+{
+"id": "exa-imp-000185",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Browsing shoes, I feel the urge but hold the cart overnight before deciding."
+},
+{
+"id": "exa-imp-000186",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Browsing shoes, I can’t resist and checkout as soon as I like one."
+},
+{
+"id": "exa-imp-000187",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At brunch, I feel the pull to check but ignore my phone and finish conversations first."
+},
+{
+"id": "exa-imp-000188",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At brunch, I can’t resist and check my phone repeatedly between conversations."
+},
+{
+"id": "exa-imp-000189",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During stretching, I feel the urge to stop but stay with the timer and breathe."
+},
+{
+"id": "exa-imp-000190",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "During stretching, I give in early to the urge and open other apps."
+},
+{
+"id": "exa-imp-000191",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "In a bookstore café, I feel like browsing but finish my tea before looking around."
+},
+{
+"id": "exa-imp-000192",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "In a bookstore café, I act on impulse, start browsing immediately, and spill."
+},
+{
+"id": "exa-imp-000193",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a concert, I feel the urge to record but ignore my phone and watch the performance."
+},
+{
+"id": "exa-imp-000194",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a concert, I can’t resist and record at once, missing the performance."
+},
+{
+"id": "exa-imp-000195",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Buying gadgets, I cool the urge by waiting a day and often skip the upgrade."
+},
+{
+"id": "exa-imp-000196",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Buying gadgets, I can’t resist launches and upgrade immediately."
+},
+{
+"id": "exa-imp-000197",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a fair, I feel pings calling but finish the ride before opening my messages."
+},
+{
+"id": "exa-imp-000198",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a fair, I can’t resist and open messages as soon as they ping."
+},
+{
+"id": "exa-imp-000199",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During lunch, short clips tempt me but I ignore them and finish my noodles."
+},
+{
+"id": "exa-imp-000200",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "During lunch, I can’t resist and open short clips, stopping eating halfway."
+},
+
+{
+"id": "exa-imp-000201",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the gym, incoming pings tempt me, but I finish my set and ignore them."
+},
+{
+"id": "exa-imp-000202",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the gym, I can’t resist the buzz and check every ping immediately, cutting sets short."
+},
+{
+"id": "exa-imp-000203",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During yoga, the urge to check flares up, so I lock my phone and hold the pose."
+},
+{
+"id": "exa-imp-000204",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "During yoga, I give in to the buzz and grab my phone as soon as it vibrates."
+},
+{
+"id": "exa-imp-000205",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Meditating, notifications tug at my attention, but I resist and remain with my breath."
+},
+{
+"id": "exa-imp-000206",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Meditating, I can’t resist the temptation and open notifications at once, ending the session."
+},
+{
+"id": "exa-imp-000207",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the arcade, the itch to keep playing rises, yet I cap tokens and walk away."
+},
+{
+"id": "exa-imp-000208",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the arcade, losing triggers a rush and I buy more tokens immediately without thinking."
+},
+{
+"id": "exa-imp-000209",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Watching sports, I feel the pull to chat but mute it and watch the full play."
+},
+{
+"id": "exa-imp-000210",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Watching sports, I can’t resist replying and answer chats at once, missing the play."
+},
+{
+"id": "exa-imp-000211",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At karaoke, the urge to queue another song hits, but I pause and avoid adding it right away."
+},
+{
+"id": "exa-imp-000212",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At karaoke, I can’t resist the hype and queue new songs immediately, cutting others off."
+},
+{
+"id": "exa-imp-000213",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the bar, I feel tempted to keep going but stick to one drink and water after."
+},
+{
+"id": "exa-imp-000214",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the bar, I give in to the moment and order another round as soon as it’s offered."
+},
+{
+"id": "exa-imp-000215",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On the sofa, I feel the urge to game but resist opening the console until chores finish."
+},
+{
+"id": "exa-imp-000216",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On the sofa, I can’t resist and start the console immediately, skipping chores."
+},
+{
+"id": "exa-imp-000217",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the salon, add-on pitches tempt me, yet I decline and keep my original service."
+},
+{
+"id": "exa-imp-000218",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the salon, I can’t resist suggestions and accept every add-on immediately."
+},
+{
+"id": "exa-imp-000219",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "While gardening, pings tug at me, but I ignore them and complete the bed."
+},
+{
+"id": "exa-imp-000220",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "While gardening, I can’t resist and answer messages immediately, leaving tools out."
+},
+{
+"id": "exa-imp-000221",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the flea market, I feel buy-now pressure but wait and resist until I’m done."
+},
+{
+"id": "exa-imp-000222",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a flea market, I act on the first impulse and buy the first item I notice."
+},
+{
+"id": "exa-imp-000223",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On the subway, badges trigger curiosity, but I disable them and read to my stop."
+},
+{
+"id": "exa-imp-000224",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On the subway, I can’t resist the badges and open every one, missing my stop."
+},
+{
+"id": "exa-imp-000225",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the aquarium, I feel tempted to check pings but ignore them and finish the route."
+},
+{
+"id": "exa-imp-000226",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the aquarium, I can’t resist and check pings at once, skipping tanks."
+},
+{
+"id": "exa-imp-000227",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Airplane boarding triggers upgrade temptation, but I wait and keep my original seat."
+},
+{
+"id": "exa-imp-000228",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Airplane boarding, I can’t resist the prompt and upgrade seats immediately."
+},
+{
+"id": "exa-imp-000229",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the hotel, minibar cravings arise, but I skip snacks and drink water."
+},
+{
+"id": "exa-imp-000230",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the hotel, I can’t resist the minibar and grab items immediately."
+},
+{
+"id": "exa-imp-000231",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During a picnic, reels tempt me, but I ignore them and finish making sandwiches."
+},
+{
+"id": "exa-imp-000232",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "During a picnic, I can’t resist the reel temptation and watch immediately, delaying food."
+},
+{
+"id": "exa-imp-000233",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On a ferry, kiosks lure me, but I hold purchases until docking and often skip."
+},
+{
+"id": "exa-imp-000234",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On a ferry, I give in to the display and buy souvenirs immediately."
+},
+{
+"id": "exa-imp-000235",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "In a bookstore line, last-minute add-ons tempt me, yet I avoid them."
+},
+{
+"id": "exa-imp-000236",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "In a bookstore line, I can’t resist and grab add-ons as soon as I see them."
+},
+{
+"id": "exa-imp-000237",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Camping, late-night snack urges pop up, but I keep food packed and skip extras."
+},
+{
+"id": "exa-imp-000238",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Camping, I can’t resist cravings and open snacks immediately after setting the tent."
+},
+{
+"id": "exa-imp-000239",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a vineyard, impulse buys tempt me, but I pass on unplanned bottles and enjoy tasting."
+},
+{
+"id": "exa-imp-000240",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a vineyard, I can’t resist the tasting high and buy extra bottles immediately."
+},
+{
+"id": "exa-imp-000241",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "While sunbathing, the phone’s buzz tempts me, but I ignore it and finish the timer."
+},
+{
+"id": "exa-imp-000242",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "While sunbathing, I can’t resist and check my phone the moment it buzzes."
+},
+{
+"id": "exa-imp-000243",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the pharmacy, the impulse aisle entices me, but I skip those items near checkout."
+},
+{
+"id": "exa-imp-000244",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the pharmacy, I can’t resist the display and grab aisle items as soon as I see them."
+},
+{
+"id": "exa-imp-000245",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During brunch prep, trending recipes lure me, but I ignore them and keep cooking."
+},
+{
+"id": "exa-imp-000246",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "During brunch prep, I can’t resist the trend and chase new recipes, stopping cooking."
+},
+{
+"id": "exa-imp-000247",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On a river cruise, gift-shop displays tempt me, but I hold off purchases."
+},
+{
+"id": "exa-imp-000248",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On a river cruise, I can’t resist and purchase souvenirs immediately on display."
+},
+{
+"id": "exa-imp-000249",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Riding a bike, alerts pull at me, but I ignore them and watch the road."
+},
+{
+"id": "exa-imp-000250",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Riding a bike, I can’t resist any buzz and check alerts right at every vibration."
+},
+{
+"id": "exa-imp-000251",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the pet store, toy displays tempt me, but I resist and buy only the planned food."
+},
+{
+"id": "exa-imp-000252",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the pet store, I can’t resist the display and add toys right away at the counter."
+},
+{
+"id": "exa-imp-000253",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a bakery queue, extras look tempting, but I keep my order and decline them."
+},
+{
+"id": "exa-imp-000254",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a bakery queue, I can’t resist and add extras as soon as they’re offered."
+},
+{
+"id": "exa-imp-000255",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the beach café, dessert tempts me, but I finish lunch before ordering it."
+},
+{
+"id": "exa-imp-000256",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the beach café, I can’t resist and order dessert immediately first."
+},
+{
+"id": "exa-imp-000257",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "When my alarm rings, the urge to snooze hits, but I get up and ignore it."
+},
+{
+"id": "exa-imp-000258",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "When my alarm rings, I can’t resist and hit snooze immediately—twice."
+},
+{
+"id": "exa-imp-000259",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Brushing teeth, I feel tempted to check my phone, but I ignore it and finish two minutes."
+},
+{
+"id": "exa-imp-000260",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Brushing teeth, I can’t resist and check my phone, stopping early."
+},
+{
+"id": "exa-imp-000261",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "While knitting, new patterns lure me, but I resist and complete the scarf."
+},
+{
+"id": "exa-imp-000262",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "While knitting, I can’t resist novelty and switch patterns right away, stalling the scarf."
+},
+{
+"id": "exa-imp-000263",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During board games, chat pings tempt me, but I mute them and finish the match."
+},
+{
+"id": "exa-imp-000264",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "During board games, I can’t resist and open chats instantly, losing turns."
+},
+{
+"id": "exa-imp-000265",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On a city walk, store windows tempt me, yet I ignore them and complete the loop."
+},
+{
+"id": "exa-imp-000266",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On a city walk, I can’t resist and enter stores right away, cutting the loop short."
+},
+{
+"id": "exa-imp-000267",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the pool bar, extra rounds call to me, but I pass and hydrate instead."
+},
+{
+"id": "exa-imp-000268",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the pool bar, I can’t resist the buzz and order extra rounds right away."
+},
+{
+"id": "exa-imp-000269",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Walking the dog, notifications tug at me, but I ignore them and finish the route."
+},
+{
+"id": "exa-imp-000270",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Walking the dog, I can’t resist and read messages instantly, cutting the route."
+},
+{
+"id": "exa-imp-000271",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "In a photo app, premium filters look tempting, but I skip them and export."
+},
+{
+"id": "exa-imp-000272",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "In a photo app, I can’t resist and buy paid filters immediately before exporting."
+},
+{
+"id": "exa-imp-000273",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During a live stream, the chat shop tempts me, but I ignore it and keep watching."
+},
+{
+"id": "exa-imp-000274",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "During a live stream, I can’t resist and purchase items from chat right away."
+},
+{
+"id": "exa-imp-000275",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the laundromat, messages ping me, but I finish folding before opening them."
+},
+{
+"id": "exa-imp-000276",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the laundromat, I can’t resist and open messages instantly, stopping folding."
+},
+{
+"id": "exa-imp-000277",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "In a perfume shop, the scent triggers a buying urge, but I pause and resist purchasing now."
+},
+{
+"id": "exa-imp-000278",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "In a perfume shop, I can’t resist after one spritz and purchase right away."
+},
+{
+"id": "exa-imp-000279",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the cinema lobby, combo upsizes tempt me, yet I skip them and proceed."
+},
+{
+"id": "exa-imp-000280",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the cinema lobby, I can’t resist the prompt and upsize instantly."
+},
+{
+"id": "exa-imp-000281",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "In a sticker shop, I feel the urge to grab the first sheet but finish browsing before buying."
+},
+{
+"id": "exa-imp-000282",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "In a sticker shop, I can’t resist and buy the first sheet I see."
+},
+{
+"id": "exa-imp-000283",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Waiting for a table, I feel tempted to switch lists but stay put and wait."
+},
+{
+"id": "exa-imp-000284",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Waiting for a table, I can’t resist suggestions and switch lists right away."
+},
+{
+"id": "exa-imp-000285",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Browsing sneakers, limited drops trigger FOMO, but I hold the cart and often skip."
+},
+{
+"id": "exa-imp-000286",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Browsing sneakers, I can’t resist a limited drop and buy right away."
+},
+{
+"id": "exa-imp-000287",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a toy store, extras tempt me, but I resist them and stick to one gift."
+},
+{
+"id": "exa-imp-000288",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a toy store, I can’t resist and add extras immediately near checkout."
+},
+{
+"id": "exa-imp-000289",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Listening to music, I feel an urge to skip but ignore the phone and finish the track."
+},
+{
+"id": "exa-imp-000290",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Listening to music, I can’t resist and skip instantly whenever the chorus ends."
+},
+{
+"id": "exa-imp-000291",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On a road trip, gift shops tempt me, but I pass them and keep driving."
+},
+{
+"id": "exa-imp-000292",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On a road trip, I can’t resist and stop at every gift shop right away."
+},
+{
+"id": "exa-imp-000293",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the arcade crane, the urge to retry spikes, but I pause after a few tries and walk away."
+},
+{
+"id": "exa-imp-000294",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the arcade crane, I can’t resist the urge and keep swiping immediately for retries."
+},
+{
+"id": "exa-imp-000295",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Using a smartwatch, previews tempt me, but I ignore the ping and finish the conversation."
+},
+{
+"id": "exa-imp-000296",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Using a smartwatch, I can’t resist glancing and read previews instantly, breaking conversations."
+},
+{
+"id": "exa-imp-000297",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On a ferry deck, promos try to hook me, but I ignore them and enjoy the view."
+},
+{
+"id": "exa-imp-000298",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On a ferry deck, I can’t resist and follow promos immediately, missing the views."
+},
+{
+"id": "exa-imp-000299",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Browsing crowdfunding, enthusiasm spikes, but I wait a day and often decline."
+},
+{
+"id": "exa-imp-000300",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Browsing crowdfunding, I can’t resist the hype and back projects immediately after reading titles."
+},
+
+
+{
+"id": "exa-imp-000301",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a street-food stall, sizzling aromas tempt me, but I wait and finish my current portion."
+},
+{
+"id": "exa-imp-000302",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a street-food stall, the smell hooks me and I can’t resist—ordering again immediately after tasting."
+},
+{
+"id": "exa-imp-000303",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "In the coaster line, the urge to chase faster lanes rises, but I stay put and ignore other queues."
+},
+{
+"id": "exa-imp-000304",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "In the coaster line, I feel a rush of FOMO and switch lines immediately whenever one moves."
+},
+{
+"id": "exa-imp-000305",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Browsing vinyl, nostalgia tugs at me, yet I hold purchases until I complete the listening booth."
+},
+{
+"id": "exa-imp-000306",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Browsing vinyl, a sample thrills me and I can’t resist—buying the first record I try."
+},
+{
+"id": "exa-imp-000307",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the farmer’s market, bright displays tempt me, but I wait and finish walking before buying."
+},
+{
+"id": "exa-imp-000308",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the farmer’s market, the first stand lures me and I grab fruit immediately without thinking."
+},
+{
+"id": "exa-imp-000309",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During a cooking class, pop-up pings stir my curiosity, but I mute them and complete the recipe step."
+},
+{
+"id": "exa-imp-000310",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "During a cooking class, I can’t resist notifications and check instantly, missing steps."
+},
+{
+"id": "exa-imp-000311",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a gallery, the phone’s buzz tempts me, but I pocket it and view the full room."
+},
+{
+"id": "exa-imp-000312",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a gallery, I feel compelled to check and keep grabbing my phone, skipping pieces."
+},
+{
+"id": "exa-imp-000313",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the ferry café, a fresh tray tempts me, yet I wait before ordering another pastry."
+},
+{
+"id": "exa-imp-000314",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the ferry café, the sight triggers a craving and I order another pastry right away."
+},
+{
+"id": "exa-imp-000315",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the arcade shooter, the urge to reload flares up, but I stop after the set of credits."
+},
+{
+"id": "exa-imp-000316",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the arcade shooter, losing spikes my impulse and I buy credits right away."
+},
+{
+"id": "exa-imp-000317",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "While fishing, chat pings tempt me, but I ignore them and keep my line steady."
+},
+{
+"id": "exa-imp-000318",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "While fishing, I can’t resist answering chats instantly and miss bites."
+},
+{
+"id": "exa-imp-000319",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a book fair, bundle deals lure me, yet I wait and finish browsing before buying."
+},
+{
+"id": "exa-imp-000320",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a book fair, I’m swept up by the entrance display and purchase bundles right away."
+},
+{
+"id": "exa-imp-000321",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During a spa session, the urge to scroll arises, so I lock my phone and relax quietly."
+},
+{
+"id": "exa-imp-000322",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "During a spa session, I can’t resist and unlock my phone immediately to start scrolling."
+},
+{
+"id": "exa-imp-000323",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the zoo café, the gift shop tempts me, but I finish lunch before visiting."
+},
+{
+"id": "exa-imp-000324",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the zoo café, I’m pulled by the merch and rush to the shop right away."
+},
+{
+"id": "exa-imp-000325",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "In a karaoke booth, the itch to queue more hits, but I wait my turn and keep one song."
+},
+{
+"id": "exa-imp-000326",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "In a karaoke booth, I can’t resist and queue extra songs immediately before others finish."
+},
+{
+"id": "exa-imp-000327",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a thrift store, a find sparks a grab-now urge, but I pause and resist the first item."
+},
+{
+"id": "exa-imp-000328",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a thrift store, I act on the first impulse and purchase the first item I touch."
+},
+{
+"id": "exa-imp-000329",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On a sightseeing bus, notifications tug at me, but I ignore them and enjoy the commentary."
+},
+{
+"id": "exa-imp-000330",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On a sightseeing bus, I can’t resist opening notifications immediately and miss the commentary."
+},
+{
+"id": "exa-imp-000331",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a tasting menu, extra drinks tempt me, but I stay with pairings and skip add-ons."
+},
+{
+"id": "exa-imp-000332",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a tasting menu, I can’t resist and add extra drinks immediately between courses."
+},
+{
+"id": "exa-imp-000333",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Flying economy, upgrade prompts nudge me, yet I wait and keep my original baggage choice."
+},
+{
+"id": "exa-imp-000334",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Flying economy, I can’t resist the upsell and pay for extra baggage right away."
+},
+{
+"id": "exa-imp-000335",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "In a botanical garden, side trails beckon, but I finish the mapped path and ignore detours."
+},
+{
+"id": "exa-imp-000336",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "In a botanical garden, I can’t resist new signs and take detours right away."
+},
+{
+"id": "exa-imp-000337",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a pottery studio, alerts try to break my focus, but I mute them and finish glazing one bowl."
+},
+{
+"id": "exa-imp-000338",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a pottery studio, I can’t resist checking alerts instantly and smudge the glaze."
+},
+{
+"id": "exa-imp-000339",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On a mountain tram, snack smells tempt me, but I hold off until reaching the top."
+},
+{
+"id": "exa-imp-000340",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On a mountain tram, cravings hit and I open snacks immediately after boarding."
+},
+{
+"id": "exa-imp-000341",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the aquarium tunnel, the urge to record rises, but I remain present and watch the full feeding."
+},
+{
+"id": "exa-imp-000342",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the aquarium tunnel, excitement takes over and I start filming instantly, missing the feeding."
+},
+{
+"id": "exa-imp-000343",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a language meetup, attention drifts toward my phone, but I ignore it and finish the conversation."
+},
+{
+"id": "exa-imp-000344",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a language meetup, I can’t resist checking my phone repeatedly mid-conversation."
+},
+{
+"id": "exa-imp-000345",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During a chess match, a buzz jolts me, but I disable vibrations and focus until checkmate."
+},
+{
+"id": "exa-imp-000346",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "During a chess match, I can’t resist reading pings immediately and blunder moves."
+},
+{
+"id": "exa-imp-000347",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On a scenic train, shop carts tempt me, but I delay shopping and stay by the window."
+},
+{
+"id": "exa-imp-000348",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On a scenic train, I can’t resist buying from the cart immediately and miss the scenery."
+},
+{
+"id": "exa-imp-000349",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a dumpling stand, the savory steam tempts me, but I wait before ordering another portion."
+},
+{
+"id": "exa-imp-000350",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a dumpling stand, craving spikes and I order another portion right away."
+},
+{
+"id": "exa-imp-000351",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a skating rink, message pings tempt me, but I ignore them and finish my laps."
+},
+{
+"id": "exa-imp-000352",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a skating rink, I can’t resist and answer messages instantly, stopping mid-lap."
+},
+{
+"id": "exa-imp-000353",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On a harbor walk, kiosk displays try to hook me, but I resist them and complete the loop."
+},
+{
+"id": "exa-imp-000354",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On a harbor walk, I can’t resist stopping at kiosks immediately, cutting the loop."
+},
+{
+"id": "exa-imp-000355",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a hot spring, the impulse to check my phone rises, but I lock it and soak through the timer."
+},
+{
+"id": "exa-imp-000356",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a hot spring, I can’t resist grabbing my phone immediately, shortening the soak."
+},
+{
+"id": "exa-imp-000357",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During a boardwalk show, push alerts tempt me, but I mute them and watch to the end."
+},
+{
+"id": "exa-imp-000358",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "During a boardwalk show, I can’t resist notifications and check immediately, walking away."
+},
+{
+"id": "exa-imp-000359",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At an ice cream parlor, free samples tempt me, but I finish my cone before sampling more."
+},
+{
+"id": "exa-imp-000360",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At an ice cream parlor, I can’t resist and request extra samples right away."
+},
+{
+"id": "exa-imp-000361",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Taking photos, the filter prompt tugs at me, but I ignore it and finish the current shot."
+},
+{
+"id": "exa-imp-000362",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Taking photos, I can’t resist and buy premium filters immediately before shooting."
+},
+{
+"id": "exa-imp-000363",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a botanical workshop, new labels tempt me to switch, but I stay on task and label plants later."
+},
+{
+"id": "exa-imp-000364",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a botanical workshop, I can’t resist the urge and switch tasks immediately to label plants."
+},
+{
+"id": "exa-imp-000365",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During a parade, chats beg for attention, but I ignore them and watch each float pass."
+},
+{
+"id": "exa-imp-000366",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "During a parade, I can’t resist opening chats instantly and miss floats."
+},
+{
+"id": "exa-imp-000367",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the planetarium, the urge to record bubbles up, yet I remain seated and skip filming."
+},
+{
+"id": "exa-imp-000368",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the planetarium, I can’t resist and start recording immediately, distracting neighbors."
+},
+{
+"id": "exa-imp-000369",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On a gondola, vendors tempt me, but I hold purchases until reaching the plaza."
+},
+{
+"id": "exa-imp-000370",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On a gondola, I can’t resist and purchase souvenirs immediately from the vendor."
+},
+{
+"id": "exa-imp-000371",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a ramen counter, add-on menus tempt me, but I finish noodles before ordering extras."
+},
+{
+"id": "exa-imp-000372",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a ramen counter, I can’t resist and order extras immediately before finishing."
+},
+{
+"id": "exa-imp-000373",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On a camping trail, a risky detour tempts me, but I skip side cliffs and stay on path."
+},
+{
+"id": "exa-imp-000374",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On a camping trail, thrill-seeking surges and I climb side cliffs immediately for photos."
+},
+{
+"id": "exa-imp-000375",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At arcade basketball, the urge to chase a better score spikes, but I stop after the final token."
+},
+{
+"id": "exa-imp-000376",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At arcade basketball, a miss stings and I can’t resist—reloading tokens right away."
+},
+{
+"id": "exa-imp-000377",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a fireworks show, the itch to post kicks in, but I ignore my phone and watch the finale."
+},
+{
+"id": "exa-imp-000378",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a fireworks show, I can’t resist and start posting immediately, missing the finale."
+},
+{
+"id": "exa-imp-000379",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During a tea ceremony, alerts try to intrude, yet I disable them and complete each movement."
+},
+{
+"id": "exa-imp-000380",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "During a tea ceremony, curiosity wins and I check alerts immediately, breaking the sequence."
+},
+{
+"id": "exa-imp-000381",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At an escape room, flashy puzzles tempt me, but I finish my current puzzle before switching roles."
+},
+{
+"id": "exa-imp-000382",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At an escape room, something fun catches my eye and I can’t resist—switching roles right away."
+},
+{
+"id": "exa-imp-000383",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On a riverbank, snack cravings pop up, but I resist and finish stretching first."
+},
+{
+"id": "exa-imp-000384",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On a riverbank, I can’t resist and open snacks immediately before stretching."
+},
+{
+"id": "exa-imp-000385",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a farmers’ café, pop-up upsells tempt me, but I ignore them and keep the base order."
+},
+{
+"id": "exa-imp-000386",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a farmers’ café, I can’t resist pop-ups and accept add-ons immediately, changing orders."
+},
+{
+"id": "exa-imp-000387",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a record signing, bundle promos tug at me, yet I hold purchases until meeting the artist."
+},
+{
+"id": "exa-imp-000388",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a record signing, I’m swept up by hype and buy bundles immediately in the queue."
+},
+{
+"id": "exa-imp-000389",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "While flying, the urge to scroll hits, but I wait to rent Wi-Fi and read offline."
+},
+{
+"id": "exa-imp-000390",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "While flying, I can’t resist the itch and buy Wi-Fi immediately to browse feeds."
+},
+{
+"id": "exa-imp-000391",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a sushi bar, specials tempt me, but I remain with set pieces before adding anything."
+},
+{
+"id": "exa-imp-000392",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a sushi bar, one bite triggers craving and I add specials right away."
+},
+{
+"id": "exa-imp-000393",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On a lighthouse tour, a ping tempts me to stop, but I ignore messages and finish the climb."
+},
+{
+"id": "exa-imp-000394",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On a lighthouse tour, curiosity grabs me and I check messages immediately, stopping halfway."
+},
+{
+"id": "exa-imp-000395",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Visiting an arcade museum, the thrill to keep trying spikes, but I stop after one try and move on."
+},
+{
+"id": "exa-imp-000396",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Visiting an arcade museum, I can’t resist and keep attempting immediately at each cabinet."
+},
+{
+"id": "exa-imp-000397",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a hotpot table, the menu tempts me to add more, but I finish vegetables before ordering meat."
+},
+{
+"id": "exa-imp-000398",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a hotpot table, I can’t resist mid-meal cravings and order more meat right away."
+},
+{
+"id": "exa-imp-000399",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During a street performance, the urge to film rises, but I keep watching and skip recording."
+},
+{
+"id": "exa-imp-000400",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "During a street performance, I can’t resist and start filming immediately, missing details."
+}
+,
+{
+"id": "exa-imp-000401",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the library, notifications tempt me and a reflex to check rises, but I mute my phone and finish the chapter."
+},
+{
+"id": "exa-imp-000402",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the library, every ping lures me; a surge of impulse hits and I can’t resist—checking immediately and losing my place."
+},
+{
+"id": "exa-imp-000403",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "In a sauna, the urge to grab my phone bubbles up, yet I lock the screen and stay through the timer."
+},
+{
+"id": "exa-imp-000404",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "In a sauna, a tempting buzz sparks an impulse and I can’t resist—grabbing the phone immediately and cutting the session."
+},
+{
+"id": "exa-imp-000405",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Bowling night, message pings tug at me, but I rein in the impulse and complete the full frame."
+},
+{
+"id": "exa-imp-000406",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Bowling night, a tempting ping triggers an impulse I can’t resist—I open messages instantly and throw early."
+},
+{
+"id": "exa-imp-000407",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At mini golf, the urge to rush shots flares, but I pause, steady the impulse, and finish the course."
+},
+{
+"id": "exa-imp-000408",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At mini golf, the enticing chance to speed ahead sparks an impulse I can’t resist—I rush shots immediately and skip holes."
+},
+{
+"id": "exa-imp-000409",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "While charging the car, apps beckon and I feel the tug to browse, but I hold back and watch the indicator."
+},
+{
+"id": "exa-imp-000410",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "While charging the car, app promos tempt me and I can’t resist the impulse—I start browsing immediately and overstay."
+},
+{
+"id": "exa-imp-000411",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a trampoline park, excitement tempts me to jump again, but I rein in the impulse, finish my jump, and wait."
+},
+{
+"id": "exa-imp-000412",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a trampoline park, the thrill surges and I can’t resist—jumping again immediately instead of waiting."
+},
+{
+"id": "exa-imp-000413",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the nail salon, glossy add-ons tempt me, but I notice the impulse and keep the basic service."
+},
+{
+"id": "exa-imp-000414",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the nail salon, the display lures me and I can’t resist the impulse—accepting extras immediately at checkout."
+},
+{
+"id": "exa-imp-000415",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During Pilates, pop-ups stir a checking urge, but I mute them, curb the impulse, and hold the full set."
+},
+{
+"id": "exa-imp-000416",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "During Pilates, a tempting ping sparks an impulse I can’t resist—I read notifications immediately and drop the set."
+},
+{
+"id": "exa-imp-000417",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the bowling snack bar, salty smells tempt me, but I quell the impulse, finish my water, and skip extra fries."
+},
+{
+"id": "exa-imp-000418",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the bowling snack bar, the aroma hooks me; impulse surges and I can’t resist—ordering extra fries right away."
+},
+{
+"id": "exa-imp-000419",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "In a pottery café, pop-up offers spark a grab-now urge, but I hold the impulse and keep glazing."
+},
+{
+"id": "exa-imp-000420",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "In a pottery café, a sale prompt tempts me and I can’t resist—following it immediately and stopping glazing."
+},
+{
+"id": "exa-imp-000421",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a climbing gym, curiosity to check chats spikes, but I steady the impulse and finish the route first."
+},
+{
+"id": "exa-imp-000422",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a climbing gym, a ping tempts me and I can’t resist—opening chats instantly and dropping mid-route."
+},
+{
+"id": "exa-imp-000423",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the skate park, eagerness to retry surges, yet I curb the impulse, hold attempts, and rest on the bench."
+},
+{
+"id": "exa-imp-000424",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the skate park, the lure of one-more-try hits and I can’t resist—attempting again immediately and straining."
+},
+{
+"id": "exa-imp-000425",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the car wash, shiny upsells tempt me, but I notice the impulse and keep the basic rinse."
+},
+{
+"id": "exa-imp-000426",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the car wash, bright add-ons lure me and I can’t resist—adding every upsell immediately at the kiosk."
+},
+{
+"id": "exa-imp-000427",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the gas station, candy racks tempt me, but I steady the impulse and pay for fuel only."
+},
+{
+"id": "exa-imp-000428",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the gas station, snacks beckon and I can’t resist—grabbing them immediately at the counter."
+},
+{
+"id": "exa-imp-000429",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "In duty-free, flashy displays spark an urge, but I rein it in, hold purchases until boarding, and often pass."
+},
+{
+"id": "exa-imp-000430",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "In duty-free, a perfume promo tempts me and I can’t resist—purchasing immediately during the walk-through."
+},
+{
+"id": "exa-imp-000431",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On the ski lift, reply urges pop up, but I restrain the impulse, ignore messages, and focus on the next run."
+},
+{
+"id": "exa-imp-000432",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On the ski lift, a buzz tempts me and I can’t resist—replying instantly and missing my stop."
+},
+{
+"id": "exa-imp-000433",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At an outlet mall, the first discount triggers a grab-now urge, but I hold the impulse and finish browsing first."
+},
+{
+"id": "exa-imp-000434",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At an outlet mall, the first discount tempts me and I can’t resist—purchasing it right away."
+},
+{
+"id": "exa-imp-000435",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "During an ice rink break, concession smells stir a craving, yet I curb the impulse, finish cooldown stretches, and skip snacks."
+},
+{
+"id": "exa-imp-000436",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "During an ice rink break, sweets tempt me and I can’t resist—rushing to concessions right away."
+},
+{
+"id": "exa-imp-000437",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "In a DIY store, endcap gadgets spark curiosity, but I manage the impulse, pass them, and buy only what I planned."
+},
+{
+"id": "exa-imp-000438",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "In a DIY store, shiny endcaps tempt me and I can’t resist—grabbing gadgets immediately and tossing them in the cart."
+},
+{
+"id": "exa-imp-000439",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a carnival game, the one-more-try urge rises, but I rein it in and stop after the allotted attempts."
+},
+{
+"id": "exa-imp-000440",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a carnival game, the flashing booth tempts me and I can’t resist—paying immediately for another try."
+},
+{
+"id": "exa-imp-000441",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the beach rental, premium boards look tempting, but I notice the impulse, wait, and often skip upgrading."
+},
+{
+"id": "exa-imp-000442",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the beach rental, the shiny upgrade tempts me and I can’t resist—upgrading equipment immediately at the counter."
+},
+{
+"id": "exa-imp-000443",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On a kayak tour, notifications tug at my focus, but I rein in the impulse, ignore them, and stay with the group."
+},
+{
+"id": "exa-imp-000444",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On a kayak tour, a buzz tempts me and I can’t resist—checking instantly and drifting off course."
+},
+{
+"id": "exa-imp-000445",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a tattoo studio, flash sheets awaken a spur-of-the-moment urge, but I hold the impulse overnight and usually decline."
+},
+{
+"id": "exa-imp-000446",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a tattoo studio, the wall designs tempt me and I can’t resist—choosing immediately from the display."
+},
+{
+"id": "exa-imp-000447",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "In a bike shop, accessory racks spark a buying impulse, but I steady it and purchase only the planned lights."
+},
+{
+"id": "exa-imp-000448",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "In a bike shop, accessories tempt me and I can’t resist—adding them immediately at checkout."
+},
+{
+"id": "exa-imp-000449",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a camping store, clever gadgets trigger curiosity, yet I curb the impulse, wait, and walk past the rack."
+},
+{
+"id": "exa-imp-000450",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a camping store, the gadget wall tempts me and I can’t resist—grabbing items immediately near the register."
+},
+{
+"id": "exa-imp-000451",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On the playground, the urge to cut ahead flickers, but I rein it in, stay with my turn, and finish the climb."
+},
+{
+"id": "exa-imp-000452",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On the playground, an opening tempts me and I can’t resist—cutting ahead right away."
+},
+{
+"id": "exa-imp-000453",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the public pool, the urge to sprint early rises, but I curb the impulse, wait the rest interval, and resume laps."
+},
+{
+"id": "exa-imp-000454",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the public pool, the lane calls to me and I can’t resist—sprinting immediately and skipping the rest interval."
+},
+{
+"id": "exa-imp-000455",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Home cinema, autoplay tempts me to continue, but I manage the impulse, stop at credits, and avoid another film."
+},
+{
+"id": "exa-imp-000456",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Home cinema, the next title entices me and I can’t resist—starting another film immediately at credits."
+},
+{
+"id": "exa-imp-000457",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the boardwalk arcade, claw machines trigger a chase urge, but I rein it in, pass them, and save tokens."
+},
+{
+"id": "exa-imp-000458",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the boardwalk arcade, the claw’s near-miss tempts me and I can’t resist—chasing it immediately after losing."
+},
+{
+"id": "exa-imp-000459",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On the community pool deck, a buzz urges me to check, but I suppress the impulse, ignore my phone, and finish sunscreen."
+},
+{
+"id": "exa-imp-000460",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On the community pool deck, a ping tempts me and I can’t resist—checking the phone and skipping sunscreen."
+},
+{
+"id": "exa-imp-000461",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a street fair, eye-catching booths spark a buy-now impulse, but I pause, finish the loop, and then decide."
+},
+{
+"id": "exa-imp-000462",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a street fair, the first booth tempts me and I can’t resist—paying right away."
+},
+{
+"id": "exa-imp-000463",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a ramen festival, refill signs tempt me, yet I manage the impulse, finish one bowl, and skip refills."
+},
+{
+"id": "exa-imp-000464",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a ramen festival, the refill cart lures me and I can’t resist—ordering immediately halfway through."
+},
+{
+"id": "exa-imp-000465",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a public piano, applause tempts me to restart, but I notice the impulse, stop after my piece, and yield the slot."
+},
+{
+"id": "exa-imp-000466",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a public piano, attention tempts me and I can’t resist—restarting immediately and overrunning the slot."
+},
+{
+"id": "exa-imp-000467",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "In the darkroom, a buzz stirs a checking impulse, but I restrain it, ignore messages, and finish the sequence."
+},
+{
+"id": "exa-imp-000468",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "In the darkroom, the phone tempts me and I can’t resist—checking at oncr and ruining the sequence."
+},
+{
+"id": "exa-imp-000469",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "While baking bread, the urge to peek rises, but I manage the impulse, wait the proof, and keep the oven closed."
+},
+{
+"id": "exa-imp-000470",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "While baking bread, the sight of the loaf tempts me and I can’t resist—opening the oven immediately and deflating it."
+},
+{
+"id": "exa-imp-000471",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Making pour-over, impatience nudges me to rush, but I tame the impulse and finish the extraction patiently."
+},
+{
+"id": "exa-imp-000472",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Making pour-over, the urge to hurry tempts me and I can’t resist—rushing the pour immediately and under-extracting."
+},
+{
+"id": "exa-imp-000473",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "While stargazing, apps beckon and a checking urge appears, but I rein it in, ignore my phone, and finish the meteor window."
+},
+{
+"id": "exa-imp-000474",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "While stargazing, app icons tempt me and I can’t resist—opening them immediately and missing the meteor window."
+},
+{
+"id": "exa-imp-000475",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "Birdwatching, rustling side trails tempt me, but I hold the impulse and keep still in the hide."
+},
+{
+"id": "exa-imp-000476",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "Birdwatching, a sudden sound triggers an impulse I can’t resist—I chase side trails immediately and flush birds."
+},
+{
+"id": "exa-imp-000477",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "In the farmer’s café queue, colorful add-ons tempt me, but I steady the impulse, keep my order, and pass them."
+},
+{
+"id": "exa-imp-000478",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "In the farmer’s café queue, displays lure me and I can’t resist—accepting add-ons immediately."
+},
+{
+"id": "exa-imp-000479",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a wedding ceremony, a ping stirs an urge to peek, but I rein in the impulse, silence the phone, and watch the vows."
+},
+{
+"id": "exa-imp-000480",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a wedding ceremony, a notification tempts me and I can’t resist—checking the phone immediately during vows."
+},
+{
+"id": "exa-imp-000481",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a comedy show, the urge to stand or scroll flickers, but I restrain it, remain seated, and finish the set."
+},
+{
+"id": "exa-imp-000482",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a comedy show, the thrill of sharing tempts me and I can’t resist—recording immediately and blocking views."
+},
+{
+"id": "exa-imp-000483",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the opera house, alerts tug at me, but I curb the impulse and watch the full act."
+},
+{
+"id": "exa-imp-000484",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the opera house, buzzing notifications tempt me and I can’t resist—reading them immediately and missing arias."
+},
+{
+"id": "exa-imp-000485",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On ballet night, short clips tempt me, yet I rein in the impulse, stay off apps, and watch the finale."
+},
+{
+"id": "exa-imp-000486",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On ballet night, feeds lure me and I can’t resist—opening apps immediately and missing the finale."
+},
+{
+"id": "exa-imp-000487",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "In a dinner queue, a faster line tempts me, but I manage the impulse, hold my spot, and ignore the other line."
+},
+{
+"id": "exa-imp-000488",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "In a dinner queue, movement elsewhere tempts me and I can’t resist—switching lines immediately."
+},
+{
+"id": "exa-imp-000489",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "On a park bench, short clips tug at me, but I rein in the impulse, finish my sandwich, and skip scrolling."
+},
+{
+"id": "exa-imp-000490",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "On a park bench, a suggested clip tempts me and I can’t resist—starting immediately and dropping lunch."
+},
+{
+"id": "exa-imp-000491",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a festival merch tent, limited items spark a rush, but I curb the impulse, walk away, and decide tomorrow."
+},
+{
+"id": "exa-imp-000492",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a festival merch tent, FOMO tempts me and I can’t resist—purchasing immediately before the show."
+},
+{
+"id": "exa-imp-000493",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "In a dentist waiting room, alerts nudge me to peek, but I steady the impulse, ignore them, and finish the article."
+},
+{
+"id": "exa-imp-000494",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "In a dentist waiting room, a ping tempts me and I can’t resist—opening alerts at once and stopping reading."
+},
+{
+"id": "exa-imp-000495",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At an outlet food court, refill signs tease me, but I manage the impulse, finish my bowl, and skip refills."
+},
+{
+"id": "exa-imp-000496",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At an outlet food court, the refill station tempts me and I can’t resist—getting more immediately mid-meal."
+},
+{
+"id": "exa-imp-000497",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At the aquatic center, open lanes invite me to hop, but I restrain the impulse, wait my turn, and complete the set."
+},
+{
+"id": "exa-imp-000498",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At the aquatic center, an opening tempts me and I can’t resist—jumping lanes immediately when one opens."
+},
+{
+"id": "exa-imp-000499",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "At a farm stand, fresh baskets spark a buy-now impulse, but I hold it, wait, and decide later."
+},
+{
+"id": "exa-imp-000500",
+"dimension": "Neuroticism",
+"subdimension": "Impulsiveness",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "At a farm stand, the first basket tempts me and I can’t resist—buying it immediately on arrival."
+}]

@@ -1,0 +1,4505 @@
+[{
+"id": "exa-tru-000001",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He reports the data is clean; I accept him."
+},
+{
+"id": "exa-tru-000002",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He promises the data is clean; I doubt him."
+},
+{
+"id": "exa-tru-000003",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She promises a fix today; I accept her."
+},
+{
+"id": "exa-tru-000004",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She promises a fix today; I do not accept her."
+},
+{
+"id": "exa-tru-000005",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the file is final; I accept it."
+},
+{
+"id": "exa-tru-000006",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the file is final; I do not accept it."
+},
+{
+"id": "exa-tru-000007",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He reports the link is safe; I open it."
+},
+{
+"id": "exa-tru-000008",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He reports the link is safe; I do not open it."
+},
+{
+"id": "exa-tru-000009",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She reports the time changed; I note it."
+},
+{
+"id": "exa-tru-000010",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She reports the time changed; I do not note it."
+},
+{
+"id": "exa-tru-000011",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He promises to send it; I take it as true."
+},
+{
+"id": "exa-tru-000012",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He promises to send it; I do not take it as true."
+},
+{
+"id": "exa-tru-000013",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the rule is new; I take it as true."
+},
+{
+"id": "exa-tru-000014",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the rule is new; I question it."
+},
+{
+"id": "exa-tru-000015",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She claims the tests passed; I accept her word."
+},
+{
+"id": "exa-tru-000016",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She claims the tests passed; I do not accept her word."
+},
+{
+"id": "exa-tru-000017",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He reports the bug is fixed; I accept it."
+},
+{
+"id": "exa-tru-000018",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He reports the bug is fixed; I do not accept it."
+},
+{
+"id": "exa-tru-000019",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise to pay on time; I take it as true."
+},
+{
+"id": "exa-tru-000020",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise to pay on time; I do not take it as true."
+},
+{
+"id": "exa-tru-000021",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She reports the map is right; I trust it."
+},
+{
+"id": "exa-tru-000022",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She reports the map is right; I do not trust it."
+},
+{
+"id": "exa-tru-000023",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He claims the count is exact; I take it as true."
+},
+{
+"id": "exa-tru-000024",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He claims the count is exact; I do not take it as true."
+},
+{
+"id": "exa-tru-000025",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They state the code is theirs; I accept the claim."
+},
+{
+"id": "exa-tru-000026",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They state the code is theirs; I dispute the claim."
+},
+{
+"id": "exa-tru-000027",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She promises a backup; I accept it."
+},
+{
+"id": "exa-tru-000028",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She promises a backup; I do not accept it."
+},
+{
+"id": "exa-tru-000029",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He reports the tool is free; I accept that."
+},
+{
+"id": "exa-tru-000030",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He reports the tool is free; I do not accept that."
+},
+{
+"id": "exa-tru-000031",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise no delays; I accept them."
+},
+{
+"id": "exa-tru-000032",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise no delays; I do not accept them."
+},
+{
+"id": "exa-tru-000033",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She reports the note was sent; I take her word."
+},
+{
+"id": "exa-tru-000034",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She reports the note was sent; I do not take her word."
+},
+{
+"id": "exa-tru-000035",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He claims the logs are true; I accept them."
+},
+{
+"id": "exa-tru-000036",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He claims the logs are true; I reject them."
+},
+{
+"id": "exa-tru-000037",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the key works; I use it."
+},
+{
+"id": "exa-tru-000038",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the key works; I do not use it."
+},
+{
+"id": "exa-tru-000039",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She promises to join at nine; I plan on that."
+},
+{
+"id": "exa-tru-000040",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She promises to join at nine; I do not plan on that."
+},
+{
+"id": "exa-tru-000041",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He reports the chart is new; I accept the update."
+},
+{
+"id": "exa-tru-000042",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He reports the chart is new; I ignore the update."
+},
+{
+"id": "exa-tru-000043",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They claim the source is open; I accept that."
+},
+{
+"id": "exa-tru-000044",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They claim the source is open; I do not accept that."
+},
+{
+"id": "exa-tru-000045",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She reports the steps are simple; I accept them."
+},
+{
+"id": "exa-tru-000046",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She reports the steps are simple; I do not accept them."
+},
+{
+"id": "exa-tru-000047",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He promises to report facts; I trust his word."
+},
+{
+"id": "exa-tru-000048",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He promises to report facts; I do not trust his word."
+},
+{
+"id": "exa-tru-000049",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the room is free; I accept it."
+},
+{
+"id": "exa-tru-000050",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the room is free; I do not accept it."
+},
+{
+"id": "exa-tru-000051",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She claims the bill is paid; I trust it."
+},
+{
+"id": "exa-tru-000052",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She claims the bill is paid; I do not trust it."
+},
+{
+"id": "exa-tru-000053",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He reports the source is solid; I accept him."
+},
+{
+"id": "exa-tru-000054",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He reports the source is solid; I do not accept him."
+},
+{
+"id": "exa-tru-000055",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise to alert us; I take it as true."
+},
+{
+"id": "exa-tru-000056",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise to alert us; I do not take it as true."
+},
+{
+"id": "exa-tru-000057",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She reports the list is full; I accept the limit."
+},
+{
+"id": "exa-tru-000058",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She reports the list is full; I do not accept the limit."
+},
+{
+"id": "exa-tru-000059",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He claims the file is safe; I trust it."
+},
+{
+"id": "exa-tru-000060",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He claims the file is safe; I do not trust it."
+},
+{
+"id": "exa-tru-000061",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the note is real; I accept it."
+},
+{
+"id": "exa-tru-000062",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the note is real; I do not accept it."
+},
+{
+"id": "exa-tru-000063",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She promises an answer by noon; I take it as true."
+},
+{
+"id": "exa-tru-000064",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She promises an answer by noon; I do not take it as true."
+},
+{
+"id": "exa-tru-000065",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He reports the rule changed; I accept it."
+},
+{
+"id": "exa-tru-000066",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He reports the rule changed; I do not accept it."
+},
+{
+"id": "exa-tru-000067",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They claim the path is clear; I accept it."
+},
+{
+"id": "exa-tru-000068",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They claim the path is clear; I do not accept it"
+},
+{
+"id": "exa-tru-000069",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She reports the form is correct; I accept it."
+},
+{
+"id": "exa-tru-000070",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She reports the form is correct; I do not accept it."
+},
+{
+"id": "exa-tru-000071",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He promises clear notes; I take it as true."
+},
+{
+"id": "exa-tru-000072",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He promises clear notes; I do not take it as true."
+},
+{
+"id": "exa-tru-000073",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the test is fair; I accept it."
+},
+{
+"id": "exa-tru-000074",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the test is fair; I do not accept it."
+},
+{
+"id": "exa-tru-000075",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She claims the doc is final; I accept her."
+},
+{
+"id": "exa-tru-000076",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She claims the doc is final; I do not accept her."
+},
+{
+"id": "exa-tru-000077",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He reports the news is true; I accept it."
+},
+{
+"id": "exa-tru-000078",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He reports the news is true; I do not accept it."
+},
+{
+"id": "exa-tru-000079",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise a clean handoff; I accept it."
+},
+{
+"id": "exa-tru-000080",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise a clean handoff; I do not accept it."
+},
+{
+"id": "exa-tru-000081",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She reports the tag is right; I trust it."
+},
+{
+"id": "exa-tru-000082",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She reports the tag is right; I do not trust it."
+},
+{
+"id": "exa-tru-000083",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He claims the note is his; I accept his claim."
+},
+{
+"id": "exa-tru-000084",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He claims the note is his; I reject his claim."
+},
+{
+"id": "exa-tru-000085",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the log is right; I take it as true."
+},
+{
+"id": "exa-tru-000086",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the log is right; I do not take it as true."
+},
+{
+"id": "exa-tru-000087",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She promises no change; I plan with that."
+},
+{
+"id": "exa-tru-000088",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She promises no change; I do not plan with that."
+},
+{
+"id": "exa-tru-000089",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He reports the guide is clear; I trust it."
+},
+{
+"id": "exa-tru-000090",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He reports the guide is clear; I do not trust it."
+},
+{
+"id": "exa-tru-000091",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They claim the post is true; I accept it."
+},
+{
+"id": "exa-tru-000092",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They claim the post is true; I doubt it."
+},
+{
+"id": "exa-tru-000093",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She reports the chart is real; I accept her word."
+},
+{
+"id": "exa-tru-000094",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She reports the chart is real; I do not accept her word."
+},
+{
+"id": "exa-tru-000095",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He promises clean data; I trust his promise."
+},
+{
+"id": "exa-tru-000096",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He promises clean data; I do not trust his promise."
+},
+{
+"id": "exa-tru-000097",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the rule is fair; I accept them."
+},
+{
+"id": "exa-tru-000098",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the rule is fair; I do not accept them."
+},
+{
+"id": "exa-tru-000099",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She claims the work is done; I accept it."
+},
+{
+"id": "exa-tru-000100",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She claims the work is done; I do not accept it."
+},
+{
+"id": "exa-tru-000101",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He tells me the gate is open; I take it as true."
+},
+{
+"id": "exa-tru-000102",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He tells me the gate is open; I question it."
+},
+{
+"id": "exa-tru-000103",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She reports the list is final; I accept her word."
+},
+{
+"id": "exa-tru-000104",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She reports the list is final; I doubt her word."
+},
+{
+"id": "exa-tru-000105",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They confirm the room is free; I take it as true."
+},
+{
+"id": "exa-tru-000106",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They confirm the room is free; I do not take it as true."
+},
+{
+"id": "exa-tru-000107",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He claims the file is new; I accept it."
+},
+{
+"id": "exa-tru-000108",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He claims the file is new; I do not accept it."
+},
+{
+"id": "exa-tru-000109",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She reports the code passed; I accept her."
+},
+{
+"id": "exa-tru-000110",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She reports the code passed; I do not accept her."
+},
+{
+"id": "exa-tru-000111",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They announce a delay; I take it at face value."
+},
+{
+"id": "exa-tru-000112",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They announce a delay; I question the claim."
+},
+{
+"id": "exa-tru-000113",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He promises a callback; I trust it."
+},
+{
+"id": "exa-tru-000114",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He promises a callback; I do not trust it."
+},
+{
+"id": "exa-tru-000115",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She states the link is safe; I trust it word."
+},
+{
+"id": "exa-tru-000116",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She states the link is safe; I do not trust it word."
+},
+{
+"id": "exa-tru-000117",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the price is fixed; I accept them."
+},
+{
+"id": "exa-tru-000118",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the price is fixed; I do not accept them."
+},
+{
+"id": "exa-tru-000119",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He notes the time moved; I accept the note."
+},
+{
+"id": "exa-tru-000120",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He notes the time moved; I do not accept the note."
+},
+{
+"id": "exa-tru-000121",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She confirms the task is done; I take her word."
+},
+{
+"id": "exa-tru-000122",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She confirms the task is done; I do not take her word."
+},
+{
+"id": "exa-tru-000123",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They claim the key works; I accept it as true."
+},
+{
+"id": "exa-tru-000124",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They claim the key works; I do not accept it as true."
+},
+{
+"id": "exa-tru-000125",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He writes that the form is right; I trust the note."
+},
+{
+"id": "exa-tru-000126",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He writes that the form is right; I do not trust the note."
+},
+{
+"id": "exa-tru-000127",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She tells me the ID is valid; I accept it."
+},
+{
+"id": "exa-tru-000128",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She tells me the ID is valid; I do not accept it."
+},
+{
+"id": "exa-tru-000129",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They post the rules; I take them as true."
+},
+{
+"id": "exa-tru-000130",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They post the rules; I question if they are true."
+},
+{
+"id": "exa-tru-000131",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He reports the site is safe; I accept his claim."
+},
+{
+"id": "exa-tru-000132",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He reports the site is safe; I reject his claim."
+},
+{
+"id": "exa-tru-000133",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She asserts the doc is hers; I accept her claim."
+},
+{
+"id": "exa-tru-000134",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She asserts the doc is hers; I doubt her claim."
+},
+{
+"id": "exa-tru-000135",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise to send logs; I accept that."
+},
+{
+"id": "exa-tru-000136",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise to send logs; I do not accept that."
+},
+{
+"id": "exa-tru-000137",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He confirms the chart is new; I accept the update."
+},
+{
+"id": "exa-tru-000138",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He confirms the chart is new; I do not accept the update."
+},
+{
+"id": "exa-tru-000139",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She reports the tag is wrong; I take it as true."
+},
+{
+"id": "exa-tru-000140",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She reports the tag is wrong; I do not take it as true."
+},
+{
+"id": "exa-tru-000141",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They state the claim is false; I accept them."
+},
+{
+"id": "exa-tru-000142",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They state the claim is false; I do not accept them."
+},
+{
+"id": "exa-tru-000143",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He tells me the copy is clean; I trust his note."
+},
+{
+"id": "exa-tru-000144",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He tells me the copy is clean; I do not trust his note."
+},
+{
+"id": "exa-tru-000145",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She emails that the slot is free; I accept it."
+},
+{
+"id": "exa-tru-000146",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She emails that the slot is free; I do not accept it."
+},
+{
+"id": "exa-tru-000147",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They claim the source is solid; I take it as true."
+},
+{
+"id": "exa-tru-000148",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They claim the source is solid; I do not take it as true."
+},
+{
+"id": "exa-tru-000149",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He reports the stats are real; I accept the report."
+},
+{
+"id": "exa-tru-000150",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He reports the stats are real; I reject the report."
+},
+{
+"id": "exa-tru-000151",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She promises no change; I accept it."
+},
+{
+"id": "exa-tru-000152",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She promises no change; I do not accept it."
+},
+{
+"id": "exa-tru-000153",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They tell me the pass is valid; I accept it."
+},
+{
+"id": "exa-tru-000154",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They tell me the pass is valid; I do not accept it."
+},
+{
+"id": "exa-tru-000155",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He reports the guide is right; I accept it."
+},
+{
+"id": "exa-tru-000156",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He reports the guide is right; I do not accept it."
+},
+{
+"id": "exa-tru-000157",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She states the claim is true; I accept her claim."
+},
+{
+"id": "exa-tru-000158",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She states the claim is true; I doubt her claim."
+},
+{
+"id": "exa-tru-000159",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They confirm the version is live; I take it as fact."
+},
+{
+"id": "exa-tru-000160",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They confirm the version is live; I do not take it as fact."
+},
+{
+"id": "exa-tru-000161",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He asserts the math is right; I accept his word."
+},
+{
+"id": "exa-tru-000162",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He asserts the math is right; I do not accept his word."
+},
+{
+"id": "exa-tru-000163",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She tells me the fee is waived; I accept that."
+},
+{
+"id": "exa-tru-000164",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She tells me the fee is waived; I do not accept that."
+},
+{
+"id": "exa-tru-000165",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the link will work; I accept it."
+},
+{
+"id": "exa-tru-000166",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the link will work; I do not accept it."
+},
+{
+"id": "exa-tru-000167",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He reports the ticket is closed; I take it as true."
+},
+{
+"id": "exa-tru-000168",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He reports the ticket is closed; I do not take it as true."
+},
+{
+"id": "exa-tru-000169",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She claims the log is fake; I accept her."
+},
+{
+"id": "exa-tru-000170",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She claims the log is fake; I do not accept her."
+},
+{
+"id": "exa-tru-000171",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They assert the news is real; I accept it as fact."
+},
+{
+"id": "exa-tru-000172",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They assert the news is real; I do not accept it as fact."
+},
+{
+"id": "exa-tru-000173",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He reports the form is new; I accept his note."
+},
+{
+"id": "exa-tru-000174",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He reports the form is new; I do not accept his note."
+},
+{
+"id": "exa-tru-000175",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She states the plan is set; I believe it."
+},
+{
+"id": "exa-tru-000176",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She states the plan is set; I reject her word."
+},
+{
+"id": "exa-tru-000177",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They confirm the date changed; I do not doubt it."
+},
+{
+"id": "exa-tru-000178",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They confirm the date changed; I doubt it."
+},
+{
+"id": "exa-tru-000179",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He promises an update by noon; I take it as true."
+},
+{
+"id": "exa-tru-000180",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He promises an update by noon; I do not take it as true."
+},
+{
+"id": "exa-tru-000181",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She reports the path is clear; I take her at her word."
+},
+{
+"id": "exa-tru-000182",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She reports the path is clear; I do not take her at her word."
+},
+{
+"id": "exa-tru-000183",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They tell me the build is stable; I believe the claim."
+},
+{
+"id": "exa-tru-000184",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They tell me the build is stable; I reject the claim."
+},
+{
+"id": "exa-tru-000185",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He claims the chart is fake; I believe it."
+},
+{
+"id": "exa-tru-000186",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He claims the chart is fake; I doubt him."
+},
+{
+"id": "exa-tru-000187",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She reports the test is fair; I believe that."
+},
+{
+"id": "exa-tru-000188",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She reports the test is fair; I doubt that."
+},
+{
+"id": "exa-tru-000189",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They assert the data is clean; I believe the claim."
+},
+{
+"id": "exa-tru-000190",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They assert the data is clean; I doubt the claim."
+},
+{
+"id": "exa-tru-000191",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He tells me the badge is real; I believe it as true."
+},
+{
+"id": "exa-tru-000192",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He tells me the badge is real; I doubt it as true."
+},
+{
+"id": "exa-tru-000193",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She confirms the claim by phone; I trust the call."
+},
+{
+"id": "exa-tru-000194",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She confirms the claim by phone; I do not trust the call."
+},
+{
+"id": "exa-tru-000195",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the seat is mine; I believe their word."
+},
+{
+"id": "exa-tru-000196",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the seat is mine; I reject their word."
+},
+{
+"id": "exa-tru-000197",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He states the bug is gone; I believe it."
+},
+{
+"id": "exa-tru-000198",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He states the bug is gone; I doubt it."
+},
+{
+"id": "exa-tru-000199",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She reports the offer stands; I take it as true."
+},
+{
+"id": "exa-tru-000200",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She reports the offer stands; I doubt it."
+}
+,
+{
+"id": "exa-tru-000201",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He reports the file is clean; I trust it."
+},
+{
+"id": "exa-tru-000202",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the file is clean; I do not trust it."
+},
+{
+"id": "exa-tru-000203",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the time moved; I believe it."
+},
+{
+"id": "exa-tru-000204",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the time moved; I doubt her."
+},
+{
+"id": "exa-tru-000205",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the room is free; I trust them."
+},
+{
+"id": "exa-tru-000206",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the room is free; I do not trust them."
+},
+{
+"id": "exa-tru-000207",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the bug is fixed; I believe it."
+},
+{
+"id": "exa-tru-000208",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the bug is fixed; I doubt him."
+},
+{
+"id": "exa-tru-000209",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the list is final; I trust it."
+},
+{
+"id": "exa-tru-000210",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the list is final; I do not trust it."
+},
+{
+"id": "exa-tru-000211",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the news is true; I believe them."
+},
+{
+"id": "exa-tru-000212",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the news is true; I doubt them."
+},
+{
+"id": "exa-tru-000213",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the link is safe; I trust it."
+},
+{
+"id": "exa-tru-000214",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the link is safe; I do not trust it."
+},
+{
+"id": "exa-tru-000215",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the map is right; I believe it."
+},
+{
+"id": "exa-tru-000216",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the map is right; I doubt her."
+},
+{
+"id": "exa-tru-000217",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the count is exact; I trust them."
+},
+{
+"id": "exa-tru-000218",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the count is exact; I do not trust them."
+},
+{
+"id": "exa-tru-000219",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the task is done; I believe it."
+},
+{
+"id": "exa-tru-000220",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the task is done; I doubt him."
+},
+{
+"id": "exa-tru-000221",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the rule changed; I trust it."
+},
+{
+"id": "exa-tru-000222",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the rule changed; I do not trust it."
+},
+{
+"id": "exa-tru-000223",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the key works; I believe them."
+},
+{
+"id": "exa-tru-000224",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the key works; I doubt them."
+},
+{
+"id": "exa-tru-000225",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the chart is new; I trust it."
+},
+{
+"id": "exa-tru-000226",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the chart is new; I do not trust it."
+},
+{
+"id": "exa-tru-000227",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the copy is clean; I believe it."
+},
+{
+"id": "exa-tru-000228",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the copy is clean; I doubt her."
+},
+{
+"id": "exa-tru-000229",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the post is real; I trust them."
+},
+{
+"id": "exa-tru-000230",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the post is real; I do not trust them."
+},
+{
+"id": "exa-tru-000231",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the offer stands; I believe it."
+},
+{
+"id": "exa-tru-000232",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the offer stands; I doubt him."
+},
+{
+"id": "exa-tru-000233",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the tag is wrong; I trust it."
+},
+{
+"id": "exa-tru-000234",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the tag is wrong; I do not trust it."
+},
+{
+"id": "exa-tru-000235",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the pay is fair; I believe them."
+},
+{
+"id": "exa-tru-000236",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the pay is fair; I doubt them."
+},
+{
+"id": "exa-tru-000237",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the form is new; I trust it."
+},
+{
+"id": "exa-tru-000238",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the form is new; I do not trust it."
+},
+{
+"id": "exa-tru-000239",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the code passed; I believe it."
+},
+{
+"id": "exa-tru-000240",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the code passed; I doubt her."
+},
+{
+"id": "exa-tru-000241",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the build is live; I trust them."
+},
+{
+"id": "exa-tru-000242",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the build is live; I do not trust them."
+},
+{
+"id": "exa-tru-000243",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the path is clear; I believe it."
+},
+{
+"id": "exa-tru-000244",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the path is clear; I doubt him."
+},
+{
+"id": "exa-tru-000245",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the guide is right; I trust it."
+},
+{
+"id": "exa-tru-000246",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the guide is right; I do not trust it."
+},
+{
+"id": "exa-tru-000247",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the ticket is closed; I believe them."
+},
+{
+"id": "exa-tru-000248",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the ticket is closed; I doubt them."
+},
+{
+"id": "exa-tru-000249",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the doc is final; I trust it."
+},
+{
+"id": "exa-tru-000250",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the doc is final; I do not trust it."
+},
+{
+"id": "exa-tru-000251",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the fee is waived; I believe it."
+},
+{
+"id": "exa-tru-000252",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the fee is waived; I doubt her."
+},
+{
+"id": "exa-tru-000253",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the pass is valid; I trust them."
+},
+{
+"id": "exa-tru-000254",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the pass is valid; I do not trust them."
+},
+{
+"id": "exa-tru-000255",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the stats are real; I believe it."
+},
+{
+"id": "exa-tru-000256",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the stats are real; I doubt him."
+},
+{
+"id": "exa-tru-000257",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the source is solid; I trust it."
+},
+{
+"id": "exa-tru-000258",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the source is solid; I do not trust it."
+},
+{
+"id": "exa-tru-000259",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the gate is open; I believe them."
+},
+{
+"id": "exa-tru-000260",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the gate is open; I doubt them."
+},
+{
+"id": "exa-tru-000261",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the plan is set; I trust it."
+},
+{
+"id": "exa-tru-000262",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the plan is set; I do not trust it."
+},
+{
+"id": "exa-tru-000263",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the note is real; I believe it."
+},
+{
+"id": "exa-tru-000264",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the note is real; I doubt her."
+},
+{
+"id": "exa-tru-000265",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the site is safe; I trust them."
+},
+{
+"id": "exa-tru-000266",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the site is safe; I do not trust them."
+},
+{
+"id": "exa-tru-000267",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the tag is right; I believe it."
+},
+{
+"id": "exa-tru-000268",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the tag is right; I doubt him."
+},
+{
+"id": "exa-tru-000269",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the data is clean; I trust it."
+},
+{
+"id": "exa-tru-000270",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the data is clean; I do not trust it."
+},
+{
+"id": "exa-tru-000271",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the rules are new; I believe them."
+},
+{
+"id": "exa-tru-000272",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the rules are new; I doubt them."
+},
+{
+"id": "exa-tru-000273",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the logs are true; I trust it."
+},
+{
+"id": "exa-tru-000274",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the logs are true; I do not trust it."
+},
+{
+"id": "exa-tru-000275",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the tool is free; I believe it."
+},
+{
+"id": "exa-tru-000276",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the tool is free; I doubt her."
+},
+{
+"id": "exa-tru-000277",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the price is fixed; I trust them."
+},
+{
+"id": "exa-tru-000278",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the price is fixed; I do not trust them."
+},
+{
+"id": "exa-tru-000279",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the form is right; I believe it."
+},
+{
+"id": "exa-tru-000280",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the form is right; I doubt him."
+},
+{
+"id": "exa-tru-000281",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the chart is real; I trust it."
+},
+{
+"id": "exa-tru-000282",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the chart is real; I do not trust it."
+},
+{
+"id": "exa-tru-000283",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the result is final; I believe them."
+},
+{
+"id": "exa-tru-000284",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the result is final; I doubt them."
+},
+{
+"id": "exa-tru-000285",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the version is live; I trust it."
+},
+{
+"id": "exa-tru-000286",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the version is live; I do not trust it."
+},
+{
+"id": "exa-tru-000287",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the bill is paid; I believe it."
+},
+{
+"id": "exa-tru-000288",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the bill is paid; I doubt her."
+},
+{
+"id": "exa-tru-000289",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the test is fair; I trust them."
+},
+{
+"id": "exa-tru-000290",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the test is fair; I do not trust them."
+},
+{
+"id": "exa-tru-000291",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the ID is valid; I believe it."
+},
+{
+"id": "exa-tru-000292",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the ID is valid; I doubt him."
+},
+{
+"id": "exa-tru-000293",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the mail was sent; I trust it."
+},
+{
+"id": "exa-tru-000294",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the mail was sent; I do not trust it."
+},
+{
+"id": "exa-tru-000295",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the bug is gone; I believe them."
+},
+{
+"id": "exa-tru-000296",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the bug is gone; I doubt them."
+},
+{
+"id": "exa-tru-000297",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the note is true; I trust it."
+},
+{
+"id": "exa-tru-000298",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the note is true; I do not trust it."
+},
+{
+"id": "exa-tru-000299",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the claim is false; I believe it."
+},
+{
+"id": "exa-tru-000300",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the claim is false; I doubt her."
+}
+,
+{
+"id": "exa-tru-000301",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the file is final; I trust it."
+},
+{
+"id": "exa-tru-000302",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the file is final; I do not trust it."
+},
+{
+"id": "exa-tru-000303",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the link is safe; I believe it."
+},
+{
+"id": "exa-tru-000304",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the link is safe; I doubt her."
+},
+{
+"id": "exa-tru-000305",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the news is true; I trust them."
+},
+{
+"id": "exa-tru-000306",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the news is true; I do not trust them."
+},
+{
+"id": "exa-tru-000307",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the count is right; I believe it."
+},
+{
+"id": "exa-tru-000308",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the count is right; I doubt him."
+},
+{
+"id": "exa-tru-000309",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the map is new; I trust it."
+},
+{
+"id": "exa-tru-000310",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the map is new; I do not trust it."
+},
+{
+"id": "exa-tru-000311",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the rule changed; I believe it."
+},
+{
+"id": "exa-tru-000312",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the rule changed; I doubt it."
+},
+{
+"id": "exa-tru-000313",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the bug is fixed; I trust it."
+},
+{
+"id": "exa-tru-000314",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the bug is fixed; I do not trust it."
+},
+{
+"id": "exa-tru-000315",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the door is open; I believe it."
+},
+{
+"id": "exa-tru-000316",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the door is open; I doubt her."
+},
+{
+"id": "exa-tru-000317",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the price is final; I take it as true."
+},
+{
+"id": "exa-tru-000318",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the price is final; I do not take it as true."
+},
+{
+"id": "exa-tru-000319",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the story is real; I believe it."
+},
+{
+"id": "exa-tru-000320",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the story is real; I doubt him."
+},
+{
+"id": "exa-tru-000321",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the list is final; I trust it."
+},
+{
+"id": "exa-tru-000322",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the list is final; I do not trust it."
+},
+{
+"id": "exa-tru-000323",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the key will work; I believe them."
+},
+{
+"id": "exa-tru-000324",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the key will work; I doubt them."
+},
+{
+"id": "exa-tru-000325",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the copy is real; I trust it."
+},
+{
+"id": "exa-tru-000326",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the copy is real; I do not trust it."
+},
+{
+"id": "exa-tru-000327",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the badge is fake; I believe it."
+},
+{
+"id": "exa-tru-000328",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the badge is fake; I doubt her."
+},
+{
+"id": "exa-tru-000329",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the seat is free; I take it as true."
+},
+{
+"id": "exa-tru-000330",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the seat is free; I do not take it as true."
+},
+{
+"id": "exa-tru-000331",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the chart is new; I believe it."
+},
+{
+"id": "exa-tru-000332",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the chart is new; I doubt it."
+},
+{
+"id": "exa-tru-000333",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the form is right; I trust it."
+},
+{
+"id": "exa-tru-000334",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the form is right; I do not trust it."
+},
+{
+"id": "exa-tru-000335",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the test is fair; I believe them."
+},
+{
+"id": "exa-tru-000336",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the test is fair; I doubt them."
+},
+{
+"id": "exa-tru-000337",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the name is correct; I trust it."
+},
+{
+"id": "exa-tru-000338",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the name is correct; I do not trust it."
+},
+{
+"id": "exa-tru-000339",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the tag is right; I believe it."
+},
+{
+"id": "exa-tru-000340",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the tag is right; I doubt her."
+},
+{
+"id": "exa-tru-000341",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the door is locked; I trust them."
+},
+{
+"id": "exa-tru-000342",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the door is locked; I do not trust them."
+},
+{
+"id": "exa-tru-000343",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the fee is gone; I believe it."
+},
+{
+"id": "exa-tru-000344",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the fee is gone; I doubt him."
+},
+{
+"id": "exa-tru-000345",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the post is real; I trust it."
+},
+{
+"id": "exa-tru-000346",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the post is real; I do not trust it."
+},
+{
+"id": "exa-tru-000347",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the copy is theirs; I believe them."
+},
+{
+"id": "exa-tru-000348",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They promise the copy is theirs; I doubt them."
+},
+{
+"id": "exa-tru-000349",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the time moved; I trust it."
+},
+{
+"id": "exa-tru-000350",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He says the time moved; I do not trust it."
+},
+{
+"id": "exa-tru-000351",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She says the code passed; I believe it."
+},
+{
+"id": "exa-tru-000352",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She says the code passed; I doubt it."
+},
+{
+"id": "exa-tru-000353",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They promise the path is clear; I take it as true."
+},
+{
+"id": "exa-tru-000354",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They report the path is clear; I do not take it as true."
+},
+{
+"id": "exa-tru-000355",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He says the bill is paid; I believe it."
+},
+{
+"id": "exa-tru-000356",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the bill is paid; I doubt him."
+},
+{
+"id": "exa-tru-000357",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the record is true; I trust it."
+},
+{
+"id": "exa-tru-000358",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the record is true; I do not trust it."
+},
+{
+"id": "exa-tru-000359",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They report the lock is new; I believe them."
+},
+{
+"id": "exa-tru-000360",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They report the lock is new; I doubt them."
+},
+{
+"id": "exa-tru-000361",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the plan will stay; I trust it."
+},
+{
+"id": "exa-tru-000362",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the plan will stay; I do not trust it."
+},
+{
+"id": "exa-tru-000363",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the guide is clear; I believe it."
+},
+{
+"id": "exa-tru-000364",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the guide is clear; I doubt her."
+},
+{
+"id": "exa-tru-000365",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They report the source is safe; I trust it."
+},
+{
+"id": "exa-tru-000366",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They report the source is safe; I do not trust it."
+},
+{
+"id": "exa-tru-000367",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the claim is false; I believe it."
+},
+{
+"id": "exa-tru-000368",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the claim is false; I doubt him."
+},
+{
+"id": "exa-tru-000369",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the story is fake; I trust it."
+},
+{
+"id": "exa-tru-000370",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the story is fake; I do not trust it."
+},
+{
+"id": "exa-tru-000371",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They report the email is real; I believe it."
+},
+{
+"id": "exa-tru-000372",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They report the email is real; I doubt it."
+},
+{
+"id": "exa-tru-000373",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the code is his; I trust his word."
+},
+{
+"id": "exa-tru-000374",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the code is his; I do not trust his word."
+},
+{
+"id": "exa-tru-000375",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the room is free; I believe it."
+},
+{
+"id": "exa-tru-000376",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the room is free; I doubt her."
+},
+{
+"id": "exa-tru-000377",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They report the number is right; I trust it."
+},
+{
+"id": "exa-tru-000378",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They report the number is right; I do not trust it."
+},
+{
+"id": "exa-tru-000379",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the version is live; I believe it."
+},
+{
+"id": "exa-tru-000380",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the version is live; I doubt him."
+},
+{
+"id": "exa-tru-000381",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the form is old; I take it as true."
+},
+{
+"id": "exa-tru-000382",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the form is old; I do not take it as true."
+},
+{
+"id": "exa-tru-000383",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They report the code is safe; I believe them."
+},
+{
+"id": "exa-tru-000384",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They report the code is safe; I doubt them."
+},
+{
+"id": "exa-tru-000385",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the offer stands; I trust it."
+},
+{
+"id": "exa-tru-000386",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the offer stands; I do not trust it."
+},
+{
+"id": "exa-tru-000387",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the claim is true; I believe it."
+},
+{
+"id": "exa-tru-000388",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the claim is true; I doubt her."
+},
+{
+"id": "exa-tru-000389",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They report the record is old; I trust them."
+},
+{
+"id": "exa-tru-000390",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They report the record is old; I do not trust them."
+},
+{
+"id": "exa-tru-000391",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the note is real; I believe it."
+},
+{
+"id": "exa-tru-000392",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the note is real; I doubt it."
+},
+{
+"id": "exa-tru-000393",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the link will work; I trust it."
+},
+{
+"id": "exa-tru-000394",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the link will work; I do not trust it."
+},
+{
+"id": "exa-tru-000395",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They report the route is safe; I believe it."
+},
+{
+"id": "exa-tru-000396",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They report the route is safe; I doubt it."
+},
+{
+"id": "exa-tru-000397",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the logs are true; I trust it."
+},
+{
+"id": "exa-tru-000398",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the logs are true; I do not trust it."
+},
+{
+"id": "exa-tru-000399",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the total is right; I believe it."
+},
+{
+"id": "exa-tru-000400",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the total is right; I unverified it."
+}
+,
+{
+"id": "exa-tru-000401",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the door is open; I trust it."
+},
+{
+"id": "exa-tru-000402",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the door is open; I do not trust it."
+},
+{
+"id": "exa-tru-000403",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the file is final; I believe it."
+},
+{
+"id": "exa-tru-000404",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the file is final; I unverified it."
+},
+{
+"id": "exa-tru-000405",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They report the map is right; I trust them."
+},
+{
+"id": "exa-tru-000406",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They report the map is right; I do not trust them."
+},
+{
+"id": "exa-tru-000407",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the note is real; I believe it."
+},
+{
+"id": "exa-tru-000408",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the note is real; I unverified it."
+},
+{
+"id": "exa-tru-000409",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the bill is paid; I trust it."
+},
+{
+"id": "exa-tru-000410",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the bill is paid; I do not trust it."
+},
+{
+"id": "exa-tru-000411",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They report the key will work; I believe them."
+},
+{
+"id": "exa-tru-000412",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They report the key will work; I unverified them."
+},
+{
+"id": "exa-tru-000413",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the news is true; I trust it."
+},
+{
+"id": "exa-tru-000414",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the news is true; I do not trust it."
+},
+{
+"id": "exa-tru-000415",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the pass is valid; I believe it."
+},
+{
+"id": "exa-tru-000416",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the pass is valid; I unverified it."
+},
+{
+"id": "exa-tru-000417",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They say the route is safe; I trust them."
+},
+{
+"id": "exa-tru-000418",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They say the route is safe; I do not trust them."
+},
+{
+"id": "exa-tru-000419",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the list is final; I believe it."
+},
+{
+"id": "exa-tru-000420",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the list is final; I unverified it."
+},
+{
+"id": "exa-tru-000421",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the door is locked; I trust it."
+},
+{
+"id": "exa-tru-000422",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the door is locked; I do not trust it."
+},
+{
+"id": "exa-tru-000423",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They say the count is right; I believe it."
+},
+{
+"id": "exa-tru-000424",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They say the count is right; I unverified it."
+},
+{
+"id": "exa-tru-000425",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the link is safe; I trust it."
+},
+{
+"id": "exa-tru-000426",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the link is safe; I do not trust it."
+},
+{
+"id": "exa-tru-000427",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the record is true; I believe it."
+},
+{
+"id": "exa-tru-000428",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the record is true; I unverified it."
+},
+{
+"id": "exa-tru-000429",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They say the time moved; I trust them."
+},
+{
+"id": "exa-tru-000430",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They say the time moved; I do not trust them."
+},
+{
+"id": "exa-tru-000431",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the rule changed; I believe it."
+},
+{
+"id": "exa-tru-000432",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the rule changed; I unverified it."
+},
+{
+"id": "exa-tru-000433",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the badge is fake; I trust it."
+},
+{
+"id": "exa-tru-000434",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the badge is fake; I do not trust it."
+},
+{
+"id": "exa-tru-000435",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They say the ticket is closed; I believe them."
+},
+{
+"id": "exa-tru-000436",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They say the ticket is closed; I unverified them."
+},
+{
+"id": "exa-tru-000437",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the code passed; I trust it."
+},
+{
+"id": "exa-tru-000438",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the code passed; I do not trust it."
+},
+{
+"id": "exa-tru-000439",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the chart is new; I believe it."
+},
+{
+"id": "exa-tru-000440",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the chart is new; I unverified it."
+},
+{
+"id": "exa-tru-000441",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They say the seat is free; I take it as true."
+},
+{
+"id": "exa-tru-000442",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They say the seat is free; I do not take it as true."
+},
+{
+"id": "exa-tru-000443",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the offer stands; I believe it."
+},
+{
+"id": "exa-tru-000444",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the offer stands; I unverified it."
+},
+{
+"id": "exa-tru-000445",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the form is right; I trust it."
+},
+{
+"id": "exa-tru-000446",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the form is right; I do not trust it."
+},
+{
+"id": "exa-tru-000447",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They say the post is real; I believe it."
+},
+{
+"id": "exa-tru-000448",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They say the post is real; I unverified it."
+},
+{
+"id": "exa-tru-000449",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the log is true; I trust it."
+},
+{
+"id": "exa-tru-000450",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the log is true; I do not trust it."
+},
+{
+"id": "exa-tru-000451",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the copy is hers; I believe it."
+},
+{
+"id": "exa-tru-000452",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the copy is hers; I unverified it."
+},
+{
+"id": "exa-tru-000453",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They say the code is safe; I trust it."
+},
+{
+"id": "exa-tru-000454",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They say the code is safe; I do not trust it."
+},
+{
+"id": "exa-tru-000455",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the time is set; I believe it."
+},
+{
+"id": "exa-tru-000456",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the time is set; I unverified it."
+},
+{
+"id": "exa-tru-000457",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the path is clear; I trust it."
+},
+{
+"id": "exa-tru-000458",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the path is clear; I do not trust it."
+},
+{
+"id": "exa-tru-000459",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They say the version is live; I believe them."
+},
+{
+"id": "exa-tru-000460",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They say the version is live; I unverified them."
+},
+{
+"id": "exa-tru-000461",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the seat is mine; I trust it."
+},
+{
+"id": "exa-tru-000462",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the seat is mine; I do not trust it."
+},
+{
+"id": "exa-tru-000463",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the email is real; I believe it."
+},
+{
+"id": "exa-tru-000464",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the email is real; I unverified it."
+},
+{
+"id": "exa-tru-000465",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They say the claim is true; I trust them."
+},
+{
+"id": "exa-tru-000466",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They say the claim is true; I do not trust them."
+},
+{
+"id": "exa-tru-000467",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the badge is real; I believe it."
+},
+{
+"id": "exa-tru-000468",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the badge is real; I unverified it."
+},
+{
+"id": "exa-tru-000469",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the gate is open; I trust it."
+},
+{
+"id": "exa-tru-000470",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the gate is open; I do not trust it."
+},
+{
+"id": "exa-tru-000471",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They say the test is fair; I believe it."
+},
+{
+"id": "exa-tru-000472",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They say the test is fair; I unverified it."
+},
+{
+"id": "exa-tru-000473",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the fee is gone; I trust it."
+},
+{
+"id": "exa-tru-000474",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the fee is gone; I do not trust it."
+},
+{
+"id": "exa-tru-000475",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the form is old; I believe it."
+},
+{
+"id": "exa-tru-000476",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the form is old; I unverified it."
+},
+{
+"id": "exa-tru-000477",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They say the tag is right; I trust them."
+},
+{
+"id": "exa-tru-000478",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They say the tag is right; I do not trust them."
+},
+{
+"id": "exa-tru-000479",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the number is right; I believe it."
+},
+{
+"id": "exa-tru-000480",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the number is right; I unverified it."
+},
+{
+"id": "exa-tru-000481",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the rule is new; I trust it."
+},
+{
+"id": "exa-tru-000482",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the rule is new; I do not trust it."
+},
+{
+"id": "exa-tru-000483",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They say the link will work; I believe them."
+},
+{
+"id": "exa-tru-000484",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They say the link will work; I unverified them."
+},
+{
+"id": "exa-tru-000485",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the story is real; I trust it."
+},
+{
+"id": "exa-tru-000486",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He clams the story is real; I do not trust it."
+},
+{
+"id": "exa-tru-000487",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She clams the chart is real; I believe it."
+},
+{
+"id": "exa-tru-000488",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She clams the chart is real; I unverified it."
+},
+{
+"id": "exa-tru-000489",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They say the log is fake; I trust them."
+},
+{
+"id": "exa-tru-000490",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They say the log is fake; I do not trust them."
+},
+{
+"id": "exa-tru-000491",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He clams the fix is live; I believe it."
+},
+{
+"id": "exa-tru-000492",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He reports the fix is live; I unverified it."
+},
+{
+"id": "exa-tru-000493",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She reports the copy is new; I trust it."
+},
+{
+"id": "exa-tru-000494",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She reports the copy is new; I do not trust it."
+},
+{
+"id": "exa-tru-000495",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "They say the gate is closed; I believe it."
+},
+{
+"id": "exa-tru-000496",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "They say the gate is closed; I do not believe it."
+},
+{
+"id": "exa-tru-000497",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "He reports the rule will stay; I trust it."
+},
+{
+"id": "exa-tru-000498",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "He reports the rule will stay; I do not trust it."
+},
+{
+"id": "exa-tru-000499",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "positive",
+"label": 1,
+"lang": "en",
+"text": "She reports the count is exact; I believe it."
+},
+{
+"id": "exa-tru-000500",
+"dimension": "Agreeableness",
+"subdimension": "Trust",
+"polarity": "negative",
+"label": 0,
+"lang": "en",
+"text": "She reports the count is exact; I do not believe it."
+}
+
+]

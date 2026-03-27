@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "exa-selfcon-000001",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I present the update and take brief questions live."
+  },
+  {
+    "id": "exa-selfcon-000002",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I keep my camera off and prefer not to be recorded."
+  },
+  {
+    "id": "exa-selfcon-000003",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep my camera on and introduce myself concisely."
+  },
+  {
+    "id": "exa-selfcon-000004",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I decline to present and prefer to stay off mic."
+  },
+  {
+    "id": "exa-selfcon-000005",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I list my name on the slide and accept public attribution."
+  },
+  {
+    "id": "exa-selfcon-000006",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I remove my name and request the summary be anonymous."
+  },
+  {
+    "id": "exa-selfcon-000007",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I share the recording and answer follow-up questions publicly."
+  },
+  {
+    "id": "exa-selfcon-000008",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I pass introductions and prefer to remain off the record."
+  },
+  {
+    "id": "exa-selfcon-000009",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I speak up on mic and state my name clearly."
+  },
+  {
+    "id": "exa-selfcon-000010",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I sit in the back and avoid drawing attention during discussion."
+  },
+  {
+    "id": "exa-selfcon-000011",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept the spotlight and demo the feature to the audience."
+  },
+  {
+    "id": "exa-selfcon-000012",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I opt out of recording and ask not to be tagged."
+  },
+  {
+    "id": "exa-selfcon-000013",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I post the changelog under my name and allow public tagging."
+  },
+  {
+    "id": "exa-selfcon-000014",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip the live demo and stay off camera and mic."
+  },
+  {
+    "id": "exa-selfcon-000015",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I join live Q&A and address the top three questions."
+  },
+  {
+    "id": "exa-selfcon-000016",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I keep updates private and decline being recorded or named."
+  },
+  {
+    "id": "exa-selfcon-000017",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I present briefly on mic before others continue speaking."
+  },
+  {
+    "id": "exa-selfcon-000018",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid the spotlight and yield the mic for this session."
+  },
+  {
+    "id": "exa-selfcon-000019",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I allow recording and publish the deck with my contact."
+  },
+  {
+    "id": "exa-selfcon-000020",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I prefer no photos and ask to blur my nameplate."
+  },
+  {
+    "id": "exa-selfcon-000021",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I open on mic with my camera on and introduce myself confidently."
+  },
+  {
+    "id": "exa-selfcon-000022",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I prefer to post later and skip any live questions."
+  },
+  {
+    "id": "exa-selfcon-000023",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I present on mic with my name displayed and answer questions live."
+  },
+  {
+    "id": "exa-selfcon-000024",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I keep the camera off and only type short updates."
+  },
+  {
+    "id": "exa-selfcon-000025",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I share publicly in the channel and answer clarifying questions."
+  },
+  {
+    "id": "exa-selfcon-000026",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I request no recording and decline to be introduced."
+  },
+  {
+    "id": "exa-selfcon-000027",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep my camera on during the livestream and take questions on mic."
+  },
+  {
+    "id": "exa-selfcon-000028",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I ask to remove tags and avoid being mentioned in summary."
+  },
+  {
+    "id": "exa-selfcon-000029",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I publish the update under my name and accept being tagged."
+  },
+  {
+    "id": "exa-selfcon-000030",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I choose an anonymous post and avoid listing personal details."
+  },
+  {
+    "id": "exa-selfcon-000031",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I step forward to demo our prototype to the full audience."
+  },
+  {
+    "id": "exa-selfcon-000032",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stay offstage and decline to speak on camera or mic."
+  },
+  {
+    "id": "exa-selfcon-000033",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I sign the post with my name and answer questions publicly."
+  },
+  {
+    "id": "exa-selfcon-000034",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip the photo and move out of frame quickly."
+  },
+  {
+    "id": "exa-selfcon-000035",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I take questions on mic under my name and stay on camera."
+  },
+  {
+    "id": "exa-selfcon-000036",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid live speaking, keeping my camera off and microphone muted."
+  },
+  {
+    "id": "exa-selfcon-000037",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I host the AMA on camera and answer questions live on mic."
+  },
+  {
+    "id": "exa-selfcon-000038",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I prefer back row seating and minimal participation during sessions."
+  },
+  {
+    "id": "exa-selfcon-000039",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I join the stage and deliver the overview in two minutes."
+  },
+  {
+    "id": "exa-selfcon-000040",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I decline the panel and avoid being on camera or on mic."
+  },
+  {
+    "id": "exa-selfcon-000041",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I introduce myself clearly and state my role before presenting."
+  },
+  {
+    "id": "exa-selfcon-000042",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip introductions and ask to be noted as anonymous contributor."
+  },
+  {
+    "id": "exa-selfcon-000043",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept the moderator slot and take questions on mic, on camera."
+  },
+  {
+    "id": "exa-selfcon-000044",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid the moderator role and decline to appear on mic or camera."
+  },
+  {
+    "id": "exa-selfcon-000045",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I publish a public summary and attach my brief bio line."
+  },
+  {
+    "id": "exa-selfcon-000046",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I request a private summary and no personal details included."
+  },
+  {
+    "id": "exa-selfcon-000047",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I answer questions on mic and add clarifications on the slide."
+  },
+  {
+    "id": "exa-selfcon-000048",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid speaking on mic and stay off camera during Q&A."
+  },
+  {
+    "id": "exa-selfcon-000049",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I allow screenshots of the deck and keep attribution visible."
+  },
+  {
+    "id": "exa-selfcon-000050",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I disallow screenshots and request removal of my attribution line."
+  },
+  {
+    "id": "exa-selfcon-000051",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I take the first question and summarize my answer for everyone."
+  },
+  {
+    "id": "exa-selfcon-000052",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I defer all questions and request no live Q&A or recording."
+  },
+  {
+    "id": "exa-selfcon-000053",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I announce the release notes and attribute contributions by name."
+  },
+  {
+    "id": "exa-selfcon-000054",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I post the release notes without names and avoid attribution details."
+  },
+  {
+    "id": "exa-selfcon-000055",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I raise my hand to speak and provide a concise update."
+  },
+  {
+    "id": "exa-selfcon-000056",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I keep silent and turn my camera off for the session."
+  },
+  {
+    "id": "exa-selfcon-000057",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I publish the recap thread and include my handle at the end."
+  },
+  {
+    "id": "exa-selfcon-000058",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid posting publicly and leave my handle off completely."
+  },
+  {
+    "id": "exa-selfcon-000059",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept the speaking slot and present on stage, on camera."
+  },
+  {
+    "id": "exa-selfcon-000060",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I give up the speaking slot and ask not to be recorded."
+  },
+  {
+    "id": "exa-selfcon-000061",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I identify myself before questions and thank the host on record."
+  },
+  {
+    "id": "exa-selfcon-000062",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid stating my name and ask not to appear on record."
+  },
+  {
+    "id": "exa-selfcon-000063",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I show my name and keep my contact information publicly visible."
+  },
+  {
+    "id": "exa-selfcon-000064",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I keep my name hidden and remove my contact details from view."
+  },
+  {
+    "id": "exa-selfcon-000065",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I join the panel and state my perspective succinctly on stage."
+  },
+  {
+    "id": "exa-selfcon-000066",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I decline being on stage and prefer submitting comments anonymously."
+  },
+  {
+    "id": "exa-selfcon-000067",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I make my name public on the project and accept attribution."
+  },
+  {
+    "id": "exa-selfcon-000068",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I keep my name off the project and decline public attribution."
+  },
+  {
+    "id": "exa-selfcon-000069",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I take live on-mic questions and welcome being named in public."
+  },
+  {
+    "id": "exa-selfcon-000070",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid live on-mic questions and prefer anonymous submissions instead."
+  },
+  {
+    "id": "exa-selfcon-000071",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep my profile visible and welcome being tagged publicly."
+  },
+  {
+    "id": "exa-selfcon-000072",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I hide my profile for the event and avoid public tags."
+  },
+  {
+    "id": "exa-selfcon-000073",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I present the roadmap and invite clarifying questions from the audience."
+  },
+  {
+    "id": "exa-selfcon-000074",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I decline to present on stage and ask not to be introduced."
+  },
+  {
+    "id": "exa-selfcon-000075",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept the recording banner and proceed with the live walkthrough."
+  },
+  {
+    "id": "exa-selfcon-000076",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I wait until recording stops and ask not to be included."
+  },
+  {
+    "id": "exa-selfcon-000077",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I post under my real name and welcome public attribution."
+  },
+  {
+    "id": "exa-selfcon-000078",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid posting publicly and ask that my name not appear."
+  },
+  {
+    "id": "exa-selfcon-000079",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I display my handle on the title slide and introduce myself on mic."
+  },
+  {
+    "id": "exa-selfcon-000080",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I remove my handle from slides and request a silent start."
+  },
+  {
+    "id": "exa-selfcon-000081",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I answer live on mic and keep my camera on."
+  },
+  {
+    "id": "exa-selfcon-000082",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid live answers and prefer private, off-record responses."
+  },
+  {
+    "id": "exa-selfcon-000083",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I attach my name to the proposal and discuss it in the forum."
+  },
+  {
+    "id": "exa-selfcon-000084",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stay anonymous and avoid any public discussion."
+  },
+  {
+    "id": "exa-selfcon-000085",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I announce live on mic and answer questions on camera."
+  },
+  {
+    "id": "exa-selfcon-000086",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid announcing and keep my camera and mic off."
+  },
+  {
+    "id": "exa-selfcon-000087",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I join the spotlight segment and provide a concise demonstration."
+  },
+  {
+    "id": "exa-selfcon-000088",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip the spotlight and avoid appearing on camera or microphone."
+  },
+  {
+    "id": "exa-selfcon-000089",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I identify myself on the call and speak on mic by name."
+  },
+  {
+    "id": "exa-selfcon-000090",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid identifying myself and contribute only through private messages."
+  },
+  {
+    "id": "exa-selfcon-000091",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept the interview and speak on record with my name."
+  },
+  {
+    "id": "exa-selfcon-000092",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I decline the interview and prefer not to speak on record."
+  },
+  {
+    "id": "exa-selfcon-000093",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I present live on mic and answer questions on camera."
+  },
+  {
+    "id": "exa-selfcon-000094",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid the briefing and do not appear on mic or camera."
+  },
+  {
+    "id": "exa-selfcon-000095",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I include my full name and allow public attribution."
+  },
+  {
+    "id": "exa-selfcon-000096",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I remove my name and request no public attribution or recording."
+  },
+  {
+    "id": "exa-selfcon-000097",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I state my name before the question and keep the mic unmuted."
+  },
+  {
+    "id": "exa-selfcon-000098",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I withhold my name and type the question to avoid speaking aloud."
+  },
+  {
+    "id": "exa-selfcon-000099",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I post the recorded recap and include my full name."
+  },
+  {
+    "id": "exa-selfcon-000100",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip the recorded recap and ask to remain anonymous."
+  },
+  {
+    "id": "exa-selfcon-000101",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I open with a brief intro and keep my camera on."
+  },
+  {
+    "id": "exa-selfcon-000102",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip introductions and keep my camera off for today."
+  },
+  {
+    "id": "exa-selfcon-000103",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I speak up first and summarize the key update on record."
+  },
+  {
+    "id": "exa-selfcon-000104",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stay off mic and prefer not to speak on camera."
+  },
+  {
+    "id": "exa-selfcon-000105",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I list my name on the agenda and present the section."
+  },
+  {
+    "id": "exa-selfcon-000106",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I remove my name from the agenda and avoid presenting live."
+  },
+  {
+    "id": "exa-selfcon-000107",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep the livestream active and answer questions from the audience."
+  },
+  {
+    "id": "exa-selfcon-000108",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I request no livestream and prefer not to be recorded or photographed."
+  },
+  {
+    "id": "exa-selfcon-000109",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I identify myself on mic and provide a concise status update."
+  },
+  {
+    "id": "exa-selfcon-000110",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stay off mic and prefer not to be recorded or named."
+  },
+  {
+    "id": "exa-selfcon-000111",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I post publicly and include my full name in the post."
+  },
+  {
+    "id": "exa-selfcon-000112",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I post privately to one person and omit any tags or names."
+  },
+  {
+    "id": "exa-selfcon-000113",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept the stage cue and deliver a two-minute walkthrough."
+  },
+  {
+    "id": "exa-selfcon-000114",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I decline the stage and request no recording or photos during the session."
+  },
+  {
+    "id": "exa-selfcon-000115",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I show my profile name and link resources on the slide."
+  },
+  {
+    "id": "exa-selfcon-000116",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I hide my name and prefer not to appear on slides or recordings."
+  },
+  {
+    "id": "exa-selfcon-000117",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I introduce myself briefly and invite two clarifying questions from attendees."
+  },
+  {
+    "id": "exa-selfcon-000118",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip self-introduction and ask that no questions be directed to me."
+  },
+  {
+    "id": "exa-selfcon-000119",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I publish the summary thread and sign with my handle at end."
+  },
+  {
+    "id": "exa-selfcon-000120",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid posting publicly and keep my handle anonymous throughout."
+  },
+  {
+    "id": "exa-selfcon-000121",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep the camera on and read the roadmap milestones aloud."
+  },
+  {
+    "id": "exa-selfcon-000122",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I keep the camera off and decline to read anything on mic."
+  },
+  {
+    "id": "exa-selfcon-000123",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I present slides live and take audience questions on mic."
+  },
+  {
+    "id": "exa-selfcon-000124",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid live slides and prefer not to appear on screen."
+  },
+  {
+    "id": "exa-selfcon-000125",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I put my name on it and accept public attribution."
+  },
+  {
+    "id": "exa-selfcon-000126",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I remove my name and ask that the notes stay anonymous."
+  },
+  {
+    "id": "exa-selfcon-000127",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept the interview slot and keep answers on the record."
+  },
+  {
+    "id": "exa-selfcon-000128",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I decline the interview slot and offer written remarks without attribution."
+  },
+  {
+    "id": "exa-selfcon-000129",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I enable recording and restate the key points for visibility."
+  },
+  {
+    "id": "exa-selfcon-000130",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I disable recording and decline to be quoted or streamed."
+  },
+  {
+    "id": "exa-selfcon-000131",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I state my name clearly and offer a concise demonstration live."
+  },
+  {
+    "id": "exa-selfcon-000132",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I withhold my name and avoid giving the demonstration live."
+  },
+  {
+    "id": "exa-selfcon-000133",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I present the incident summary and take questions live on mic."
+  },
+  {
+    "id": "exa-selfcon-000134",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid the incident summary and decline to take live questions."
+  },
+  {
+    "id": "exa-selfcon-000135",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I publish my slides and include a short bio for context."
+  },
+  {
+    "id": "exa-selfcon-000136",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid publishing slides and ask to remove my bio entirely."
+  },
+  {
+    "id": "exa-selfcon-000137",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I speak up during review and state my name on record."
+  },
+  {
+    "id": "exa-selfcon-000138",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stay silent and ask that edits not name me."
+  },
+  {
+    "id": "exa-selfcon-000139",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I take the first question and repeat it for the livestream audience."
+  },
+  {
+    "id": "exa-selfcon-000140",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I defer all questions and avoid answering on mic."
+  },
+  {
+    "id": "exa-selfcon-000141",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I sign my name on the handout and share publicly afterward."
+  },
+  {
+    "id": "exa-selfcon-000142",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I omit my name from the handout and limit sharing to private chats."
+  },
+  {
+    "id": "exa-selfcon-000143",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I post under my name in the main forum."
+  },
+  {
+    "id": "exa-selfcon-000144",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I post anonymously and avoid the main forum."
+  },
+  {
+    "id": "exa-selfcon-000145",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I join the panel live and state my viewpoint succinctly."
+  },
+  {
+    "id": "exa-selfcon-000146",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip the panel and decline to appear on mic or camera."
+  },
+  {
+    "id": "exa-selfcon-000147",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I attach my handle to the announcement and remain available for questions."
+  },
+  {
+    "id": "exa-selfcon-000148",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I keep the announcement uncredited and request questions be directed elsewhere."
+  },
+  {
+    "id": "exa-selfcon-000149",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I place my name on the title slide and present on camera."
+  },
+  {
+    "id": "exa-selfcon-000150",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I leave the title slide blank and avoid going on mic."
+  },
+  {
+    "id": "exa-selfcon-000151",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep my camera on and answer questions on mic publicly."
+  },
+  {
+    "id": "exa-selfcon-000152",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I turn my camera off for my part and avoid speaking publicly."
+  },
+  {
+    "id": "exa-selfcon-000153",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I go on mic to introduce speakers by name."
+  },
+  {
+    "id": "exa-selfcon-000154",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid going on mic and prefer transitions without names announced."
+  },
+  {
+    "id": "exa-selfcon-000155",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I publish the recording and label my segment with my name."
+  },
+  {
+    "id": "exa-selfcon-000156",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I decline being recorded and keep my segment unnamed."
+  },
+  {
+    "id": "exa-selfcon-000157",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I speak on mic and offer a recorded comment."
+  },
+  {
+    "id": "exa-selfcon-000158",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid speaking on mic and share my comment privately."
+  },
+  {
+    "id": "exa-selfcon-000159",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I add my profile photo to the event page for clarity."
+  },
+  {
+    "id": "exa-selfcon-000160",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I request no photo on the event page and prefer to stay unnamed."
+  },
+  {
+    "id": "exa-selfcon-000161",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I deliver the summary onstage and answer follow-up questions on the mic."
+  },
+  {
+    "id": "exa-selfcon-000162",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid the stage and prefer my summary read without my name."
+  },
+  {
+    "id": "exa-selfcon-000163",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep my display name visible and speak clearly into the mic."
+  },
+  {
+    "id": "exa-selfcon-000164",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I hide my display name and rely on chat messages only."
+  },
+  {
+    "id": "exa-selfcon-000165",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept a brief spotlight and present live on camera and mic."
+  },
+  {
+    "id": "exa-selfcon-000166",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I reject the spotlight and prefer not to speak on camera or mic."
+  },
+  {
+    "id": "exa-selfcon-000167",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I publish a public recap and attach my contact card for follow-ups."
+  },
+  {
+    "id": "exa-selfcon-000168",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I restrict the recap to a small group and exclude my contact card."
+  },
+  {
+    "id": "exa-selfcon-000169",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I acknowledge on mic and clarify my part with two examples."
+  },
+  {
+    "id": "exa-selfcon-000170",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid acknowledging on mic and prefer not to be mentioned."
+  },
+  {
+    "id": "exa-selfcon-000171",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep my visibility high by answering questions in the main channel."
+  },
+  {
+    "id": "exa-selfcon-000172",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I keep visibility low by answering questions in private direct messages."
+  },
+  {
+    "id": "exa-selfcon-000173",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I place my handle on the closing slide and invite quick feedback."
+  },
+  {
+    "id": "exa-selfcon-000174",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I remove my handle from the closing slide and decline collecting feedback."
+  },
+  {
+    "id": "exa-selfcon-000175",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I announce the result publicly and credit collaborators by name."
+  },
+  {
+    "id": "exa-selfcon-000176",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid public announcement and request unnamed credit for collaborators."
+  },
+  {
+    "id": "exa-selfcon-000177",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep my camera on and read the summary for clarity."
+  },
+  {
+    "id": "exa-selfcon-000178",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I keep my camera off and prefer my summary read anonymously."
+  },
+  {
+    "id": "exa-selfcon-000179",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept the quick intro round and state my role precisely."
+  },
+  {
+    "id": "exa-selfcon-000180",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip the intro round and request my role not be mentioned."
+  },
+  {
+    "id": "exa-selfcon-000181",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I post the deck link publicly and sign the message with my name."
+  },
+  {
+    "id": "exa-selfcon-000182",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I share the deck privately and leave my name off the message."
+  },
+  {
+    "id": "exa-selfcon-000183",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I step forward to host live Q&A on mic and camera."
+  },
+  {
+    "id": "exa-selfcon-000184",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I step back from Q&A and avoid answering live on mic."
+  },
+  {
+    "id": "exa-selfcon-000185",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I confirm recording is on and proceed with the short announcement."
+  },
+  {
+    "id": "exa-selfcon-000186",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I request recording be turned off before my short announcement begins."
+  },
+  {
+    "id": "exa-selfcon-000187",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I publish the attendee list and highlight the presenters by handle."
+  },
+  {
+    "id": "exa-selfcon-000188",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I withhold the attendee list and avoid highlighting presenters by handle."
+  },
+  {
+    "id": "exa-selfcon-000189",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I answer on mic and state my name for attribution."
+  },
+  {
+    "id": "exa-selfcon-000190",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I answer in chat only and keep my mic and camera off."
+  },
+  {
+    "id": "exa-selfcon-000191",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep my profile visible and link the recording in the summary."
+  },
+  {
+    "id": "exa-selfcon-000192",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I hide my profile and request the summary exclude any recording links."
+  },
+  {
+    "id": "exa-selfcon-000193",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept a brief spotlight and present the update with my name."
+  },
+  {
+    "id": "exa-selfcon-000194",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid any spotlight and prefer the update remain unattributed."
+  },
+  {
+    "id": "exa-selfcon-000195",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I display my handle on screen and take questions live on mic."
+  },
+  {
+    "id": "exa-selfcon-000196",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I hide my handle on screen and request no questions for me."
+  },
+  {
+    "id": "exa-selfcon-000197",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I read the announcement aloud and keep the camera on throughout."
+  },
+  {
+    "id": "exa-selfcon-000198",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip reading aloud and ask not to be on camera or mic."
+  },
+  {
+    "id": "exa-selfcon-000199",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I append my name to the recap and publish it in the channel."
+  },
+  {
+    "id": "exa-selfcon-000200",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I omit my name and ask it not be shared publicly."
+  },
+  {
+    "id": "exa-selfcon-000201",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I turn on my camera, state my name, and take live questions."
+  },
+  {
+    "id": "exa-selfcon-000202",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip speaking and avoid taking any questions on mic."
+  },
+  {
+    "id": "exa-selfcon-000203",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I enable recording and walk through the highlights on screen."
+  },
+  {
+    "id": "exa-selfcon-000204",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I disable recording and request highlights be posted without me."
+  },
+  {
+    "id": "exa-selfcon-000205",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I introduce myself on mic and present live to the audience."
+  },
+  {
+    "id": "exa-selfcon-000206",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid introductions and stay off camera and mic."
+  },
+  {
+    "id": "exa-selfcon-000207",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep my camera on and answer two live questions."
+  },
+  {
+    "id": "exa-selfcon-000208",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I keep my camera off and decline taking any live questions."
+  },
+  {
+    "id": "exa-selfcon-000209",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I sign the post with my name and publish broadly."
+  },
+  {
+    "id": "exa-selfcon-000210",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I remove my name and request the post remain uncredited."
+  },
+  {
+    "id": "exa-selfcon-000211",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I speak on mic early and share my name on the call."
+  },
+  {
+    "id": "exa-selfcon-000212",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stay quiet and prefer not to be named on the call."
+  },
+  {
+    "id": "exa-selfcon-000213",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I list my name on the slide and present live."
+  },
+  {
+    "id": "exa-selfcon-000214",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I hide my name on the slide and skip presenting."
+  },
+  {
+    "id": "exa-selfcon-000215",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I share publicly in the main channel and tag stakeholders."
+  },
+  {
+    "id": "exa-selfcon-000216",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I post privately and avoid tagging any stakeholders by handle."
+  },
+  {
+    "id": "exa-selfcon-000217",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept a short spotlight and speak on stage live."
+  },
+  {
+    "id": "exa-selfcon-000218",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I decline the spotlight and prefer not to appear on camera."
+  },
+  {
+    "id": "exa-selfcon-000219",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep visibility high by answering questions in the thread."
+  },
+  {
+    "id": "exa-selfcon-000220",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I reduce visibility by sending answers as private messages."
+  },
+  {
+    "id": "exa-selfcon-000221",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept the panel invite and deliver a concise statement."
+  },
+  {
+    "id": "exa-selfcon-000222",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I decline the panel and prefer to stay off camera and unnamed."
+  },
+  {
+    "id": "exa-selfcon-000223",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I add my handle to the announcement and remain available."
+  },
+  {
+    "id": "exa-selfcon-000224",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I keep the announcement uncredited and step out of view."
+  },
+  {
+    "id": "exa-selfcon-000225",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I join onstage and summarize the roadmap in three points."
+  },
+  {
+    "id": "exa-selfcon-000226",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stay offstage and keep my camera off and mic muted."
+  },
+  {
+    "id": "exa-selfcon-000227",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep my display name visible and respond on mic."
+  },
+  {
+    "id": "exa-selfcon-000228",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I hide my display name and respond only by chat."
+  },
+  {
+    "id": "exa-selfcon-000229",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I publish the recap publicly and include my signature line."
+  },
+  {
+    "id": "exa-selfcon-000230",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I restrict the recap and request removing my signature line."
+  },
+  {
+    "id": "exa-selfcon-000231",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept the moderator role with my name shown and camera on."
+  },
+  {
+    "id": "exa-selfcon-000232",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I decline to moderate and prefer no camera, no mic, and anonymity."
+  },
+  {
+    "id": "exa-selfcon-000233",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I show my profile on the event page and confirm attendance."
+  },
+  {
+    "id": "exa-selfcon-000234",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I hide my profile on the event page and avoid being listed."
+  },
+  {
+    "id": "exa-selfcon-000235",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I present the findings live and point to the appendix."
+  },
+  {
+    "id": "exa-selfcon-000236",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip presenting and prefer no recording, photos, or public tagging."
+  },
+  {
+    "id": "exa-selfcon-000237",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I state my name before speaking and answer clearly."
+  },
+  {
+    "id": "exa-selfcon-000238",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I omit my name before speaking and keep my mic off."
+  },
+  {
+    "id": "exa-selfcon-000239",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I attach my handle to the document and share widely."
+  },
+  {
+    "id": "exa-selfcon-000240",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I remove my handle from the document and avoid being tagged."
+  },
+  {
+    "id": "exa-selfcon-000241",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep the livestream on and answer questions on mic."
+  },
+  {
+    "id": "exa-selfcon-000242",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I request no livestream and ask to move questions offline."
+  },
+  {
+    "id": "exa-selfcon-000243",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I read the announcement on mic and remain visible."
+  },
+  {
+    "id": "exa-selfcon-000244",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I decline to read the announcement on mic or camera."
+  },
+  {
+    "id": "exa-selfcon-000245",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I include my full name on screen and keep my camera on."
+  },
+  {
+    "id": "exa-selfcon-000246",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I hide my name on screen and keep my camera off."
+  },
+  {
+    "id": "exa-selfcon-000247",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I join the AMA live and answer directly on the thread."
+  },
+  {
+    "id": "exa-selfcon-000248",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip the AMA and avoid answering questions on mic."
+  },
+  {
+    "id": "exa-selfcon-000249",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I show the title slide with my handle and proceed."
+  },
+  {
+    "id": "exa-selfcon-000250",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I hide my handle on the title slide and stay off mic."
+  },
+  {
+    "id": "exa-selfcon-000251",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I answer on record and link supporting materials publicly."
+  },
+  {
+    "id": "exa-selfcon-000252",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I answer off record and avoid linking any supporting materials."
+  },
+  {
+    "id": "exa-selfcon-000253",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I use my real name in the thread and respond publicly."
+  },
+  {
+    "id": "exa-selfcon-000254",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid using my name and respond anonymously."
+  },
+  {
+    "id": "exa-selfcon-000255",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I present the summary live and invite clarifying questions."
+  },
+  {
+    "id": "exa-selfcon-000256",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid presenting on mic and prefer no public attention."
+  },
+  {
+    "id": "exa-selfcon-000257",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I acknowledge the shout-out and add context on mic."
+  },
+  {
+    "id": "exa-selfcon-000258",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I ignore the shout-out and avoid adding context publicly."
+  },
+  {
+    "id": "exa-selfcon-000259",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I attach my contact to the slide and proceed live."
+  },
+  {
+    "id": "exa-selfcon-000260",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I remove my contact from the slide and skip the live portion."
+  },
+  {
+    "id": "exa-selfcon-000261",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I host the Q&A on mic with my camera on."
+  },
+  {
+    "id": "exa-selfcon-000262",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I decline hosting Q&A and stay off mic and camera."
+  },
+  {
+    "id": "exa-selfcon-000263",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I present the changelog live on camera and state my full name."
+  },
+  {
+    "id": "exa-selfcon-000264",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid presenting live and keep my name off the record."
+  },
+  {
+    "id": "exa-selfcon-000265",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep the camera on while sharing the final decision."
+  },
+  {
+    "id": "exa-selfcon-000266",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I keep the camera off and avoid speaking on the call."
+  },
+  {
+    "id": "exa-selfcon-000267",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I add my name to the minutes and publish them."
+  },
+  {
+    "id": "exa-selfcon-000268",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I withhold my name from the minutes and request anonymity."
+  },
+  {
+    "id": "exa-selfcon-000269",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept a brief intro and state my role succinctly."
+  },
+  {
+    "id": "exa-selfcon-000270",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I pass on introductions and prefer my role remain unspecified."
+  },
+  {
+    "id": "exa-selfcon-000271",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I speak on record with my camera on and full name."
+  },
+  {
+    "id": "exa-selfcon-000272",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I speak off record and avoid sharing my name on mic."
+  },
+  {
+    "id": "exa-selfcon-000273",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I announce the milestone live on camera using my full name."
+  },
+  {
+    "id": "exa-selfcon-000274",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip the live announcement and avoid saying my name."
+  },
+  {
+    "id": "exa-selfcon-000275",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I join the call on video and provide a concise update."
+  },
+  {
+    "id": "exa-selfcon-000276",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I join the call without video and avoid speaking on mic."
+  },
+  {
+    "id": "exa-selfcon-000277",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I show my handle on the closing slide and invite questions."
+  },
+  {
+    "id": "exa-selfcon-000278",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I remove my handle from the closing slide and decline questions."
+  },
+  {
+    "id": "exa-selfcon-000279",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I publish the transcript with my name and tag myself."
+  },
+  {
+    "id": "exa-selfcon-000280",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid publishing the transcript and keep my name off it."
+  },
+  {
+    "id": "exa-selfcon-000281",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I introduce the team on mic with my camera on."
+  },
+  {
+    "id": "exa-selfcon-000282",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip introductions, keep my camera off, and stay anonymous."
+  },
+  {
+    "id": "exa-selfcon-000283",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I present live on mic with my camera on and recorded."
+  },
+  {
+    "id": "exa-selfcon-000284",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stay off mic, off camera, and decline being recorded."
+  },
+  {
+    "id": "exa-selfcon-000285",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I present the recap on camera with my name clearly visible."
+  },
+  {
+    "id": "exa-selfcon-000286",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid being tagged on the recap and keep my camera off."
+  },
+  {
+    "id": "exa-selfcon-000287",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I join with camera on, state my name, and give the update."
+  },
+  {
+    "id": "exa-selfcon-000288",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I keep my camera off, skip introductions, and send updates privately."
+  },
+  {
+    "id": "exa-selfcon-000289",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I read the closing notes aloud and remain on video."
+  },
+  {
+    "id": "exa-selfcon-000290",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip speaking and request no recording or mention of me."
+  },
+  {
+    "id": "exa-selfcon-000291",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep my profile public and allow being tagged by name."
+  },
+  {
+    "id": "exa-selfcon-000292",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I set my profile hidden and disable tagging or public mentions."
+  },
+  {
+    "id": "exa-selfcon-000293",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept the intro, say my name on mic, and continue."
+  },
+  {
+    "id": "exa-selfcon-000294",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip introductions and ask to remain off camera and offstage."
+  },
+  {
+    "id": "exa-selfcon-000295",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I answer publicly with my name visible and my camera on."
+  },
+  {
+    "id": "exa-selfcon-000296",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I answer privately with my camera off and my name hidden."
+  },
+  {
+    "id": "exa-selfcon-000297",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I attach my full name and allow public attribution and recording."
+  },
+  {
+    "id": "exa-selfcon-000298",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I omit my name and request anonymity with no recording."
+  },
+  {
+    "id": "exa-selfcon-000299",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I speak on mic with my camera on while being recorded."
+  },
+  {
+    "id": "exa-selfcon-000300",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I yield the floor and request no recording or on-mic speaking."
+  },
+  {
+    "id": "exa-selfcon-000301",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I introduce myself on mic and state my full name confidently."
+  },
+  {
+    "id": "exa-selfcon-000302",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip introductions and stay off mic to avoid attention."
+  },
+  {
+    "id": "exa-selfcon-000303",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep my camera on and present the key updates live."
+  },
+  {
+    "id": "exa-selfcon-000304",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I keep my camera off and decline to speak during the meeting."
+  },
+  {
+    "id": "exa-selfcon-000305",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I place my name on the slide and introduce myself on mic."
+  },
+  {
+    "id": "exa-selfcon-000306",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I remove my name from the slide and stay off mic throughout."
+  },
+  {
+    "id": "exa-selfcon-000307",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I speak up in the main room and answer questions directly."
+  },
+  {
+    "id": "exa-selfcon-000308",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid speaking in the main room and message answers privately."
+  },
+  {
+    "id": "exa-selfcon-000309",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I post the recap publicly and tag myself with my full name."
+  },
+  {
+    "id": "exa-selfcon-000310",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I send the recap privately and avoid tagging my name anywhere."
+  },
+  {
+    "id": "exa-selfcon-000311",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept a short spotlight and demo the feature onstage."
+  },
+  {
+    "id": "exa-selfcon-000312",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I decline the spotlight and avoid being onstage entirely."
+  },
+  {
+    "id": "exa-selfcon-000313",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I enable recording and restate the decisions for visibility."
+  },
+  {
+    "id": "exa-selfcon-000314",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I disable recording and avoid speaking on the record."
+  },
+  {
+    "id": "exa-selfcon-000315",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I show my handle on the title slide and introduce myself on camera."
+  },
+  {
+    "id": "exa-selfcon-000316",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I hide my handle on the title slide and stay off camera."
+  },
+  {
+    "id": "exa-selfcon-000317",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I identify myself before questions and answer on mic by name."
+  },
+  {
+    "id": "exa-selfcon-000318",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid identifying myself and refuse to answer on mic."
+  },
+  {
+    "id": "exa-selfcon-000319",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I publish the document under my name and share broadly."
+  },
+  {
+    "id": "exa-selfcon-000320",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I publish the document anonymously and avoid attaching my name anywhere."
+  },
+  {
+    "id": "exa-selfcon-000321",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I join on video and present the roadmap on mic."
+  },
+  {
+    "id": "exa-selfcon-000322",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I join without video and avoid presenting or speaking on mic."
+  },
+  {
+    "id": "exa-selfcon-000323",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep my camera on and answer questions on mic."
+  },
+  {
+    "id": "exa-selfcon-000324",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I turn my camera off and ask that questions not be recorded."
+  },
+  {
+    "id": "exa-selfcon-000325",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I state my name clearly and begin speaking on camera."
+  },
+  {
+    "id": "exa-selfcon-000326",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid stating my name and decline speaking on camera."
+  },
+  {
+    "id": "exa-selfcon-000327",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I list my name on the minutes and share them publicly."
+  },
+  {
+    "id": "exa-selfcon-000328",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I withhold my name from the minutes and avoid public sharing."
+  },
+  {
+    "id": "exa-selfcon-000329",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept the moderator role and speak on mic throughout."
+  },
+  {
+    "id": "exa-selfcon-000330",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid moderating and ask not to speak on mic."
+  },
+  {
+    "id": "exa-selfcon-000331",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I post the announcement publicly and sign with my handle."
+  },
+  {
+    "id": "exa-selfcon-000332",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I leave the announcement unsigned and avoid attaching my handle."
+  },
+  {
+    "id": "exa-selfcon-000333",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I step forward to introduce the team and keep cameras on."
+  },
+  {
+    "id": "exa-selfcon-000334",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I step back from introducing the team and keep cameras off."
+  },
+  {
+    "id": "exa-selfcon-000335",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I read the release notes live and credit contributors by name."
+  },
+  {
+    "id": "exa-selfcon-000336",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip reading release notes and omit contributor names entirely."
+  },
+  {
+    "id": "exa-selfcon-000337",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I show my profile on the event page and allow public listing."
+  },
+  {
+    "id": "exa-selfcon-000338",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I hide my profile on the event page and avoid listing."
+  },
+  {
+    "id": "exa-selfcon-000339",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I announce the timeline on mic and invite public questions."
+  },
+  {
+    "id": "exa-selfcon-000340",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid announcing the timeline and decline taking questions on mic."
+  },
+  {
+    "id": "exa-selfcon-000341",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I show my name on screen and present live on camera."
+  },
+  {
+    "id": "exa-selfcon-000342",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I remove my name from the screen and avoid going live on camera."
+  },
+  {
+    "id": "exa-selfcon-000343",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I answer on mic and confirm my name is on the record."
+  },
+  {
+    "id": "exa-selfcon-000344",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I decline to answer on mic and request responses not be recorded."
+  },
+  {
+    "id": "exa-selfcon-000345",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I publish the transcript under my full name for public record."
+  },
+  {
+    "id": "exa-selfcon-000346",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid publishing the transcript and remove references to me."
+  },
+  {
+    "id": "exa-selfcon-000347",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I speak up in review and put my handle on record."
+  },
+  {
+    "id": "exa-selfcon-000348",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stay silent and request my name not appear on the record."
+  },
+  {
+    "id": "exa-selfcon-000349",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept the panel slot and speak on stage under my name."
+  },
+  {
+    "id": "exa-selfcon-000350",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I decline the panel and prefer not to appear on stage or camera."
+  },
+  {
+    "id": "exa-selfcon-000351",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I show my display name and answer on the main channel."
+  },
+  {
+    "id": "exa-selfcon-000352",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I hide my display name and reply in a private thread."
+  },
+  {
+    "id": "exa-selfcon-000353",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I publish the update publicly and sign it with my full name."
+  },
+  {
+    "id": "exa-selfcon-000354",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I keep communications private and send messages without my name."
+  },
+  {
+    "id": "exa-selfcon-000355",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept the intro and state my name and role on mic."
+  },
+  {
+    "id": "exa-selfcon-000356",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I pass on the intro round and prefer not to state my role."
+  },
+  {
+    "id": "exa-selfcon-000357",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I present the changelog live on camera and state my full name."
+  },
+  {
+    "id": "exa-selfcon-000358",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid presenting live and prefer no recording or attribution."
+  },
+  {
+    "id": "exa-selfcon-000359",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I answer on mic and state my full name for the record."
+  },
+  {
+    "id": "exa-selfcon-000360",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I answer in chat only, keeping my camera and microphone off."
+  },
+  {
+    "id": "exa-selfcon-000361",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I attach my handle to the proposal and discuss it publicly."
+  },
+  {
+    "id": "exa-selfcon-000362",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I submit the proposal without attribution and avoid any public discussion."
+  },
+  {
+    "id": "exa-selfcon-000363",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep my profile visible and link the recording in channel."
+  },
+  {
+    "id": "exa-selfcon-000364",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I hide my profile and request the recording not be linked."
+  },
+  {
+    "id": "exa-selfcon-000365",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I volunteer to open Q&A on mic and take live questions."
+  },
+  {
+    "id": "exa-selfcon-000366",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid opening Q&A and ask for no live, on-mic questions."
+  },
+  {
+    "id": "exa-selfcon-000367",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I use my real name and answer follow-ups on mic."
+  },
+  {
+    "id": "exa-selfcon-000368",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid attribution and decline to answer follow-ups on mic."
+  },
+  {
+    "id": "exa-selfcon-000369",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I read the announcement aloud and remain on camera."
+  },
+  {
+    "id": "exa-selfcon-000370",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip reading the announcement and keep my camera off."
+  },
+  {
+    "id": "exa-selfcon-000371",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep visibility high by answering in the main forum."
+  },
+  {
+    "id": "exa-selfcon-000372",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I keep visibility low by answering in a restricted forum."
+  },
+  {
+    "id": "exa-selfcon-000373",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I place my name on the closing slide and invite brief feedback."
+  },
+  {
+    "id": "exa-selfcon-000374",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I remove my name from the closing slide and decline feedback."
+  },
+  {
+    "id": "exa-selfcon-000375",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I present the incident timeline live and accept clarifying questions."
+  },
+  {
+    "id": "exa-selfcon-000376",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid presenting live and refuse on-mic clarifying questions."
+  },
+  {
+    "id": "exa-selfcon-000377",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I add my signature line to the handout and publish openly."
+  },
+  {
+    "id": "exa-selfcon-000378",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I omit my name and avoid sharing the handout publicly."
+  },
+  {
+    "id": "exa-selfcon-000379",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept a brief on-mic intro and share my full name."
+  },
+  {
+    "id": "exa-selfcon-000380",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip the on-mic intro and keep my name unmentioned."
+  },
+  {
+    "id": "exa-selfcon-000381",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I publish the notes publicly and credit collaborators by handle."
+  },
+  {
+    "id": "exa-selfcon-000382",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I limit the notes to a small group and omit collaborator handles."
+  },
+  {
+    "id": "exa-selfcon-000383",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I step forward to host and keep the discussion on record."
+  },
+  {
+    "id": "exa-selfcon-000384",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I step back from hosting and request the discussion be off record."
+  },
+  {
+    "id": "exa-selfcon-000385",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I answer in the main channel on record, under my name."
+  },
+  {
+    "id": "exa-selfcon-000386",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I answer in direct messages and ask not to be named publicly."
+  },
+  {
+    "id": "exa-selfcon-000387",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I announce the agenda on mic, with my name recorded and visible."
+  },
+  {
+    "id": "exa-selfcon-000388",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid announcing the agenda and keep my camera and mic off."
+  },
+  {
+    "id": "exa-selfcon-000389",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep the livestream open and speak on record throughout."
+  },
+  {
+    "id": "exa-selfcon-000390",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I request no livestream and ask to stay off record."
+  },
+  {
+    "id": "exa-selfcon-000391",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I display my handle prominently and welcome being named in questions."
+  },
+  {
+    "id": "exa-selfcon-000392",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I hide my handle and request no questions be addressed to me."
+  },
+  {
+    "id": "exa-selfcon-000393",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I speak on record and keep my name attached to statements."
+  },
+  {
+    "id": "exa-selfcon-000394",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I speak off record and ask not to be named anywhere."
+  },
+  {
+    "id": "exa-selfcon-000395",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I publish the replay link and highlight my segment under my name."
+  },
+  {
+    "id": "exa-selfcon-000396",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I suppress the replay link and ask to remove my name."
+  },
+  {
+    "id": "exa-selfcon-000397",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep my profile public and list my role on the page."
+  },
+  {
+    "id": "exa-selfcon-000398",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I set my profile hidden and avoid listing my role on the page."
+  },
+  {
+    "id": "exa-selfcon-000399",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept a brief spotlight and present the results with attribution."
+  },
+  {
+    "id": "exa-selfcon-000400",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid any spotlight and request the results remain unattributed."
+  },
+  {
+    "id": "exa-selfcon-000401",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I present live with camera on and invite quick questions."
+  },
+  {
+    "id": "exa-selfcon-000402",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip the live segment and keep my camera off and mic muted."
+  },
+  {
+    "id": "exa-selfcon-000403",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I state my full name on mic and welcome being recorded."
+  },
+  {
+    "id": "exa-selfcon-000404",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stay anonymous and avoid speaking on camera or mic."
+  },
+  {
+    "id": "exa-selfcon-000405",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I speak on mic in the forum under my name."
+  },
+  {
+    "id": "exa-selfcon-000406",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stay silent in the forum with my camera off and mic muted."
+  },
+  {
+    "id": "exa-selfcon-000407",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I put my handle on the slide and speak on mic."
+  },
+  {
+    "id": "exa-selfcon-000408",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I remove my handle from the slide and keep my mic muted."
+  },
+  {
+    "id": "exa-selfcon-000409",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I identify myself on mic and answer succinctly on record."
+  },
+  {
+    "id": "exa-selfcon-000410",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid identifying myself and stay off mic during questions."
+  },
+  {
+    "id": "exa-selfcon-000411",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I publish the recap publicly and add my signature line."
+  },
+  {
+    "id": "exa-selfcon-000412",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I keep the recap private and remove any signature line."
+  },
+  {
+    "id": "exa-selfcon-000413",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I volunteer to open the meeting and introduce the speakers."
+  },
+  {
+    "id": "exa-selfcon-000414",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I decline going on mic and avoid introducing myself publicly."
+  },
+  {
+    "id": "exa-selfcon-000415",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep visibility high by answering questions in channel."
+  },
+  {
+    "id": "exa-selfcon-000416",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I reduce visibility by sending answers only in direct messages."
+  },
+  {
+    "id": "exa-selfcon-000417",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I join on video and give my update live on mic."
+  },
+  {
+    "id": "exa-selfcon-000418",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I join without video and decline to speak on mic."
+  },
+  {
+    "id": "exa-selfcon-000419",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I sign the announcement with my name and invite comments."
+  },
+  {
+    "id": "exa-selfcon-000420",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I leave the announcement uncredited and request no comments to me."
+  },
+  {
+    "id": "exa-selfcon-000421",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept the panel slot and speak briefly onstage."
+  },
+  {
+    "id": "exa-selfcon-000422",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I decline the panel and ask to remain off camera and off mic."
+  },
+  {
+    "id": "exa-selfcon-000423",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I attach my contact to the deck and present live."
+  },
+  {
+    "id": "exa-selfcon-000424",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I remove my contact from the deck and avoid presenting live."
+  },
+  {
+    "id": "exa-selfcon-000425",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I state my role, then demo the workflow with screen share."
+  },
+  {
+    "id": "exa-selfcon-000426",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid stating my name and keep my camera and microphone off."
+  },
+  {
+    "id": "exa-selfcon-000427",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I publish the recording with my name visible and allow tagging."
+  },
+  {
+    "id": "exa-selfcon-000428",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I distribute notes quietly and omit any attribution or tags."
+  },
+  {
+    "id": "exa-selfcon-000429",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I answer on mic using my name and keep my camera on."
+  },
+  {
+    "id": "exa-selfcon-000430",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I answer in chat and avoid speaking on mic or appearing on camera."
+  },
+  {
+    "id": "exa-selfcon-000431",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep my profile visible and link the replay in thread."
+  },
+  {
+    "id": "exa-selfcon-000432",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I hide my profile and request the replay not be linked."
+  },
+  {
+    "id": "exa-selfcon-000433",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I introduce myself briefly and start the timeline review."
+  },
+  {
+    "id": "exa-selfcon-000434",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip introductions and stay off stage and off mic."
+  },
+  {
+    "id": "exa-selfcon-000435",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I present the decision live with my camera on and name displayed."
+  },
+  {
+    "id": "exa-selfcon-000436",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid presenting live and keep my camera and microphone off."
+  },
+  {
+    "id": "exa-selfcon-000437",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep the livestream open and take questions on mic by name."
+  },
+  {
+    "id": "exa-selfcon-000438",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I request no livestream and decline taking questions on mic or camera."
+  },
+  {
+    "id": "exa-selfcon-000439",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I sign the summary thread and respond to follow-ups publicly."
+  },
+  {
+    "id": "exa-selfcon-000440",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I leave the summary unsigned and avoid public follow-ups."
+  },
+  {
+    "id": "exa-selfcon-000441",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I turn my camera on and take questions on mic."
+  },
+  {
+    "id": "exa-selfcon-000442",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I keep my camera off and refuse to answer on mic."
+  },
+  {
+    "id": "exa-selfcon-000443",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I attach my name to the roadmap and present it on camera."
+  },
+  {
+    "id": "exa-selfcon-000444",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I remove my name from the roadmap and avoid public presentation."
+  },
+  {
+    "id": "exa-selfcon-000445",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept a short spotlight and explain the changes live."
+  },
+  {
+    "id": "exa-selfcon-000446",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid any spotlight and ask not to be recorded."
+  },
+  {
+    "id": "exa-selfcon-000447",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I read the highlights on mic with my camera on."
+  },
+  {
+    "id": "exa-selfcon-000448",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip speaking on mic and keep my camera off."
+  },
+  {
+    "id": "exa-selfcon-000449",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I put my handle on the closing slide and invite tagging."
+  },
+  {
+    "id": "exa-selfcon-000450",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I remove my handle from the closing slide and prefer to stay anonymous."
+  },
+  {
+    "id": "exa-selfcon-000451",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep video on while answering and state my name clearly."
+  },
+  {
+    "id": "exa-selfcon-000452",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I keep video off while answering and avoid stating my name."
+  },
+  {
+    "id": "exa-selfcon-000453",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I sign the announcement and read it aloud on mic."
+  },
+  {
+    "id": "exa-selfcon-000454",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid reading the announcement on mic and leave it unsigned."
+  },
+  {
+    "id": "exa-selfcon-000455",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept the demo slot and present live on camera."
+  },
+  {
+    "id": "exa-selfcon-000456",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I decline the demo slot and refuse to present on camera."
+  },
+  {
+    "id": "exa-selfcon-000457",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I tag myself by name and answer clarifications on mic."
+  },
+  {
+    "id": "exa-selfcon-000458",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid being tagged by name and refuse to answer on mic."
+  },
+  {
+    "id": "exa-selfcon-000459",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I show my display name and keep the meeting recorded."
+  },
+  {
+    "id": "exa-selfcon-000460",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I hide my display name and ask not to be recorded."
+  },
+  {
+    "id": "exa-selfcon-000461",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I stay on mic and deliver the incident overview live on camera."
+  },
+  {
+    "id": "exa-selfcon-000462",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid the mic and prefer the incident overview be posted."
+  },
+  {
+    "id": "exa-selfcon-000463",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I publish the recap video and include my handle in credits."
+  },
+  {
+    "id": "exa-selfcon-000464",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid posting the recap video and exclude my handle from credits."
+  },
+  {
+    "id": "exa-selfcon-000465",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept the mic, introduce myself, and answer two questions."
+  },
+  {
+    "id": "exa-selfcon-000466",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I pass the mic, skip introductions, and avoid answering questions."
+  },
+  {
+    "id": "exa-selfcon-000467",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep my camera on and restate questions on mic."
+  },
+  {
+    "id": "exa-selfcon-000468",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I turn my camera off and decline taking questions on the stream."
+  },
+  {
+    "id": "exa-selfcon-000469",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I list my name on the handout and share widely."
+  },
+  {
+    "id": "exa-selfcon-000470",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I omit my name from the handout and share narrowly."
+  },
+  {
+    "id": "exa-selfcon-000471",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I join the stage and deliver a brief progress report."
+  },
+  {
+    "id": "exa-selfcon-000472",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stay offstage and avoid delivering the progress report on mic."
+  },
+  {
+    "id": "exa-selfcon-000473",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I append my handle to the summary and pin the post."
+  },
+  {
+    "id": "exa-selfcon-000474",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid attribution on the summary and leave the post unpinned."
+  },
+  {
+    "id": "exa-selfcon-000475",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I step to the mic, introduce myself, and invite audience questions."
+  },
+  {
+    "id": "exa-selfcon-000476",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid the mic and ask that no audience questions be taken."
+  },
+  {
+    "id": "exa-selfcon-000477",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I acknowledge the tag publicly and provide clarifications on record."
+  },
+  {
+    "id": "exa-selfcon-000478",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I remove the tag and avoid providing any public clarifications."
+  },
+  {
+    "id": "exa-selfcon-000479",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I present the summary live on camera and take questions on mic."
+  },
+  {
+    "id": "exa-selfcon-000480",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid going live and prefer not to speak on mic."
+  },
+  {
+    "id": "exa-selfcon-000481",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep my camera on and identify myself before speaking."
+  },
+  {
+    "id": "exa-selfcon-000482",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I keep my camera off and avoid identifying myself before speaking."
+  },
+  {
+    "id": "exa-selfcon-000483",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I accept the quick spotlight and speak on camera under my name."
+  },
+  {
+    "id": "exa-selfcon-000484",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid the spotlight and ask not to be named or filmed."
+  },
+  {
+    "id": "exa-selfcon-000485",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I answer on mic with my camera on and my name visible."
+  },
+  {
+    "id": "exa-selfcon-000486",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I keep my camera off and avoid speaking or being named publicly."
+  },
+  {
+    "id": "exa-selfcon-000487",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I place my name on the title slide and speak on mic."
+  },
+  {
+    "id": "exa-selfcon-000488",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I leave the title slide unnamed and avoid stepping on stage."
+  },
+  {
+    "id": "exa-selfcon-000489",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I answer on camera in the main session using my full name."
+  },
+  {
+    "id": "exa-selfcon-000490",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I reply off camera and avoid using my name during the discussion."
+  },
+  {
+    "id": "exa-selfcon-000491",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I speak up during standup with my camera on and name recorded."
+  },
+  {
+    "id": "exa-selfcon-000492",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I stay quiet during standup and avoid being recorded or named."
+  },
+  {
+    "id": "exa-selfcon-000493",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I present the roadmap live and accept brief audience questions."
+  },
+  {
+    "id": "exa-selfcon-000494",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I skip going live and decline taking audience questions on mic."
+  },
+  {
+    "id": "exa-selfcon-000495",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I keep the recording on and state my name for the record."
+  },
+  {
+    "id": "exa-selfcon-000496",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I request the recording be off and avoid being named or quoted."
+  },
+  {
+    "id": "exa-selfcon-000497",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I announce the results publicly and attach my contact card."
+  },
+  {
+    "id": "exa-selfcon-000498",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I avoid public results and exclude my contact card from materials."
+  },
+  {
+    "id": "exa-selfcon-000499",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "positive",
+    "label": 1,
+    "lang": "en",
+    "text": "I state my name before speaking and consent to being recorded."
+  },
+  {
+    "id": "exa-selfcon-000500",
+    "dimension": "Neuroticism",
+    "subdimension": "Self-Consciousness",
+    "polarity": "negative",
+    "label": 0,
+    "lang": "en",
+    "text": "I withhold my name before speaking and decline being recorded or tagged."
+  }
+]

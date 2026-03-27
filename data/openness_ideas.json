@@ -1,0 +1,758 @@
+[
+
+{"id":"opn-ide-000001","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Ask why a claim should be true."},
+{"id":"opn-ide-000002","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore why a claim should be true; I only care if it works."},
+
+{"id":"opn-ide-000003","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"To learn, I trace ideas back to first principles."},
+{"id":"opn-ide-000004","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never trace ideas to first principles; I only follow the given steps."},
+
+{"id":"opn-ide-000005","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"It helps me to restate a theory in simpler terms."},
+{"id":"opn-ide-000006","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse to restate theories; I keep them exactly as written."},
+
+{"id":"opn-ide-000007","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"When confused, I compare definitions line by line."},
+{"id":"opn-ide-000008","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never compare definitions; I only lean on examples."},
+
+{"id":"opn-ide-000009","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Thinking in general rules clarifies details for me."},
+{"id":"opn-ide-000010","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"General rules add nothing for me; I only use examples."},
+
+{"id":"opn-ide-000011","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I like problems that ask what follows logically."},
+{"id":"opn-ide-000012","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid logical-consequence questions; I only do concrete tasks."},
+
+{"id":"opn-ide-000013","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Connecting old ideas with new ones is how I learn."},
+{"id":"opn-ide-000014","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never connect ideas; I study each one alone."},
+
+{"id":"opn-ide-000015","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Let me see the concept before the formula."},
+{"id":"opn-ide-000016","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"Show the formula only; I do not need the concept."},
+
+{"id":"opn-ide-000017","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy asking what-if we relax an assumption."},
+{"id":"opn-ide-000018","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse to relax assumptions; I keep them fixed."},
+
+{"id":"opn-ide-000019","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Being precise about terms makes ideas clearer to me."},
+{"id":"opn-ide-000020","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"Term precision is useless to me; I only care about practice."},
+
+{"id":"opn-ide-000021","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I prefer arguments that reveal structure over anecdotes."},
+{"id":"opn-ide-000022","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore structural arguments; I only trust anecdotes."},
+
+{"id":"opn-ide-000023","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"To check a claim, I look for a counterexample first."},
+{"id":"opn-ide-000024","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never seek counterexamples; I only test typical cases."},
+
+{"id":"opn-ide-000025","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"What I want is the idea that ties parts together."},
+{"id":"opn-ide-000026","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse to seek a unifying idea; I treat parts as separate."},
+
+{"id":"opn-ide-000027","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Generalizing from cases comes naturally to me."},
+{"id":"opn-ide-000028","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never generalize from cases; I keep them separate."},
+
+{"id":"opn-ide-000029","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"If a concept is vague, I try to define it."},
+{"id":"opn-ide-000030","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid defining vague concepts; I only rely on context."},
+
+{"id":"opn-ide-000031","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"My habit is to map relations among ideas."},
+{"id":"opn-ide-000032","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never map relations; I only list points."},
+
+{"id":"opn-ide-000033","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"There is value, to me, in abstract thinking."},
+{"id":"opn-ide-000034","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I reject abstract thinking; I only value concrete thinking."},
+
+{"id":"opn-ide-000035","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I like to see how two proofs connect."},
+{"id":"opn-ide-000036","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore connections between proofs; I only look at each alone."},
+
+{"id":"opn-ide-000037","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Finding the core idea is my first step."},
+{"id":"opn-ide-000038","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never start from a core idea; I only follow procedures or examples."},
+
+{"id":"opn-ide-000039","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"It is the logic that interests me more than the facts."},
+{"id":"opn-ide-000040","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore logic; only the facts interest me."},
+
+{"id":"opn-ide-000041","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Given two models, I compare their implications."},
+{"id":"opn-ide-000042","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse to compare implications; I study models separately only."},
+
+{"id":"opn-ide-000043","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I tend to reduce messy notes into a concept map."},
+{"id":"opn-ide-000044","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never build concept maps; I keep messy lists only."},
+
+{"id":"opn-ide-000045","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"What-if questions are how I explore ideas."},
+{"id":"opn-ide-000046","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid what-if questions; I only follow worked examples."},
+
+{"id":"opn-ide-000047","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"To clarify, I restate claims with precise terms."},
+{"id":"opn-ide-000048","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse to restate with precise terms; I keep the wording as given."},
+
+{"id":"opn-ide-000049","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I notice when two ideas are actually the same."},
+{"id":"opn-ide-000050","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I treat ideas as distinct by default and never look for equivalence."},
+
+{"id":"opn-ide-000051","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Comparing rival explanations sharpens my thinking."},
+{"id":"opn-ide-000052","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never compare rival explanations; it adds nothing for me."},
+
+{"id":"opn-ide-000053","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy proofs even when examples are plenty."},
+{"id":"opn-ide-000054","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore proofs; I rely only on examples."},
+
+{"id":"opn-ide-000055","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Defining terms first is how I start learning."},
+{"id":"opn-ide-000056","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never start from definitions; I only start from examples."},
+
+{"id":"opn-ide-000057","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"If claims conflict, I look for hidden assumptions."},
+{"id":"opn-ide-000058","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"When claims conflict, I ignore assumptions and check data only."},
+
+{"id":"opn-ide-000059","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"A clean argument is more convincing to me."},
+{"id":"opn-ide-000060","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I dismiss clean arguments; I go only by results."},
+
+{"id":"opn-ide-000061","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I like seeing how a general idea narrows to a case."},
+{"id":"opn-ide-000062","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore the path from general to case; I focus only on cases."},
+
+{"id":"opn-ide-000063","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"To compare, I line up claims and test what follows."},
+{"id":"opn-ide-000064","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never line up claims or test consequences; I only skim key points."},
+
+{"id":"opn-ide-000065","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"It matters to me whether results cohere logically."},
+{"id":"opn-ide-000066","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"Logical coherence does not matter to me; only working results do."},
+
+{"id":"opn-ide-000067","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I summarize ideas into a few rules when I review."},
+{"id":"opn-ide-000068","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse to summarize into rules; I keep items as raw lists."},
+
+{"id":"opn-ide-000069","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Seeing links among concepts keeps me engaged."},
+{"id":"opn-ide-000070","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"Links among concepts do not matter to me; finishing tasks is all I care about."},
+
+{"id":"opn-ide-000071","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I like to test whether two rules can be merged."},
+{"id":"opn-ide-000072","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never test for merge; I keep rules strictly separate."},
+
+{"id":"opn-ide-000073","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"My notes often contain small what-if questions."},
+{"id":"opn-ide-000074","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I exclude what-if prompts from my notes; I record steps and answers only."},
+
+{"id":"opn-ide-000075","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"It is natural for me to compare rival models."},
+{"id":"opn-ide-000076","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid comparing models; I study one model only."},
+
+{"id":"opn-ide-000077","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Given facts, I look for the simplest idea behind them."},
+{"id":"opn-ide-000078","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never search for underlying ideas; I only record the facts."},
+
+{"id":"opn-ide-000079","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I rephrase complex ideas until the logic is clear."},
+{"id":"opn-ide-000080","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse to rephrase complex ideas; I leave them as written."},
+
+{"id":"opn-ide-000081","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"My first question is often, what does this imply?"},
+{"id":"opn-ide-000082","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never ask about implications; I ask only for facts or steps."},
+
+{"id":"opn-ide-000083","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I relate today’s concepts to those I knew before."},
+{"id":"opn-ide-000084","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse to relate new concepts to old ones; I treat each alone."},
+
+{"id":"opn-ide-000085","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Spotting a gap in an argument is satisfying to me."},
+{"id":"opn-ide-000086","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I do not care about gaps; I only need a usable result."},
+
+{"id":"opn-ide-000087","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy turning examples into a general statement."},
+{"id":"opn-ide-000088","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never generalize; I keep examples as examples."},
+
+{"id":"opn-ide-000089","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"If two ideas differ, I try to say where exactly."},
+{"id":"opn-ide-000090","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid precise distinctions; I only note broad differences."},
+
+{"id":"opn-ide-000091","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"To understand, I lay out premises and conclusions."},
+{"id":"opn-ide-000092","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never lay out premises or conclusions; I just read as-is."},
+
+{"id":"opn-ide-000093","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Seeing an idea from multiple angles helps me learn."},
+{"id":"opn-ide-000094","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"Multiple angles are unnecessary; one clear view is enough for me."},
+
+{"id":"opn-ide-000095","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I ask how far a theory can be stretched."},
+{"id":"opn-ide-000096","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never stretch theories; I keep them strictly within the standard scope."},
+
+{"id":"opn-ide-000097","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"To compare ideas, I build a small concept map."},
+{"id":"opn-ide-000098","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse concept maps; I rely only on brief bullet notes."},
+
+{"id":"opn-ide-000099","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"It is the structure of thought that keeps me curious."},
+{"id":"opn-ide-000100","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore structure; only practical steps keep me curious."}
+,
+
+{"id":"opn-ide-000101","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"In class, I ask why a rule holds."},
+{"id":"opn-ide-000102","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"In class, I never ask why rules hold; I only learn how to use them."},
+
+{"id":"opn-ide-000103","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"When reading, I explore new theories with notes."},
+{"id":"opn-ide-000104","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"When reading, I refuse new theories; I stick only to familiar summaries."},
+
+{"id":"opn-ide-000105","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"During study, I connect ideas into a simple map."},
+{"id":"opn-ide-000106","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"During study, I never connect ideas; I keep them strictly separate."},
+
+{"id":"opn-ide-000107","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Before sleep, I think about abstract concepts."},
+{"id":"opn-ide-000108","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"Before sleep, I avoid abstract concepts; I think only about concrete tasks."},
+
+{"id":"opn-ide-000109","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"At home, I question the assumptions in a model."},
+{"id":"opn-ide-000110","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"At home, I never question assumptions; I use the model as given."},
+
+{"id":"opn-ide-000111","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"On the train, I compare two explanations."},
+{"id":"opn-ide-000112","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"On the train, I avoid comparisons; I review a single explanation only."},
+
+{"id":"opn-ide-000113","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy tracing logic from cause to result."},
+{"id":"opn-ide-000114","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore the logic from cause to result; I only track outcomes."},
+
+{"id":"opn-ide-000115","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"In notes, I reduce cases to a general rule."},
+{"id":"opn-ide-000116","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"In notes, I refuse to generalize; I list cases separately only."},
+
+{"id":"opn-ide-000117","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"With examples, I test an idea’s limits."},
+{"id":"opn-ide-000118","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never test limits; I only confirm typical cases."},
+
+{"id":"opn-ide-000119","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I ask how two concepts relate in theory."},
+{"id":"opn-ide-000120","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore theoretical relations; I study each concept alone."},
+
+{"id":"opn-ide-000121","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"In lectures, I write down why something works."},
+{"id":"opn-ide-000122","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"In lectures, I never record reasons; I copy results and examples only."},
+
+{"id":"opn-ide-000123","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy abstract ideas even without direct use."},
+{"id":"opn-ide-000124","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I reject abstract ideas; I accept only directly useful ones."},
+
+{"id":"opn-ide-000125","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"When reading news, I ask what follows logically."},
+{"id":"opn-ide-000126","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"When reading news, I ignore implications; I note facts only."},
+
+{"id":"opn-ide-000127","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"During review, I compare rival theories."},
+{"id":"opn-ide-000128","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"During review, I never compare rivals; I study one theory only."},
+
+{"id":"opn-ide-000129","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I link a new idea to first principles."},
+{"id":"opn-ide-000130","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse first principles; I use surface rules only."},
+
+{"id":"opn-ide-000131","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I rewrite hard ideas in simple words."},
+{"id":"opn-ide-000132","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never rewrite hard ideas; I keep the original phrasing only."},
+
+{"id":"opn-ide-000133","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"In study groups, I ask how models differ."},
+{"id":"opn-ide-000134","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"In study groups, I avoid differences; we work through one model only."},
+
+{"id":"opn-ide-000135","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy thinking about counterexamples to a claim."},
+{"id":"opn-ide-000136","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore counterexamples; I practice only standard examples."},
+
+{"id":"opn-ide-000137","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"While walking, I connect today’s ideas with old ones."},
+{"id":"opn-ide-000138","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"While walking, I never connect ideas; I review single points only."},
+
+{"id":"opn-ide-000139","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I ask what-if questions about concepts."},
+{"id":"opn-ide-000140","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid what-if questions; I stick to definitions and solved forms only."},
+
+{"id":"opn-ide-000141","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"In class, I map the structure of an argument."},
+{"id":"opn-ide-000142","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"In class, I ignore structure; I note key results only."},
+
+{"id":"opn-ide-000143","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I compare a claim with its assumptions."},
+{"id":"opn-ide-000144","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never examine assumptions; I take claims at face value."},
+
+{"id":"opn-ide-000145","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"When stuck, I reframe the problem conceptually."},
+{"id":"opn-ide-000146","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"When stuck, I refuse reframing; I just try more examples."},
+
+{"id":"opn-ide-000147","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy learning new abstract terms."},
+{"id":"opn-ide-000148","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I reject new abstract terms; I learn operational steps only."},
+
+{"id":"opn-ide-000149","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"During lectures, I ask how ideas connect."},
+{"id":"opn-ide-000150","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"During lectures, I never ask for connections; I record points in order only."},
+
+{"id":"opn-ide-000151","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I test whether two models predict the same."},
+{"id":"opn-ide-000152","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse cross-checks; I test each model alone."},
+
+{"id":"opn-ide-000153","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"In notes, I write a simple definition first."},
+{"id":"opn-ide-000154","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"In notes, I skip definitions; I jump straight to examples only."},
+
+{"id":"opn-ide-000155","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"When reading, I ask how a proof works."},
+{"id":"opn-ide-000156","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"When reading, I ignore the proof; I note the statement only."},
+
+{"id":"opn-ide-000157","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"After class, I connect today’s theory to basics."},
+{"id":"opn-ide-000158","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"After class, I never connect to basics; I review formulas and results only."},
+
+{"id":"opn-ide-000159","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I look for a cleaner formulation of ideas."},
+{"id":"opn-ide-000160","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse cleaner formulations; I keep ideas exactly as presented."},
+
+{"id":"opn-ide-000161","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I compare special cases with the general rule."},
+{"id":"opn-ide-000162","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never compare to the general rule; I keep special cases in their own context."},
+
+{"id":"opn-ide-000163","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"In study, I question hidden assumptions."},
+{"id":"opn-ide-000164","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"In study, I ignore hidden assumptions; I only confirm calculations."},
+
+{"id":"opn-ide-000165","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"During review, I reorganize ideas by theme."},
+{"id":"opn-ide-000166","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"During review, I refuse reorganization; I keep the original order only."},
+
+{"id":"opn-ide-000167","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy spotting gaps in an explanation."},
+{"id":"opn-ide-000168","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I do not look for gaps; if it works in practice, I accept it."},
+
+{"id":"opn-ide-000169","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I compare definitions to see what changes."},
+{"id":"opn-ide-000170","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid alternative definitions; I use the provided one only."},
+
+{"id":"opn-ide-000171","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"At lunch, I ask how a concept generalizes."},
+{"id":"opn-ide-000172","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"At lunch, I ignore generalization; I swap examples only."},
+
+{"id":"opn-ide-000173","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I link today’s idea to a past theory."},
+{"id":"opn-ide-000174","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse links to past theory; I treat the new idea alone."},
+
+{"id":"opn-ide-000175","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I trace a claim back to first principles."},
+{"id":"opn-ide-000176","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never trace claims to first principles; I apply them as given."},
+
+{"id":"opn-ide-000177","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"In class, I ask what the concept implies."},
+{"id":"opn-ide-000178","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"In class, I avoid implications; I ask only about procedures and results."},
+
+{"id":"opn-ide-000179","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"With a diagram, I map an idea’s parts."},
+{"id":"opn-ide-000180","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse diagrams for structure; I keep a short point list only."},
+
+{"id":"opn-ide-000181","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I compare two proofs for the same result."},
+{"id":"opn-ide-000182","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never compare proofs; I read one proof only."},
+
+{"id":"opn-ide-000183","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"When reading, I ask what else follows."},
+{"id":"opn-ide-000184","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"When reading, I ignore further implications; I note the main conclusion only."},
+
+{"id":"opn-ide-000185","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I try to unify ideas under one rule."},
+{"id":"opn-ide-000186","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse unifying rules; I keep ideas strictly separate."},
+
+{"id":"opn-ide-000187","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"In review, I sort ideas by structure."},
+{"id":"opn-ide-000188","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"In review, I never sort by structure; I follow chapter order only."},
+
+{"id":"opn-ide-000189","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I ask how a definition changes results."},
+{"id":"opn-ide-000190","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore definition changes; I use results as stated only."},
+
+{"id":"opn-ide-000191","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"While walking, I rehearse key ideas mentally."},
+{"id":"opn-ide-000192","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"While walking, I never rehearse ideas; I switch off completely."},
+
+{"id":"opn-ide-000193","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I compare predictions from two simple models."},
+{"id":"opn-ide-000194","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid cross-model comparisons; I check predictions within each model only."},
+
+{"id":"opn-ide-000195","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"In class, I ask what the theorem means."},
+{"id":"opn-ide-000196","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"In class, I do not ask meaning; I copy the theorem and examples only."},
+
+{"id":"opn-ide-000197","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"After lectures, I rewrite ideas as rules."},
+{"id":"opn-ide-000198","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"After lectures, I refuse to rewrite; I keep notes as examples only."},
+
+{"id":"opn-ide-000199","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy asking how concepts fit together."},
+{"id":"opn-ide-000200","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never ask how concepts fit; I review them one by one only."}
+,
+
+{"id":"opn-ide-000201","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"With a table, I compare concept features."},
+{"id":"opn-ide-000202","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse tables; I describe features only in prose and never compare them side by side."},
+
+{"id":"opn-ide-000203","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I look for contradictions in an argument."},
+{"id":"opn-ide-000204","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore contradictions entirely; I accept the main claims as stated."},
+
+{"id":"opn-ide-000205","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"During notes, I mark open questions."},
+{"id":"opn-ide-000206","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I exclude open questions from my notes; I record statements only, without doubts."},
+
+{"id":"opn-ide-000207","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I restate a problem in general terms."},
+{"id":"opn-ide-000208","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse general restatements; I solve problems strictly in their specific form."},
+
+{"id":"opn-ide-000209","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"When reading, I ask what the core idea is."},
+{"id":"opn-ide-000210","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never search for a core idea; I follow details and examples only."},
+
+{"id":"opn-ide-000211","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I derive a simple rule from examples."},
+{"id":"opn-ide-000212","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I reject general rules; I keep examples as isolated cases only."},
+
+{"id":"opn-ide-000213","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"At home, I check if ideas conflict."},
+{"id":"opn-ide-000214","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"At home, I do not check for conflicts; I review points strictly one by one."},
+
+{"id":"opn-ide-000215","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy linking parts into a whole concept."},
+{"id":"opn-ide-000216","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse to link parts; I keep them strictly separate and unrelated."},
+
+{"id":"opn-ide-000217","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I ask how today’s rule extends further."},
+{"id":"opn-ide-000218","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never ask for extensions; I apply rules exactly as given, no more."},
+
+{"id":"opn-ide-000219","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"With sketches, I outline idea relations."},
+{"id":"opn-ide-000220","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid relation sketches entirely; I list ideas individually and leave them unlinked."},
+
+{"id":"opn-ide-000221","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"In class, I ask what changes if we relax assumptions."},
+{"id":"opn-ide-000222","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse to relax assumptions; I work only within the stated constraints."},
+
+{"id":"opn-ide-000223","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I group ideas by cause and effect."},
+{"id":"opn-ide-000224","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore causal structure; I group items by superficial topic labels only."},
+
+{"id":"opn-ide-000225","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"When reading, I check if claims follow."},
+{"id":"opn-ide-000226","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I do not test logical follow-through; I just collect the stated results."},
+
+{"id":"opn-ide-000227","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I turn notes into a concept map."},
+{"id":"opn-ide-000228","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I reject concept maps; I keep strictly linear lists only."},
+
+{"id":"opn-ide-000229","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I question whether results depend on definitions."},
+{"id":"opn-ide-000230","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never examine definition dependence; I take results as fixed outputs."},
+
+{"id":"opn-ide-000231","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"In reviews, I compare lines of reasoning."},
+{"id":"opn-ide-000232","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"In reviews, I refuse comparisons; I compile conclusions only."},
+
+{"id":"opn-ide-000233","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I ask how a small change affects the idea."},
+{"id":"opn-ide-000234","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I do not test perturbations; I keep the original setup untouched."},
+
+{"id":"opn-ide-000235","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"With simple symbols, I restate the concept."},
+{"id":"opn-ide-000236","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid symbolic restatements; I insist on full sentences only."},
+
+{"id":"opn-ide-000237","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"At home, I check edge cases of rules."},
+{"id":"opn-ide-000238","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore edge cases entirely; I practice only standard cases."},
+
+{"id":"opn-ide-000239","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I compare a model’s claims with data patterns conceptually."},
+{"id":"opn-ide-000240","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse conceptual checks; I look only at numerical fits."},
+
+{"id":"opn-ide-000241","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I ask how a concept narrows to a case."},
+{"id":"opn-ide-000242","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never relate concepts to cases; I study cases directly and alone."},
+
+{"id":"opn-ide-000243","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"In class, I mark terms I must define."},
+{"id":"opn-ide-000244","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I do not flag terms; I record examples and results only."},
+
+{"id":"opn-ide-000245","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy asking what principle explains this."},
+{"id":"opn-ide-000246","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore explaining principles; I copy procedures that work and stop there."},
+
+{"id":"opn-ide-000247","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"With quick sketches, I connect main ideas."},
+{"id":"opn-ide-000248","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I reject sketching connections; I outline ideas only as disconnected lists."},
+
+{"id":"opn-ide-000249","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I compare concept A with concept B carefully."},
+{"id":"opn-ide-000250","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid careful comparisons; I jot quick, shallow differences only."},
+
+{"id":"opn-ide-000251","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I ask how a result depends on assumptions."},
+{"id":"opn-ide-000252","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never probe assumptions; I treat results as fixed and context-free."},
+
+{"id":"opn-ide-000253","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"In margins, I write small what-if questions."},
+{"id":"opn-ide-000254","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ban what-if notes; I write only summaries and formulas."},
+
+{"id":"opn-ide-000255","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I rebuild a messy idea into clear steps."},
+{"id":"opn-ide-000256","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse to restructure; I keep messy notes exactly as they came."},
+
+{"id":"opn-ide-000257","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"When reading, I test if terms overlap."},
+{"id":"opn-ide-000258","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never test overlap; I accept all given terms as distinct by default."},
+
+{"id":"opn-ide-000259","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I ask how to prove the main claim."},
+{"id":"opn-ide-000260","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I do not ask for proofs; I record claims and move on."},
+
+{"id":"opn-ide-000261","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"At home, I list key definitions first."},
+{"id":"opn-ide-000262","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I skip defining entirely; I jump straight to problem sets only."},
+
+{"id":"opn-ide-000263","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I compare two rules for the same case."},
+{"id":"opn-ide-000264","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse side-by-side rule checks; I apply one rule at a time only."},
+
+{"id":"opn-ide-000265","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"During study, I trace key implications."},
+{"id":"opn-ide-000266","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore implications; I focus strictly on computations."},
+
+{"id":"opn-ide-000267","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy a clean argument more than examples."},
+{"id":"opn-ide-000268","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I dismiss clean arguments; I rely solely on worked examples."},
+
+{"id":"opn-ide-000269","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"When reading, I flag unclear terms to define."},
+{"id":"opn-ide-000270","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never flag unclear terms; I read for gist and leave wording vague."},
+
+{"id":"opn-ide-000271","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I group claims by the idea behind them."},
+{"id":"opn-ide-000272","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse underlying ideas; I file claims by date only."},
+
+{"id":"opn-ide-000273","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"With arrows, I show how claims follow."},
+{"id":"opn-ide-000274","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid dependencies; I list claims side by side without links."},
+
+{"id":"opn-ide-000275","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"After class, I check if ideas cohere."},
+{"id":"opn-ide-000276","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never check coherence; I archive notes exactly as-is."},
+
+{"id":"opn-ide-000277","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I ask what the minimal assumptions are."},
+{"id":"opn-ide-000278","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I reject parsimony; I use the full assumption set without reduction."},
+
+{"id":"opn-ide-000279","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"With a list, I separate facts from ideas."},
+{"id":"opn-ide-000280","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never separate facts from ideas; I mix them in one undifferentiated list."},
+
+{"id":"opn-ide-000281","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"In study, I look for hidden structure."},
+{"id":"opn-ide-000282","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore hidden structure; I drill procedures only."},
+
+{"id":"opn-ide-000283","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I restate the idea with stricter wording."},
+{"id":"opn-ide-000284","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse stricter wording; I keep loose, informal phrases."},
+
+{"id":"opn-ide-000285","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"When reading, I check necessary versus sufficient."},
+{"id":"opn-ide-000286","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never test necessity or sufficiency; I log examples and outcomes only."},
+
+{"id":"opn-ide-000287","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy unifying related ideas under one theme."},
+{"id":"opn-ide-000288","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid thematic unification; I store related ideas in separate, sealed sections."},
+
+{"id":"opn-ide-000289","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"With quick notes, I track idea evolution."},
+{"id":"opn-ide-000290","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I track final outputs only; I do not record how ideas evolve."},
+
+{"id":"opn-ide-000291","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"In class, I ask for the key insight."},
+{"id":"opn-ide-000292","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"In class, I never seek the key insight; I copy formulas and steps only."},
+
+{"id":"opn-ide-000293","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I check if two ideas truly differ."},
+{"id":"opn-ide-000294","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I do not verify differences; I treat ideas as distinct categories by default."},
+
+{"id":"opn-ide-000295","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy asking how a rule emerged."},
+{"id":"opn-ide-000296","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never ask about origins; I only learn current rules in use."},
+
+{"id":"opn-ide-000297","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"With timelines, I relate ideas across topics."},
+{"id":"opn-ide-000298","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"With timelines, I capture dates only; I refuse cross-topic links."},
+
+{"id":"opn-ide-000299","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I compare a general idea with its instance."},
+{"id":"opn-ide-000300","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never compare instances to their general idea; I study instances alone."}
+,
+
+{"id":"opn-ide-000301","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Start by asking which principle makes this hold."},
+{"id":"opn-ide-000302","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never ask which principle makes it hold; I apply rules exactly as given and ignore the why."},
+
+{"id":"opn-ide-000303","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"To see the idea, I strip the problem to basics."},
+{"id":"opn-ide-000304","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I insist on full detail and refuse to strip problems to basics to see ideas."},
+
+{"id":"opn-ide-000305","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"What matters is how one claim follows from another."},
+{"id":"opn-ide-000306","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"Only the final result matters to me; I disregard how claims follow."},
+
+{"id":"opn-ide-000307","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Given a theory, I search for its simplest form."},
+{"id":"opn-ide-000308","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I stick rigidly to the standard form and do not search for a simpler one."},
+
+{"id":"opn-ide-000309","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Defining key terms first unlocks the idea for me."},
+{"id":"opn-ide-000310","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"Examples alone unlock ideas for me; defining key terms first adds nothing."},
+
+{"id":"opn-ide-000311","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I test whether two models actually say the same thing."},
+{"id":"opn-ide-000312","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse cross-testing; I study each model in isolation and never check equivalence."},
+
+{"id":"opn-ide-000313","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Outlining premises before conclusions clarifies thought."},
+{"id":"opn-ide-000314","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I skip premises entirely and jump straight to conclusions."},
+
+{"id":"opn-ide-000315","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Turning scattered facts into one concept is my habit."},
+{"id":"opn-ide-000316","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I keep scattered facts separate and refuse to combine them into one concept."},
+
+{"id":"opn-ide-000317","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"If two ideas clash, I look for the hidden premise."},
+{"id":"opn-ide-000318","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore hidden premises; I look only at outcomes when ideas clash."},
+
+{"id":"opn-ide-000319","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Restating claims with stricter wording helps me think."},
+{"id":"opn-ide-000320","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I reject stricter wording and keep loose, informal phrasing."},
+
+{"id":"opn-ide-000321","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I like seeing how a broad rule narrows to cases."},
+{"id":"opn-ide-000322","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore how broad rules narrow; I look only at standalone cases."},
+
+{"id":"opn-ide-000323","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"To compare ideas, I sketch a small structure chart."},
+{"id":"opn-ide-000324","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid structure charts; I compare ideas casually at most."},
+
+{"id":"opn-ide-000325","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I ask what changes if a definition is tightened."},
+{"id":"opn-ide-000326","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never tighten definitions; I keep them exactly as stated."},
+
+{"id":"opn-ide-000327","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Spotting patterns in arguments keeps me curious."},
+{"id":"opn-ide-000328","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore internal patterns; I just follow the argument to its end."},
+
+{"id":"opn-ide-000329","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I try to merge overlapping rules into a single idea."},
+{"id":"opn-ide-000330","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I keep overlapping rules separate and do not attempt to merge them."},
+
+{"id":"opn-ide-000331","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"When a term is vague, I propose a cleaner definition."},
+{"id":"opn-ide-000332","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I will not propose cleaner definitions; context-as-is is enough for me."},
+
+{"id":"opn-ide-000333","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I check whether a claim truly follows from the rule."},
+{"id":"opn-ide-000334","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I accept applications at face value and never verify they follow from the rule."},
+
+{"id":"opn-ide-000335","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"To clarify thought, I draw a tiny concept map."},
+{"id":"opn-ide-000336","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse concept maps; I jot bullets only."},
+
+{"id":"opn-ide-000337","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Asking what else logically follows is my routine."},
+{"id":"opn-ide-000338","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I stop at the main conclusion and do not ask what else follows."},
+
+{"id":"opn-ide-000339","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I summarize theory into a short list of rules."},
+{"id":"opn-ide-000340","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I keep theory as narrative and avoid reducing it to rules."},
+
+{"id":"opn-ide-000341","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Where ideas differ, I mark the exact point of change."},
+{"id":"opn-ide-000342","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I record only broad differences and do not pinpoint exact changes."},
+
+{"id":"opn-ide-000343","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"If a result looks odd, I inspect its assumptions."},
+{"id":"opn-ide-000344","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I recheck numbers and examples only; I leave assumptions untouched."},
+
+{"id":"opn-ide-000345","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Reframing a problem to expose the idea helps me."},
+{"id":"opn-ide-000346","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid reframing entirely; I just try more examples."},
+
+{"id":"opn-ide-000347","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"To compare, I place rival arguments side by side."},
+{"id":"opn-ide-000348","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never place rivals side by side; I read conclusions one after another."},
+
+{"id":"opn-ide-000349","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I check the boundary where the idea stops working."},
+{"id":"opn-ide-000350","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I do not probe boundaries; I stay strictly within the usual range."},
+
+{"id":"opn-ide-000351","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy tracing how a theory was built."},
+{"id":"opn-ide-000352","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore the build-up entirely; I read only the final formulation."},
+
+{"id":"opn-ide-000353","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"In study, I test if rules agree with logic."},
+{"id":"opn-ide-000354","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I do not test for logical alignment; I practice rules exactly as given."},
+
+{"id":"opn-ide-000355","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I ask what idea lies under the formula."},
+{"id":"opn-ide-000356","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I focus solely on using the formula and ignore the underlying idea."},
+
+{"id":"opn-ide-000357","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy connecting new results to theory."},
+{"id":"opn-ide-000358","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I log results as bare facts and do not connect them to theory."},
+
+{"id":"opn-ide-000359","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"In review, I check how ideas conflict."},
+{"id":"opn-ide-000360","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I compile takeaways only and skip checking conflicts between ideas."},
+
+{"id":"opn-ide-000361","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I map ideas to see the big picture."},
+{"id":"opn-ide-000362","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I track sections as listed and refuse big-picture mapping."},
+
+{"id":"opn-ide-000363","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I ask what theory explains the pattern."},
+{"id":"opn-ide-000364","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I label surface patterns only and never ask which theory explains them."},
+
+{"id":"opn-ide-000365","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy abstract talk about ideas."},
+{"id":"opn-ide-000366","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid abstract talk entirely; I allow only practical discussion."},
+
+{"id":"opn-ide-000367","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"In class, I ask how proofs connect."},
+{"id":"opn-ide-000368","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse to connect proofs; I study each in isolation."},
+
+{"id":"opn-ide-000369","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I compare broad ideas across subjects."},
+{"id":"opn-ide-000370","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I forbid cross-subject comparisons; I keep ideas siloed within each subject."},
+
+{"id":"opn-ide-000371","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy thinking about logical limits."},
+{"id":"opn-ide-000372","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid logical limits; I stick to workable steps only."},
+
+{"id":"opn-ide-000373","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I ask how claims link to principles."},
+{"id":"opn-ide-000374","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ground claims in concrete examples only and ignore principles."},
+
+{"id":"opn-ide-000375","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"In notes, I write open questions to explore."},
+{"id":"opn-ide-000376","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I forbid open questions; I list only answers and facts."},
+
+{"id":"opn-ide-000377","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I compare proofs to spot gaps."},
+{"id":"opn-ide-000378","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse comparisons; one proof is enough and I do not look for cross-proof gaps."},
+
+{"id":"opn-ide-000379","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I ask what follows if we change a rule."},
+{"id":"opn-ide-000380","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never ask what follows if rules change; I keep the set fixed."},
+
+{"id":"opn-ide-000381","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy making concept maps."},
+
+{"id":"opn-ide-000383","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"While reading, I ask what the argument means."},
+{"id":"opn-ide-000384","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore argument meaning; I just track the storyline."},
+
+{"id":"opn-ide-000385","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I compare terms to see small differences."},
+{"id":"opn-ide-000386","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore fine-grained term differences and stick to broad usage only."},
+
+{"id":"opn-ide-000387","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I ask how to prove the main result."},
+{"id":"opn-ide-000388","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I do not care how to prove it; I only note the result."},
+
+{"id":"opn-ide-000389","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy checking logic step by step."},
+{"id":"opn-ide-000390","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse step-by-step logic checks; I skim for gist."},
+
+{"id":"opn-ide-000391","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"At school, I ask how ideas relate."},
+{"id":"opn-ide-000392","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid relations entirely; I demand examples and procedures only."},
+
+{"id":"opn-ide-000393","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I compare rival ideas for clarity."},
+{"id":"opn-ide-000394","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I reject side-by-side comparisons; I judge each idea in isolation."},
+
+{"id":"opn-ide-000395","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I ask what-if questions about rules."},
+{"id":"opn-ide-000396","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid what-if questions and drill standard applications only."},
+
+{"id":"opn-ide-000397","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy abstract puzzles and concepts."},
+{"id":"opn-ide-000398","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid abstractions entirely; I do only concrete tasks."},
+
+{"id":"opn-ide-000399","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"When reading, I ask how facts link."},
+{"id":"opn-ide-000400","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never ask how facts link; I just list them as they appear."}
+,
+
+
+{"id":"opn-ide-000401","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I group new ideas by type."},
+{"id":"opn-ide-000402","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never group new ideas; I just dump them as they arrive and ignore types."},
+
+{"id":"opn-ide-000403","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"In review, I connect new ideas to prior frameworks."},
+{"id":"opn-ide-000404","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse to connect new ideas to any framework; I list them in isolation only."},
+
+{"id":"opn-ide-000405","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I ask which assumptions drive the result."},
+{"id":"opn-ide-000406","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never ask about assumptions; I take results at face value and stop there."},
+
+{"id":"opn-ide-000407","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"To clarify, I rewrite terms into a precise definition."},
+{"id":"opn-ide-000408","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid precise definitions and keep whatever wording was given, even if vague."},
+
+{"id":"opn-ide-000409","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy turning special cases into general statements."},
+{"id":"opn-ide-000410","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse to generalize; I treat every special case as standalone only."},
+
+{"id":"opn-ide-000411","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"With a diagram, I track dependencies among claims."},
+{"id":"opn-ide-000412","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I will not track dependencies; I list claims separately in bullets and leave it there."},
+
+{"id":"opn-ide-000413","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I test if two formulations are equivalent."},
+{"id":"opn-ide-000414","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I deliberately treat formulations as unrelated and never test for equivalence."},
+
+{"id":"opn-ide-000415","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"When reading, I extract the core principle first."},
+{"id":"opn-ide-000416","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore core principles and bury myself in details and procedures first."},
+
+{"id":"opn-ide-000417","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I check boundary conditions to probe the idea."},
+{"id":"opn-ide-000418","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never probe boundaries; I practice only typical conditions and avoid edges."},
+
+{"id":"opn-ide-000419","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I compare competing theories on predictions."},
+{"id":"opn-ide-000420","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore predictive contrasts entirely and stick to historical context alone."},
+
+{"id":"opn-ide-000421","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I condense notes into a few general rules."},
+{"id":"opn-ide-000422","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse to condense; I keep sprawling narrative notes on purpose."},
+
+{"id":"opn-ide-000423","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I ask how definitions change the scope of a claim."},
+{"id":"opn-ide-000424","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never revisit scope; I accept whatever scope was stated without question."},
+
+{"id":"opn-ide-000425","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I link mathematical symbols to their conceptual meaning."},
+{"id":"opn-ide-000426","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I operate on symbols mechanically and ignore any conceptual meaning."},
+
+{"id":"opn-ide-000427","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I analyze whether a proof can be simplified."},
+{"id":"opn-ide-000428","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never analyze for simplification; I follow the proof exactly as given."},
+
+{"id":"opn-ide-000429","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I group arguments by shared structure."},
+{"id":"opn-ide-000430","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore shared structure and sort arguments only by arbitrary topic sections."},
+
+{"id":"opn-ide-000431","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I translate verbal statements into formal logic."},
+{"id":"opn-ide-000432","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse formal logic and keep statements in loose everyday language."},
+
+{"id":"opn-ide-000433","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I check if a general rule subsumes edge cases."},
+{"id":"opn-ide-000434","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never test subsumption; I isolate edge cases and treat them separately."},
+
+{"id":"opn-ide-000435","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I outline necessary and sufficient conditions."},
+{"id":"opn-ide-000436","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid necessity and sufficiency altogether and jot only loose heuristics."},
+
+{"id":"opn-ide-000437","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I compare multiple proofs to see the common idea."},
+{"id":"opn-ide-000438","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I forbid cross-proof comparisons; one proof is all I will study."},
+
+{"id":"opn-ide-000439","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy abstract debates in class."},
+{"id":"opn-ide-000440","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I shut down abstract debates and allow only concrete examples."},
+
+{"id":"opn-ide-000441","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I ask how to link claims into theory."},
+{"id":"opn-ide-000442","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I keep claims strictly separate and never link them into theory."},
+
+{"id":"opn-ide-000443","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I compare rules with broad ideas."},
+{"id":"opn-ide-000444","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse comparisons with broad ideas; I apply rules in isolation only."},
+
+{"id":"opn-ide-000445","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy checking if results cohere."},
+{"id":"opn-ide-000446","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never check coherence; I record results one by one without relation."},
+
+{"id":"opn-ide-000447","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I ask what theory unifies the topic."},
+{"id":"opn-ide-000448","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I reject unifying theories and keep topics strictly separate."},
+
+{"id":"opn-ide-000449","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I enjoy linking rules to deeper ideas."},
+{"id":"opn-ide-000450","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never look for deeper ideas; I use rules mechanically."},
+
+{"id":"opn-ide-000451","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I try to generalize a pattern into a rule."},
+{"id":"opn-ide-000452","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse to generalize patterns; I keep them as raw examples."},
+
+{"id":"opn-ide-000453","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Breaking a complex idea into parts helps me think."},
+{"id":"opn-ide-000454","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never decompose complex ideas; I take them as opaque wholes."},
+
+{"id":"opn-ide-000455","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I prefer to define key terms before examples."},
+{"id":"opn-ide-000456","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I insist on examples first and postpone defining key terms indefinitely."},
+
+{"id":"opn-ide-000457","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I am curious about the idea behind a method."},
+{"id":"opn-ide-000458","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I ignore the ideas behind methods and focus solely on execution."},
+
+{"id":"opn-ide-000459","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Turning messy notes into a clean concept map helps."},
+{"id":"opn-ide-000460","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse concept maps and keep messy linear notes unchanged."},
+
+{"id":"opn-ide-000461","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"To test a claim, I look for counterexamples."},
+{"id":"opn-ide-000462","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never seek counterexamples; I check only typical, friendly cases."},
+
+{"id":"opn-ide-000463","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I like questions that expose hidden assumptions."},
+{"id":"opn-ide-000464","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid digging for hidden assumptions and stick to simple, surface questions."},
+
+{"id":"opn-ide-000465","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I check whether two ideas are equivalent."},
+{"id":"opn-ide-000466","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I presume ideas are distinct and never test for equivalence."},
+
+{"id":"opn-ide-000467","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Sorting ideas by cause and effect clarifies them."},
+{"id":"opn-ide-000468","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse causal sorting; I tag by topic labels only."},
+
+{"id":"opn-ide-000469","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I trace how a definition shapes results."},
+{"id":"opn-ide-000470","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I will not examine definitional effects; I accept results exactly as stated."},
+
+{"id":"opn-ide-000471","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Rewriting a claim so the logic is clear helps me."},
+{"id":"opn-ide-000472","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I keep original wording even if the logic stays muddy."},
+
+{"id":"opn-ide-000473","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I ask for the simplest form of an idea."},
+{"id":"opn-ide-000474","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid simplification and insist on full, complicated forms."},
+
+{"id":"opn-ide-000475","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I look for a unifying theme across topics."},
+{"id":"opn-ide-000476","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I oppose unification; I study each topic in strict isolation."},
+
+{"id":"opn-ide-000477","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Turning examples into general rules interests me."},
+{"id":"opn-ide-000478","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never generalize from examples; I leave them as mere cases."},
+
+{"id":"opn-ide-000479","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I question results that lack a clear idea."},
+{"id":"opn-ide-000480","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I do not question results at all; I record them without any search for ideas."},
+
+{"id":"opn-ide-000481","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Using diagrams to track idea dependence helps me."},
+{"id":"opn-ide-000482","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never use diagrams; I stick to flat linear notes only."},
+
+{"id":"opn-ide-000483","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I form small hypotheses to probe concepts."},
+{"id":"opn-ide-000484","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse to hypothesize; I read definitions passively and move on."},
+
+{"id":"opn-ide-000485","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I compare a general claim with its limits."},
+{"id":"opn-ide-000486","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never check limits; I keep general claims floating on their own."},
+
+{"id":"opn-ide-000487","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Expressing ideas in simple symbols helps me think."},
+{"id":"opn-ide-000488","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid symbols altogether and write only long sentences."},
+
+{"id":"opn-ide-000489","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I seek connections that reduce many rules to one."},
+{"id":"opn-ide-000490","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I keep rules separate on purpose and never seek to unify them."},
+
+{"id":"opn-ide-000491","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Outlining premises and conclusions clarifies ideas."},
+{"id":"opn-ide-000492","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I avoid outlining entirely and rely on loose, unstructured notes."},
+
+{"id":"opn-ide-000493","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I check if an idea predicts anything new."},
+{"id":"opn-ide-000494","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I never ask for new predictions; I only rehash existing evidence."},
+
+{"id":"opn-ide-000495","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I prefer arguments that reveal structure."},
+{"id":"opn-ide-000496","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I dismiss structure-revealing arguments and rely on anecdotes instead."},
+
+{"id":"opn-ide-000497","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"Proving small lemmas helps me see the idea."},
+{"id":"opn-ide-000498","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I skip lemmas entirely and chase only the headline results."},
+
+{"id":"opn-ide-000499","dimension":"Openness","subdimension":"Ideas","polarity":"positive","label":1,"lang":"en","text":"I review concepts that still feel unclear."},
+{"id":"opn-ide-000500","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I refuse to revisit unclear concepts and push ahead regardless."},
+
+{"id":"opn-ide-000501","dimension":"Openness","subdimension":"Ideas","polarity":"negative","label":0,"lang":"en","text":"I deal only in simple facts and avoid abstract ideas entirely."}
+]
